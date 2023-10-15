@@ -24,15 +24,18 @@ jobs:
             version="0"
           fi
           echo "version=$version" >> $GITHUB_OUTPUT
+          echo $version > version.txt
 
       - name: Run merge.py
         run: python ./scripts/merge.py ${{ steps.get_version.outputs.version }}
 
-      - name: Upload build artifact
+      - name: Upload build artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: hash_list.txt
-          path: hash_list.txt
+          name: artifacts
+          path: |
+            hash_list.txt
+            version
 
   release:
     name: Release
@@ -41,10 +44,10 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/v')
 
     steps:
-      - name: Download hash_list.txt artifact
+      - name: Download artifacts
         uses: actions/download-artifact@v3
         with:
-          name: hash_list.txt
+          name: artifacts
 
       - name: Package artifacts for release
         run: |
@@ -54,4 +57,6 @@ jobs:
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          files: latest-hashes.7z
+          files: |
+            latest-hashes.7z
+            version
