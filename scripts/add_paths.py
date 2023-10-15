@@ -1,13 +1,8 @@
 import json
 import os
+from common_functions import *
 
 output_directory = "paths"
-
-def infer_type(hash_with_type):
-    parts = hash_with_type.split('.')
-    if len(parts) == 2:
-        return parts[0], parts[1]
-    return parts[0], None
 
 def update_json(hash_val, path_val, hash_type):
     json_filename = os.path.join(output_directory, f"{hash_type}.json")
