@@ -1,0 +1,47 @@
+[
+  {
+    "hash": "00B4AECE33E9716E",
+    "path": "[assembly:/_pro/online/default/offlineconfig/config.activities].pc_activities",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00858D45F5F9E3CA",
+    "path": "[assembly:/_pro/online/default/offlineconfig/config.blobs].pc_blobs",
+    "gameFlags": 30
+  },
+  {
+    "hash": "002B07020D21D727",
+    "path": "[assembly:/_pro/online/default/offlineconfig/config.contracts].pc_contracts",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0057C2C3941115CA",
+    "path": "[assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables",
+    "gameFlags": 30
+  },
+  {
+    "hash": "008BC414A1E3294C",
+    "path": "[assembly:/_pro/online/sniperchallenge/offlineconfig/config.blobs].pc_blobs",
+    "gameFlags": 32
+  },
+  {
+    "hash": "0085D0A1DBAD4F77",
+    "path": "[assembly:/_pro/online/sniperchallenge/offlineconfig/config.contracts].pc_contracts",
+    "gameFlags": 32
+  },
+  {
+    "hash": "0012F3D94454855E",
+    "path": "[assembly:/_pro/online/sniperchallenge/offlineconfig/config.unlockables].pc_unlockables",
+    "gameFlags": 32
+  },
+  {
+    "hash": "003524A9DB72511F",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00C934E45FB084C3",
+    "path": "",
+    "gameFlags": 62
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "hash": "00642C41F5FB8534",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/scene_smoothsnake_garden crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0000CAF4C7872E11",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/scene_smoothsnake_parking lot crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009F044BD89AD681",
+    "path": "[assembly:/_pro/scenes/missions/caged/mission_falcon/scene_falcon_sniper_crowd_riot.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0055A78978578EF7",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba__crowd_italy.crmd].pc_crmd",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D1D24E06CCCE70",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba_crowd.crmd].pc_crmd",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005A1318721681F2",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic_b1 crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0021B122C3CCC4A0",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic_crowd entrance.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E4AEEEE52E2243",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic_f0 crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002067E0412796A8",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic_fox_rave_crowd_unique.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B127940FB3BDB7",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scene_grasssnake_crowd entrance grasssnake.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000410A5342EF862",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scene_grasssnake_f0 crowd grasssnake.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D9A221886A76F1",
+    "path": "[assembly:/_pro/scenes/missions/elegant/scene_llama_parking lot crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B7642B16DCE27B",
+    "path": "[assembly:/_pro/scenes/missions/elegant/scene_llama_restaurant crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A0FF49861C2CF9",
+    "path": "[assembly:/_pro/scenes/missions/elegant/scene_llama_tasting crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A0D219A899BB04",
+    "path": "[assembly:/_pro/scenes/missions/elegant/scene_llama_terrace crowd 02.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004179543C750BA5",
+    "path": "[assembly:/_pro/scenes/missions/elegant/scene_llama_terrace crowd.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E02428ED50F2D6",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic_crowd_.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E12DEACBF81108",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic_crowd_lowerfloor.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B0EE7F78935B79",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic_crowd_lowerfloor_01.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000E5EBC0913C0E0",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic_crowd_lowerfloor_02.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002E8518F3205F15",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic_crowd_upperfloor.crmd].pc_crmd",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D16DFBEF7ECD3E",
+    "path": "[assembly:/_pro/scenes/missions/hawk/scene_hawk_crowd.crmd].pc_crmd",
+    "gameFlags": 44
+  },
+  {
+    "hash": "009275C207217E6E",
+    "path": "[assembly:/_pro/scenes/missions/hawk/scene_hawk_crowd2.crmd].pc_crmd",
+    "gameFlags": 44
+  },
+  {
+    "hash": "008422F7151C8CEC",
+    "path": "[assembly:/_pro/scenes/missions/hawk/scene_hawk_crowd3.crmd].pc_crmd",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00B54F5F9B2FCDFB",
+    "path": "[assembly:/_pro/scenes/missions/hawk/scene_hawk_crowd4.crmd].pc_crmd",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00F9C61A1ED917E3",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python_crowd_marketplace.crmd].pc_crmd",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B67C40B03D0866",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python_crowd_marrakesh_market.crmd].pc_crmd",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AC6C3B0E7DB04B",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python_crowd_plaza.crmd].pc_crmd",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0074C84201319D3B",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider_crowd_marketplace.crmd].pc_crmd",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0008B30F5998FCEC",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider_crowd_marrakesh_demonstration.crmd].pc_crmd",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C993A647AEB73A",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider_crowd_marrakesh_market.crmd].pc_crmd",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0013CF6825D30B56",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider_crowd_plaza.crmd].pc_crmd",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005EC5054153DD70",
+    "path": "[assembly:/_pro/scenes/missions/miami/scene_cottonmouth_paddock.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00111D9EBAC7FDCA",
+    "path": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_boardwalk.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F694A4AD419A32",
+    "path": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_center.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008E37C80599C035",
+    "path": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_crowd pitbuilding.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009EB60D7DDB492C",
+    "path": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_crowd_startingarea.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C809B60C0358B2",
+    "path": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_paddock.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0055FF2698F3CD95",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/scene_kingcobra_crowd streets.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000CAA3DBDDBDD28",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose_crowd streets.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0006FAFD95E3BF1C",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose_trainyard.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0061D5BF4F771B4C",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01_crowd.crmd].pc_crmd",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00566F1EC95BF2F1",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01_crowd_fashion.crmd].pc_crmd",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AC758DC0E71732",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01_crowd_street.crmd].pc_crmd",
+    "gameFlags": 15
+  },
+  {
+    "hash": "002C9D62B4E14CD3",
+    "path": "[assembly:/_pro/scenes/missions/theark/scene_magpie_crowd.crmd].pc_crmd",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F8C27069101320",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002_crowd.crmd].pc_crmd",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0003B0816C564D99",
+    "path": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_benchmark_intel_crowd_intel.crmd].pc_crmd",
+    "gameFlags": 4
+  },
+  {
+    "hash": "0004B9503699194C",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00069EED6F062D96",
+    "path": "scenario_flamingo_intel_6cores",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0080DF90F8454657",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00980AE308B4F002",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00C3BFA92CB56BA6",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00E54E270401C16C",
+    "path": "",
+    "gameFlags": 4
+  }
+]

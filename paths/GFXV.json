@@ -1,0 +1,1587 @@
+[
+  {
+    "hash": "00F687F4473AA182",
+    "path": "[assembly:/_pro/effects/videos/arewestars_1minloop_640x360.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CDC275D4C0A715",
+    "path": "[assembly:/_pro/effects/videos/art_show_version1.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00EB40D669F941DD",
+    "path": "[assembly:/_pro/effects/videos/art_show_version2.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00809A57C5CCB15D",
+    "path": "[assembly:/_pro/effects/videos/art_show_version3.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004BA0AC46B17B7C",
+    "path": "[assembly:/_pro/effects/videos/baseball_pregame_loop_640x360.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CC5C6471AD0923",
+    "path": "[assembly:/_pro/effects/videos/connection_lost_360.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00901E325C0BBA78",
+    "path": "[assembly:/_pro/effects/videos/cooking_show.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0062986C2C910DD7",
+    "path": "[assembly:/_pro/effects/videos/dancemat_video_640x360_a.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004E9F95A217DE87",
+    "path": "[assembly:/_pro/effects/videos/dancemat_video_640x360_b.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BC8E7F56338209",
+    "path": "[assembly:/_pro/effects/videos/dancemat_video_640x360_c.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0052D603882086D7",
+    "path": "[assembly:/_pro/effects/videos/fireplace_640x360.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004919C25DB929C2",
+    "path": "[assembly:/_pro/effects/videos/fox_abstractcubes_640x480_a.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001C2A4C7DB5F2AC",
+    "path": "[assembly:/_pro/effects/videos/fox_distraction_yumvideo.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009FFC933F87EBC8",
+    "path": "[assembly:/_pro/effects/videos/fox_rave_video_01.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006ECFFE610B2751",
+    "path": "[assembly:/_pro/effects/videos/fox_rave_video_2.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BF8179B711F239",
+    "path": "[assembly:/_pro/effects/videos/fox_rave_video_3.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D860CD4E385906",
+    "path": "[assembly:/_pro/effects/videos/fox_rave_video_4.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0095138F33736EE0",
+    "path": "[assembly:/_pro/effects/videos/freedom_commercial_640x360.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00602CC2F5DDEB71",
+    "path": "[assembly:/_pro/effects/videos/freedomfighters_gameplay_2.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0095E4E1900883B8",
+    "path": "[assembly:/_pro/effects/videos/freedomfighters_gameplay_youlose.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F046215D6BA711",
+    "path": "[assembly:/_pro/effects/videos/gnn_wipe.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003D8953A00A131D",
+    "path": "[assembly:/_pro/effects/videos/h2_silent_assassin_menu.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C1E02FA1EC80B6",
+    "path": "[assembly:/_pro/effects/videos/hokkaido_commercial_640x360.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0029D0596A8C4489",
+    "path": "[assembly:/_pro/effects/videos/hokkaido_surgery_640x360_a.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0029EB15F11E7577",
+    "path": "[assembly:/_pro/effects/videos/hyperborea_bg.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0076CA5B313337F1",
+    "path": "[assembly:/_pro/effects/videos/kandlgameplay_640x480.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007E294858A65CD5",
+    "path": "[assembly:/_pro/effects/videos/killeveryonefishtank.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005B2C4F02F5C172",
+    "path": "[assembly:/_pro/effects/videos/llamawinerypromotion_640x360.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009FCAD15A71F263",
+    "path": "[assembly:/_pro/effects/videos/lucasgray_message_penthouse_640x360_noaudio.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0009EACB5C364246",
+    "path": "[assembly:/_pro/effects/videos/miami_gnn_news_all.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000F78BF4B4F6EE8",
+    "path": "[assembly:/_pro/effects/videos/mumbai_painting.usm].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0023834E6C5E8C0A",
+    "path": "[assembly:/_pro/effects/videos/news_demonstration_640x360.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00718F2B0DEFF219",
+    "path": "[assembly:/_pro/effects/videos/news_demonstration_nocrowd_640x360.avi].pc_gfxv",
+    "gameFlags": 4
+  },
+  {
+    "hash": "0057C509FA8A4AF9",
+    "path": "[assembly:/_pro/effects/videos/nz_pc_1.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0068B1C57228F50B",
+    "path": "[assembly:/_pro/effects/videos/nz_pc_2.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EE27197DF99BD6",
+    "path": "[assembly:/_pro/effects/videos/nz_pc_3.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003E9BD3DF555629",
+    "path": "[assembly:/_pro/effects/videos/nz_pc_4.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FB3EC7479AA266",
+    "path": "[assembly:/_pro/effects/videos/raccoon_commercial_expo_300x600.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CBA9EEBF6A6C97",
+    "path": "[assembly:/_pro/effects/videos/raccoon_commercial_goldcard_300x600.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005AA8FAE137C256",
+    "path": "[assembly:/_pro/effects/videos/raccoon_commercial_hardearned_300x600.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00354A30CC0A3EBA",
+    "path": "[assembly:/_pro/effects/videos/raccoon_commercial_vincentpen_300x600.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D703D088E64558",
+    "path": "[assembly:/_pro/effects/videos/race.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0071FBAE8754E25F",
+    "path": "[assembly:/_pro/effects/videos/race_driver_dead.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001A13FE3310FD8A",
+    "path": "[assembly:/_pro/effects/videos/race_moses_disqualified.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003607F1A896C01B",
+    "path": "[assembly:/_pro/effects/videos/race_moses_won.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003E2DEE8D16FE57",
+    "path": "[assembly:/_pro/effects/videos/race_sierra_disqualified.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D1EDC781941E3A",
+    "path": "[assembly:/_pro/effects/videos/race_sierra_won.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E15799E86D2688",
+    "path": "[assembly:/_pro/effects/videos/sambuca_briefingslides_book.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0096C5CC3A432E27",
+    "path": "[assembly:/_pro/effects/videos/sambuca_briefingslides_info.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D1CCBB518BE5E9",
+    "path": "[assembly:/_pro/effects/videos/sambuca_briefingslides_newlocation.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002A42C4FF39AD9F",
+    "path": "[assembly:/_pro/effects/videos/sambuca_infograph.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00242991CB9C3C51",
+    "path": "[assembly:/_pro/effects/videos/stingray_haventvvideo_2.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0064D941D81492AD",
+    "path": "[assembly:/_pro/effects/videos/stingray_redchakra.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0018340509DD8E77",
+    "path": "[assembly:/_pro/effects/videos/stingray_showervideo.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009D42112B1D2816",
+    "path": "[assembly:/_pro/effects/videos/stingray_thiefvideo.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003FAF42AB5C7192",
+    "path": "[assembly:/_pro/effects/videos/stingray_thiefvideo_2.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F6679EB4CEF06F",
+    "path": "[assembly:/_pro/effects/videos/tea_chai.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D2F10AA6AC2310",
+    "path": "[assembly:/_pro/effects/videos/tea_chamomile.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004E9B17D4DD51CA",
+    "path": "[assembly:/_pro/effects/videos/tea_flamingo.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005E7B50CA01C57F",
+    "path": "[assembly:/_pro/effects/videos/tea_greentea.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0048AB72A0BB38CC",
+    "path": "[assembly:/_pro/effects/videos/tech_slideshow_640x360.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004870AA44542BF5",
+    "path": "[assembly:/_pro/effects/videos/thief_placeholder_seccam.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E6E0A484B02D21",
+    "path": "[assembly:/_pro/effects/videos/tv_menu_640x360.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F3F18931F22BA0",
+    "path": "[assembly:/_pro/effects/videos/tv_menu_640x360.usm].pc_gfxv",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F31721DD722A35",
+    "path": "[assembly:/_pro/effects/videos/tv_noise_512x256.avi].pc_gfxv",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00985FC3D6F07521",
+    "path": "[assembly:/_pro/effects/videos/u_arewestars_1minloop_640x360.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CDF1407B3C2752",
+    "path": "[assembly:/_pro/effects/videos/u_columbia_gnn_news_1.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0075CCAA7AEFA06D",
+    "path": "[assembly:/_pro/effects/videos/u_columbia_gnn_news_2.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008A8A91EE49B026",
+    "path": "[assembly:/_pro/effects/videos/u_columbia_gnn_news_3.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008455CC6DBCDC0F",
+    "path": "[assembly:/_pro/effects/videos/u_columbia_gnn_news_4.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D520A3609366DB",
+    "path": "[assembly:/_pro/effects/videos/u_columbia_gnn_news_5.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0026E2B0EF1F31DC",
+    "path": "[assembly:/_pro/effects/videos/u_gnn_beback.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0080BFB64DF6BBD4",
+    "path": "[assembly:/_pro/effects/videos/u_gnn_wipe.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0022D54E27827821",
+    "path": "[assembly:/_pro/effects/videos/u_mum_gnn_news_1.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0041372A2B6CD683",
+    "path": "[assembly:/_pro/effects/videos/u_mum_gnn_news_2.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CF151C1376E397",
+    "path": "[assembly:/_pro/effects/videos/u_mum_gnn_news_3.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0083BC62E48762C6",
+    "path": "[assembly:/_pro/effects/videos/u_mum_gnn_news_4.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005E8F51D17F1660",
+    "path": "[assembly:/_pro/effects/videos/u_mum_gnn_news_5.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B76BEF5B53BFEB",
+    "path": "[assembly:/_pro/effects/videos/u_nz_gnn_bnews.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E00F615F25CD65",
+    "path": "[assembly:/_pro/effects/videos/u_nz_gnn_news_1.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009D00B5C6F7E421",
+    "path": "[assembly:/_pro/effects/videos/u_nz_gnn_news_2.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003F933ECF49E6AD",
+    "path": "[assembly:/_pro/effects/videos/u_nz_gnn_news_3.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0058E9D25F9DF7E9",
+    "path": "[assembly:/_pro/effects/videos/u_nz_gnn_news_4.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004A17A8BC5205FC",
+    "path": "[assembly:/_pro/effects/videos/u_nz_gnn_news_5.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C91D6132DE3399",
+    "path": "[assembly:/_pro/effects/videos/ui_screen_comp_360.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00299336055DE9C4",
+    "path": "[assembly:/_pro/effects/videos/ui_screen_comp_lost_connect_360.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008AD69B4D62ED5B",
+    "path": "[assembly:/_pro/effects/videos/vermont_gnn_news_all.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00180F8F284E4BA3",
+    "path": "[assembly:/_pro/effects/videos/vermont_janus_tape_conversation_all.avi].pc_gfxv",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0045605588ED54A1",
+    "path": "[assembly:/_pro/video/menus/bootmovie.usm].pc_gfxv",
+    "gameFlags": 51
+  },
+  {
+    "hash": "00A628F12B4DFFFD",
+    "path": "[assembly:/ui/data/menu3/videos/theshowstopper_placeholder.usm].pc_gfxv",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00800516AEFE9288",
+    "path": "[assembly:/ui/data/menu3/videos/theworldoftomorrow_briefing.usm].pc_gfxv",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001E18F28BE8CBC4",
+    "path": "[assembly:/ui/videos/black_loading_slate_01.avi].pc_gfxv",
+    "gameFlags": 62
+  },
+  {
+    "hash": "004A20F49786A99E",
+    "path": "[assembly:/ui/videos/black_loading_slate_01.usm].pc_gfxv",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00A69EF58EB1384F",
+    "path": "[assembly:/ui/videos/boot_splash.usm].pc_gfxv",
+    "gameFlags": 4
+  },
+  {
+    "hash": "008B244A57B576ED",
+    "path": "[assembly:/ui/videos/boot_splash_ioi_only.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0007C2B9A0580F50",
+    "path": "[assembly:/ui/videos/phone background.usm].pc_gfxv",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00565DD8F80C9C7B",
+    "path": "01_core_boot_startup.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004E40A0AA697D88",
+    "path": "02_core_boot_loop.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00957CC866A3908A",
+    "path": "03_core_targets_v.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C75FB3B18922E0",
+    "path": "04_core_i_choose_him_loop_v001.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AC942213F11790",
+    "path": "05_core_label_deletingfiles_1.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0088AE714393CF4D",
+    "path": "06_core_label_uploadingfiles_filesuploaded_1.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003D7138F1DC13C8",
+    "path": "07_core_label_data breach detected.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008582B592C8F71A",
+    "path": "08_core_label_data breach detected_loop.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00ACDB18F90BD918",
+    "path": "a_guilded_cage_jap.fl.wav",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B28A39EA2C5328",
+    "path": "adonis_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004800EB3F665D69",
+    "path": "alabama_slammer_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A0B8068D29D775",
+    "path": "anaconda_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0026B1242F6D4B52",
+    "path": "blackscreen0.usm",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00E5253AFCD5145F",
+    "path": "bloody_mary_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001C452545E81D33",
+    "path": "bloody_mary_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00BFD05FB2FB21F1",
+    "path": "bramble_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004CECA2468E95A7",
+    "path": "brass_monkey_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00E7B245F3E07351",
+    "path": "brassmonkey_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008578CA73FBE26D",
+    "path": "briefing_agildedcage_sound_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0011F04DD79D53F6",
+    "path": "briefing_baby_flamingo_sound_eng.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F54ABC83CC7D35",
+    "path": "briefing_baby_hippo_sound_eng.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00775A5FB76B161E",
+    "path": "briefing_baby_mongoose_sound_eng.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003CA72077EAF272",
+    "path": "briefing_club27_sound_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000F4C8EB6D7B116",
+    "path": "briefing_flamingo_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B2CF7B57A112EE",
+    "path": "briefing_freedomfighters_sound_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E8AAB5A2E94867",
+    "path": "briefing_hawk_eng.fl.usm",
+    "gameFlags": 44
+  },
+  {
+    "hash": "004E2442DDF88FE5",
+    "path": "briefing_hawk_stoneknight_eng.fl.usm",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00BF3BAEAA0409B3",
+    "path": "briefing_hippo_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0020EAA91F5170A3",
+    "path": "briefing_magpie_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D43D8C81288EAC",
+    "path": "briefing_octopus_sound_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FEB14431DF01E0",
+    "path": "briefing_octopus_sound_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "004E2D15ED2A196C",
+    "path": "briefing_raccoon_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C8F10309BA1F9A",
+    "path": "briefing_situsinversus_sound_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0033BC2759085C82",
+    "path": "briefing_skunk_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00197DA85F8A8928",
+    "path": "briefing_stingray_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B587AE61BE51C8",
+    "path": "briefing_theshowstopper_sound_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000D3DF5E82DBE78",
+    "path": "briefing_theshowstopper_sound_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00DACA58E85D1F2C",
+    "path": "bulldog_intro_sub_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B9A89FACFE4EA0",
+    "path": "bulldog_outro_subs_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B15A8D138C9F04",
+    "path": "bushwhacker_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007C28D7901C2551",
+    "path": "bushwhacker_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006A71825F555066",
+    "path": "caipirinha_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006E9466EEBBD385",
+    "path": "caipirinha_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0051802F32D2260B",
+    "path": "clerico_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DFFC57CA44EF8A",
+    "path": "club_27_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0097EE4AB67C2377",
+    "path": "copperhead_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00667E56CBCF0ABC",
+    "path": "copperhead_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "007F12799A042F55",
+    "path": "corpse_reviver_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B6C8EB5D40787A",
+    "path": "cosmopolitan_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FBE80AE7CEB7A4",
+    "path": "cosmopolitan_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00EF4A3A2C876AA5",
+    "path": "cottonmouth_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000F419B0636C315",
+    "path": "debrief_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007E34062125161E",
+    "path": "dirty_octopus_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00692D6EF3EBA856",
+    "path": "dirtyoctopus_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002587715ECFE609",
+    "path": "disc_trailer_music.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009743087A0B5DA0",
+    "path": "ebola_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008AEF2FA8A39B96",
+    "path": "ebola_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "007B91CC0386F4CB",
+    "path": "epilogue_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0043457B11AD2C67",
+    "path": "epilogue_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00DB1F59FC5148A1",
+    "path": "falcon_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00161AE6CC97A33E",
+    "path": "falcon_sak_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D1139AC361FE5D",
+    "path": "flirtini_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0044530A0748A986",
+    "path": "flirtini_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00649CF16B972677",
+    "path": "flu_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002604F532258E75",
+    "path": "flu_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0039E53652D5CCBA",
+    "path": "fox_outro_subs_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0003974748ADDE1F",
+    "path": "freedom_fighters_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00EB1A932F360EEF",
+    "path": "freestarterpack_music.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0054AB56B5BC9C96",
+    "path": "gartersnake_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004AA7373C015C28",
+    "path": "gecko_intro_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00483EC875970A9F",
+    "path": "gecko_outro_subs_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00828D5E2B290C9C",
+    "path": "gecko_pre_intro_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E8D787798EA7C0",
+    "path": "ghostmode_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0011755C57209A8D",
+    "path": "gibson_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007FFF721C079644",
+    "path": "golden_doublet_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0069E29795513E91",
+    "path": "harvey_wallbanger_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006829018C8D7933",
+    "path": "harveywallbanger_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002C9929B0FF8B4E",
+    "path": "highball_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DD9B1853A9046C",
+    "path": "hot_toddy_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00CF07BACF0B9058",
+    "path": "hottoddy_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DBACD1E3C78097",
+    "path": "intermission1_eng.fl.usm",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00B7AADD6091A873",
+    "path": "intermission1_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0043A8EF76790218",
+    "path": "intermission2_eng.fl.usm",
+    "gameFlags": 30
+  },
+  {
+    "hash": "008443F2C03903BB",
+    "path": "intermission2_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00380B5F8E16D7C1",
+    "path": "intermission3_eng.fl.usm",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00332AFBDC225C97",
+    "path": "intermission3_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00ADC858998F86B7",
+    "path": "intro_eng.fl.usm",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00C4FEA6C3D7AE3D",
+    "path": "intro_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00BF0574202C546A",
+    "path": "jockey_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0066CFBA107529B0",
+    "path": "kamikaze_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0010B36524C90F2C",
+    "path": "kamikaze_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "007081C8559D380A",
+    "path": "kingcobra_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0081648FEEDA2211",
+    "path": "kir_royal_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "007521C96656E194",
+    "path": "kirroyal_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0095EBB15D0D8243",
+    "path": "llama_intro_subs_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0052C11AD70AF99D",
+    "path": "llama_outro_subs_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001842EE2A519300",
+    "path": "lumumba_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0027C4FA57C2271E",
+    "path": "lumumba_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00698E22E8709F83",
+    "path": "mai_tai_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F00B0D706EFAC7",
+    "path": "mai_tai_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D9C913706C8CC6",
+    "path": "mamba_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D4086DEE11E53C",
+    "path": "mamba_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0075FBE5F2C42607",
+    "path": "mamushi_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007400C18C90FDA8",
+    "path": "margarita_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FD6B8859BC3B59",
+    "path": "margarita_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "004ABB458E55ABA3",
+    "path": "martini_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0069FDBBA69DA8D0",
+    "path": "martini_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00DED5F9B8158513",
+    "path": "mint_julep_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00436B054A46AC1A",
+    "path": "mintjulep_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0033FC14BCC53B8B",
+    "path": "mojito_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00AA3B5303E3234B",
+    "path": "mojito_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00ADA52C9B3BC670",
+    "path": "mongoose_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000A5F75C5C7BF3D",
+    "path": "moscow_mule_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0096CA4B4680C97F",
+    "path": "moscow_mule_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0026D8A1A35CEA25",
+    "path": "negroni_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008CDE1EA44EE30F",
+    "path": "negroni_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000481753B459FBD",
+    "path": "outro_eng.fl.usm",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00BBE672DCDD14EA",
+    "path": "outro_free_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E2A3516A3B7A6E",
+    "path": "outro_free_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00373FB88EC392C7",
+    "path": "outro_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B1F19022F28098",
+    "path": "outro_raccoon_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00483BDF19B5FE46",
+    "path": "outro_stingray_sound_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00422E42E0AD6CE0",
+    "path": "pisco_sour_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0034432C52330A1E",
+    "path": "piscosour_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009576AE5C48E87F",
+    "path": "python_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000855EF2535A662",
+    "path": "python_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00F05BFB95B5B194",
+    "path": "quadruplerumandcoke_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D542D9B6EC2006",
+    "path": "quadruplerumandcoke_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "004E26CBF53B4B03",
+    "path": "rabies_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0037EBE8AFC977EF",
+    "path": "rabies_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00EAA9AD776415D1",
+    "path": "radler_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008D7BD458BB1DED",
+    "path": "rat_intro_subs_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AA979B936E42F7",
+    "path": "rat_outro_subs_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00544B4112345EC0",
+    "path": "redsnapper_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00101483D096BFAA",
+    "path": "sakini_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0085B3E5D967F8A4",
+    "path": "sakini_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00E57D674735357B",
+    "path": "sambuca_2_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000D259A5E320799",
+    "path": "sambuca_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CF93267AC20360",
+    "path": "sazerac_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0015F28AE89C5C45",
+    "path": "sazerac_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "008BFECF9B0E6ACE",
+    "path": "sc01_cinematic_peacock_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000A54CC112E44C4",
+    "path": "sc01_cinematic_peacock_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00155281941EA411",
+    "path": "sc01cinematic_sheep_outro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005453743ED105EB",
+    "path": "sc02_cinematic_octopus_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0045469E7348E3A6",
+    "path": "sc02_cinematic_octopus_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005158BD5556BA95",
+    "path": "sc02cinematic_flamingo_outro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007680A649F924C5",
+    "path": "sc03_cinematic_spider_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003E6ED6A25D30E0",
+    "path": "sc03_cinematic_spider_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D061085874D29F",
+    "path": "sc03cinematic_hippo_outro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CDF8FD534E1E6A",
+    "path": "sc04_cinematic_tiger_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D80BC31F593FEC",
+    "path": "sc04_cinematic_tiger_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000C52BBD5413E6E",
+    "path": "sc04cinematic_mongoose_outro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008FA7170BEC018D",
+    "path": "sc05_cinematic_bull_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0011212D660A1739",
+    "path": "sc05_cinematic_bull_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00C8776AE2A8C7C1",
+    "path": "sc05cinematic_skunk_intro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007FCF302679E1E0",
+    "path": "sc06_cinematic_snowcrane_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007660E86091AE53",
+    "path": "sc06_cinematic_snowcrane_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0028504D1B62B724",
+    "path": "sc06cinematic_skunk_outro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0066F50A3899062D",
+    "path": "sc07_cinematic_secretroom_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CDAFB71B0B14D6",
+    "path": "sc07_cinematic_secretroom_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00FC03265536CE30",
+    "path": "sc07cinematic_magpie_intro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BE29F6AEDCB228",
+    "path": "sc08cinematic_magpie_outro_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0088C69EB0667F4E",
+    "path": "screwdriver_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C05ACFE3A63D3F",
+    "path": "screwdriver_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006F9E66D3380077",
+    "path": "seagull_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B4F1DD2794FB94",
+    "path": "seagull_sak_eng.fl.usm",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C053098B4A0C00",
+    "path": "shandy_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00ED42CEACB28C72",
+    "path": "shandy_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00FA299DD9F1F8CB",
+    "path": "sheep_flyin_stadia.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00983BA0FDEA5056",
+    "path": "situs_inversus_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0049FF7C86D55948",
+    "path": "skittlebomb_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F6E00015DC5980",
+    "path": "tequila_sunrise_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D425F2092556EC",
+    "path": "tequilasunrise_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0048F7573C147130",
+    "path": "vesper_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00131F8FBB1FF154",
+    "path": "white_russian_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000AFA8749C6C1A5",
+    "path": "whiterussian_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0021E1D3E516801B",
+    "path": "whitespidertrailer_music.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002D8F8A0A324A6B",
+    "path": "wolverine_outro_sub_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009435A46352DAE4",
+    "path": "zika_eng.fl.usm",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00515C4A3337698C",
+    "path": "zika_jap.fl.usm",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00106522215A894C",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "0015B76465BAE801",
+    "path": "",
+    "gameFlags": 18
+  },
+  {
+    "hash": "00E7A5D57F827DA9",
+    "path": "",
+    "gameFlags": 18
+  },
+  {
+    "hash": "006389A4BD477EC3",
+    "path": "[assembly:/_pro/effects/videos/cats.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EF14EC2C289785",
+    "path": "dugong_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AAC23CF0918D10",
+    "path": "[assembly:/_pro/effects/videos/bedroomproducer.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0056C23EE3A2A1CE",
+    "path": "[assembly:/_pro/effects/videos/hitman3menuscreen.avi].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0039892AD92C6BA6",
+    "path": "evergreen_celebration_syn_win_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0008FF896B254DF8",
+    "path": "evergreen_onboarding_video.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0031A51EF56251D3",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_lost_01_hotel_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D969D1197E5F06",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_travel_cargoplane_night_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001BF014978227D4",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_win_02_airport_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FD56D25F8D40FF",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_wounded_02_basement_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002770ED88DA459C",
+    "path": "evergreen_objective_table_a_ingame_00000.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005E825BB46C6F5E",
+    "path": "evergreen_celebration_win_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F35A056DE7F4A4",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_win_01_computer_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0060B603891AA85E",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_win_03_rifle_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CE2F1BD989D984",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_win_02_chess_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F3C5D227BA9DCC",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_travel_1080p_00161.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C21F0D0C7B8FC3",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_wounded_02_bathroom_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007CE2133B587FE4",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_travel_citydrive_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EAD1F233F9C859",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_travel_snowdrive_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0067477343472812",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_lost_02_car_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E2969CBF3AE11A",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_lost_01_hotel_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C13852355C7245",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_loading_mild_travel_private_jet_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BAA92FDF73E66A",
+    "path": "evergreen_celebration_lost_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E63E22E5B8AFDC",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_travel_car_night_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007B1AE96D9574DD",
+    "path": "evergreen_how_to_play.eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0025B5B5272BFD4B",
+    "path": "evergreen_intro_eng.fl.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FC4CAE7FD5EEF5",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_lost_train_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00581ADE8FD948F5",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_lost_02_desk_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B79912D49808CE",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_wounded_01_metro_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002FBA95173BA2B9",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_hot_win_01_guns_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0015E5351D6359E4",
+    "path": "[assembly:/ui/videos/evergreen/evergreen_mild_wounded_01_car_00000.usm].pc_gfxv",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0034980E98074A92",
+    "path": "intel_wall_video_00000.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0046E27B333FE69B",
+    "path": "sj6_blueblazer_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00793A8B372721E4",
+    "path": "sj6_seabreeze_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CD516A577AD0DB",
+    "path": "sj6_blackrussian_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DFD7CF80ECE3F6",
+    "path": "sj6_gimlet_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F8A4D171359185",
+    "path": "sj6_mimosa_eng.usm",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FA5C10CC931EFD",
+    "path": "sj6_ginfizz_eng.usm",
+    "gameFlags": 8
+  }
+]

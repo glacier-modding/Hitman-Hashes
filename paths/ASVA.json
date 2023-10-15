@@ -1,0 +1,1387 @@
+[
+  {
+    "hash": "0082AF270D067828",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri:bodyguard_test.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00A4E5BAD035B405",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_assaultrifle.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00DE2102DA6BCA2A",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_assaultrifle_armed.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00164694762F4941",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_assaultrifle_evacuate_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00186D31D9CADBB0",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_assaultrifle_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0038F24262368856",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_assaultrifle_sick.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00363D17444532E6",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_carry1h_pipe.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "002404C50D23AD4A",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_carry1h_proxymine.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00A68F30A1720B56",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_carry1h_weapon.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006DFF9DFCBDFEA3",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_carry2h_weapon.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "005D229F14830648",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B157B3829A6132",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_jogger.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "008338C518E231DA",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_novikov.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00D0762090854C5D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_pistol.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000176EC41CF295D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_pistol_armed.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00EFAEA5B71DE9CB",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_pistol_evacuate_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "003CDD794F943AEF",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_pistol_flashlight.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00827C508DC87687",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_shotgun.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00891A385D4EAEED",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_shotgun_armed.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00B980A3CA53143F",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_shotgun_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F04774BE93CF57",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_shotgun_sick.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E49465FCC026F0",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_sick.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009AD766C6EDF87D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_silvio.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "006F854E6EC32811",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_smg_ump.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "009D95356EFA3E90",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_smg_ump_armed.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A4E0D8CF445E56",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_smg_ump_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00696F22C62E35B1",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_smg_ump_sick.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B2D7F824ADE87C",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_bodyguard_smgump_evacuate_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00FF8FCB45A54EA0",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_carry2h.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0036CBF91BB73E1A",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_carryplate.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00EB459EC2367BAF",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_carrysmallobject.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00AA8B52C9F23F0A",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_dahlia.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "0028301E2F458A20",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_dictator.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00BA8B1B5E178232",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F48FD852FC011F",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_02.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0068D7A4FAEA1651",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_03.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0021E8FF2027A43B",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_armsback_hostage.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003E7EAC47FC2F59",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_carrybouquet.asva].pc_asva",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00A6E507B0D9C82E",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_carryplate.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "000DB69791780290",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_catwalk_03.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "002FF152DE328942",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_catwalk_04.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00F80D3D7D59C920",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_catwalk_act_03.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00B3B31D68E86F65",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_catwalk_act_04.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00AF1DB527882977",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_glass.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A15C2B99F27CED",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_heel.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E11321E3D72412",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00505B8622287B6E",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_shoppingcart.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "008F62B1C628F859",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_sick.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D0DD15CA7B8BDA",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_smallobj.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "004552531EF47F16",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_stylist.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00CC2504A163B1AB",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_female_vip.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00044BB12BC9AFBF",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_infected.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004F7983C2298AF6",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002743B68B6BAB4D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_jogger.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00C59D49FA2091B7",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0024D50CC4D47345",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male_02.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F74BBFE1BEFBDD",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male_03.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B9CCDF502FEC89",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male_armsback_hostage.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C42EC7BE06BE3F",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male_glass.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A112AEA72917C1",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male_phone.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C6E3E1B23E5A9D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male_stylist.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00AC73700F9F6DD3",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_male_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00595ADB3842018D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_medic.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0057703846D27361",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_novikov.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "009E3ED1AA3ABED7",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_novikov_catwalk_act1.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00C034FFE25E478D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_novikov_catwalk_act2.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00422D2C8FD30C89",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_novikov_catwalk_out.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "006AE5B91618A6B8",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_novikov_fast.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0089DCEA80046F16",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_rhodes.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00376F33CA73B19D",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_sato.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "0031BD1DD7E66CB7",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_sick.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00C7C7293811E0A8",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_suitcase.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0014E9F2FBF6BEC6",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_waiter.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005BD069BC35BF40",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_cutsc_hitman.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00625F0E0B8A5195",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s02_civ_setpiece_miami_unique_android.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F7666445FC3AF9",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s02_l01_flamingo_vri_civ_female_wave_left.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00413859331F33D3",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s02_l01_flamingo_vri_civ_male_wave_left.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009B0A98FB84D1A2",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s02_vri_female_catalina_walk_sexy.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D40A302E490BCC",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s02_vri_female_vanya_pompus_walk.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0012991AEDD36B2D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_civ_female_alexacarlisle.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B67F495BDFA4E4",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_civ_female_flashlight.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001785DC8BDF6C48",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_civ_male_flashlight.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009CE40668C59C6B",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l01_civ_female_slow_stroll.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BD8EAF6377B68F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l01_civ_female_staff_stressed.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B6F33DAFE62F49",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l01_civ_male_carl_ingram_dictaphone.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00746671F30D742A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l01_civ_male_slow_stroll.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C4A8ED327E8414",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l01_civ_male_staff_stressed.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00413A048E67E1C2",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l01_civ_male_staff_stressed_02.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00855CBAEBA95CEA",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l03_civ_female_raver_01.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004CF8962B8CEB5A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l03_civ_female_raver_02.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0077744C442F2E51",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l03_civ_male_raver_01.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0059D447AB9BD1D3",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_l03_civ_male_raver_02.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B83C94F6D23F0F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_vri_bodyguard_pistol_carrybottle.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B29787163071C3",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_vri_civ_carrybottle.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0078200C253914AD",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri:bodyguard_test.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0031D0C6213B0E04",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CA5B7F9DD280D9",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_aim.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007616CB67696F30",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_armed.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00FCE9E6F93E5EC6",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_armed_fast.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00855F24FCB6B21E",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_carryplate.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0089F6B380A27DE2",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_carrysmallobject.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "003F2CEEDF8DB211",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_evacuate_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00AA03F2641F423B",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009CDBA62C5D1874",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_jogger.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C4084E885AF6D5",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_jogger_armed.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F4664F3396EF11",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_assaultrifle_sick.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "006C399532D444B4",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_carry1h_pipe.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00748AF4304A133A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_carry1h_proxymine.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0094CE8BC3BE7249",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_carry1h_weapon.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00AF0AAAC9C50A93",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_carry2h_weapon.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CBD00D08E713DA",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_dragbody.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "009F8DCDA2849791",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_fast.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005AC2414DE3FF7E",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004749174DF4BCBA",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_jogger.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "0032F30D64FB2A59",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_jogger_fireextinguisher.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EE5A50AFAE9371",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_novikov.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0005874789FBDFDF",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00BC7E67122BD307",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol_armed.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00E53124C4D74AD5",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol_armed_jog.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0071DFDF5BC9A025",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol_carrysmallobject.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0073D24D969872FD",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol_carrysuitcase.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008DCD0F20EE4D12",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol_evacuate_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00C9426578600D03",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol_flashlight.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00B81426D9FD15A1",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_pistol_limping.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005C1E2956D05916",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_shotgun.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00DA73BC7563CBC7",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_shotgun_armed.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00519FB927C551E1",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_shotgun_carrysmallobject.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00B53CF910592FA8",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_shotgun_evacuate_vip.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DEBEE4CF83C5CF",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_shotgun_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E814BD55BFF012",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_shotgun_sick.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00EEED3BB84B4749",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_sick.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "003BCBD683E44541",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_silvio.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "005A7963D0F95110",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smg_ump.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0064622FA5A4C673",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smg_ump_armed.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00669A237CDA6D7F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smg_ump_carrysmallobject.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00D0C222014236A9",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smg_ump_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001F82B60E2EFE41",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smg_ump_limping.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0069E410D0A5B33A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smg_ump_sick.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "002D829C10E61131",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smgump_evacuate_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0074E197F68D27EA",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smoke.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FCF85B42E7D187",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_abiatti.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BE6E043868FED9",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_carry2h.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00AFCDEB7070EE6B",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_carryplate.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00DEF98955CFC29C",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_carrysmallobject.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00823BD0CADA87A7",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_dahlia.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00F3F5A72DFA937F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_delivery_man.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00909719139D15F3",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_dictator.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "001A938B8B7E6B4A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_dorianlang_sniper_hawk.asva].pc_asva",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0088D9CB7B5CF079",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_dorianlang_sniper_hawk_followbride.asva].pc_asva",
+    "gameFlags": 44
+  },
+  {
+    "hash": "007A77585C0AD4FC",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "002E739AE00BFB8F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_02.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000B0E1D6B02FF5D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_03.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B09DF9AE1A151F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_armsback_hostage.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0007042BCBFDB856",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_carrybouquet.asva].pc_asva",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0067AE4A170609B8",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_carrybouquet_redcarpet_slow.asva].pc_asva",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00967AD332D6374D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_carryplate.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0020A8578EE66AB5",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_carrystemcell.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00C2521FAAAFEC5E",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_carrysuitcase.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006AF6E77A1A355A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_carryumbrella.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008782477B08A702",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_catwalk_03.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00091066093F57F4",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_catwalk_04.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00F23984F0D66722",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_catwalk_act_03.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "003DC11D406B2088",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_catwalk_act_04.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0020E0D26E3182A9",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_fast_escorted.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00E7A8EACDE7EF99",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_glass.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "008288615F5C9238",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_heel.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E9330EDC1F1633",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005D9DBFE7E610C0",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_jogger.asva].pc_asva",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00F5EBB9735ED513",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_phone.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B496472F7AEC3F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_runner.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00414019FCA51C1D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_shoppingcart.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006A3A4A1112A9C6",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_sick.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00175CE172047FCA",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_smallobj.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0058DC106ED0A981",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_smoke.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0008C51DC326999C",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_stylist.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "0057EF5AA39BE024",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_vip.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "002335F18079AFFA",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_female_vip_no_bodyguard.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00DCBD4AB12BC31D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_goofy.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0052EB50029BA208",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_haggard_run_in_ambient.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0013F1CB91EC288F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_infected.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0010B3F14B343356",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_infected_phase01.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00457B8EEEA4FB2C",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_jogger.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "005F7C922235F7BE",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_limping.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A803F45E7AB531",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_mailman.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00315B8E5C03D885",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E1AEDA4521C29F",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_02.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0090B8DE5A74E65D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_03.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D0648215404731",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_armsback_hostage.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FAF5FBF9D1B5EC",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_carryumbrella.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B61A6347AA115D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_escorting_hm.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C6FE19ED3F09A8",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_fast_escorted.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0018C77B88C95D3D",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_glass.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0096389C3C7340CB",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_model.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0071E3AA6B9F908A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_model_act.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "000862AE8603F5DA",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_phone.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007AB0654F2009B4",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_phone_s03.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B63F76E2B9A32A",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_runner.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007FB9E502ADAB00",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_smoke.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0019371B772DD26C",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_stylist.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "003EC52F4C5A2E99",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_vip.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00D38B51BCE06A59",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_vip_no_bodyguard.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00C43C764D1605C7",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_male_whiskeyglass.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003644D288C89B83",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_medic.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "008FBEFAB8E3D1C9",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_model_helmut_kruger.asva].pc_asva",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BF4742B467C588",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_novikov.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "005244CF320A7CA5",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_novikov_catwalk_act1.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "009FB899FA55B648",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_novikov_catwalk_act2.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00ED031861C42296",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_novikov_catwalk_out.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00D9FB286021ECE3",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_novikov_fast.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00F4137B50F35E79",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_rhodes.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0092B1B0B2284132",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_sato.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "009DB1AB32AF0712",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_sato_champagne.asva].pc_asva",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0011CC4E5191F756",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_sato_fast.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00B5A3984A2C782E",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_sick.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00333EC46E5D2B02",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_suitcase.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00D7BFCF855176A4",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_suitcase_s03.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B71750913E2ACD",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_waiterchef.asva].pc_asva",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0062938C83EE8174",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_cutsc_hitman.asva].pc_asva",
+    "gameFlags": 47
+  },
+  {
+    "hash": "009E6355802B9B66",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/assaultrifle.asva].pc_asva",
+    "gameFlags": 17
+  },
+  {
+    "hash": "006A0A8B07B3E332",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/assualt_rifle_stealth.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "009D7EAFD1352C3E",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/dualguns.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0072A623324779F4",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/gun_glock.asva].pc_asva",
+    "gameFlags": 17
+  },
+  {
+    "hash": "00567E00B3A8C75E",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/pistol_stealth.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "000ABC7F637C7158",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1_hand.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "001A72EA5219D12F",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_bust.asva].pc_asva",
+    "gameFlags": 60
+  },
+  {
+    "hash": "005C8C43D43C3632",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_can_soda.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0024B1BF552EC109",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_fireextinguisher.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "004131B489DAA3B3",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_keycard_scrambler.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00230094B9DB5650",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_phone.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "007117B8DB22A670",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_phone_helmut.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00A50E18DF06E1FB",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_poolball.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0060249269ABFBFD",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_proximity_explosive.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00B471512B7AF34F",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_remote_detonator.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00FA45C02E1C016B",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_rock.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "009702C98D3FE4AC",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_1h_sword.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00610A998BD6F034",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_2_hands.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008EE2BDE76F0726",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_2h_stick.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00DC7BE491F04B4B",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_bottle.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00385509227FF6F8",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_bust.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0069E922BC4E2B1C",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_coin.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0000FA08446AF432",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_crowbar.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0095734716C26272",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_duck.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006A65D16307CFB9",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_fiberwire.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00FF50144500790D",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_fireaxe.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007A1E2F7EA94EF8",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_fireextinguisher.asva].pc_asva",
+    "gameFlags": 51
+  },
+  {
+    "hash": "005D575A97A7CD19",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_fireworks_remote.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00556FB52C6C837E",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_glass.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "009AE06B104F5E4D",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_kitchenknife.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "002CCC79E1C1CCC4",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_suitcase.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00D4D2A206B8F057",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_winebottle.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0062D3C79A7B6A7A",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_wrench.asva].pc_asva",
+    "gameFlags": 19
+  },
+  {
+    "hash": "009988FEA8FFE596",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/rifle_shotgun.asva].pc_asva",
+    "gameFlags": 17
+  },
+  {
+    "hash": "00EFCC9066F9AB35",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/rifle_snipersako.asva].pc_asva",
+    "gameFlags": 17
+  },
+  {
+    "hash": "0097A3042021C988",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/rifle_ump.asva].pc_asva",
+    "gameFlags": 17
+  },
+  {
+    "hash": "00B40A362F32F637",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/riflesniperstealth.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A3849B0D5E96A7",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/shotgun_stealth.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "007BD9B4D4FF0EFF",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/singlegun.asva].pc_asva",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00094F6BB13ABC71",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/smg_npc.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00399DB95B6F459D",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/smg_stealth.asva].pc_asva",
+    "gameFlags": 62
+  },
+  {
+    "hash": "000D7A795BFCD7AC",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/spy_camera.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0011AF93CDB56D8B",
+    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_haggard_tired_sick.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001FF2ACC41CB876",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s01_vri_civ_female.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002246C497623D21",
+    "path": "",
+    "gameFlags": 18
+  },
+  {
+    "hash": "00504EF977C23543",
+    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_vri_civ_skunk_unique_nolancassidy_m_fast.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005983E66E27E361",
+    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_bodyguard_janus_skunks02.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006EE4BB3123A4A2",
+    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_carry_brickmine.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "007031BD266C383B",
+    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_skunk_unique_nolancassidy_m.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007923348E99328A",
+    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_vri_s02_civ_setpiece_miami_unique_android_act_stop.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008323730E926704",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/s01_vri_civ_female.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0094AD062CDBCCB2",
+    "path": "[unknown:/animations/animationdatabases/actor_reactions.aset?/unknown_animset_civ_haggard_tired.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009B8579AD495FB4",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_civ_tysonwilliams_stingray.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009E559FF419F65C",
+    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_haggard_tired.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B4EFA6A46A3C4C",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/s03_vri_civ_carrytorch.asva].pc_asva",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E4876FAC7AAFD0",
+    "path": "[unknown:/animations/animationdatabases/actor_reactions.aset?/unknown_animset_civ_carry_brickmine.asva].pc_asva",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00F27E5BDC342FA4",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_bodyguard_smoke_walkslow.asva].pc_asva",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0046A974C9C2EA55",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_cop_flashlight.asva].pc_asva",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F9A317076BB6C2",
+    "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_delivery_man.asva].pc_asva",
+    "gameFlags": 1
+  }
+]

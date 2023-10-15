@@ -1,0 +1,2502 @@
+[
+  {
+    "hash": "000FC4EC6404E10A",
+    "path": "[assembly:/sound/sounddefinitions/abiatti.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00EF1FEE94CE20D3",
+    "path": "[assembly:/sound/sounddefinitions/athenasavalas.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FDB9CDB85C8316",
+    "path": "[assembly:/sound/sounddefinitions/bdygrd01.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0081D1D43E67747A",
+    "path": "[assembly:/sound/sounddefinitions/bdygrd02.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00D6071A49127F2F",
+    "path": "[assembly:/sound/sounddefinitions/bdygrd03.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006273051DD24826",
+    "path": "[assembly:/sound/sounddefinitions/bdygrd04.sdefs].pc_sdefs",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00CC7B552767CE07",
+    "path": "[assembly:/sound/sounddefinitions/bdygrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004D979B7F92E68D",
+    "path": "[assembly:/sound/sounddefinitions/bdygrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B35820D26B11AC",
+    "path": "[assembly:/sound/sounddefinitions/bdygrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F969392DC9D762",
+    "path": "[assembly:/sound/sounddefinitions/berg.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0005AB37D85B8C5C",
+    "path": "[assembly:/sound/sounddefinitions/bosco.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004D2DCC9777F55B",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_f05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001F018D8401901B",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_f08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0091FDAD38BD4D40",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_f09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009611AE38838723",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_f10.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007338F1C398B2FB",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E353B6E4CC4BB0",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004BD4E3D4750465",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B34D9CF17695C3",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0091E9B09503677E",
+    "path": "[assembly:/sound/sounddefinitions/bulldog_mansionstaff_m11.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009CCE22DC952A4E",
+    "path": "[assembly:/sound/sounddefinitions/carlislealexa.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EFC7FCB42B5BBA",
+    "path": "[assembly:/sound/sounddefinitions/carlisleedward.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003646921C766C83",
+    "path": "[assembly:/sound/sounddefinitions/carlisleemma.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0012CE04919F83E4",
+    "path": "[assembly:/sound/sounddefinitions/carlislegregory.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004316950F23B28A",
+    "path": "[assembly:/sound/sounddefinitions/carlislepatrick.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A995A6849BA2B3",
+    "path": "[assembly:/sound/sounddefinitions/carlislerebecca.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0069C8D9E82AD5A9",
+    "path": "[assembly:/sound/sounddefinitions/caruso.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FC9944195884DD",
+    "path": "[assembly:/sound/sounddefinitions/cassidy.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C24F6425195C1A",
+    "path": "[assembly:/sound/sounddefinitions/chef01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0044027100282D79",
+    "path": "[assembly:/sound/sounddefinitions/chef02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E00EBA302CB1B2",
+    "path": "[assembly:/sound/sounddefinitions/chef03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CF31D3E3DB7E91",
+    "path": "[assembly:/sound/sounddefinitions/chef04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0017B3CDB11E39A1",
+    "path": "[assembly:/sound/sounddefinitions/churchstaff01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0044CEDD4C26CEBF",
+    "path": "[assembly:/sound/sounddefinitions/civfem01.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "003043D34399CAE4",
+    "path": "[assembly:/sound/sounddefinitions/civfem02.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00C42B91864F5C65",
+    "path": "[assembly:/sound/sounddefinitions/civfem03.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0043B2828A7B008B",
+    "path": "[assembly:/sound/sounddefinitions/civfem04.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0066EFEC8B2C4DBD",
+    "path": "[assembly:/sound/sounddefinitions/civfem05.sdefs].pc_sdefs",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0008DEFB3042E361",
+    "path": "[assembly:/sound/sounddefinitions/civfem06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AFF15DF70AA7F2",
+    "path": "[assembly:/sound/sounddefinitions/civfem07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DD86F34F3D5AB4",
+    "path": "[assembly:/sound/sounddefinitions/civfem08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E15576DFF9AEF3",
+    "path": "[assembly:/sound/sounddefinitions/civfem09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005414283452C77A",
+    "path": "[assembly:/sound/sounddefinitions/civfem10.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003946A4065517A4",
+    "path": "[assembly:/sound/sounddefinitions/civfemch01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001CE9F283DCFFC6",
+    "path": "[assembly:/sound/sounddefinitions/civfemch02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0066F0AB984CC0C7",
+    "path": "[assembly:/sound/sounddefinitions/civfemes01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00195DBB113B8AEA",
+    "path": "[assembly:/sound/sounddefinitions/civfemes02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001C131840FFCED4",
+    "path": "[assembly:/sound/sounddefinitions/civfemes03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005C3E3B4EFFB5A7",
+    "path": "[assembly:/sound/sounddefinitions/civfemhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A90F88781A79DC",
+    "path": "[assembly:/sound/sounddefinitions/civfemhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008B240B1F7302E6",
+    "path": "[assembly:/sound/sounddefinitions/civfemhi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FC04267A4D3AC1",
+    "path": "[assembly:/sound/sounddefinitions/civmale01.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "003AFB680BBEF242",
+    "path": "[assembly:/sound/sounddefinitions/civmale02.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "005D9AACF5E9E0AA",
+    "path": "[assembly:/sound/sounddefinitions/civmale03.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00FF5354F2F029ED",
+    "path": "[assembly:/sound/sounddefinitions/civmale04.sdefs].pc_sdefs",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007A80D244B1DA8E",
+    "path": "[assembly:/sound/sounddefinitions/civmale05.sdefs].pc_sdefs",
+    "gameFlags": 46
+  },
+  {
+    "hash": "006CA84F658D5582",
+    "path": "[assembly:/sound/sounddefinitions/civmale06.sdefs].pc_sdefs",
+    "gameFlags": 46
+  },
+  {
+    "hash": "004B53A1A48D1716",
+    "path": "[assembly:/sound/sounddefinitions/civmale07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B49FE0791F7742",
+    "path": "[assembly:/sound/sounddefinitions/civmale08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0021822041B5D0B8",
+    "path": "[assembly:/sound/sounddefinitions/civmale09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001E4395C963B3F6",
+    "path": "[assembly:/sound/sounddefinitions/civmale10.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AA2DAA20E5594B",
+    "path": "[assembly:/sound/sounddefinitions/civmale11.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0090A7B9F8C47A96",
+    "path": "[assembly:/sound/sounddefinitions/civmalech01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0079B02327E56F47",
+    "path": "[assembly:/sound/sounddefinitions/civmalech02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F1BB94B9DA6E4",
+    "path": "[assembly:/sound/sounddefinitions/civmalees01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00717FDAB9F0B12E",
+    "path": "[assembly:/sound/sounddefinitions/civmalees02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0082D926612B1C80",
+    "path": "[assembly:/sound/sounddefinitions/civmalees03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0048AB4D73B64531",
+    "path": "[assembly:/sound/sounddefinitions/civmalehi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D23B6AD76CC151",
+    "path": "[assembly:/sound/sounddefinitions/civmalehi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C33D84AC967DA5",
+    "path": "[assembly:/sound/sounddefinitions/civmalehi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0066790AD58855FC",
+    "path": "[assembly:/sound/sounddefinitions/cleaner01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000549460E67B608",
+    "path": "[assembly:/sound/sounddefinitions/cleaner02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00924651110BCC52",
+    "path": "[assembly:/sound/sounddefinitions/cleaner03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0063AC94D935DF87",
+    "path": "[assembly:/sound/sounddefinitions/cleanerfem01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0017FF6D1D5D45E5",
+    "path": "[assembly:/sound/sounddefinitions/cleanerfem02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00430589372C12C4",
+    "path": "[assembly:/sound/sounddefinitions/cleanerfem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B06CE8F2C4D401",
+    "path": "[assembly:/sound/sounddefinitions/constant.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004A8C72EC4E8412",
+    "path": "[assembly:/sound/sounddefinitions/crew01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00993F1B8FACA8B2",
+    "path": "[assembly:/sound/sounddefinitions/crew03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009972454609AB24",
+    "path": "[assembly:/sound/sounddefinitions/crew04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0041A59E86931C47",
+    "path": "[assembly:/sound/sounddefinitions/cross.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001B767C25F0B2AB",
+    "path": "[assembly:/sound/sounddefinitions/dalia.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009FBF8118BBE305",
+    "path": "[assembly:/sound/sounddefinitions/delgado.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E9A69AB119DA0D",
+    "path": "[assembly:/sound/sounddefinitions/desantis.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007501CD42E1A1CC",
+    "path": "[assembly:/sound/sounddefinitions/doctor01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B31372F05CB5D6",
+    "path": "[assembly:/sound/sounddefinitions/doctor06.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003CFE53FFED8712",
+    "path": "[assembly:/sound/sounddefinitions/doctorfem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A6807FFCB4F97D",
+    "path": "[assembly:/sound/sounddefinitions/doctorfem04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C4C0E7436ED521",
+    "path": "[assembly:/sound/sounddefinitions/et_busey.sdefs].pc_sdefs",
+    "gameFlags": 38
+  },
+  {
+    "hash": "0087E000B41D60F8",
+    "path": "[assembly:/sound/sounddefinitions/et_faba.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B40316099E0999",
+    "path": "[assembly:/sound/sounddefinitions/filmcrew01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0068376195FF39C1",
+    "path": "[assembly:/sound/sounddefinitions/filmcrew02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0091EE27FA740A7A",
+    "path": "[assembly:/sound/sounddefinitions/filmcrew03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009B0B5E9D7E98D1",
+    "path": "[assembly:/sound/sounddefinitions/filmcrew04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BB298F185C2946",
+    "path": "[assembly:/sound/sounddefinitions/filmcrewfem01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F039AB4065B0F7",
+    "path": "[assembly:/sound/sounddefinitions/filmcrewfem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006DB06C810E5B06",
+    "path": "[assembly:/sound/sounddefinitions/filmcrewfem05.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00AC5231B3DFCC1B",
+    "path": "[assembly:/sound/sounddefinitions/fox_bartender_f08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003F0CABF8CAE54C",
+    "path": "[assembly:/sound/sounddefinitions/fox_bartender_f10.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B623C79A0A20C5",
+    "path": "[assembly:/sound/sounddefinitions/fox_bartender_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0066B7ABBCF90936",
+    "path": "[assembly:/sound/sounddefinitions/fox_bartender_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0070A3D71496224A",
+    "path": "[assembly:/sound/sounddefinitions/fox_bartender_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0082EE003CF17109",
+    "path": "[assembly:/sound/sounddefinitions/fox_bartender_mch01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F0CA7B8222E85",
+    "path": "[assembly:/sound/sounddefinitions/fox_dj_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BBA09F6B84772C",
+    "path": "[assembly:/sound/sounddefinitions/fox_dj_m11.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0023813CA0FCCA84",
+    "path": "[assembly:/sound/sounddefinitions/fox_icaagent_m01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006E0D274CE604A3",
+    "path": "[assembly:/sound/sounddefinitions/fox_icaagent_m02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003A900AA6CB67F3",
+    "path": "[assembly:/sound/sounddefinitions/fox_icaagent_m04.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0068674723B9D1D8",
+    "path": "[assembly:/sound/sounddefinitions/fox_icaagent_m05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008BD08E7E77B91E",
+    "path": "[assembly:/sound/sounddefinitions/fox_icaagent_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008250664C128088",
+    "path": "[assembly:/sound/sounddefinitions/fox_icaagent_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A2540E47CAC37C",
+    "path": "[assembly:/sound/sounddefinitions/fox_staff_f05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0036B8589493F67C",
+    "path": "[assembly:/sound/sounddefinitions/fox_staff_f06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D863BB42AF1E81",
+    "path": "[assembly:/sound/sounddefinitions/fox_staff_fch01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0034A9B757450926",
+    "path": "[assembly:/sound/sounddefinitions/fox_staff_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000A1FD6B7D62A3C",
+    "path": "[assembly:/sound/sounddefinitions/fox_staff_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006A1329D615E443",
+    "path": "[assembly:/sound/sounddefinitions/fox_staff_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008C98AA7DC05616",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_f05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0030929F81774CEC",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_f06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0046557DFC295D24",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_f08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00ED727E4836EC29",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_fch01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AC6A059CB508A7",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008F375764647C95",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0093E18C6810D3D0",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004E2B551D99F99F",
+    "path": "[assembly:/sound/sounddefinitions/fox_tech_m11.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005031BEA2B9E093",
+    "path": "[assembly:/sound/sounddefinitions/fox_thug_m04.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0041626F05CE9D17",
+    "path": "[assembly:/sound/sounddefinitions/fox_thug_m05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003677883ED2E64C",
+    "path": "[assembly:/sound/sounddefinitions/fox_thug_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0068B3E4C5BE0BE5",
+    "path": "[assembly:/sound/sounddefinitions/fox_thug_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005F9C23EB8CE51E",
+    "path": "[assembly:/sound/sounddefinitions/franco.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D801644EAD7ED8",
+    "path": "[assembly:/sound/sounddefinitions/gardener01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0010C3CC45250E36",
+    "path": "[assembly:/sound/sounddefinitions/gardener02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005FC3D5BB691A46",
+    "path": "[assembly:/sound/sounddefinitions/gardener03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0034023CAC0B9228",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_f05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0030951258E6B426",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_f06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0091064604546967",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_f08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C249C38B85E2C1",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_f10.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005F3B6AE6458915",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_m05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CEE29BB1499C67",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001A0DED28ACB881",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009D2DBD4973D04F",
+    "path": "[assembly:/sound/sounddefinitions/gecko_arttech_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FCB1F5FB9095B4",
+    "path": "[assembly:/sound/sounddefinitions/gecko_attendant_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003AF2B8BC7A6C5B",
+    "path": "[assembly:/sound/sounddefinitions/gecko_attendant_mhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0061DFE936516D6D",
+    "path": "[assembly:/sound/sounddefinitions/gecko_maintenance_fch01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AED024BFF66943",
+    "path": "[assembly:/sound/sounddefinitions/gecko_maintenance_m05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002DF726184DD8EA",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_f05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00121203DA393472",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_f06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008ECA541D1BF853",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_f09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00173BC91BB53B80",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_f10.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D3F4A04431BA76",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_fhi02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0015322DB875FF42",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007BF2ED0CFB48B6",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00287FB18C35DBB5",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AA3464CEC6C2BD",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_m11.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0068633C637973E4",
+    "path": "[assembly:/sound/sounddefinitions/gecko_waiter_mhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009F007EF21A3F3C",
+    "path": "[assembly:/sound/sounddefinitions/graves.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006672D4A60DD40E",
+    "path": "[assembly:/sound/sounddefinitions/housstff01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00186513DDB9E5DB",
+    "path": "[assembly:/sound/sounddefinitions/housstff02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00198EF94EA8E9F3",
+    "path": "[assembly:/sound/sounddefinitions/housstff03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009A49F62A05156A",
+    "path": "[assembly:/sound/sounddefinitions/housstff06.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BEA0BFA7D6B5FD",
+    "path": "[assembly:/sound/sounddefinitions/housstffem01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B6D39C3E9700BC",
+    "path": "[assembly:/sound/sounddefinitions/housstffem02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E7636F6308FBD6",
+    "path": "[assembly:/sound/sounddefinitions/housstffem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00460299421C52FD",
+    "path": "[assembly:/sound/sounddefinitions/hush.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003C60566C5E49AF",
+    "path": "[assembly:/sound/sounddefinitions/ingram.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0094930EFDEEA0FE",
+    "path": "[assembly:/sound/sounddefinitions/janus.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0005F216427D649E",
+    "path": "[assembly:/sound/sounddefinitions/job_actorfemhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FDBB0AAD1A70C0",
+    "path": "[assembly:/sound/sounddefinitions/job_actorhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00068CD14EE1B620",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctf05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CDDA76A8C81A12",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctf07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00373E3A7EC014E8",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctf08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00149FD751D789E6",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctf09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000E64E532C65146",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E838CF2140FC43",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009621B8C5D20183",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A18D8D55BE3040",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D98B97B048B4A1",
+    "path": "[assembly:/sound/sounddefinitions/job_archtctm10.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CC3EF404CB8FE5",
+    "path": "[assembly:/sound/sounddefinitions/job_arkelite04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CB79BD8E2939E8",
+    "path": "[assembly:/sound/sounddefinitions/job_arkelite05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0076E6BCC0CE39C5",
+    "path": "[assembly:/sound/sounddefinitions/job_arkelite06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009EB02B44A86334",
+    "path": "[assembly:/sound/sounddefinitions/job_arkelite07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B2EB5E2B278F8F",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianf05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00941E2B6AD700CC",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianf06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000DD1C9A39723CE",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianf07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004291FA413CB328",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianf08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C08A9A14EC8F02",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianf09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0052B0D77BD030BC",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0098C92220905FA2",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E765BF080E376C",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005F0F79E91950E4",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008AA3CE43325795",
+    "path": "[assembly:/sound/sounddefinitions/job_arkianm10.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0075936D88566828",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnf05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00086ACDC7FEB461",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnf06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B3A1566B026548",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnf07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F9875F1915F966",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnf08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AA0351BF9031F8",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnf09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003617C7EF823576",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0060CA27B2F92B21",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BC155E7C9BA9B3",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006D2A44A78092D7",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C6CED47A4B7274",
+    "path": "[assembly:/sound/sounddefinitions/job_arkptrnm10.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0059DA4B58E1562E",
+    "path": "[assembly:/sound/sounddefinitions/job_arkstafff05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F98A1F1FC0C4A0",
+    "path": "[assembly:/sound/sounddefinitions/job_arkstafff06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D4C726893CCBBA",
+    "path": "[assembly:/sound/sounddefinitions/job_arkstaffm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E93209D9FC8DC2",
+    "path": "[assembly:/sound/sounddefinitions/job_arkstaffm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F40371F52A2AE2",
+    "path": "[assembly:/sound/sounddefinitions/job_arkstaffm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00062EA3922AC5C3",
+    "path": "[assembly:/sound/sounddefinitions/job_bankerf05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00044600CFCFB3E3",
+    "path": "[assembly:/sound/sounddefinitions/job_bankerf06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D3350EF8383E7F",
+    "path": "[assembly:/sound/sounddefinitions/job_bankerf08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00537229A9FA5B58",
+    "path": "[assembly:/sound/sounddefinitions/job_bankerm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0056423F14C13D97",
+    "path": "[assembly:/sound/sounddefinitions/job_bankerm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B57FE349BF2306",
+    "path": "[assembly:/sound/sounddefinitions/job_bankerm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009826EDB5BEF1DD",
+    "path": "[assembly:/sound/sounddefinitions/job_bankerm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00ECCB4EE7A5BEB4",
+    "path": "[assembly:/sound/sounddefinitions/job_bankgrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007F75A91B75826B",
+    "path": "[assembly:/sound/sounddefinitions/job_bankgrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AD99B6F3AF0C0B",
+    "path": "[assembly:/sound/sounddefinitions/job_bankgrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0038B3E65A5435D3",
+    "path": "[assembly:/sound/sounddefinitions/job_bankit07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0027CA036244D5BB",
+    "path": "[assembly:/sound/sounddefinitions/job_bankmtnc08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009282A955114A83",
+    "path": "[assembly:/sound/sounddefinitions/job_bbqgrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E682B73359E094",
+    "path": "[assembly:/sound/sounddefinitions/job_bbqgrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00855EEE162D6AEC",
+    "path": "[assembly:/sound/sounddefinitions/job_bbqgrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00615E3594194C8D",
+    "path": "[assembly:/sound/sounddefinitions/job_bbqgrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000CB16941B122F0",
+    "path": "[assembly:/sound/sounddefinitions/job_bollycrewhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005CBC5123C21782",
+    "path": "[assembly:/sound/sounddefinitions/job_bollycrewhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002210F060524643",
+    "path": "[assembly:/sound/sounddefinitions/job_bollycrewhi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008BD038E2ED7497",
+    "path": "[assembly:/sound/sounddefinitions/job_cassidygrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C51CD6E96A8AE5",
+    "path": "[assembly:/sound/sounddefinitions/job_cassidygrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00297E0673A87B66",
+    "path": "[assembly:/sound/sounddefinitions/job_cassidygrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00912D3F1A5E3188",
+    "path": "[assembly:/sound/sounddefinitions/job_cassidygrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005B9F747B8CEE46",
+    "path": "[assembly:/sound/sounddefinitions/job_castlestfem05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B6A350E8B48EBB",
+    "path": "[assembly:/sound/sounddefinitions/job_castlestfem07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00809D315BC2BF9E",
+    "path": "[assembly:/sound/sounddefinitions/job_castlestff07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0030DEC7ADF4EE4E",
+    "path": "[assembly:/sound/sounddefinitions/job_castlestff10.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00842776C390A6A3",
+    "path": "[assembly:/sound/sounddefinitions/job_cheff07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CA8AAD7C84341E",
+    "path": "[assembly:/sound/sounddefinitions/job_chefm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007ED92759A69415",
+    "path": "[assembly:/sound/sounddefinitions/job_chefm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008D543DE255E1F3",
+    "path": "[assembly:/sound/sounddefinitions/job_chefm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0078F18B0DF8A568",
+    "path": "[assembly:/sound/sounddefinitions/job_civgrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00728367693C5FA3",
+    "path": "[assembly:/sound/sounddefinitions/job_civgrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A2CC2A84FB628E",
+    "path": "[assembly:/sound/sounddefinitions/job_civgrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001131E2D26FEB9E",
+    "path": "[assembly:/sound/sounddefinitions/job_civgrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0020415B32E3EADA",
+    "path": "[assembly:/sound/sounddefinitions/job_clothsalhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BFEAA16062593A",
+    "path": "[assembly:/sound/sounddefinitions/job_clothsalhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B79CB012694BA4",
+    "path": "[assembly:/sound/sounddefinitions/job_cnstr08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0035730D149A661D",
+    "path": "[assembly:/sound/sounddefinitions/job_cnstr09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006A792EC1C0F8A6",
+    "path": "[assembly:/sound/sounddefinitions/job_cnstrgrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0085F499A5E8B54D",
+    "path": "[assembly:/sound/sounddefinitions/job_cnstrgrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001D602C6A13639B",
+    "path": "[assembly:/sound/sounddefinitions/job_cnstrgrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0059828A52171D33",
+    "path": "[assembly:/sound/sounddefinitions/job_cnstrgrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F555F17138CBF5",
+    "path": "[assembly:/sound/sounddefinitions/job_cocagrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004C4751C624F8BF",
+    "path": "[assembly:/sound/sounddefinitions/job_cocagrdes02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002F464FF27F1B45",
+    "path": "[assembly:/sound/sounddefinitions/job_cop04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0024D63B6D2326D7",
+    "path": "[assembly:/sound/sounddefinitions/job_cop05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B20BEC1B2F7D3",
+    "path": "[assembly:/sound/sounddefinitions/job_cop06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00080A9696273908",
+    "path": "[assembly:/sound/sounddefinitions/job_cop07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003407BCE9C39AD5",
+    "path": "[assembly:/sound/sounddefinitions/job_counslrf08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A4C166E936202C",
+    "path": "[assembly:/sound/sounddefinitions/job_counslrf09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EA765A014E643F",
+    "path": "[assembly:/sound/sounddefinitions/job_counslrm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000783A07C1AD946",
+    "path": "[assembly:/sound/sounddefinitions/job_counslrm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004AFC89BF70C922",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnf05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E902912DA67152",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnf06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003D55775E414F19",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnf07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EDDF6E46C8DF28",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnf08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00264047D4E2966D",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnf09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00654056D10EE3CD",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002D05499B3A836E",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00965B112E06E2BB",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FC8AA3123DE9CB",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EEFE21BEBFEF91",
+    "path": "[assembly:/sound/sounddefinitions/job_custdnm10.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0091159BEB5F061D",
+    "path": "[assembly:/sound/sounddefinitions/job_garbage08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0052017A46E81612",
+    "path": "[assembly:/sound/sounddefinitions/job_garbage09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0039F697F4A72EE9",
+    "path": "[assembly:/sound/sounddefinitions/job_garbagees01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00934170260F91A5",
+    "path": "[assembly:/sound/sounddefinitions/job_garbagrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CBC372BD99DC82",
+    "path": "[assembly:/sound/sounddefinitions/job_garbagrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007185DD5D9C3DD6",
+    "path": "[assembly:/sound/sounddefinitions/job_garbagrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0083A025772FD17C",
+    "path": "[assembly:/sound/sounddefinitions/job_garbagrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FC39CBB3A67552",
+    "path": "[assembly:/sound/sounddefinitions/job_grdnr08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004BDB526327EF42",
+    "path": "[assembly:/sound/sounddefinitions/job_grdnr09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A684500BE6B9E2",
+    "path": "[assembly:/sound/sounddefinitions/job_grdnrgrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009570B84C5005E8",
+    "path": "[assembly:/sound/sounddefinitions/job_grdnrgrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0098757DAD30C117",
+    "path": "[assembly:/sound/sounddefinitions/job_grdnrgrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003F19059461EE0E",
+    "path": "[assembly:/sound/sounddefinitions/job_grdnrgrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B87EF09DCDF006",
+    "path": "[assembly:/sound/sounddefinitions/job_guard04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001E6CA165BEA67F",
+    "path": "[assembly:/sound/sounddefinitions/job_guard05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005ECE888E5EA103",
+    "path": "[assembly:/sound/sounddefinitions/job_guard06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C8BE9E14DB1FA0",
+    "path": "[assembly:/sound/sounddefinitions/job_guard07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B8936B899A4B19",
+    "path": "[assembly:/sound/sounddefinitions/job_janusgrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F6463CF17CAA57",
+    "path": "[assembly:/sound/sounddefinitions/job_janusgrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FFBEE494B2943B",
+    "path": "[assembly:/sound/sounddefinitions/job_janusgrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0047C4D561E76665",
+    "path": "[assembly:/sound/sounddefinitions/job_janusgrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C0B0D2CCA70DC4",
+    "path": "[assembly:/sound/sounddefinitions/job_lndrygrdhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0091B18549AB8FDA",
+    "path": "[assembly:/sound/sounddefinitions/job_lndrygrdhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D57297DF27E59C",
+    "path": "[assembly:/sound/sounddefinitions/job_lndrygrdhi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009A7605DE5EC89D",
+    "path": "[assembly:/sound/sounddefinitions/job_lndrywkrhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B5D516A1D99301",
+    "path": "[assembly:/sound/sounddefinitions/job_lndrywkrhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009AE48435923D8D",
+    "path": "[assembly:/sound/sounddefinitions/job_lndrywkrhi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00296C432DBC4500",
+    "path": "[assembly:/sound/sounddefinitions/job_medicfem06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0055E3484FA71A01",
+    "path": "[assembly:/sound/sounddefinitions/job_mtlwkrhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0069E5FE1C6F4421",
+    "path": "[assembly:/sound/sounddefinitions/job_mtlwkrhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FE3335A42D30C9",
+    "path": "[assembly:/sound/sounddefinitions/job_mtlwkrhi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B6CF427E11FA0B",
+    "path": "[assembly:/sound/sounddefinitions/job_mumbsechi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008604A166FEFD95",
+    "path": "[assembly:/sound/sounddefinitions/job_mumbsechi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A14A8A22636289",
+    "path": "[assembly:/sound/sounddefinitions/job_mumbsrvhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0035644BAEB60A9F",
+    "path": "[assembly:/sound/sounddefinitions/job_mumbsrvhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E610B1F2F10AB3",
+    "path": "[assembly:/sound/sounddefinitions/job_mumbsrvhi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005D7B779E00268E",
+    "path": "[assembly:/sound/sounddefinitions/job_musicianf05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005DC0FE8555A1D0",
+    "path": "[assembly:/sound/sounddefinitions/job_musicianm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0044BA0DA7D8A72B",
+    "path": "[assembly:/sound/sounddefinitions/job_musicianm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00ABBCB19BC63360",
+    "path": "[assembly:/sound/sounddefinitions/job_musicianm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0037BD644E6CA66F",
+    "path": "[assembly:/sound/sounddefinitions/job_musicianm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005DE1F12450322D",
+    "path": "[assembly:/sound/sounddefinitions/job_musicianm10.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000EA2EA2553DBDA",
+    "path": "[assembly:/sound/sounddefinitions/job_nitiatef05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E64934C5F981E8",
+    "path": "[assembly:/sound/sounddefinitions/job_nitiatem06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007F26C0B464D444",
+    "path": "[assembly:/sound/sounddefinitions/job_nitiatem07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E2ADD585F9A4FD",
+    "path": "[assembly:/sound/sounddefinitions/job_queengrdhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CD058BD648D2D4",
+    "path": "[assembly:/sound/sounddefinitions/job_queengrdhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F5423AB652869F",
+    "path": "[assembly:/sound/sounddefinitions/job_queengrdhi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00983EC47A94AC96",
+    "path": "[assembly:/sound/sounddefinitions/job_queenstghi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009C163E67226EA2",
+    "path": "[assembly:/sound/sounddefinitions/job_queentghi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A581A6472E3359",
+    "path": "[assembly:/sound/sounddefinitions/job_raider04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00277608748A18AA",
+    "path": "[assembly:/sound/sounddefinitions/job_raider05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005D1ACAB2E089A0",
+    "path": "[assembly:/sound/sounddefinitions/job_raider06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0002C2D50648CAF0",
+    "path": "[assembly:/sound/sounddefinitions/job_raider07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A34F5021835442",
+    "path": "[assembly:/sound/sounddefinitions/job_rangangrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0057AFD6B933529E",
+    "path": "[assembly:/sound/sounddefinitions/job_rangangrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B25812AC444C6A",
+    "path": "[assembly:/sound/sounddefinitions/job_rangansechi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00653B789010FC67",
+    "path": "[assembly:/sound/sounddefinitions/job_rangansechi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C98FF4DBD333D8",
+    "path": "[assembly:/sound/sounddefinitions/job_rangansechi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00729A39367F107D",
+    "path": "[assembly:/sound/sounddefinitions/job_servant08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D0108E4EC95E7B",
+    "path": "[assembly:/sound/sounddefinitions/job_servant09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00020ED4A54F379F",
+    "path": "[assembly:/sound/sounddefinitions/job_servantes02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008D36CE7ED4ED89",
+    "path": "[assembly:/sound/sounddefinitions/job_servantfem07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004A5C00D751D8D3",
+    "path": "[assembly:/sound/sounddefinitions/job_stinglifegrdm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B1C863E5CD6D14",
+    "path": "[assembly:/sound/sounddefinitions/job_stingmassf09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006733EFB0E41648",
+    "path": "[assembly:/sound/sounddefinitions/job_stingsec05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E8724DA262E1FD",
+    "path": "[assembly:/sound/sounddefinitions/job_stingsec06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0065DD1FB6F67FAB",
+    "path": "[assembly:/sound/sounddefinitions/job_stingstafff08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0040F264424D33E3",
+    "path": "[assembly:/sound/sounddefinitions/job_stingstaffm06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DA6822E7AE5C4A",
+    "path": "[assembly:/sound/sounddefinitions/job_stingstaffm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A7C1C1F01EFBE8",
+    "path": "[assembly:/sound/sounddefinitions/job_stingtechf08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C58D25C9B5F93C",
+    "path": "[assembly:/sound/sounddefinitions/job_stingtechm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000D510902136EF5",
+    "path": "[assembly:/sound/sounddefinitions/job_stingtechm09.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B1BB2BC935C039",
+    "path": "[assembly:/sound/sounddefinitions/job_stingtrainerf06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003EEE3CD9552B37",
+    "path": "[assembly:/sound/sounddefinitions/job_stingvillagrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007E820C196D7CBD",
+    "path": "[assembly:/sound/sounddefinitions/job_stingvillagrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A3A04B78B0354D",
+    "path": "[assembly:/sound/sounddefinitions/job_stingwtrf05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0083F98FAC8CFB4D",
+    "path": "[assembly:/sound/sounddefinitions/job_stingwtrm07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D9B4282FF0573F",
+    "path": "[assembly:/sound/sounddefinitions/job_stingwtrm08.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00494A9C8AB1CBEC",
+    "path": "[assembly:/sound/sounddefinitions/job_teaservhi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E9C7F1D4E0BD4D",
+    "path": "[assembly:/sound/sounddefinitions/job_thughi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FD29E4A3389766",
+    "path": "[assembly:/sound/sounddefinitions/job_thughi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008F7CB00ECEF1F0",
+    "path": "[assembly:/sound/sounddefinitions/job_thughi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0073B153B44615D9",
+    "path": "[assembly:/sound/sounddefinitions/job_trainservhi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F7F2C2B2CFBF70",
+    "path": "[assembly:/sound/sounddefinitions/knox_r.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006983DB29D1C98F",
+    "path": "[assembly:/sound/sounddefinitions/knox_s.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009D17D65711801C",
+    "path": "[assembly:/sound/sounddefinitions/kong.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F6ECD2DD971B07",
+    "path": "[assembly:/sound/sounddefinitions/ljudmilavetrova.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C134DE3BC7EF38",
+    "path": "[assembly:/sound/sounddefinitions/llama_waiter_f05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00176B684C3F7816",
+    "path": "[assembly:/sound/sounddefinitions/llama_waiter_f06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BE64B17620952D",
+    "path": "[assembly:/sound/sounddefinitions/llama_waiter_f10.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000A171D5FB5CF31",
+    "path": "[assembly:/sound/sounddefinitions/llama_waiter_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F29A80C51D1CCF",
+    "path": "[assembly:/sound/sounddefinitions/llama_waiter_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BB533CBADBA379",
+    "path": "[assembly:/sound/sounddefinitions/llama_waiter_m11.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EBF9099AA68E2C",
+    "path": "[assembly:/sound/sounddefinitions/llama_worker_fes01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F5F7FE5E5D1D56",
+    "path": "[assembly:/sound/sounddefinitions/llama_worker_fes02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003F461B6F49CADF",
+    "path": "[assembly:/sound/sounddefinitions/llama_worker_fes03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D55AA18C90B1BB",
+    "path": "[assembly:/sound/sounddefinitions/llama_worker_mes01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DF3B2D60F23341",
+    "path": "[assembly:/sound/sounddefinitions/llama_worker_mes02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FA58CADCBB7A4F",
+    "path": "[assembly:/sound/sounddefinitions/llama_worker_mes03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C7819E22079F49",
+    "path": "[assembly:/sound/sounddefinitions/maelstrom.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BDC336D810E322",
+    "path": "[assembly:/sound/sounddefinitions/mambacrew01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D812C60FFB3898",
+    "path": "[assembly:/sound/sounddefinitions/mambacrew02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0051FEDACBC5D8D1",
+    "path": "[assembly:/sound/sounddefinitions/mambacrew03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0050B1E913C3434A",
+    "path": "[assembly:/sound/sounddefinitions/mambacrew04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004B6F1B12235B9B",
+    "path": "[assembly:/sound/sounddefinitions/martinez.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0032BB05E30A9F72",
+    "path": "[assembly:/sound/sounddefinitions/mech01.sdefs].pc_sdefs",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0089B01D3DE8E1D9",
+    "path": "[assembly:/sound/sounddefinitions/mech03.sdefs].pc_sdefs",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00CA9650253890BA",
+    "path": "[assembly:/sound/sounddefinitions/mendola.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00031703C7EE5D60",
+    "path": "[assembly:/sound/sounddefinitions/model01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A4293AE374B142",
+    "path": "[assembly:/sound/sounddefinitions/model02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E5F7CD7BDB8AEF",
+    "path": "[assembly:/sound/sounddefinitions/model03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CA74F556509B7C",
+    "path": "[assembly:/sound/sounddefinitions/modelfem01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DB22D835E4D5C1",
+    "path": "[assembly:/sound/sounddefinitions/modelfem02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003809940BC41578",
+    "path": "[assembly:/sound/sounddefinitions/modelfem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001E12406DFDFF48",
+    "path": "[assembly:/sound/sounddefinitions/morgan.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0084FA5041F57771",
+    "path": "[assembly:/sound/sounddefinitions/novikov.sdefs].pc_sdefs",
+    "gameFlags": 15
+  },
+  {
+    "hash": "006DC115EEB388F6",
+    "path": "[assembly:/sound/sounddefinitions/orson.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009183FBD6B3396A",
+    "path": "[assembly:/sound/sounddefinitions/parvati.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009EA0A07F7FAE2C",
+    "path": "[assembly:/sound/sounddefinitions/priest01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008B4C04D285442F",
+    "path": "[assembly:/sound/sounddefinitions/rangan.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00554503D8DE2FC8",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_f05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0096F8C00C259B96",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_f06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00873B7734DBEED4",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_fch02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00784802D33712F7",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C8E0F569CB4E24",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F0910653488A14",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00600C22F5166D80",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009AA9EC1451911A",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_mch01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006E5CE2F509D78A",
+    "path": "[assembly:/sound/sounddefinitions/rat_dumplingcook_mch02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0022CCA7CA0A13F8",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_f06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005D170782D65B2D",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_f09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006B09A049A57D01",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_fch01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003D61F47301A983",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_fch02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FE026D4F971377",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0075507333B283F7",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00566F3F6095BE35",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_m08.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007336800383B11B",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_m09.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0049B91BF6EBD81E",
+    "path": "[assembly:/sound/sounddefinitions/rat_facilitystaff_m11.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0054B2BBFF1AC613",
+    "path": "[assembly:/sound/sounddefinitions/reynard.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006B9F90B694FE42",
+    "path": "[assembly:/sound/sounddefinitions/rose.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0088A34080C91AE0",
+    "path": "[assembly:/sound/sounddefinitions/royce.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CDDC6838415428",
+    "path": "[assembly:/sound/sounddefinitions/scientist01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004F7A4F8320B0B8",
+    "path": "[assembly:/sound/sounddefinitions/scientist02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CF153BAF768D36",
+    "path": "[assembly:/sound/sounddefinitions/scientist03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E8609BE84E0229",
+    "path": "[assembly:/sound/sounddefinitions/scientist04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CE16EE787E7787",
+    "path": "[assembly:/sound/sounddefinitions/scientistfem01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003452E7A7121B2B",
+    "path": "[assembly:/sound/sounddefinitions/scientistfem02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CC18AFFF39FD3F",
+    "path": "[assembly:/sound/sounddefinitions/scientistfem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00428A931EF68688",
+    "path": "[assembly:/sound/sounddefinitions/scientistfem04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0092B5890CB9C4A6",
+    "path": "[assembly:/sound/sounddefinitions/shah.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F2EEE5E1F54132",
+    "path": "[assembly:/sound/sounddefinitions/sheepgrd04.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008A79BD6A844C0B",
+    "path": "[assembly:/sound/sounddefinitions/sheepgrd05.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0085E02E05C67E1A",
+    "path": "[assembly:/sound/sounddefinitions/sheepgrd06.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001183EA60BE6933",
+    "path": "[assembly:/sound/sounddefinitions/sheepgrd07.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0095EC50F4563079",
+    "path": "[assembly:/sound/sounddefinitions/softgrd01.sdefs].pc_sdefs",
+    "gameFlags": 31
+  },
+  {
+    "hash": "0021F1410557374C",
+    "path": "[assembly:/sound/sounddefinitions/softgrd02.sdefs].pc_sdefs",
+    "gameFlags": 31
+  },
+  {
+    "hash": "00B8CA841BA87773",
+    "path": "[assembly:/sound/sounddefinitions/softgrd03.sdefs].pc_sdefs",
+    "gameFlags": 31
+  },
+  {
+    "hash": "00F6C11DB30EE4CF",
+    "path": "[assembly:/sound/sounddefinitions/soldier03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C75652EAD15004",
+    "path": "[assembly:/sound/sounddefinitions/soldierboss01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00825E01863284D4",
+    "path": "[assembly:/sound/sounddefinitions/soldierboss02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D35AFFD9E9D69C",
+    "path": "[assembly:/sound/sounddefinitions/soldierboss03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FE131ECD160414",
+    "path": "[assembly:/sound/sounddefinitions/specops01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BC1EC51A1C609D",
+    "path": "[assembly:/sound/sounddefinitions/specops02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000C338FA223E71E",
+    "path": "[assembly:/sound/sounddefinitions/specops03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000A17F3389F2B9A",
+    "path": "[assembly:/sound/sounddefinitions/staffem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0053CEFB4145E498",
+    "path": "[assembly:/sound/sounddefinitions/staffem04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D83DF5D385863D",
+    "path": "[assembly:/sound/sounddefinitions/staffem05.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008905EA7C929CDC",
+    "path": "[assembly:/sound/sounddefinitions/staffmale01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007C232263883562",
+    "path": "[assembly:/sound/sounddefinitions/staffmale02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0018B1473D4A250E",
+    "path": "[assembly:/sound/sounddefinitions/staffmale03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005DE68E91180F48",
+    "path": "[assembly:/sound/sounddefinitions/staffmale04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0054C9632FB5A3B8",
+    "path": "[assembly:/sound/sounddefinitions/staffmale05.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009D41E95CD74472",
+    "path": "[assembly:/sound/sounddefinitions/staffmale06.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0072EF0AC7755C35",
+    "path": "[assembly:/sound/sounddefinitions/stevenbradley.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BDAFDA7A6DDAF4",
+    "path": "[assembly:/sound/sounddefinitions/strandberg.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000C67A76D9799CC",
+    "path": "[assembly:/sound/sounddefinitions/stuyvesant.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00926050B2A02FB1",
+    "path": "[assembly:/sound/sounddefinitions/stylist01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B13ACD33CA9A6F",
+    "path": "[assembly:/sound/sounddefinitions/stylist02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004B45177A73E41C",
+    "path": "[assembly:/sound/sounddefinitions/stylist03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0076670C95676531",
+    "path": "[assembly:/sound/sounddefinitions/stylist04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005A60AFED641919",
+    "path": "[assembly:/sound/sounddefinitions/stylistfem01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BEDFD38B026F56",
+    "path": "[assembly:/sound/sounddefinitions/stylistfem02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00122CB51F2816EF",
+    "path": "[assembly:/sound/sounddefinitions/stylistfem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F2DE7434BAA6AD",
+    "path": "[assembly:/sound/sounddefinitions/stylistfem04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A2AF5A03872B04",
+    "path": "[assembly:/sound/sounddefinitions/thuges01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D4AD6F73436813",
+    "path": "[assembly:/sound/sounddefinitions/thuges02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004FA8130E038A1A",
+    "path": "[assembly:/sound/sounddefinitions/thuges03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0047B31DD258926C",
+    "path": "[assembly:/sound/sounddefinitions/thughi01.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00353EFAF4555D2E",
+    "path": "[assembly:/sound/sounddefinitions/thughi02.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0066A32F1952E1BC",
+    "path": "[assembly:/sound/sounddefinitions/thughi03.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CACCA9B83D1AFF",
+    "path": "[assembly:/sound/sounddefinitions/tysonwilliams.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001D91E02DBEDE36",
+    "path": "[assembly:/sound/sounddefinitions/vidal.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000CAE10D3D826EC",
+    "path": "[assembly:/sound/sounddefinitions/waiter01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0082894B648A5302",
+    "path": "[assembly:/sound/sounddefinitions/waiter02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0093CC315847108F",
+    "path": "[assembly:/sound/sounddefinitions/waiter03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007F85B5974EE681",
+    "path": "[assembly:/sound/sounddefinitions/waiter04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0076B4E90AB643B9",
+    "path": "[assembly:/sound/sounddefinitions/waiterfem01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002458D0D1957FA6",
+    "path": "[assembly:/sound/sounddefinitions/waiterfem02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0029947BB929A81B",
+    "path": "[assembly:/sound/sounddefinitions/waiterfem03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0097C36574D7BFAE",
+    "path": "[assembly:/sound/sounddefinitions/waiterfem04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F521FCABB018C6",
+    "path": "[assembly:/sound/sounddefinitions/washington.sdefs].pc_sdefs",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0055502D6144C45F",
+    "path": "[assembly:/sound/sounddefinitions/ws_boulton.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00251170AEACA462",
+    "path": "[assembly:/sound/sounddefinitions/ws_newman.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0076AC4A54C91AF9",
+    "path": "[assembly:/sound/sounddefinitions/ws_watson.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00ABF8B1C1B613CA",
+    "path": "[assembly:/sound/sounddefinitions/yachtcrew01.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F7039EE0C64D0F",
+    "path": "[assembly:/sound/sounddefinitions/yachtcrew02.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D3E7FD3037BBD5",
+    "path": "[assembly:/sound/sounddefinitions/yachtcrew03.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0017FA49520A84EE",
+    "path": "[assembly:/sound/sounddefinitions/yachtcrew04.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E1DE9426E4EFF9",
+    "path": "[assembly:/sound/sounddefinitions/yamasaki.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00EE8C5068C25C17",
+    "path": "[assembly:/sound/sounddefinitions/yates.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E7F07AB0EE3481",
+    "path": "[assembly:/sound/sounddefinitions/zaydan.sdefs].pc_sdefs",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B319FD914828D8",
+    "path": "[assembly:/sound/sounddefinitions/dugong_cookjob_mhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00054E1730B1B293",
+    "path": "[assembly:/sound/sounddefinitions/dugong_cookjob_fhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F844FDFBDC96C1",
+    "path": "[assembly:/sound/sounddefinitions/dugong_cookjob_fhi02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00767E1C1A4F7113",
+    "path": "[assembly:/sound/sounddefinitions/dugong_engineer_mhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00609C0474220C06",
+    "path": "[assembly:/sound/sounddefinitions/dugong_farah_fhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00110B0F1F01C9CB",
+    "path": "[assembly:/sound/sounddefinitions/crest.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D4BF7AC98E407F",
+    "path": "[assembly:/sound/sounddefinitions/dugong_militia_sp01.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CF848455EA3A8B",
+    "path": "[assembly:/sound/sounddefinitions/dugong_pirate_mhi02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D0FCCA6263C8C1",
+    "path": "[assembly:/sound/sounddefinitions/dugong_cookjob_mhi02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D97DD8EBCC0656",
+    "path": "[assembly:/sound/sounddefinitions/dugong_metalwkr_mhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E33AF7C81C9DD4",
+    "path": "[assembly:/sound/sounddefinitions/dugong_cookjob_mch02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A6965D17A057F1",
+    "path": "[assembly:/sound/sounddefinitions/dugong_metalwkr_mhi02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A250788A288294",
+    "path": "[assembly:/sound/sounddefinitions/dugong_engineer_mch02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00709D6588425ECB",
+    "path": "[assembly:/sound/sounddefinitions/dugong_militia_m06.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00407B355F1C6379",
+    "path": "[assembly:/sound/sounddefinitions/dugong_militia_m07.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0026C1A5E3D497BA",
+    "path": "[assembly:/sound/sounddefinitions/dugong_pirate_mhi03.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00193F0A3286EE00",
+    "path": "[assembly:/sound/sounddefinitions/dugong_militia_m05.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0022DB30BA2A458F",
+    "path": "[assembly:/sound/sounddefinitions/akka.sdefs].pc_sdefs",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003E58E8E5BC94AF",
+    "path": "[assembly:/sound/sounddefinitions/dugong_engineer_mhi02.sdefs].pc_sdefs",
+    "gameFlags": 8
+  }
+]

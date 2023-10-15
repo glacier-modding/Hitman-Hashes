@@ -1,0 +1,22 @@
+[
+  {
+    "hash": "000BDBD8F2FF56CF",
+    "path": "[assembly:/_pro/_test/tomaszc/bodybag.repx].pc_physsys",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B476579A770AB6",
+    "path": "[assembly:/_pro/characters/prototypes/ragdoll_physx/ragdoll_crowd.repx].pc_physsys",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00777786A3E3D47B",
+    "path": "[assembly:/_pro/characters/prototypes/ragdoll_physx/ragdoll_mr.repx].pc_physsys",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00805A591F1A33EE",
+    "path": "ragdoll_bodybag",
+    "gameFlags": 62
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "hash": "0058658F96FE93C4",
+    "path": "[assembly:/animations/bonemasks/both_arms.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0084C22089473DB5",
+    "path": "[assembly:/animations/bonemasks/carry_2h.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0092CF67FC7F7452",
+    "path": "[assembly:/animations/bonemasks/carry_lh_.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00251BA26BC60F38",
+    "path": "[assembly:/animations/bonemasks/carry_lh_flashlight_.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00E8BBC4AF27093E",
+    "path": "[assembly:/animations/bonemasks/carry_rh_.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000220E50BED3350",
+    "path": "[assembly:/animations/bonemasks/carry_weapon_lhand.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00C1541D18BEE1F3",
+    "path": "[assembly:/animations/bonemasks/fullbody.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00ABB60352F6116C",
+    "path": "[assembly:/animations/bonemasks/hm_cover_pistol_r_arm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006BA6EFAF8F22CD",
+    "path": "[assembly:/animations/bonemasks/hm_coverweapon1h.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006F93FD59AADB10",
+    "path": "[assembly:/animations/bonemasks/hm_equip.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0026E39DE4E6FFA7",
+    "path": "[assembly:/animations/bonemasks/hm_equip_rarm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C522F1758FB4B2",
+    "path": "[assembly:/animations/bonemasks/hm_rightarm_fiberwire.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "004F357C6284A46A",
+    "path": "[assembly:/animations/bonemasks/hm_roadyrun_rightarm_fireaxe.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0000D883C3F98C17",
+    "path": "[assembly:/animations/bonemasks/hm_run_rightarm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0033BC1352403BBC",
+    "path": "[assembly:/animations/bonemasks/hm_run_rightarm_crowbar.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0018B0DE1B708CE7",
+    "path": "[assembly:/animations/bonemasks/hm_run_rightarm_fireextinguisher.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 62
+  },
+  {
+    "hash": "003218D76140640B",
+    "path": "[assembly:/animations/bonemasks/hm_sneak_rightarm_fireextinguisher.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00775B5976A10FF0",
+    "path": "[assembly:/animations/bonemasks/hm_sneakwalk_leftarm_suitcase.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00279A3E137014DA",
+    "path": "[assembly:/animations/bonemasks/hm_stand_reload_1h_suitcase.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005557A274409090",
+    "path": "[assembly:/animations/bonemasks/hm_stand_reload_2h.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001314D697DF59ED",
+    "path": "[assembly:/animations/bonemasks/hm_stand_rightarm_pistol.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006DF762EA17785C",
+    "path": "[assembly:/animations/bonemasks/hm_stand_rightarm_rifle.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 44
+  },
+  {
+    "hash": "002408E2D855212A",
+    "path": "[assembly:/animations/bonemasks/hm_vault_leftarm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EDCF03AA801E09",
+    "path": "[assembly:/animations/bonemasks/hm_walk_rightarm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0013191069B707B3",
+    "path": "[assembly:/animations/bonemasks/hm_walk_rightarm_crowbar.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007D3BB053E1D5CB",
+    "path": "[assembly:/animations/bonemasks/hm_walk_rightarm_fireextinguisher.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 62
+  },
+  {
+    "hash": "003A3084D059BD8E",
+    "path": "[assembly:/animations/bonemasks/inverse_both_arms.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00DB2DB2261A783A",
+    "path": "[assembly:/animations/bonemasks/inverse_both_arms_act.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A546A1B7A444EB",
+    "path": "[assembly:/animations/bonemasks/inverse_left_hand.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00897BEFDCC3F3D2",
+    "path": "[assembly:/animations/bonemasks/inverse_right_hand.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 46
+  },
+  {
+    "hash": "002A1B3AFDA169F5",
+    "path": "[assembly:/animations/bonemasks/left_arm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00EEA20BA71D02DA",
+    "path": "[assembly:/animations/bonemasks/left_hand.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00F6088D6C6E90C8",
+    "path": "[assembly:/animations/bonemasks/right_arm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A3898FD567531B",
+    "path": "[assembly:/animations/bonemasks/right_hand.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00D5810937F1C427",
+    "path": "[assembly:/animations/bonemasks/ub.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00035AE723BC6E8A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001E4486960B5563",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00252C21F77FFFB6",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "002C2F35B8C84AF6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F4758B134A87B",
+    "path": "",
+    "gameFlags": 62
+  },
+  {
+    "hash": "003107B40C8B5BAB",
+    "path": "[assembly:/animations/bonemasks/inverse_left_arm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00350101454B3699",
+    "path": "",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0046765DCAFE4E80",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00592C093732F844",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005E7C3FC960BC93",
+    "path": "",
+    "gameFlags": 32
+  },
+  {
+    "hash": "005F90432DA244E1",
+    "path": "",
+    "gameFlags": 46
+  },
+  {
+    "hash": "006705E7EFA8E6B3",
+    "path": "",
+    "gameFlags": 32
+  },
+  {
+    "hash": "0067C87B9A7A03F5",
+    "path": "",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0069418755BB33B1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0070BCE3C35ECC02",
+    "path": "[assembly:/animations/bonemasks/inverse_right_arm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 62
+  },
+  {
+    "hash": "007E59A20DAF5254",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008C48B14E7D3273",
+    "path": "",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00A885930D50B13A",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00B55D1AB2CB21F4",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00C189BBA8B49D89",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D686B675735064",
+    "path": "",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00EF9250943DD4E1",
+    "path": "[assembly:/animations/bonemasks/hm_run_rightarm_fireaxe.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00FCEE7F24D1756E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002C59B3D68D8AB9",
+    "path": "",
+    "gameFlags": 16
+  }
+]

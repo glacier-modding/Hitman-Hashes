@@ -1,0 +1,47 @@
+[
+  {
+    "hash": "00473D9E012A6FED",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_assassination01.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0082325730816151",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_copperhead.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0047E8264452DFDE",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0009DF615625CA9F",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_meerkat.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B19738996FDBE1",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_viper.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0062ADD54E22EDC3",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/mission01.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009215A91FAF7424",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00077D08E7737E25",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_tutorial_contractcreationparis.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AC819C13A4009B",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_whiterussian_01.entity].pc_worldmapmeta",
+    "gameFlags": 1
+  }
+]

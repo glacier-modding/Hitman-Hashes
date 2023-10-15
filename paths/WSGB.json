@@ -1,0 +1,712 @@
+[
+  {
+    "hash": "00A509C27206C3A8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/overrides/stgr_ai_amb_frskack.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0044A13623539C35",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/overrides/stgr_ai_amb_frskcln.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00908BB02206FE17",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameflow_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "002C256CAF57FF03",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_closecombat.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F33140CA3DAAB0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_gamemodespecific_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E2EBCF678F03A5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_gamestates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00C967390A33EEAB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_ghostmode.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 4
+  },
+  {
+    "hash": "0001495C8706292A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_hitmaninvision.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0080FC49000CBFC9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_interactivestates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007B2C3622087153",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_leavingmissionarea.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E0FF34FC69B603",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_menudifficulty.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0051BE5D114AC863",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_missionspecific_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "005D20388E5B1DD4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_momentstates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FD8C7F6819BF5F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_movementstates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00888DACC711F00D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_takedown_subdue.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F1A476CC1D5488",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_weapons_environmenttail.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F6C2743A4FFD93",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_weaponstates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00B8252AEBCB52D3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/vr_gameplay_outfitmuffle.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008116452B4E4FDC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ingamemusic_states/gametensionstates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F223AA3D87280F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ingamemusic_states/musiccore_ambientstate.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00184C832B4837E2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ingamemusic_states/musiccore_cinematicmoment.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BF28463C66AEDE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ingamemusic_states/musiccore_compstates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 31
+  },
+  {
+    "hash": "002739948A3453AF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ingamemusic_states/musiccore_s2_ambientbiome.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009B78C9521B5EF9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/mix_states/mix_compositionstatemixing.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E3576C5024AA09",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/mix_states/mix_isseason3.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001BBEE5AB5A13FF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/mix_states/mix_localizationspecificmixing.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00002D63A62A830B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/ambrosia/ambrosia_dream.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006D77125E136E5C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/prologue/arrival_ambience.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008C3FCFC6AF9C50",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/azalea/azalea_dream.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EC1A977629D6B5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/england/bulldog_aftermath.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003F3D31CE488C06",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/england/bulldog_aftermath_music.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006B4B8A7E4E5379",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/england/bulldog_fountain_intensity.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F528B1D1912643",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/england/bulldog_music_carlisleconfrontation.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0082F7834E55D6C8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/england/bulldog_rollingwind.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004ABBD398DB9EE8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/england/burialcrows_intensity.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A37990103FF650",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/cornflower/cornflower_music_effect.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005E0A18B0BAE321",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_mission_specific_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C3F6F00404C435",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fakecrowd_statecontrol.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D1A2269C5552C7",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fashionshowmusic_03.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007EC9BAC70AAD95",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_chillout_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0028C343257A4A3D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_closet_rattles.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F00F0D643D2755",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_deaf_maxintensity.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A5434C23ADA39B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_hasearpiece.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007D2D1F551A3069",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_introreverb.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003B47C43030A2D1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_purpose.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0073C5D3DEFC960C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_target_identification.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00470B75605C4F73",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_techno_rattle_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BC6DBF964E221D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/fox/fox_techno_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00479FA25A6D305C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/frangipani/frangipani_dream.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B7D07388A5FDF7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/frangipani/frangipani_race.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00291F79949F28CB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/gecko/gecko_music_lucasgrey_end.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0078779B2BFCBD09",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/gecko/gecko_music_opening.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B077F124B271B5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/harebell/harebell_dream.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007A03605E0D9D1B",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/hasicaearpiece.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00574A370DED4E2F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/hawk/hawk_snipermap_compstates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "007359766B2BAF52",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_cave_mineshaft.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0050043C45EDDE35",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_cocabushes.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004A805360C8FEB3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_constructionsite_roof.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00009643E3883EE3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_heartofstone_cutscene_isplaying.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F7E1F9A60C0CA7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_heartofstone_music_isplaying.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0061125DD9125902",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_heartofstone_music_playdrums.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F888978EBFCCC7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_heartofstone_musicintensity.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000E567A567590BA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_indelgadokill.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004EC521D6F09428",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_insideoutside.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0020C583973B67FD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_mansion_door.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005CD3E88E6C7AD7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/colombia/hippo/hippo_submarine_controlpanel_hips.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006C6FA2AA89C073",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/hollyhock/hollyhock_dream.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001D7336D8FB630F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_briefing.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FF460024FCD8DA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_dryheat_state.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003348B30330B8CB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_global_birds_level_state.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BE379E36A10DA1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_global_insects_level_state.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F19C1E92683D17",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_groaning_sunlight.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F3F80880666995",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_mixstate_lionsden.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0005D533C7CD50B1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_mixstate_privatetour.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CFA82344E487ED",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_mixstate_savediana.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00295065D1C7C6D6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_mixstate_startexperience.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E5A4CE6631A465",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_mixstate_yatesconfrontation.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00299EF732523537",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_mixstate_yatesreveal.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F616734D3BB889",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_music_customexfiltration.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FD12033F86D0B2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_music_lionsden.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00360739470E9648",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_music_startexperience.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B391414568E555",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_music_yatesfinalconfrontation.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BF7849093DB3E0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_silo_forest_level.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0024E2533C3A9DA0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_tango_moment.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00033E43BC6E3CB5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/llama/llama_yates_soeech.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006BBFD0513AFD5F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/lunaria/lunaria_dream.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009ADA191A2E2C26",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/lunaria/lunaria_intro.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004FAAD1FF96F11F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/lunaria/lunaria_mission_status.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008C7864DCA5F4CC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_ambienceducker_meetandgreet.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D9B313F9B130D5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_constantinharbour.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AB529AA8D5EB39",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_effigy_cutscenemix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0045B21284E91F2E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_effigy_technicianeavesdrop.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004F229AF9A36B82",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_effigy_zoespeech.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0083CD00DCD16C52",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_insideoutside.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00544CF452CABB8C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_meeting_eavesdropmix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002A3A9EB8E9CA00",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/magpie_wake_47incoffin.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E1B0FFEDC41AF8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/makoyana/makoyana_dream.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F015C9D5C44382",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/states_sepienza/mamba/mamba_concertstate.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00099F48AB3EE7B4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/states_sepienza/mamba/mamba_dialogueisactive.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0083D1CA1D586D01",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/states_sepienza/mamba/mamba_inbackstagearea.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B54678B56DFB4F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/miami/miami_racestates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C7F796E3042B6A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/mix_states/mix_importantdialogueducker.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0058D9ED69EB49C6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/island/music_celloandpiano_state.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F80ED5E55BA727",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/rat/rat_music_datacore.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0024A9BA13328EB2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/rat/rat_shelter_stategroup.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001B485DC1BC63D2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/bangkok/rockbandlocation.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004E0066E1719937",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/states_sepienza/sapienzamuteexplosions.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CAAC70D21F9D71",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/mix_states/scoremusic_vs_other.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00165B079A5519E9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/states_sepienza/seaplaneinsideoutside.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0059A250135E8F24",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/states_sepienza/copperhead/st_copperhead_filmrecording.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002D566A37534BF2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/maldives/st_gymmusic.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0082EFB508ECBDE6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/maldives/st_restaurantbarmusic.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FA2B583D59B45E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/gecko/stategroup_gecko_dx_47.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BFC6D2506A6FF7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/gecko/stategroup_gecko_dx_grey_processed.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E980105DE2D791",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/rat/stategroup_rat_core.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A0347553D4AE3C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/whitespider/whitespider_music_tension.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F0DFC44743AE21",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/whitespider/whitespider_virus.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004B4FF40C7D447B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/england/winddraft_active.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00428837139F9668",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_dreams.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00347585D06D3B14",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_edwardsconfrontation.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007AC28AB0FBBD2E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_commando_zone.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0060DFB357A0AC80",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_cutscene_mix_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008D544F64C66622",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_dream_mix_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009C2196BF8EBA5F",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_dreams_dx_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00779A64C24C9872",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_labtrainreveal.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0027E327B9AA06A8",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_flow.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009A86758B394A76",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_train_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00280689C65390C5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_nightmarestates.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F9F375F46814F6",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_train_biomes.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B8EFAFFE3BBA81",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_train_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0052C09EC01D00E3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_train_sign_dazed.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001DF6861B5AE730",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_train_sign_loudness.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00982DB3148AF2C5",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_tunnel_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0024670556FD41F7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/dugong/dugong_music_jungle_cave_state.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00012DCADEAC5B3A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/dugong/dugong_wind_exposed_state.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C7D921BA9F99B2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_cutscene_fader.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0054C5081030A3D0",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B90A5B4313D454",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_music_mission_status.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004B66043E12A8E3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F0842EB3B62BD7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_safehouse_areas.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008734242CF7E182",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_safehouse_envmusic.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00507A0D45B5F221",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_safehouse_daytimes.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
+  }
+]

@@ -1,0 +1,707 @@
+[
+  {
+    "hash": "0030424EA7244EA7",
+    "path": "briefing_adonis",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D59400B4AEA60C",
+    "path": "briefing_alabamaslammer",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DB68A6C8E492F7",
+    "path": "briefing_anaconda",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0053387DC7A0D8AB",
+    "path": "briefing_baby_flamingo",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00146B91B620C3B4",
+    "path": "briefing_baby_hippo",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002578A61C2E1A41",
+    "path": "briefing_baby_mongoose",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0033E85198BA6955",
+    "path": "briefing_blackrussian",
+    "gameFlags": 0
+  },
+  {
+    "hash": "002F1083648B9865",
+    "path": "briefing_bloodymary",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A7DC7636F8B2ED",
+    "path": "briefing_blueblazer",
+    "gameFlags": 0
+  },
+  {
+    "hash": "006D3DB41EACD822",
+    "path": "briefing_bramble",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0007ED4ADB080879",
+    "path": "briefing_brassmonkey",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0077E642762D201C",
+    "path": "briefing_bronx",
+    "gameFlags": 0
+  },
+  {
+    "hash": "00A4B3083EB3A5BC",
+    "path": "briefing_bull",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00760C2E381D4072",
+    "path": "briefing_bulldog",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001A6AF99DEDB49B",
+    "path": "briefing_bushwacker",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0060F955EB92EB74",
+    "path": "briefing_caipirinha",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001952B3F8F3A666",
+    "path": "briefing_clerico",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F607724124FDEF",
+    "path": "briefing_copperhead",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0068035C0BB641A2",
+    "path": "briefing_corpsereviver",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0026804AE60ED09D",
+    "path": "briefing_cosmopolitan",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00005DAA1C4840F7",
+    "path": "briefing_cottonmouth",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00294A2BF35CE2DD",
+    "path": "briefing_dirtyoctopus",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00AC91CFA744E918",
+    "path": "briefing_ebola",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0010DB4A89B8D9F2",
+    "path": "briefing_falcon",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005A82117C3FBBCF",
+    "path": "briefing_falcon_stoneknight",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000B0ACEC1BFBEB8",
+    "path": "briefing_flamingo",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CB7F2E6C315264",
+    "path": "briefing_flirtini",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00992DE49C0EBE48",
+    "path": "briefing_flu",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002335F258F3AAAE",
+    "path": "briefing_gartersnake",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F1F0A2CE2812F5",
+    "path": "briefing_gecko",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E6757122645DC2",
+    "path": "briefing_ghostmode",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0000771A9DB3DF67",
+    "path": "briefing_gibson",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DECCC7EAD23366",
+    "path": "briefing_gimlet",
+    "gameFlags": 0
+  },
+  {
+    "hash": "0061D375DD518389",
+    "path": "briefing_ginfizz",
+    "gameFlags": 0
+  },
+  {
+    "hash": "00F3AC68A1164F08",
+    "path": "briefing_goldendoublet",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006CF07CF75C7EBF",
+    "path": "briefing_harveywallbanger",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F92A102B843F64",
+    "path": "briefing_hawk",
+    "gameFlags": 44
+  },
+  {
+    "hash": "005D7EF938031F80",
+    "path": "briefing_hawk_stoneknight",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00DDF2FB255D4767",
+    "path": "briefing_highball",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C47C2CF32116A1",
+    "path": "briefing_hippo",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BB6887CDAA00EE",
+    "path": "briefing_hottoddy",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001ED32C5CF85ED5",
+    "path": "briefing_jockeyclub",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B51070331CB20F",
+    "path": "briefing_kamikaze",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006175721F240384",
+    "path": "briefing_kingcobra",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0081D76CC442894C",
+    "path": "briefing_kirroyal",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C39E11BF005302",
+    "path": "briefing_llama",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0021BBBA10A8778D",
+    "path": "briefing_lumumba",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006021C3B595A758",
+    "path": "briefing_magpie",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BC2015139AA729",
+    "path": "briefing_maitai",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002AB7898C53ECA1",
+    "path": "briefing_mamba",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00007E2DF2275E19",
+    "path": "briefing_mamushi",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0054B3AC25B4F902",
+    "path": "briefing_margarita",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002568AAD77F334B",
+    "path": "briefing_martini",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007F018276F608C9",
+    "path": "briefing_mimosa",
+    "gameFlags": 0
+  },
+  {
+    "hash": "00AAC10A91410C20",
+    "path": "briefing_mintjulep",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CAD5B23E0A981C",
+    "path": "briefing_mojito",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00ABC9076AFCDCC0",
+    "path": "briefing_mongoose",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F7F438AA5C7394",
+    "path": "briefing_moscowmule",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007A5768AC75B69C",
+    "path": "briefing_negroni",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00419E965FBCA259",
+    "path": "briefing_octopus",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DB5A1B08308FA1",
+    "path": "briefing_peacock",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0074E3675CCFA28F",
+    "path": "briefing_piscosour",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004D8F07F747040F",
+    "path": "briefing_python",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0007DB67E3876094",
+    "path": "briefing_quadruplerumandcoke",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008FF5E0952D8781",
+    "path": "briefing_rabies",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003DCA6B8B71D9E2",
+    "path": "briefing_raccoon",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EF536EE6F8F30C",
+    "path": "briefing_radler",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007768A8B14FCA8F",
+    "path": "briefing_rat",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00737B9604937E90",
+    "path": "briefing_redsnapper",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D3775C32A162FE",
+    "path": "briefing_sakini",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000CEC4966235E7A",
+    "path": "briefing_sambuca",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00999397FC7FE92E",
+    "path": "briefing_sambuca2",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008CD7BE79C4B4BF",
+    "path": "briefing_sazerac",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0036ACB7E7F1FAA0",
+    "path": "briefing_screwdriver",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F88A95C364EC75",
+    "path": "briefing_seabreeze",
+    "gameFlags": 0
+  },
+  {
+    "hash": "001593505575B47E",
+    "path": "briefing_seagull",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00377381DE23E2B4",
+    "path": "briefing_seagull_stoneknight",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00432A3623D3B207",
+    "path": "briefing_shandy",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0025CF34D2F8B423",
+    "path": "briefing_skittlebomb",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00861D8064309D9F",
+    "path": "briefing_skunk",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006925AD50886E7E",
+    "path": "briefing_snakebite",
+    "gameFlags": 0
+  },
+  {
+    "hash": "00AE9B65AF92D5D4",
+    "path": "briefing_snowcrane",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006416AB4CB3E36B",
+    "path": "briefing_spider",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000104CF36360CE1",
+    "path": "briefing_stingray",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004E240CB0529FF2",
+    "path": "briefing_tamagozake",
+    "gameFlags": 0
+  },
+  {
+    "hash": "00477492606A29C3",
+    "path": "briefing_tequilasunrise",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A0042220AEDE8B",
+    "path": "briefing_thelastword",
+    "gameFlags": 0
+  },
+  {
+    "hash": "0025F217C3102665",
+    "path": "briefing_tiger",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0038417137121279",
+    "path": "briefing_vesper",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CFA15BE6E500E5",
+    "path": "briefing_whiterussian",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003D36FA16F35B2E",
+    "path": "briefing_zika",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0026C16118913C66",
+    "path": "bull_secret_room",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F09F09B9C59F24",
+    "path": "debriefing_bull",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0099F3A8C676439A",
+    "path": "debriefing_bulldog",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0021DE50BEC371E3",
+    "path": "debriefing_flamingo",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DC828BEA96A73D",
+    "path": "debriefing_flamingo_e3_2018",
+    "gameFlags": 0
+  },
+  {
+    "hash": "005BA1376856AF29",
+    "path": "debriefing_flamingo_gamescom_2018",
+    "gameFlags": 0
+  },
+  {
+    "hash": "000448FE59797DDB",
+    "path": "debriefing_flu",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00940AD6B8BC886E",
+    "path": "debriefing_fox",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FC49099A042DE0",
+    "path": "debriefing_gartersnake",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A07B23998E1B89",
+    "path": "debriefing_gecko",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EDB8B4EEB7A1F9",
+    "path": "debriefing_hippo",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0097205216CCED08",
+    "path": "debriefing_llama",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009819CE06FA6602",
+    "path": "debriefing_magpie",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A6A33C56391FA3",
+    "path": "debriefing_mongoose",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DF4A4584DD2D0A",
+    "path": "debriefing_octopus",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F0092C90145F47",
+    "path": "debriefing_peacock",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C2BD4CDBCD8021",
+    "path": "debriefing_raccoon",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0051A2D3E3C445B0",
+    "path": "debriefing_rat",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002B8676081A51FB",
+    "path": "debriefing_sheep",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000CFA8EB2651037",
+    "path": "debriefing_skunk",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00944B72841D9E54",
+    "path": "debriefing_snowcrane",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0089C484538DE3E1",
+    "path": "debriefing_spider",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00014F8B2730C6F2",
+    "path": "debriefing_stingray",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002513C739E821ED",
+    "path": "debriefing_tiger",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00074923D2DD4120",
+    "path": "debriefing_wolverine",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009861E23018C985",
+    "path": "hitman_disc_trailer",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B68EFC47ABEA4A",
+    "path": "hitman_trailer",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00DE367E173F9784",
+    "path": "intro_gecko",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F8ECAFAD37159A",
+    "path": "intro_magpie",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0088522A17BEA184",
+    "path": "intro_skunk",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006985F909E241CE",
+    "path": "previously_on_season1",
+    "gameFlags": 0
+  },
+  {
+    "hash": "001C847463712260",
+    "path": "prologue_intermission1",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001F3B32FDBB1A76",
+    "path": "prologue_intermission2",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F1BEE16DE12E50",
+    "path": "prologue_intermission3",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00424D159E446D4E",
+    "path": "prologue_intermission4",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003A7112E59D261E",
+    "path": "white_spider_trailer",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00056B5418330190",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000E688B9D57D8BA",
+    "path": "",
+    "gameFlags": 34
+  },
+  {
+    "hash": "006BDB7A3B80C11F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C9D3149F7A412D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CA16D45FAC45B4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FA00A3BC1DFCB4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C895DC6BC401B4",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0051E7560B077FC1",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00DDA871EA200CCF",
+    "path": "briefing_dugong",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005B671BF9AFC121",
+    "path": "intro_evergreen",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DB3A1BD364CF08",
+    "path": "evergreen_campaign_lost",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008965D6DF86EB65",
+    "path": "evergreen_syndicate_defeated",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F74117F9CDA5C4",
+    "path": "evergreen_how_to_play",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BA38E48F56756A",
+    "path": "evergreen_campaign_won",
+    "gameFlags": 8
+  }
+]

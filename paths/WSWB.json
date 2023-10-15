@@ -1,0 +1,307 @@
+[
+  {
+    "hash": "00689A4BAC263BB1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/agilitymaterial.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0059B39BD6F2EF7A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/itemweapon.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0087E06E91C026C6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/outfit.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E20665001F47F6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/ai_hmarm.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002B785377A741A3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/ai_hmlastknowndisguise.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0071EE7BA7D18CE5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/ai_locationawareness_lastknown.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A0DDDC3DDE8F37",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/crowdconversations/female_character.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00861C3305DAE94C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/crowdconversations/gender.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D751B43F5B1784",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/crowdconversations/male_character.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DF37595D39D5F3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/environmentmusic/environmentmusic_track.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F1E8F57D7411B0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/footsteps_switches/fs_sweetener.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007AFCD992F4F180",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/gui/menu.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 17
+  },
+  {
+    "hash": "003096FFA8D5EBC7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/ingamemusic/ingamemusic_switch_group.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A188B1C14ABDC2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/paris/fashionshowmusic_state.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00C4141A9BBCEF84",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_azalea/switch_azalea_pig_statue.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006F4C15DF46BBAF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_bulldog/switchgroup_bulldog_alexainroom.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008B70822CEE8606",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_fox/fox_lightcube_color_switch.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DC1454917BFCE7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_sepeinza/switches_mission_assassination01/switch_band_music.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009DB23CE5FCA003",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/generic_switches/car_alarms.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00030F2B7C73DA33",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_ambientstate.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D0A82DA0B889D3",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_gender_switch.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A26950F407A33A",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_language.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0024596D1C275DE3",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_rectake.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E506DBB280035F",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006B1B884384DE78",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state_v2.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00647EF4DAEF9E32",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowdgroup_size.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00905316DF2B5CBA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_evergreen/evergreen_loadingscreens.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00428DE717370DC2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd/fakecrowdclappingstyle.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009B0021AD529318",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd/fakecrowdclappingswitch.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DDC711470B95A3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd/fakecrowdgender.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00AE02E9118563C7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd/fakecrowdlanguage.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E596B2EB680D4F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd/fakecrowdswitch.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E4F3D3CA22B7A7",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/fibrewire_material.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005A5C9E372948AB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_hawk/hawk_deathgrunt_gender.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00A1A7E3371930F1",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_key.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FE18E7E49E4225",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_play_variation.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FF7D50DEC8718E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_tutorial/intro_001_loopmain_sw_01.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00A462BC397EA2AE",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musicrecording.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00740785DABA33E6",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musictrack.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0022F2B894BA83F5",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/snipermap_escapecut.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "000678694BF37C32",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/switch_band_music.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0016D9B2B15532F1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_magpie/switch_magpie_harp.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CDCD5B35D361CA",
+    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/test_buttonhold_styles.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00F1CDEE973E0986",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/vr_switches/objectmaterialtype.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0083999D7DD3B357",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/vr_switches/vr_melee_whooshtype.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00438D875DE5DD53",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/vr_switches/vr_outfit_hands.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DA896C2F1D015D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons/indooroutdoor.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0032526CB7C2C941",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons/normalsilenced.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E04FD82A857731",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/character_weapon.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000C1A581DF4E1C3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/exotics.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00A4FCEC35AD6CF8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/fire_types.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000402AE5191DD99",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/headtype.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006F15E425144E49",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/impact_type.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F678A0DE445545",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/location.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "001E5308EE13B81E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/tailtype.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007DBDDE11A6D5EC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/weapon_class.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00125DA4F46721ED",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons2/weapons_family.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000D1FD872A2CB0F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_evergreen/evergreen_loadingscreen_mild.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0093FAF520584425",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_evergreen/evergreen_loadingscreen_hot.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C041B262BA9A3E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_dugong/switch_dugong_slap_contest.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D66493D7D9104E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_dugong/switch_dugong_radio_transmitter.wwiseswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
+  }
+]

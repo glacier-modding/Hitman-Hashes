@@ -1,0 +1,4222 @@
+[
+  {
+    "hash": "006A26A685DA635A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/globaldata/global.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 46
+  },
+  {
+    "hash": "000233C2F76FD630",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/gecko_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00044E020F982E25",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/suburbia_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000EE13D85D811B6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/miami_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001147744AF1F5D3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/mumbai.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0011B20C7F889679",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/bulldog.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00128A7091CF12A2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/ambrosia.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00139947AF9ADD3C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/hokkaido_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00163FB0840934A4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/makoyana.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0017B6DB6AF1B9E4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/hokkaido.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001A9A11B40948B1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/mumbai_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001C74D59C577703",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/island.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001F7D7EA9A77139",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/colorado_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0020F8697F668C57",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/island_convoloution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0021E65532DED154",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sniperchallenge_hawk_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 36
+  },
+  {
+    "hash": "00244209C5D5E71C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sniperchallenge_falcon_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002A3AE29BFA6B93",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/paris.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002ABC4B6E93F255",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/paris_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002BECE7688BF8B1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/bangkok.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002E85BC93584A8A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rat.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0031878AE80F872F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sapienza_ebola.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0033087BEFEEE18B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/elusivetargets.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0035C3B6C0519DDC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/colombia.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003AE21F5625A55C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/newzealand_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0045930695EF008B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/mumbai_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00466F170D6A18E2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/paris_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004C20CB4AEB0573",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/hollyhock.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004D0BB2880E3086",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/miami_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004F884DB5DACF3C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/newzealand.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00532BA6EE35027F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/raccoon.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005441481E5DD812",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/suburbia_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005731A0439FDF16",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sniperchallenge_seagull.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0057DC214FB641E0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/bulldog_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005C3230CCB0CDB8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/azalea.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00693FE966995764",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/llama_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006B4C80386438EF",
+    "path": "",
+    "gameFlags": 18
+  },
+  {
+    "hash": "006D441D7EAE1F20",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/lunaria.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00701DC2C9B04F85",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/frangipani.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0071D59E384CEA62",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/colombia_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0072F072DACDFB3D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/suburbia.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007887F2E2925B45",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/marrakech_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007A91F801C60B15",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/bulldog_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007D227B726678CD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/llama_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007D766B1B6B6EA2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/marrakech_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0081672E308806C7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/fox_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0081F9B9C47CE344",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/smoothsnake.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008503DBBCF9B4EE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/llama.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0086AFC9B43DF1E9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/globaldata/main.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 46
+  },
+  {
+    "hash": "008F2C765E4704C2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/stingray_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00901B1F566F9E4F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rat_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009436A45640BDEE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/polarbear.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009443E34BD4F497",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/colombia_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00959FD5CFE20EC8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sniperchallenge_falcon.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A27E2389B1BA40",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/raccoon_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A2AC1DCB3AD858",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/harebell.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A5F0DBA8EB9488",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sapienza.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A740FB993091A9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/miami.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AAEA1F5215C588",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rat_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00ACA6A33F8F026D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/bangkok_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00ADCDA2C2F63F36",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/newzealand_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B1DC388E3C02C5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/polarbear_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B5CB492B074D6A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sapienza_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B6957E99B8F453",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/fox_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B9AD672169F981",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/gecko_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C7C59D638D67F4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/fox.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CDC96132089B39",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/bangkok_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D1FAA906F871B5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/marrakech.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D26DAB4CD42109",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/stingray.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D500096D32D212",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/wolverine.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D5D1AA56B7F5CC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/hokkaido_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D5DD760764A86C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/boot_fsp.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00D63DA408C1369A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/dialogeventpreview/sweet_templates.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00D7C2CF036F1161",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/tutorial_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D8CEBB8186F630",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/colorado_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D97F9B4676BA18",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sniperchallenge_hawk.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00DB9FD8A141423C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sniperchallenge_seagull_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DEB1C8DC44CAD1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sapienza_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E004D2F6584FC9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/island_convoloution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E1BE0D75B62504",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/colorado.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E23D0C1165B6AA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/stingray_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E3F96C25045CF3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/polarbear_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E49B0F4770E76D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/test_sound.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00E7D270E07428E0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/wolverine_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E880756ED03E58",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/tutorial.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00EC83FDFC5DA5DA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sapienza_mamba.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F56AB5EED2351D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/wolverine_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F6884E43CED807",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/gecko.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F84681708EC7B7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/tutorial_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FB3676DF09656B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/raccoon_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0046AF68963231D9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_stalematetnt_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0090EDD0461A7BA3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_gnshtinvldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0043A28FDFD33697",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_stalematetnt_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005095DF2714D3F2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_ar_weapwrn2_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0058C4207B953355",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_sentry_denyentry_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F0E52A56B6AD99",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_clsttnt_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0022599462154458",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_gen_transportgreet_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008E0A20BCDBC311",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_inca_xplnwpn_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0068A71702CCE8F6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_noway7horrible_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BC29EB7E3F62D2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_seedthinvldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F58EAD38AD2482",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_clsttnt_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0050D5C63A1900BE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_ghostask_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005600698591A452",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_backupcll_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F02F06C359F3FE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_humshldrls2_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DC6F6EA55EBC5F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_humshldldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00625B564684EE9A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_47supersize_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002C0F8996B55865",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_sentry_47loiterack_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000FA8725659EA84",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndagtdldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CD6F9BEA83670A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_frskack_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ECC15475115639",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_humshldrls1_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E923D0BF4A91C2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmvnshd_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CC3B38C4E950DD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmcvr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AAC4EE20E8AF35",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_incu_cralrmldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FC08581E36A1DB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_frskcln_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0049C93240EC11D7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_noway6serious_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D313F753B22157",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmflnk_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D06A2ADADCAE80",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_sentry_frsk_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E90FCFD34FBEE9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndhmknwnldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DDAD82C5E67C96",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/weapons/fol_firearm_reload/fol_firearm_reload_hk416/play_fol_reload_hm_hk416_reload_clipin.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B56EEEAE960F67",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_frskcln_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00837680226990E5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_triggerthealarm_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000839F5DF154733",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_sentry_itemrequest_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BF840E548DA623",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_humshldrlsfem3_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E3DC9A627151DE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_seedthinv_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B1232DCEEFFB84",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndagtdhmknwnldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000B8D7E62BEDA2D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndrsp_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ABD3D312705A37",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_triggerthealarm_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FA18B97CC9D8A9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_xplnrsp_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00733E41CBCA4E4C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_lnglstrsp_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00403E104E414FE1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_indedbdy_prmtrbrchwrn1_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003FB84981D8E8FD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_recursvrrsp_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EE60BECBE33718",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmmsstnt_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CFDD97B4D63770",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_ar_weapwrn2_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009220FC6B885492",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndagtdldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EFF9092F39E571",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_humshldldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00210180B6600C40",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_frsk_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003666EAA4074082",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_frskack_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001DE4AE2038E2C5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_sentry_itemrequest_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007E4DDF88A8212F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_seedthldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0069D2D9B6E58776",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_sentry_frskrequest_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0071481666BF46F4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_way6serious_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0067131D3DEBE5FC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_chckcvr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0089EC52A9298791",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_inst_hmentxit_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001C7D09CB2A518E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_seedthldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D86275A5DD9717",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_hmtnt_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E3746B10FC460F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmvnshd_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BC85A314B39AAD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndagtdhmknwn_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B0F41BABAA2B08",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_triggerthealarm_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C7FBBE5ADECD0A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_fireldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00475E2DAF371648",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_sentry_frskwpnack_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00896C605BE33DD1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_sentry_accepted_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005E4D1E38A5DE85",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_sentry_itemrequest_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00486F294C9D60A1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_47mpty_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A30C067C2D90C2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_incu_cralrmldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ED7124E4AB69F2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_clscmbt_tnt_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0085B09919AA8C75",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_clscmbt_tnt_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E5338E163EA898",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_xploinv_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006C2CEA31A88080",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_ar_wrn2_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E7C1682F5C7304",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_frskwpn_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A386D69D07AA32",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_seedthldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E0B5C4445774EB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_sentry_accepted_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00681D857E6AF563",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmkll_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0010868BA3FB64F4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_triggerthealarm_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00428D91E8B4D2FD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_sentry_47loiterack_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006FCBA059A600C2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmshrpshtr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A2A4F9C89292B9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_lnglst_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0016216A5FBDD651",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_ar_fkesrrdrtnt_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002089CCB3598BAA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_lstsght_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F9E13F218931D5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_47mpty_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00687F230B5A5B2F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_47rcall_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009B873B234A52DB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_incu_brk2rdo_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FC121EF9CE629C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmkllciv_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C1AE5EA0EE119B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_humshldrls1_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FDB46D4579F874",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_sentry_frskrequest_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00420A6884C3642D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_stalematehold_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CC43067D394036",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_recursvrldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0067DA13B9F5F285",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndrsp_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0099DEEA85127399",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_dstrssinvldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FC94F60F79FEE3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_chckcvr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005042FC4F2F3FDD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_nitiatehmknwn_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00543D6CA0BBE8BC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_recursvrinvldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004835428241AE58",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_ar_fkesrrdrtnt_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DB50E0B35B1FB1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stnd_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AFD271348DD249",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmflnk_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0062493529EAC42A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_humshldrlsfem1_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006C286118564FE3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_indedbdy_bodygone_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E00C500656B681",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_dstrssinv_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AC37C749C09AA7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_indedbdy_cntnack_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001239D1E281CA4B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_gnshtldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ACB4A0DD655B25",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_lighter/item_lightergun_foley_lighteron_play.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00618F148FB3CC13",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmclscmbtack_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005BC45C5F946F42",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_humshldrlsfem1_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BB9E7475176CFD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_fsebx_saback_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B0ED9C80FBABD5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_sentry_frskwpnack_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A6CB167604F11B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_relod_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EEA59D3058D3AB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_sentry_frsk_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00968DDDA3324804",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_baddsg_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F5C6D285674E31",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_lstsghtrsp_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B58E0D55E92F79",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_recursvrldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002A38B6339E98DD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_lstmnstn_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CD51334D9EA6BA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_sentry_denyentry_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00927A66D21EDC5D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_indedbdy_prmtrbrchwrn1_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00950ED1C48C5336",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_seedthinvldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A82993ACCC4819",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_ar_weapwrn2_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0070DDAD476D7E0B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_fireldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00642B350473F247",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_chckcvr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009FF253E9B271D1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_fire_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009ADFFD14DA2547",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_xploinvldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0097A4D5C8D8DE4F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_gnshtldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AF8F8363300870",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_47mpty_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006AA2B0F730D1AA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hold_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0062990C20D08E15",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_xploinv_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00710BE77E3FF87D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_noway2kidding_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BFCA2FDC31F059",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_lstsght_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D7A1364D71F400",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmheadpopr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EC1A522A428523",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_incu_brk2rdo_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FDBB4D2E8E9121",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_recursvrinvldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B9F087F2E2769C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_sentry_denyentry_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C546300013B11F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_incu_brk2rdo_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0010A677BEE987EE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_hmtnt_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00382778A279A115",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_relod_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F49CD2A0FE36C8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_sentry_frskwpnack_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A04B971F05FB18",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndhmknwn_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006A59F6123FEC20",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_way3joke_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0016C0887576A0D6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_idle_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000F368128A823D8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_recursvrinvrsp_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00596C6CDBDAFA6F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmmsstnt_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00736AD7FD130ED0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_stalematehold_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007BDC84C45E0193",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/paris/3000_fashion/3000_handler/ds3310_opportunitytriggers/play_ds3310_opportunitytriggers_diana_002.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FB1F37CDDA6F6A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_indedbdy_prmtrbrchwrn2_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AB1B95562AC58A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_hmtnt_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0044D660E5460BE4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_sentry_frskrequest_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FBB0EE130DFCA6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_indedbdy_prmtrbrchwrn2_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0065F36AF7270CE5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmfire_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B778B316FA251B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_lnglst_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B6365DD7FED7F3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_backupcll_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E064A50C91B638",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_frsk_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007F102BDD7ECD53",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_dth_snore_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0034BDBD6C1F78ED",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_recursvrrsp_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005756A12AE797CA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_ghostask_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000668657A12D5D1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndagtdhmknwn_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E8BA04D868F4A9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_xplnrsp_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F083408A6726E4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_fireldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FC059BD419C177",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_indedbdy_47asgrdack_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0081E21ABE26E97B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_lnglstrsp_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E003F4A4009295",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_srchldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0048B3EF0AECCFB3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hithm_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007EC1065A66616A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_indedbdy_47asgrdack_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001FB13A565E97DE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmvnshd_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A5331B7068DCC3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hithm_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001D38E5C277F5D5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmkllprptss_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0099C0C7A0644749",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hithm_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C4D1D36065D169",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_recursvrinvrsp_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008EB6D74A3ABE9C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_indedbdy_prmtrbrchwrn1_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0046FC34851240EE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_inca_47rcall_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C65E9347C86566",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_humshldrls2_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005BA2704CD3812B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_incu_civcmnd_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F48A7925337C89",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmcvr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0062589577E95C38",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_indedbdy_bodygone_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008BBD7CAC977012",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_seedthinv_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ACACF188D5F820",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd02/play_dth_snore_bdygrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00313912A38F8030",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_idle_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DE9F2C5B47BC82",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_frsk_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00399A68A95832C4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_triggerthealarm_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002E6AF55742AC16",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_indedbdy_wakenkdldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000021E35C87B897",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_lstsght_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0087610AA7EA118D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_sentry_47loiterack_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004A5DD45DCCC66F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndhmknwn_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0024AE5E3F311DB9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_lnglstrsp_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008223050781D8C7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_sentry_47loiterack_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001E2361AD6E15E9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_fireldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002174D520EE019E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_recursvrldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0070124FDEC35F89",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmkllciv_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0086530D6647547D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_seedthinvldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DDFA4375E9C56E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmflnk_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008F7FF9C939C824",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_seedthldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C8E5EF0C45332B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_noway44real_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006EABD33B225824",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_sentry_denyentry_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005E6A5CBB6E7EBE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_humshldrlsfem2_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0026100340DD97C4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_gnshtldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B4D3C9496FE1B4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_humshldldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000BDF9FF03D27D6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_humshldrlsfem2_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D22B3747909D14",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_fireldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F989578E6D1B09",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_ar_weapwrn2_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00480BC542D8C014",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmclscmbtack_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0007435178C63B96",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_gnshtldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0046A463691E52DB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_backupcll_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007000A03A61692F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_ghostask_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F0F19026E9B778",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_indedbdy_cntnack_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00163344C806AB88",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmkllprptss_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E05E3FC7609505",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_recursvrldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D9F1791E5EEE96",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_humshldrls3_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D7725161D76DC7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_holdldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0081D1E696208733",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_holdldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0002B7A8B201EE57",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmmsstnt_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00739B22FEC391B3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_triggerthealarm_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004894BB4A44CBA1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_sentry_frskrequest_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006E5BB45D12994D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_lckdwngtoutldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00312FC25F099A41",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_vnttnt_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C83D9F2D84EBC6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_baddsg_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000EF539BB4F9C9C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_lstsghtrsp_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004BAA1C13744D8F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_humshldrls3_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A17ADB0E8867D4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_sentry_frskrequest_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00639E1685A64D08",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_relod_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CDC1D9055BBCA2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_cmbt_hmkll_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A5398F16650D20",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_dstrssinvldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007B435A331C3CC5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_sentry_denyentry_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AA5D625B6CE346",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_humshldrls2_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0051CB90C54BBFD2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_indedbdy_cntnack_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DAE8E7DFF748CA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_incu_brk2rdo_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0049233C5C23A7B2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_sentry_itemrequest_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DEF081DC78ACB1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_frsk_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002D70AF2B81EBF9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_dstrssinv_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00564CDD44F96E57",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_backupcll_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E302ABA2CB925C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_hmtnt_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002F8FEDD40B0232",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_brk2rdo_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004A1D4D9BA83830",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_sentry_denyentry_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00932534C8E059D2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_lstsghtrsp_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B38FE964822373",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_humshldrlsfem3_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BC40B253DE5E53",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_cmbt_scrm_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001F65A09892A375",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndagtdhmknwn_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004AAC40C899BA74",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_tkdwnldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00036A4FDD64E8D0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_47rcall_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ACC80A91FFD9B4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_srchldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F42E6DA8768573",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmheadpopr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FB24DA5FBDF162",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndhmknwnldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C7C99EA6E7ED11",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_gnshtinvldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EE400DCA83E2FF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_recursvrinv_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007D19E978B2B495",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_sentry_frskrequest_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006E8550E176DAE8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_indedbdy_bodygone_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008B73A244F68FBE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_nitiatehmknwn_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000DC27FD1092785",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndhmknwnldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00666F4F4C2E582E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_idle_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0063B38724462A39",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_vntack_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002E8812C966A50E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_nitiatehmknwn_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F4D08386196767",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_way1_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0034EBA67C524A1A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_indedbdy_wakenkdldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003C10A4ED0810E2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_vnttnt_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A9CACBF9094777",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmkllname_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0022F1CA3061AE3F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_sentry_accepted_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000DCCBCF42A88A8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_stalematetnt_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002559A020D0A618",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_sentry_47loiterack_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007A060794D76CA7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_dstrssinv_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F5F0006AE61019",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_gnshtinvldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C2B2FD399F1362",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmkllname_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D217067D19F07E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_frskwpn_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C072946C0AC090",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_vnttnt_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007241300893DA0B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_sentry_itemrequest_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DCB603538B6991",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_way44real_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00093CAD987BB111",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_coincurse_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0088DF018C94D4F9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_sentry_47loiterack_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D00C9B8669CB03",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_gnshtinv_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00158DB27B3F19AC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndagtdhmknwn_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E1714869F98B32",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmkllname_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002D4FD318542110",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_frsk_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E9BEAA4A14C389",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_recursvrinvrsp_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000AF2636B66E1A9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_indedbdy_prmtrbrchwrn1_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000225638226386D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_humshldldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003B28BD2F8439B0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_lstmnstn_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AE903BCA207485",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_xplnackrdo_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007D820FA9E55F46",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stnd_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AAD79CC4488FC2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_frskwpn_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001BAFF90107C3B2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_lstsghtrsp_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B07DFA56EE32AE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_clsttnt_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0007C236AA2C73CD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_xploldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DCA6C02BD69319",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_xploinvldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0060E40AB5F1791E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_sentry_accepted_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009057163533A710",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_ar_fkesrrdrtnt_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A1A956B47659DE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_47supersize_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0074D05C451E1A14",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_humshldrlsfem3_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0007720A2BE25C32",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_humshldrls3_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D4AC106068AC7B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmflnk_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006E5CE674805B0D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_xploinv_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E4062E93FEE82A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndhmknwnldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000E92A2703E63E5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_lnglst_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BCBB659A7C2D8F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_tkdwnldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00021B435C8E5FEE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_sentry_frskrequest_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005388C723989943",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmmsstnt_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0098F00E4AE39CA7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_stalematehold_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004CA314006A28E0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_frskcln_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008B5A4E49FB7B8D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_47rcall_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ABDE5735C06FBE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndagtdldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00081B1D05E23221",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_frskwpn_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003977D02EA3179C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_gnshtldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AE379EA7D79A5C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_gen_hmthere_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F580CAD95B7815",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000C5579A9571DA5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_xplnrsp_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C41A175D0AF65E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_stalematetnt_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E930BF034C0F55",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_xplnrsp_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F8F22CCB75ABEA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_incu_brk2rdo_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002116826C086EE2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_sentry_accepted_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0083097FAE19913A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_gnshtinv_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00077E90B930DFA0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmshrpshtr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0002862E10841C0F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_humshldrlsfem2_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C76069B14AB04B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hold_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E30FD5A615F3F7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_xplnackrdo_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008FC6776CA08492",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_seedthinv_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002DA8D4E8EFB81C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndrsp_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A51C426A61B211",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_noway3joke_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00524271843F4824",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_sentry_accepted_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D4CFA02B337103",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_holdldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F2B9E6AF29A2A8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmfire_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009454CB625280F4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_recursvrinvldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002312FBA1D69759",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_lnglst_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D362DCCB605E0F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_recursvrrsp_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0085E83BFEAB2217",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_humshldrls1_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A8CA99B3465ABF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_vntack_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003252D4726B39C1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_lstsghtrsp_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0092EFBB7EAF890E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_xploinv_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BA5CFA51FCCB15",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_humshldrlsfem3_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0085B2F97F007266",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_indedbdy_cntnack_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E443D090E3E6E0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_cmbt_hmkllciv_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00836A6AA5BA7AE0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_nitiatehmknwn_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007E524C18F0330D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_fire_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006965D02574B1AC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmkllprptss_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0061209DC2BCE68F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_seedthinv_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C356D06755CDDE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_recursvrinv_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00181E275743CBE2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_clsttnt_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00321C8051DBA299",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmshrpshtr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D2708F65752578",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndhmknwn_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001DA49D9B0DBAFE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_baddsg_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006E22A263FC401C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_humshldrlsfem2_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006C8B39DE32AB2F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_vnttnt_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0032BFF6F15655B8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_ar_wrn1_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C65B8F1E8A4AE0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_sentry_frsk_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005BA47A8BBC10F6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_backupcll_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B719EBA1CA5659",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_tkdwnldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00176BBCBD802214",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmkllciv_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008AB9192AAB6A97",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_hmtnt_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E22B98AC62DECF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_ar_wrn1_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0031D8C4A865327B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_vntack_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00387E2E30FDB9A2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_holdldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DF6C0DB2F2E869",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_xplnrsp_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F62FEF141D7FBB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_recursvrrsp_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0042215BB20CDF52",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_incu_cralrmldr_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006663312089DCB7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_xplnackrdo_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0081EDF058D41EF3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_stalematehold_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0001A549765811D5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_ar_wrn3_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B8CEC3A2E85D47",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_seedthinvldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0014062CCFBC2C6C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_fire_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00431BBC9B44ECD3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_incu_cralrmldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0041D010AB7D536E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_gnshtinv_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007C0EE93AA5805B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmshrpshtr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00886D3204DFB9C3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_47rcall_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E5B5319C596332",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_indedbdy_47asgrdack_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D7D71FA5B9D2B3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd01/play_cmbt_whmp_softgrd01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0061F123E578DFC1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmheadpopr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001591F0CBFE4CC3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_lckdwngtoutldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006CD9CB376C69EC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_ar_fkesrrdrtnt_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E434082D82F31C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_dstrssinv_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D9E24027DE191D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_47supersize_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0025B34C300DC90B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_indedbdy_47asgrdack_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B8C818CDDBB887",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmkllprptss_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0001AC7E29BA4F43",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_ar_wrn2_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DB3F4B8BA852A2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_xploldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A03B0CE3491345",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_humshldrlsfem3_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00198406F5147397",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmheadpopr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007612A980C53601",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_ar_weapwrn2_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003B2422F639E941",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndagtdhmknwnldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00975235FC0F6392",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmclscmbtack_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E0978BE2BB0885",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_lckdwngtoutldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00371556C3CF016E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_incu_brk2rdo_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A9721012EFB148",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_humshldrlsfem3_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002D709A8301473C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_indedbdy_47asgrdack_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D52E34EB3EE067",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_gnshtinvldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AF390406A30ED3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_clscmbt_tnt_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CE14804CC5790B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_lstmnstn_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002DCF0D20C80044",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmmsstnt_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007C66B7E761FC94",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_xploinvldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0009FA8D37B6F2CC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_sentry_frskwpnack_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003755A37E01C97A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_noway5dntbeliv_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0092811F860DAC9A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_dstrssinv_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FF18A0704E9FAE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmkll_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006E9C9758288334",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_fire_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F3C71279EBB466",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/effects/electricity/highvoltage_sparks_play.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A82AF06790C5D4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_stalematetnt_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FB747DD008FADC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_ar_weapwrn2_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F2A3DF87AA6B7C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_frskack_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0068319CA650A26D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_incu_cralrmldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004A0B5E0EF06CFC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_holdldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00745C4E7C4D578A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_recursvrrsp_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009BCBD8D3DA71FE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_indedbdy_prmtrbrchwrn1_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F13FE7E4B606EF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_indedbdy_bodygone_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000E666630B4EECC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_gen_hmhere_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003C3C38167CAEF6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_dstrssinvldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001EFD9236606FE8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndagtdhmknwn_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0066E34C42B1A092",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_gen_transportgreet_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007314292E4A8243",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_nitiatehmknwn_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0087FA2526AF338B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_backupcll_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005D73C2CEFB5041",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_frskack_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005CA95A6555AF98",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_clscmbt_tnt_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009E2AFEF427ADAE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmkllname_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B3676D0D3A77C6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndagtd_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C793CE455994D9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_idle_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000A3D55C5B9ED33",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_inca_47rcall_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00674C372E7E9C09",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_indedbdy_prmtrbrchwrn1_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003F2913D699DA3E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_fsebx_gofix_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D631CFC2C78944",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_recursvrinv_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000FF2ECF6A4B2EE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_recursvrinv_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0057FF8EBBBFCB9C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_sentry_denyentry_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F9D5C45F7D380C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_dth_snore_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009246A215D19706",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_backupcll_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0040618E50E5DA60",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmkllname_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DD538361D09E7A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hold_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00170E7F847273F4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_lckdwngtoutldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002AD28295F924CA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_indedbdy_prmtrbrchwrn2_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00068565DF613EE6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_sentry_47loiterack_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0057B79420237B62",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_sentry_frskwpnack_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B683433D1B3F89",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmkllciv_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A418CEE724B1A8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_ghostask_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C90214A0C48B40",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_triggerthealarm_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B6CFCCCCA77455",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_indedbdy_prmtrbrchwrn2_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F3DE884FF32C22",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmcvr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0005B028677C83F3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndagtdldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005589D2A495E358",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_sentry_frskrequest_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007F465D6DD32AB7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_lstmnstn_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000F67BE02FA4705",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_ghostask_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D18B66D94B5CFD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmcvr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0076CD0B86034DCA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_indedbdy_cntnack_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0030A83AD99A7902",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndhmknwn_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000B95236712C4C2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_humshldrlsfem1_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000F26D3333F5816",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndhmknwn_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001A79CB7BF74464",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_recursvrldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0018524C0BD58463",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_lckdwngtoutldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00405799FBC95899",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_curselow_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000CCDD630B57639",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_ar_wrn3_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009245B29A969E34",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_chckcvr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D4401C73F3FA6B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_idle_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0071611065C0DECC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_incu_cralrmldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00037147F9E2B970",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_incu_cralrmldr_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B2752A38C27469",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_vntack_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C8DAF5E416B848",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_stalematehold_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E0A8B13C149ABB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_sentry_frskwpnack_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008537CAB40B98B3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndagtd_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0044BB57DEE7C7FC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_vntack_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EBB577A7FE31D8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_incu_cralrmldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000EE6013FD94719",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_xplnackrdo_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0083A8B06D01FBBC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndagtd_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002BC4D9AB082525",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_triggerthealarm_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0011D23D629C476D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndhmknwnldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00768AA5549D18E3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_clsttnt_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002E748A87122EBB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmfire_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B11D36613AEECD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_relod_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00386972F10EA4C3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_indedbdy_47asgrdack_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009AECCF5FB5C656",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndagtdhmknwnldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004CCA447AC31E28",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_backupcll_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0001EF2F7F2BEEC1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_humshldrls2_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B28C50CA417724",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_ar_wrn2_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00559966E03B0A0C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_fsebx_fixed_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B28E2831B86C2C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmfire_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007164656C265FFC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_fireldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F8AF6D16A3F553",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_humshldrlsfem1_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BA16B76206934C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_backupcll_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009E99505CBBB3D8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmflnk_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0019932CC3B46A95",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_indedbdy_prmtrbrchwrn2_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B6172DC392550D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_baddsg_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0031DBC94B57C1F2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_recursvrrsp_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0012F82079C793A9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_dth_snore_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0038FBD8EF44021A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_dth_snore_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0037737E93FF57F7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_ar_wrn1_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CFB199D9B4022C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_clscmbt_tnt_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0018E69153140874",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CB0BBC84FF590C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_idle_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007ED124A2C0B9F0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hithm_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00497573A1462E26",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/paris/3000_fashion/3000_handler/ds3308_id_sheik/play_ds3308_id_sheik_diana_001.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E47140AE3C81BB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_incu_civcmnd_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00615963F72A896A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_way7horrible_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0039FEE02A6E51C8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_humshldrls3_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C192BED4980AAD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hold_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00682DC4729DBA92",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_srchldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0020FB1BD7330BE3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_xploldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A09AF8FEFB71A8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_humshldrls3_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00626FE3CEBA9604",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_way5dntbeliv_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ED9592B6B5FA28",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmcvr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AA88D061D1A7AA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_ar_wrn2_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004C60506970E69D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_triggerthealarm_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AA9B98263BA02D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_indedbdy_47asgrdack_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001E17E0A04D5DCB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_grttrgt_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AD02ADE3317C81",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_seedthldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00584110533BD0A3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_lckdwngtoutldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ECAC736E4F00A5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_incu_civcmnd_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C998AACDAE6378",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_indedbdy_wakenkdldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0081C7FF8F26A45A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_recursvrinvrsp_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FF2466088DD14F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmclscmbtack_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0044034E15338E7F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmcvr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00486C4A8B42EE06",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_cmbt_whmp_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EA5C28061CFB7C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_ar_wrn3_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008BD2B96F9ADF95",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_triggerthealarm_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ED1FA4EEFDBEEA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_humshldldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CAED58B486C412",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_ar_wrn1_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CA9FB5E51B1D01",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stnd_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AC7D2B4495E894",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmfire_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0020225AE4149484",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hold_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00340F134B0EBEFB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_ar_wrn1_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FC6A37F287C6A3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_clsttnt_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D4317A6EDB4407",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_lstmnstn_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0074A1F78EBFAF99",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndrsp_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CEED9EFF91DE3F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004324CE8B8AC4A9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_recursvrinv_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F753F0728379F9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_dstrssinvldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004D70E7A5975539",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_frskack_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001074A48203CAB5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_ghostask_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005B0F7E8C8AAFFB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_dth_snore_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0066554EC40A82A4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_triggerthealarm_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002E6A624ADAC7F9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_noway1_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0027D1C733D99436",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_frskack_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0086673DEE20FE7E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_seedthinvldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00219DEF966E8FDC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_xploldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B97878E404F5E1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_humshldrlsfem2_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C24FA662CCCD75",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_fsebx_fixing_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006D9FF08ABE15C5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_humshldrls1_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F05C2A96B1C7DA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_indedbdy_47asgrdack_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0009C13E5D20C2DC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_indedbdy_bodygone_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002C073BC9188DD1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_gen_gthlpld_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00822774E209792F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmvnshd_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003F81FAE1E3DA0C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_fire_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00796AFF678C8D9D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_gnshtinv_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0078C1785806C2ED",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_humshldrls2_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FAB087639ADEF9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_ar_fkesrrdrtnt_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008D169658DA3283",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_relod_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F2457DF8C5EA37",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmkll_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C8DC81521C6C57",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_incu_civcmnd_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00541B7E5F51A1F4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_humshldrlsfem1_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00970CDC7925A2F4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hithm_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E0C2FBE72B516C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_humshldrls1_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0027AAF85CCCDBA9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_47mpty_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0050F4D5D44BE5AC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_gen_transportgreet_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009726E672BF53F7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_brk2rdo_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0065CBF742F63588",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_47supersize_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C3237175578D03",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_inst_hmbzstnd_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E60B0B896F0E8E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_sentry_itemrequest_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A97E855000BFDE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_backupcll_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0008EFF62AB24DD0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmvnshd_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008071AECB979DA5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_indedbdy_wakenkdldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00675112BFF73AEE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stnd_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AD81216CFA3CCB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_xploinvldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A398589E74DAB1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndagtd_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006FAD28C4C03DD4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hold_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009C471B2546D856",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndrsp_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006AC7DDCAAAE702",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmfire_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007A6626FB5D4DD3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_lnglst_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00953CA9B4A3F82D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_lstsght_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F7AACCF676F11F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_recursvrinvldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000B3A5C9678F2CD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_gen_transportgreet_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E16C7036BAD8DC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndagtdhmknwnldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FAE8C2B34A4F52",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_hmkllprptss_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D07DD88C061DB7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmshrpshtr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00358FA2A020E6D5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_relod_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00694F3A80A724BF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_ar_weapwrn2_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006E5F8EBB6125E2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_ar_fkesrrdrtnt_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00055DECBA02964F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndagtdhmknwn_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C570A1991BB787",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_inca_ghostask_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0053BA7136C994D6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_sentry_accepted_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007E543B615648F2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmmsstnt_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006BD910AA9FD120",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_humshldldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B545F4CC82A21A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_indedbdy_bodygone_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005CFC01ECA01C1E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_inca_xplnackrdo_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F0AE55F8630DFD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_frskcln_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00722F8D9E080A34",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndagtdldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0059B34862CBD774",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_sentry_accepted_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FB454A1B185E06",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_brk2rdo_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008BA683AE3DE627",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmkll_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0011249D2A7F916F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_gen_transportgreet_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C780DA60C693AD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_humshldrls1_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008BCF396A163502",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmheadpopr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CD03EECE3C9753",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_lstmnstn_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004DE2420C6D507E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_gnshtinvldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ED84E5840FAB8E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_recursvrldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D66ED2654F36A9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_ar_wrn1_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00710DA78139DB61",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_gnshtinv_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0074381074A33533",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_lnglst_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00174CA638633050",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_xploldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0067BE230A6478FB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_tkdwnldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009BFA471F5C492E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_frskcln_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009DC7C9A2F20F99",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_xploinv_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008ACB9613F50D0C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_clscmbt_tnt_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006DFCF12ABB0DE8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_tkdwnldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D44172B1FB3156",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_humshldrls3_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0007991A82C1D1BA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_recursvrinvrsp_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002150274B92B2CE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_recursvrinv_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E8D673878478D8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_chckcvr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003879AFCCB458F5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_vntack_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BC82F81217E69C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stndhmknwn_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CA57AE1F5FAAD1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_seedthinv_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000C3BFF243150E5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_ar_wrn3_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B905275CD5BB97",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_stnd_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C25D2F105596A8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00473D0CA55ECE53",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmkllprptss_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0057B6D6AAB240B9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003BB5F4F54EA130",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_incu_civcmnd_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00404E2CFA479FAB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_ar_wrn3_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001725D63A9C5A1D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndrsp_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C8B26C1A110876",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/weapons/firearm_pistol_tasergun_hm_play.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0082E4530F668A8D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_stndagtdldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008D0B0764C997B0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_vnttnt_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003813E5CB2E2DBF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_sentry_frsk_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001E6DBBA97936E2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_stndldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006C42964AE31A79",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_sentry_frskwpnack_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DCF70D65C59623",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_humshldrls2_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C77ED3E29B66F2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_ar_fkesrrdrtnt_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005448FED027C96E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_xploldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C595E32FB352EF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_47supersize_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002451A920372AD4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_stalematetnt_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B3960C0E697FD2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndagtd_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AC2AACCC3258F1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_47rcall_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D34085A9627ACF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_gnshtinv_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D1278B075A2FAB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/effects/electricity/electrocute_loop_play.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009595497ED71727",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_gen_gthlp_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C351DCB45CAE2E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_nitiatehmknwn_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E724D4DDA7693E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_hmkllciv_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005561F219EB4DD9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_sentry_frsk_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007565CEF9C544EE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_frskwpn_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002D67126C6F0B96",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_brk2rdo_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0074919E9A968836",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_47rcall_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DA3600B4B80422",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_sentry_47loiterack_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F95CD31EAC9CD4",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_gnshtldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0089E8BFEAE8E55F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_triggerthealarm_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007D147CA87E5085",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmvnshd_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0049DEBB7BAB7C08",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_sentry_frsk_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DB26991596EBA2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_indedbdy_prmtrbrchwrn2_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005EACC3F266E118",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_47mpty_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001FFC34CB1986AE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmkllname_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008342D11201AA78",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_baddsg_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B44EA3037B7680",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_ar_wrn2_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AEDCE32C37C31A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_baddsg_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E608F7539FDE31",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_indedbdy_wakenkdldr_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005E41852741940F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_brk2rdo_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0052851A652DF383",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_lstsght_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0067E504579DE645",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_lnglstrsp_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005553A2BD291AC5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_lnglstrsp_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009179C6F0F72F41",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_xploinv_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00077BB2CA090E50",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stnd_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004C5B4B5F357467",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_backupcll_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009ABB837C0E4475",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_lstsght_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AF30F0ED88DF7E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_incu_civcmnd_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DF89D170D2125E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_srchldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004EC0467FA0853A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_vnttnt_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006FEFE4736258AD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_indedbdy_wakenkdldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0063BD01F88E3098",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hithm_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0081AFA28CDFCFD2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_dstrssinvldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006AD14FCCDB42A8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmkllciv_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001E86EF7E19E3DD",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_humshldrlsfem2_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0071405A1CFE5E8C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_indedbdy_cntnack_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F2F5F16464EAD5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_ar_fkesrrdrtnt_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0051DFB01F48654A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_gen_transportgreet_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00B97B29BC1CE2A3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_sentry_itemrequest_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D5F30A7463D30F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_cmbt_humshldrlsfem1_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E64DCF63A19422",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_sentry_frskwpnack_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00055203BE7AEC74",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_ar_wrn3_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E06BF9492B1CE0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_sentry_itemrequest_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A7CC1B4ABEA882",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_chckcvr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008A218C5B3464F2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_frskcln_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00355DCEF559C80D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndagtdhmknwnldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003EE8B7A7271CCE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_stndagtdhmknwnldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0076B8F0F5B750F1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_lighter/item_lightergun_foley_lighteroff_play.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005574C22F80F31E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_recursvrinvldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00977AB93CE14661",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_stndagtd_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DD5826CDEF4AB1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_inca_dstrssinvldr_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0018EEE6777675DA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_hmflnk_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0049B716CA3C66C3",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_backupcll_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00DB47D9240CF712",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_stndhmknwnldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AA6FEBD562FD5D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_ar_weapwrn2_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00036AA3FAF50E64",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_sentry_denyentry_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0082819AC4379A3F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_47mpty_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000B82964B95BED8",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_indedbdy_wakenkdldr_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0038A3476372BE20",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_sentry_frsk_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E3DE9BC989AC87",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_cmbt_lstsghtrsp_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0066E76F9A75A194",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_fire_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0070ACD7E3D8D30F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_sentry_frsk_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A93B8D0B91F2B9",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_frsk_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006DE85A58062DDF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_xplnrsp_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00555DD3DFCAE2EF",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_ar_wrn2_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001DDCA6B97298F5",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_recursvrinvldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007083A6BB512A31",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale01/play_inca_xplnackrdo_civmale01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006D71DF337C9D68",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_srchldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0037503D18CD9034",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd02/play_gen_way2kidding_softgrd02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008AF001575D15EC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_frskwpn_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0065CD6B2099D716",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmshrpshtr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00391ED5452C23DC",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_xploinvldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0035A3A592FD7C2D",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/softgrd01/play_gen_coincurse_softgrd01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0097B17D79A1E348",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_xplnackrdo_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008C575DEE7BCE0A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_dstrssinv_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FDC53AE139BDEA",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_recursvrinvrsp_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E46CBC64E856A2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_seedthinv_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00234A0AEFFC3FB2",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_inca_xplnackrdo_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000288C0CD110474",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmkll_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0095336D7CAC641F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_47supersize_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007EC65EE52C01A1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_brk2rdo_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0019EEC0D4F53F17",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/paris/3000_fashion/3000_handler/ds3310_opportunitytriggers/play_ds3310_opportunitytriggers_diana_007.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00269B78C30A9233",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_cmbt_beg_bdygrd03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00954EE8468059E7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_hmkll_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00474ECDAA649154",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_cmbt_tkdwnldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000257BEC9173A25",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_holdldr_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0097D4D5F1FFC4A7",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_seedthldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D1E9A41926043F",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_indedbdy_wakenkdldr_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00477E66D7B63B26",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmclscmbtack_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00669460F5F0824C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale04/play_inca_xploinvldr_civmale04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00962415FBCCAA00",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem01/play_inca_ghostask_civfem01.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008E70E8D9D9D06A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_gnshtinvldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0054E49FFC0E8E64",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem03/play_inca_seedthinvldr_civfem03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000867B4B47C885B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale02/play_cmbt_lnglstrsp_civmale02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EE052F7A2A5EDB",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_hmclscmbtack_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0090422779AD7821",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem02/play_cmbt_stalematehold_civfem02.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0021CB8454DF2A0A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_cmbt_hmheadpopr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006DA0FF6E35825A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civmale03/play_inca_hmtnt_civmale03.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F9647A012FB30A",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/civfem04/play_inca_srchldr_civfem04.wwiseevent].pc_wwisebank",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00589DB3CD752BF0",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sapienza_octopus.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00EB951ADF73D8E6",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/sapienza_copperhead.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00AACD8B97E60D40",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/gui_events/ingame_gui/opportunity/play_pageopen_oppertunity.wwiseevent].pc_wwisebank",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00D056ECB76653D1",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_poolball/play_fol_item_poolball_unequipped.wwiseevent].pc_wwisebank",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00D767FA6CC70BF7",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "006B351FDA1494F1",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "0014BE03B9F79B8D",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "0010911D7B963D3C",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "001A74950CA53571",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00792B81E22C9E4E",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "005008606BC2EA34",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00A0050516C49238",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "002B0444177B5062",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00841EE25A4A752B",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00437FC7532E9122",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "001AB11A3E06A3FE",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "000A4C9DA70C1265",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00074EFDB318A9CC",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "0005A6CECF61D92A",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "009EDEBC34274F88",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00E7946E1415BEDF",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "002C6C6809BDB3DF",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "006265451BF138B4",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00DC4EA6969CB84B",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "005AF4F40B236C79",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00931FA4EB1E336E",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "009E91460EEB84DC",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "006BB29D484CFAA0",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00B7AF84E33CD379",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "0072063918576727",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00FC9DA69090CF81",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00CBD9510AFD5E8F",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "004756FA29E03F27",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00967B25B252FC9B",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rockydugong_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0083969EA7529769",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rockydugong_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00032972CFAF8528",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rockydugong.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0040DD7062FCCA8E",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/evergreen.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00218B01D8A4373C",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/evergreen_convolution.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D9910D97B900DE",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/evergreen_convolution_hq.wwisesoundbank].pc_wwisebank",
+    "gameFlags": 8
+  }
+]

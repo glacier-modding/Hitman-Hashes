@@ -1,0 +1,1967 @@
+[
+  {
+    "hash": "00561B5507D0A05A",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_bulldog/scene_bulldog.swf?/scene_bulldog.f0.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00874F0836AB8168",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_bulldog/scene_bulldog.swf?/scene_bulldog.f1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F0E05092D1B22C",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_bulldog/scene_bulldog.swf?/scene_bulldog.f2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004F123C6D32768A",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_bulldog/scene_bulldog.swf?/scene_bulldog.f3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0086F69C35D73DE3",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_smoothsnake/scene_smoothsnake.swf?/scene_smoothsnake.f0.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AA6692D9FB88CA",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_smoothsnake/scene_smoothsnake.swf?/scene_smoothsnake.f1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0050C43EBD40CA89",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_smoothsnake/scene_smoothsnake.swf?/scene_smoothsnake.f2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002FC37EFB6A76E4",
+    "path": "[assembly:/_pro/scenes/missions/ancestral/maps/scene_smoothsnake/scene_smoothsnake.swf?/scene_smoothsnake.f3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DD8ECD5B11D2DE",
+    "path": "[assembly:/_pro/scenes/missions/bangkok/maps/_scene_mission_tiger/_scene_mission_tiger.swf?/_scene_mission_tiger.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0079CBC2BF99780C",
+    "path": "[assembly:/_pro/scenes/missions/bangkok/maps/_scene_mission_tiger/_scene_mission_tiger.swf?/_scene_mission_tiger.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00DF10885B4A3A95",
+    "path": "[assembly:/_pro/scenes/missions/bangkok/maps/_scene_mission_tiger/_scene_mission_tiger.swf?/_scene_mission_tiger.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00FE9006D62739AA",
+    "path": "[assembly:/_pro/scenes/missions/bangkok/maps/_scene_mission_tiger/_scene_mission_tiger.swf?/_scene_mission_tiger.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00780EE4D0F3B52E",
+    "path": "[assembly:/_pro/scenes/missions/bangkok/maps/_scene_mission_tiger/_scene_mission_tiger.swf?/_scene_mission_tiger.slice_04.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00AF602363909744",
+    "path": "[assembly:/_pro/scenes/missions/bangkok/maps/_scene_mission_tiger/_scene_mission_tiger.swf?/_scene_mission_tiger.slice_05.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00A637FA322FE2D4",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0049101B8E216538",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AA87AE01515EAE",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0084210BC89FFC8C",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0049C7624837E583",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_04.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0078638D59D72EF7",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_05.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D3F5D3A2CEE981",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_06.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0083C1AD6A10F188",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf?/_scene_mission_copperhead.slice_07.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0019EC4A146CFAE5",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f0.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D3C7AAB69A5A9B",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D620640EFC62E6",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f2.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C5EC4A2BFE8949",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f3.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00976D3C0FF78C1A",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f4.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002E2BCF95044445",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f5.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A66D574AB1308E",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f6.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008260BFE431E621",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f7.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0059906028F09011",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.f8.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A1DC6DCC7B8554",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D8F90E1EA294E5",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DCA61620B65020",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B75F6F1F695CFB",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00938CDC7304A6A5",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_04.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004EE08034F6C681",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_05.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009D1A7CC989FFBC",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_06.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00212AEA8819E2AC",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.slice_07.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007A4D0DE8F4A4FD",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_mamba/_scene_mission_mamba.swf?/_scene_mission_mamba.top.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005700C6571F99A1",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_default.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00782E28DF545651",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f0.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "009522A09AC27E87",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007026C7D1E7937F",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f2.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D937B3E315DF04",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f3.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FE1F98E733EC7D",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f4.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A84C402DC35095",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f5.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0027EE0216B37764",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f6.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0000AE4081E88ECA",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f7.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D0A9C1CFA2981A",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.sapienza_f8.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D8A8F3A69F1AA2",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_default.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000E2F976F21E467",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f0.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00802BC8C99B35AE",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E8347880B1CA1C",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f2.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0093E8B6D3CB3BB4",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f3.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FF36CE245AD3BE",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f4.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00EACB1DCF46AFDD",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f5.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001E9E9B89FADFD8",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f6.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002B2865C8881D4C",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f7.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00083D11BCA70B00",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.sapienza_f8.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003BFA26C820B7C9",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00860A90311CFC06",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0071566F31B85E8F",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "006BE16254216116",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00E9D997E55A9312",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_04.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00359949ED38C883",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_05.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "001453C3D80874AF",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_06.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00E924B5F4AAB8D0",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_07.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "006D3C0EEBE002C6",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.slice_08.uic].pc_entityblueprint",
+    "gameFlags": 18
+  },
+  {
+    "hash": "00EDA07466BF3D9B",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007601AB1DB13D94",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0031AA4F577C49B7",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00121E2FEC9E3BA5",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E34A2F41ED596B",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_04.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D09DE7850CBCCC",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_05.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00151183BD516357",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_06.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005245A3030D251C",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/scene_ebola/scene_ebola.swf?/scene_ebola.slice_07.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D010B7DCDE8D14",
+    "path": "[assembly:/_pro/scenes/missions/colombia/maps/scene_hippo/scene_hippo.swf?/scene_hippo.b1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005DA04FFFFF68D6",
+    "path": "[assembly:/_pro/scenes/missions/colombia/maps/scene_hippo/scene_hippo.swf?/scene_hippo.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0041F31CED11A15A",
+    "path": "[assembly:/_pro/scenes/missions/colombia/maps/scene_hippo/scene_hippo.swf?/scene_hippo.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B2FEB35953FEE",
+    "path": "[assembly:/_pro/scenes/missions/colombia/maps/scene_hippo/scene_hippo.swf?/scene_hippo.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004C3C5B91DD143E",
+    "path": "[assembly:/_pro/scenes/missions/colorado_2/maps/_scene_mission_bull/_scene_mission_bull.swf?/_scene_mission_bull.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "007D5AFDA806EBE2",
+    "path": "[assembly:/_pro/scenes/missions/colorado_2/maps/_scene_mission_bull/_scene_mission_bull.swf?/_scene_mission_bull.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00C645DCD1714DB0",
+    "path": "[assembly:/_pro/scenes/missions/colorado_2/maps/_scene_mission_bull/_scene_mission_bull.swf?/_scene_mission_bull.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00DE8CB59E1469EE",
+    "path": "[assembly:/_pro/scenes/missions/colorado_2/maps/_scene_mission_bull/_scene_mission_bull.swf?/_scene_mission_bull.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00CFE6E82451105D",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/maps/scene_fox_basic/scene_fox_basic.swf?/scene_fox_basic.b1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0085C3E5DC47865D",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/maps/scene_fox_basic/scene_fox_basic.swf?/scene_fox_basic.b2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001F234240E1578E",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/maps/scene_fox_basic/scene_fox_basic.swf?/scene_fox_basic.f0.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009E54F68C6882D5",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/maps/scene_fox_basic/scene_fox_basic.swf?/scene_fox_basic.f1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AF02B37FEEE73A",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/maps/scene_fox_basic/scene_fox_basic.swf?/scene_fox_basic.f2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0066B878D6932C55",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/maps/scene_fox_basic/scene_fox_basic.swf?/scene_fox_basic.f3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0018ACB74B73E52A",
+    "path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/maps/scene_fox_basic/scene_fox_basic.swf?/scene_fox_basic.f4.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F27CF487001173",
+    "path": "[assembly:/_pro/scenes/missions/elegant/maps/scene_llama/scene_llama.swf?/scene_llama.f0.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0001F6A42FE4C91F",
+    "path": "[assembly:/_pro/scenes/missions/elegant/maps/scene_llama/scene_llama.swf?/scene_llama.f1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0036F645A968994A",
+    "path": "[assembly:/_pro/scenes/missions/elegant/maps/scene_llama/scene_llama.swf?/scene_llama.f2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006A05D42409A7AC",
+    "path": "[assembly:/_pro/scenes/missions/elegant/maps/scene_llama/scene_llama.swf?/scene_llama.f3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0027F43C040C868E",
+    "path": "[assembly:/_pro/scenes/missions/elegant/maps/scene_llama/scene_llama.swf?/scene_llama.f4.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E5966F54940A41",
+    "path": "[assembly:/_pro/scenes/missions/elegant/maps/scene_llama/scene_llama.swf?/scene_llama.f5.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0070593359150E97",
+    "path": "[assembly:/_pro/scenes/missions/elegant/maps/scene_llama/scene_llama.swf?/scene_llama.f6.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009CDA8EDF4128D8",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/maps/scene_gecko_basic/scene_gecko_basic.swf?/scene_gecko_basic.b1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F7BFF74F9D84E2",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/maps/scene_gecko_basic/scene_gecko_basic.swf?/scene_gecko_basic.f0.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CB7AA27E1A7096",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/maps/scene_gecko_basic/scene_gecko_basic.swf?/scene_gecko_basic.f1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0055D3228ABB9792",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/maps/scene_gecko_basic/scene_gecko_basic.swf?/scene_gecko_basic.f2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0035C388DE8185B2",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/maps/scene_gecko_basic/scene_gecko_basic.swf?/scene_gecko_basic.f3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DF3440A2C8530C",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/maps/scene_gecko_basic/scene_gecko_basic.swf?/scene_gecko_basic.f4.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00969E81E47F0B15",
+    "path": "[assembly:/_pro/scenes/missions/golden/mission_gecko/maps/scene_gecko_basic/scene_gecko_basic.swf?/scene_gecko_basic.f5.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0072B3A5CB0EEA10",
+    "path": "[assembly:/_pro/scenes/missions/greedy/mission_raccoon/maps/scene_raccoon_basic/scene_raccoon_basic.swf?/scene_raccoon_basic.b1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E4F38FF964044D",
+    "path": "[assembly:/_pro/scenes/missions/greedy/mission_raccoon/maps/scene_raccoon_basic/scene_raccoon_basic.swf?/scene_raccoon_basic.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D02FE34C617CE4",
+    "path": "[assembly:/_pro/scenes/missions/greedy/mission_raccoon/maps/scene_raccoon_basic/scene_raccoon_basic.swf?/scene_raccoon_basic.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003B1BED082969C2",
+    "path": "[assembly:/_pro/scenes/missions/greedy/mission_raccoon/maps/scene_raccoon_basic/scene_raccoon_basic.swf?/scene_raccoon_basic.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B94B0B62829267",
+    "path": "[assembly:/_pro/scenes/missions/greedy/mission_raccoon/maps/scene_raccoon_basic/scene_raccoon_basic.swf?/scene_raccoon_basic.f3.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F2624CFB64BE1A",
+    "path": "[assembly:/_pro/scenes/missions/hokkaido/maps/_scene_mission_snowcrane/_scene_mission_snowcrane.swf?/_scene_mission_snowcrane.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "008725E401203F20",
+    "path": "[assembly:/_pro/scenes/missions/hokkaido/maps/_scene_mission_snowcrane/_scene_mission_snowcrane.swf?/_scene_mission_snowcrane.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "003792689AFCD72D",
+    "path": "[assembly:/_pro/scenes/missions/hokkaido/maps/_scene_mission_snowcrane/_scene_mission_snowcrane.swf?/_scene_mission_snowcrane.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00EDFB891C2F29B1",
+    "path": "[assembly:/_pro/scenes/missions/hokkaido/maps/_scene_mission_snowcrane/_scene_mission_snowcrane.swf?/_scene_mission_snowcrane.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "002BE083F0A930EF",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_python/_scene_mission_python.swf?/_scene_mission_python.marrakesh_b1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F323106BB452AF",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_python/_scene_mission_python.swf?/_scene_mission_python.marrakesh_default.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FE6932F554A018",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_python/_scene_mission_python.swf?/_scene_mission_python.marrakesh_f0.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0078E00AF3293E87",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_python/_scene_mission_python.swf?/_scene_mission_python.marrakesh_f1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005D0BBC590C652F",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_python/_scene_mission_python.swf?/_scene_mission_python.marrakesh_f2.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D60B81FAD94FF3",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.marrakesh_b1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F2EE87B9ACACB0",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.marrakesh_default.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F1308239AF38CD",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.marrakesh_f0.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005F088610639D60",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.marrakesh_f1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A392EB1AC1B5B9",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.marrakesh_f2.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "001724F4DA6B1058",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "007A53CC36FC13EE",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0055682C9D28ABC0",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00875B492E9E81E2",
+    "path": "[assembly:/_pro/scenes/missions/marrakesh/maps/_scene_mission_spider/_scene_mission_spider.swf?/_scene_mission_spider.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00AC8E11FE772631",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_cottonmouth/scene_cottonmouth.swf?/scene_cottonmouth.b1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0075573C7C9F0FEF",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_cottonmouth/scene_cottonmouth.swf?/scene_cottonmouth.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000C64DCD042B603",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_cottonmouth/scene_cottonmouth.swf?/scene_cottonmouth.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EE8D35C7C2EB01",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_cottonmouth/scene_cottonmouth.swf?/scene_cottonmouth.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0014EF9A7FBCABF3",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_cottonmouth/scene_cottonmouth.swf?/scene_cottonmouth.f3.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CEF4B24B321C00",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_flamingo/scene_flamingo.swf?/scene_flamingo.b1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DE60492093934C",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_flamingo/scene_flamingo.swf?/scene_flamingo.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00168575C41650D7",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_flamingo/scene_flamingo.swf?/scene_flamingo.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008F46CBADBF6B78",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_flamingo/scene_flamingo.swf?/scene_flamingo.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002A29FA7D56DB9F",
+    "path": "[assembly:/_pro/scenes/missions/miami/maps/scene_flamingo/scene_flamingo.swf?/scene_flamingo.f3.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0003CB46BACD05C9",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.b1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00538D1393CF7472",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001538FA6AC4FD2F",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BC4960FEA768DD",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0035A27EAA3D9F73",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f3.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008FA75A51AE0CCB",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f4.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BA1B22A16A87C7",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f5.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005B0987209665A4",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f6.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D2358E25AE2B80",
+    "path": "[assembly:/_pro/scenes/missions/mumbai/maps/scene_mongoose/scene_mongoose.swf?/scene_mongoose.f7.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B7C5C7F96BD57E",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/maps/scene_stingray_basic/scene_stingray_basic.swf?/scene_stingray_basic.b1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0010F8DC413A6B02",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/maps/scene_stingray_basic/scene_stingray_basic.swf?/scene_stingray_basic.b2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A01EF610EDFDD9",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/maps/scene_stingray_basic/scene_stingray_basic.swf?/scene_stingray_basic.b3.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00567EB68A9A679A",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/maps/scene_stingray_basic/scene_stingray_basic.swf?/scene_stingray_basic.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0026F0D6C3978668",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/maps/scene_stingray_basic/scene_stingray_basic.swf?/scene_stingray_basic.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006C268C82873663",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/maps/scene_stingray_basic/scene_stingray_basic.swf?/scene_stingray_basic.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001F6EC5BE347061",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/maps/scene_stingray_basic/scene_stingray_basic.swf?/scene_stingray_basic.f3.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0099300FE9989732",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.paris_b1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0077AEA9CB473181",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.paris_default.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00ECBD22A19F6B41",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.paris_f0.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BABCC1C302F34A",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.paris_f1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006D30EAC548DE72",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.paris_f2.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00455ED0AF8E9ADF",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00DBE328F3E3E339",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00D44FB47086CBB6",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "003A7657BE098260",
+    "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf?/_scene_fashionshowhit_01.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "005CB56DE4F82DC2",
+    "path": "[assembly:/_pro/scenes/missions/sheep/maps/scene_sheep/scene_sheep.swf?/scene_sheep.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00387736FBD3924B",
+    "path": "[assembly:/_pro/scenes/missions/sheep/maps/scene_sheep/scene_sheep.swf?/scene_sheep.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0092E3E4483C1518",
+    "path": "[assembly:/_pro/scenes/missions/sheep/maps/scene_sheep/scene_sheep.swf?/scene_sheep.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F7492DF30DB9B9",
+    "path": "[assembly:/_pro/scenes/missions/skunk/maps/scene_skunk/scene_skunk.swf?/scene_skunk.b1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00989B03FFFBC651",
+    "path": "[assembly:/_pro/scenes/missions/skunk/maps/scene_skunk/scene_skunk.swf?/scene_skunk.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A046F6D0C10E79",
+    "path": "[assembly:/_pro/scenes/missions/skunk/maps/scene_skunk/scene_skunk.swf?/scene_skunk.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0052298CEDF58699",
+    "path": "[assembly:/_pro/scenes/missions/skunk/maps/scene_skunk/scene_skunk.swf?/scene_skunk.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001F8CD6441DD5F9",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f0.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005914027069465F",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f1.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AFFAA7AB382358",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f2.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0081C0D5B8F195EB",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f3.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0084FE0ED701E324",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f4.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00722B078463C0EF",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f5.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004690D077D0A42A",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f6.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0082E70B41E0E989",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f7.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D116EF4A8EE934",
+    "path": "[assembly:/_pro/scenes/missions/theark/maps/scene_magpie/scene_magpie.swf?/scene_magpie.f8.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B919D73AC43CCF",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_002/_scene_mission_polarbear_module_002.swf?/_scene_mission_polarbear_module_002.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00C96E3E78DFBDC5",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_002/_scene_mission_polarbear_module_002.swf?/_scene_mission_polarbear_module_002.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00A1508A9AF39987",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_002/_scene_mission_polarbear_module_002.swf?/_scene_mission_polarbear_module_002.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00B98D1EDE048D3A",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_002/_scene_mission_polarbear_module_002.swf?/_scene_mission_polarbear_module_002.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0041C166BFA685B6",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_005/_scene_mission_polarbear_module_005.swf?/_scene_mission_polarbear_module_005.slice_00.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "004EA034F41EE437",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_005/_scene_mission_polarbear_module_005.swf?/_scene_mission_polarbear_module_005.slice_01.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00F4A65E25E60F63",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_005/_scene_mission_polarbear_module_005.swf?/_scene_mission_polarbear_module_005.slice_02.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0006664259648667",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/maps/_scene_mission_polarbear_module_005/_scene_mission_polarbear_module_005.swf?/_scene_mission_polarbear_module_005.slice_03.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00D8D1F6E334AFE0",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.b1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FFD0B7909A7A9A",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.b2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F5C1AABB2E682C",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.b3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0021B30344039CA8",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.f0.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002AA8EC63F111A6",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.f1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0089F60DF24F26FD",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.f2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C0E55E68661371",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.f3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0032475FA2014CB1",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.f4.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C1CC5F562BF72D",
+    "path": "[assembly:/_pro/scenes/missions/wet/maps/scene_rat_basic/scene_rat_basic.swf?/scene_rat_basic.f5.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004C59B8A05B8E3F",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.bootflowbackdropimage.uic].pc_entityblueprint",
+    "gameFlags": 34
+  },
+  {
+    "hash": "00E543B0A5DAEAA7",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.bootflowcolorfill.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00C90ABA6CB38F6A",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.boundsextender.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0070DCA80B7BC3DC",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.gamechatindicator.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00DAE8FA9627E2DB",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.globalloadindicator.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "000FCA4F6124477A",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.gradient.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002B92B537FDCC2A",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.gradientflipped.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000317201F1E0505",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.imagebox.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "004FAFB7C7C7B1B4",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.imageboxspatial.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D36A1C7D25C632",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.itembg.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E95B2AFA7E69E4",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.mask.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E048D325E5C59B",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.maskcentered.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00443CBBDCE56643",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.quad.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00723DB20D0CD3B2",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.safeareascalecontainer.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0017FD6A6A8B69D9",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.subtitle.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "003890F449A8E27E",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.textbox.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E689BAC9B15E1D",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.videobox.uic].pc_entityblueprint",
+    "gameFlags": 31
+  },
+  {
+    "hash": "00F104D957A94A08",
+    "path": "[assembly:/ui/controls/basic.swf?/common.basecontrol.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "003C20C3FE690850",
+    "path": "[assembly:/ui/controls/common.swf?/common.basecontrol.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F399D463829285",
+    "path": "[assembly:/ui/controls/hud.swf?/common.basecontrol.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00416EF3B794848F",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.actormapblip.uic].pc_entityblueprint",
+    "gameFlags": 51
+  },
+  {
+    "hash": "006006807458F573",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.aiindicator.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0078585E18711C34",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.aiinformation.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00585C29718A6EEB",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.aiinformationvr.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009C07A3D39A6568",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.attentionindicator.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007F55FE0045DBE9",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.beingobserved.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0012E056D0C65167",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.breadcrumb.uic].pc_entityblueprint",
+    "gameFlags": 31
+  },
+  {
+    "hash": "006A418DB227B52D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.buttonprompts.uic].pc_entityblueprint",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00C955A475D7F6D0",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.cameragrid.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00187FD88AE35687",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.challengeelement.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D0BD2D8C266843",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.countdowntimer.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00058911E194FA8A",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.damagedirection.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "009311C4B3B9445D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.difficultyicon.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DD4CA0E9815600",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.droppeditemvr.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0077456A8EB99C19",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.menucursorwidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FB2D742B382F38",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.menuoverlaycontainer.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003B522510151494",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.health.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00593B39E37D07FB",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.hintbox.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "009D7624AC0EEC81",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.hudactionprompts.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F8A832BAB5D73E",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.ingamemarker.uic].pc_entityblueprint",
+    "gameFlags": 18
+  },
+  {
+    "hash": "00165823D0F6A43A",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.instinct.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00F25163F880C50F",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.intelindicator.uic].pc_entityblueprint",
+    "gameFlags": 19
+  },
+  {
+    "hash": "0009B5A0A06438F7",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.intelmenu.uic].pc_entityblueprint",
+    "gameFlags": 19
+  },
+  {
+    "hash": "00B159FDEAB04E73",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.interactionindicator.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "008FB7DEEA77A8AE",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.inventorynotification.uic].pc_entityblueprint",
+    "gameFlags": 36
+  },
+  {
+    "hash": "00B839790D6CCB34",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.itembreadcrumb.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000A43F41C01DF3C",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.mapdynamiclayer.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0040863A33D0837D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maplayerindicator.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B0EDE86CD85C5D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maplegend.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0036F972201A22DF",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maplegendmenu.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "007255D57BA242D1",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.mapnorthindicator.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0034F85F510D451D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.areaundiscoveredmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008CA3F2939C6E76",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.cameraintelmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C92529617FE39B",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.customobjectivemaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0009D55CA4F4149D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.discoveryamaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E3C817FF65A851",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.discoverybmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B02349B7AD8E8E",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.discoverycmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00383728F68BE23D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.discoverymaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0054849C1D12545B",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evidencemaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00552EDFB60A2B9B",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.exitmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0066E2C1F37FFF0C",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.ghostmodestashpointmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F50DD422AA92CD",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.maptexttracker.uic].pc_entityblueprint",
+    "gameFlags": 13
+  },
+  {
+    "hash": "00AC34852BEF4EAB",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.northindicatormaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00574C807BB9E72A",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.npcmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F168A9FEC080B2",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.opponentmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CB0E8698EFF0A0",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.opportunitiesmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D60DFA4BFF75B0",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.playerheromaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006FD42BFC8E5A61",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.securitycameramaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000C0D85FB8BE926",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.stairdownmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D05FE09AD3AB29",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.stairupdownmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002AA5CCA6C24149",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.stairupmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009D5808A10E282E",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.stasheditemmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005C8B6309DE1076",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.stashpointmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00219A0C36B32FD9",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.suitcasemaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0073D69E6BA8FA7D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.tutorialmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008FAB8134C92222",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.minimapblip.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "001E2F2F7E8DE331",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.missiontimervr.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DEF0C96C2C6022",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notification.actionxpbar.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00566E5E10A9057A",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notification.actionxpbarvr.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006A61EDA9A71845",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notification.challengesbar.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "005D3DB23C6119B0",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notification.connectionindicator.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0063CC0AB2C4E24C",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notification.notificationbar.uic].pc_entityblueprint",
+    "gameFlags": 55
+  },
+  {
+    "hash": "00E325FE9D4F28E9",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notification.progressionbar.uic].pc_entityblueprint",
+    "gameFlags": 32
+  },
+  {
+    "hash": "00C18F1A37F4EA3E",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notification.saveindicator.uic].pc_entityblueprint",
+    "gameFlags": 18
+  },
+  {
+    "hash": "002DA7F967783065",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.objectiveconditions.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00AE32BD4AD1D70B",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.objectivesbar.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00EA644AE711F87B",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.opportunitypreview.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00237E328ED5A648",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.outfitandstatusmarkersvr.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F47C6D53BBB14",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.photomode.photomodemessagewidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0091DD7A21873C17",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.photomode.photomodeviewfinderborder.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001A04E753E83F97",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.photomode.photomodeviewfindercenter.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C0D693304A22B9",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.photomode.photomodeviewfindercorner.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A714A57DA7D92C",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.photomode.photomodeviewfinderfocusframe.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002D9873CD8A9509",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.photomode.photomodeviewfinderscanner.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002CE99D3A75A940",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.photomode.photomodewidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F4B5062840A5D2",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.pipelement.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006DA2FD1538AC36",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.playernametag.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F9F9E7173AC954",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.playernametags.uic].pc_entityblueprint",
+    "gameFlags": 32
+  },
+  {
+    "hash": "002CC0B7DF30BB1D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.pro1indicator.uic].pc_entityblueprint",
+    "gameFlags": 34
+  },
+  {
+    "hash": "006337158F87C3E0",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.radialmenu.uic].pc_entityblueprint",
+    "gameFlags": 51
+  },
+  {
+    "hash": "0010EC35F9C6046F",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.reticle.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "002CBB901011AD78",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.scope.scope.uic].pc_entityblueprint",
+    "gameFlags": 19
+  },
+  {
+    "hash": "006DEEA66513D89B",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.setpieceicons.uic].pc_entityblueprint",
+    "gameFlags": 51
+  },
+  {
+    "hash": "00730F2C899CB77C",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.silentassassinicon.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000648946CFC2065",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.aiindicatorelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "005DABD517CD5826",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.aiinformationelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00A1ACF29384AF4F",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.aimarkelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "004A06848D9ABA29",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.basescoreelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "001B511D3D1C7ACA",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.challengeelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00224726942D5151",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.objectiveselement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "007BCAC96FCA20EE",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.scrollingscoreelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "008F31270FAB8DFE",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.targettimerelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0029A2FCC18558A9",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.weaponelement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00B029F385B77EA0",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.sniper.weaponhintselement.uic].pc_entityblueprint",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0037DA466FC713A3",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.statusmarkers.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006571B586DA7C5A",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.statusmarkersvr.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CE360B6EC9D5BF",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.statusmicromarkersvr.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0044A03ED7F423D2",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.subtitle.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005CABC093CF9AFC",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.subtitlespeakerindicator.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000AB14A77BC6CD0",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.threatdirection.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AB13CA89AC24E3",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.threatmarker.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004E59FB45E5D788",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.tutorial.tutorialbar.uic].pc_entityblueprint",
+    "gameFlags": 18
+  },
+  {
+    "hash": "00F224FCBA886D70",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.tutorial.tutorialtask.uic].pc_entityblueprint",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00602892E8D3B735",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.tutorial.waypoint2d.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0074F6F6D72EDA3C",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.tutorial.waypoint2darrow.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000A89FA30A3FF55",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.tutorial.waypoint3d.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00226B620BA5C363",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.markers.dynamicmarkerelement.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F7E1BD0652676E",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.markers.opponentmarkerelement.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BE7F3572CDF85E",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.markers.opponentmarkericonelement.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006876A223F7AF23",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.markers.stashmarkerelement.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000186EB6788C707",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.markers.targetmarkerelement.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E41F48F43A92FB",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.markers.targetmarkericonelement.uic].pc_entityblueprint",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004C81C037868222",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.scoring.actionxpbarelement.uic].pc_entityblueprint",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00480B1FBC3F1A08",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.scoring.versusscoreelement.uic].pc_entityblueprint",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00C249846D32DB57",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.scrollingscoringtext.uic].pc_entityblueprint",
+    "gameFlags": 32
+  },
+  {
+    "hash": "00B9B2A17CC41F92",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.targetinfoelement.uic].pc_entityblueprint",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00F162B9597880B7",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.versus.versusranking.uic].pc_entityblueprint",
+    "gameFlags": 32
+  },
+  {
+    "hash": "00C3271E642EE142",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.weapon.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F333D35156FE35",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.weaponammovrwidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C8FEBCB5395040",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.weaponhints.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00E2DB4BD8EA2B68",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.weaponholstervrwidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001C380ECF8A5144",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.weapononbackvrwidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002EBA4735D0F118",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.weaponselector.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00695180FCBE080D",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.worlduiimage.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0042E01DC3C8291E",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.attractorscreen.uic].pc_entityblueprint",
+    "gameFlags": 50
+  },
+  {
+    "hash": "007EF5599D0E27F2",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A77F776DFEB358",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.map.mapreticle.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00CAD8A598EA0BB0",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.map.mapreticlelegend.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "001C6A2B59C61E99",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.menuframe.uic].pc_entityblueprint",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00055E63ECA05FC5",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.menuvideobox.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00922EFB025FC5DB",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.modal.modaldialog.uic].pc_entityblueprint",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00F0EB7E98DF1564",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.splashhints.splashhintbackground.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000C0583806846A5",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.splashhints.splashhintcontent.uic].pc_entityblueprint",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D2ADC30ABE34AD",
+    "path": "[assembly:/ui/controls/menu3.swf?/menu3.textboxboot.uic].pc_entityblueprint",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00489B1A67B9E37E",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.modaldialog.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0018B6BEB96294DF",
+    "path": "[assembly:/ui/controls/test.swf?/test.augmentedtest.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008590A7939AB402",
+    "path": "[assembly:/ui/controls/test.swf?/test.labeltest.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0040930BD6AFEF1E",
+    "path": "[assembly:/ui/controls/test.swf?/test.paneltest.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0073C0B5CB7FA1A4",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f1.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00666EEC965D4D07",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.top.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "007A3FA21C35A87C",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f8.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FFEBD6C7206137",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f5.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003992DAA4B748B2",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f2.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D7D51DFC145034",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f6.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0028614A2BE9BE67",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f0.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "005EFEE4076B0C35",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f3.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BF4790737F5830",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f4.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00D72BAF1AD4D506",
+    "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/location/location.swf?/location.f7.uic].pc_entityblueprint",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003BEC8396173835",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.evergreenspycameragridlines.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0042BF163CD44641",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.evergreenspycamerawidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008311BACE82A866",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_dugong/scene_dugong.swf?/scene_dugong.f0.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0075F009B109C82F",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_dugong/scene_dugong.swf?/scene_dugong.f2.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00958D9DB15E29BF",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_dugong/scene_dugong.swf?/scene_dugong.f1.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00759E3039914C56",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_dugong/scene_dugong.swf?/scene_dugong.f4.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0050D158F38601E7",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_dugong/scene_dugong.swf?/scene_dugong.f3.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00956E3C25B8B97C",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreensuppliermaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001DF369A9849A15",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.walkspeedicon.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001E63407B87B634",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.vitalinfobar.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003F782B466D2CC4",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.locationintelwidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C3B32BAAD99DC9",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreensuspectprimemaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A63FA76630B4A5",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.evergreenbreadcrumb.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0063D42430B50852",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreensuspectnotmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00031233C57CE67F",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.supplierpricewidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009D98021B4133E1",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreensafemaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B07DBEE65DA767",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreensuspectnormalmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003507443F39C70E",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.economywidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FBA01B5ABC14C1",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.line.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009B29F1E5C5B5DE",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.exitfailmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0095C34BE0AC0665",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.campaignactivatorpage.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AEB9F15AA31821",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.campaignprogress.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008ADA1163F238A6",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.suspectperformingwidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00437F22DEAB9EFC",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.intelwallwidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AF275AF23AA1D6",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.worldmapterritorywidget.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0055093542F93D58",
+    "path": "[assembly:/ui/controls/hud.swf?/basic.textbox.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000D10230623C4B5",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreenmulemaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D78B55AE2039F3",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreenstashmaptracker.uic].pc_entityblueprint",
+    "gameFlags": 8
+  }
+]

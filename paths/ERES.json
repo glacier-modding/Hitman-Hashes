@@ -1,0 +1,1352 @@
+[
+  {
+    "hash": "0048BB5B7E3BC7FD",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_bulletproof.template?/fx_md_char_bulletproof.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007956B710BC19D2",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_cloth.template?/fx_md_char_cloth.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00ADB5C2A4BED7D7",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_flesh.template?/fx_md_char_flesh.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0060271561F14182",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_glass.template?/fx_md_char_glass.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000349CDBE55EF2E",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_hero_flesh.template?/fx_md_char_hero_flesh.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00578B77DFFEB1D9",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_metalplated.template?/fx_md_char_metalplated.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00D3E64D23C0A844",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_crow.template?/fx_md_crow.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C5A52E0491BDCE",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cement.template?/fx_md_env_cement.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0084DD03AC36ECF1",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth.template?/fx_md_env_cloth.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F07694017AB278",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_carpet.template?/fx_md_env_cloth_carpet.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "004565D09256A289",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_carpetcreaky.template?/fx_md_env_cloth_carpetcreaky.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EDA40A429BE87A",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_carpetoutside.template?/fx_md_env_cloth_carpetoutside.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "008D04141C461DC0",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_penetrable.template?/fx_md_env_cloth_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "002AFD4175001084",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_penetrable_nodecal.template?/fx_md_env_cloth_penetrable_nodecal.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "005FE433EF22109D",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_pillow.template?/fx_md_env_cloth_pillow.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "005584FBBE45772E",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt.template?/fx_md_env_dirt.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00697BF05A9060B1",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_grass.template?/fx_md_env_dirt_grass.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E493A61D7EA88F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_grass_penetrable.template?/fx_md_env_dirt_grass_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0085F2CA8FA75436",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_grass_wet.template?/fx_md_env_dirt_grass_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FD0B985B64A77D",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_gravel.template?/fx_md_env_dirt_gravel.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000F91B898F8DA94",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_sand.template?/fx_md_env_dirt_sand.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A23B7C6A253CAF",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_sand_below_water.template?/fx_md_env_dirt_sand_below_water.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F411E48EB7AF27",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_sand_wet.template?/fx_md_env_dirt_sand_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B5060575DAC278",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_snow.template?/fx_md_env_dirt_snow.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E3D466B7D8BE67",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_foliage.template?/fx_md_env_foliage.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A75CE23323D995",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_foliage_wet.template?/fx_md_env_foliage_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C3726CC1A0FA30",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_bread.template?/fx_md_env_food_bread.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "004FDAC9F0486B0B",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_flesh.template?/fx_md_env_food_flesh.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "009EE3B5BE7FDC16",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_flour.template?/fx_md_env_food_flour.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00365AE1B29D7F6E",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_fruit.template?/fx_md_env_food_fruit.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CD1D7DEC63FF46",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_fruit_red.template?/fx_md_env_food_fruit_red.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "000CE30299F1BD07",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_milk.template?/fx_md_env_food_milk.entitytemplate].pc_entityresource",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00ABB93354421EE1",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_sack_spices.template?/fx_md_env_food_sack_spices.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009E69804A089823",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_sack_spices_nosmoke.template?/fx_md_env_food_sack_spices_nosmoke.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B50420000E970A",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass.template?/fx_md_env_glass.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "009F2C3F8376D16F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_big.template?/fx_md_env_glass_big.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00ECE560812F148E",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_bulletproof.template?/fx_md_env_glass_bulletproof.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007CE460A026CB61",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_car.template?/fx_md_env_glass_car.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B25BA8C630C8DA",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_carlights.template?/fx_md_env_glass_carlights.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "001BAF42DDD3A59B",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_nodecal.template?/fx_md_env_glass_nodecal.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00F842D60559BC8E",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_non_penetrable.template?/fx_md_env_glass_non_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0044C1160D6C4928",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_screenlcd.template?/fx_md_env_glass_screenlcd.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0021B1E6A1B1A6BE",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_window.template?/fx_md_env_glass_window.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E14D1D22135D75",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_gravel_wet.template?/fx_md_env_gravel_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006AAA45CD49C813",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_haystack.template?/fx_md_env_haystack.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006D73C0EF7AA2B6",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_ice.template?/fx_md_env_ice.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00074D856ECAFA75",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal.template?/fx_md_env_metal.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000646FFD96A3951",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_barrelempty.template?/fx_md_env_metal_barrelempty.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00031FA3A0AC28EE",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_car.template?/fx_md_env_metal_car.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E52FF0CE62319F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_corrugated.template?/fx_md_env_metal_corrugated.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D310DC11FB9ECF",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_electric.template?/fx_md_env_metal_electric.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00DADBA6B7C7DE5F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_fence.template?/fx_md_env_metal_fence.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "007880CA8F85AE60",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_heavy.template?/fx_md_env_metal_heavy.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F163D1E251944D",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_nodecal.template?/fx_md_env_metal_nodecal.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "000D804F9BD196F4",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_nodecal_penetrable.template?/fx_md_env_metal_nodecal_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00810E4FFF58B8ED",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_penetrable.template?/fx_md_env_metal_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 31
+  },
+  {
+    "hash": "00286E81560D4F65",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_pipeflame.template?/fx_md_env_metal_pipeflame.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D454EBB6A78CA0",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_pipesteam.template?/fx_md_env_metal_pipesteam.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CC2AE8003044DA",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_pipewater.template?/fx_md_env_metal_pipewater.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B263C4C2D570F0",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_plate.template?/fx_md_env_metal_plate.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B10F49C235E20C",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_thin.template?/fx_md_env_metal_thin.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "001509C51028C7EB",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_mud.template?/fx_md_env_mud.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B8E792F4463362",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_mud_grass.template?/fx_md_env_mud_grass.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DBA8140C1E6000",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_paper.template?/fx_md_env_paper.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0007125AA327FE2B",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_paper_b.template?/fx_md_env_paper_b.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "009746BF147719E1",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_paper_penetrable.template?/fx_md_env_paper_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0036A3F687CB4AE8",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_paperbag.template?/fx_md_env_paperbag.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "008F111959055581",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_plaster.template?/fx_md_env_plaster.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008652B2EB821954",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_plastic.template?/fx_md_env_plastic.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "002D032E55BDACC7",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_plastic_hollow.template?/fx_md_env_plastic_hollow.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "001B02A946B1F505",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_plastic_tarp.template?/fx_md_env_plastic_tarp.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005D52EC207B99CE",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_plastic_water.template?/fx_md_env_plastic_water.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0049AB2601A8A65A",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_roof_tile.template?/fx_md_env_roof_tile.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004C4B8DA8358837",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_rubber.template?/fx_md_env_rubber.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006CE1E41663EDC2",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone.template?/fx_md_env_stone.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F1D124BC3371A7",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_brickred.template?/fx_md_env_stone_brickred.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "002FB51DA3F46DF9",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_brickyellow.template?/fx_md_env_stone_brickyellow.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00A33C73067A3AA1",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_ceramic.template?/fx_md_env_stone_ceramic.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B1445F2D1772D3",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_concrete.template?/fx_md_env_stone_concrete.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0046D368C7FEC9B6",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_tiles.template?/fx_md_env_stone_tiles.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00562F9BF6C33F9E",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_tiles_below_water.template?/fx_md_env_stone_tiles_below_water.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E5C508529F81AC",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_tiles_dark.template?/fx_md_env_stone_tiles_dark.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "003A883BB993F6F0",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_wet.template?/fx_md_env_stone_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D817D5F678215B",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water.template?/fx_md_env_water.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00AB22F17AD6F49A",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_deep.template?/fx_md_env_water_deep.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E68FEC7FB02C79",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_deep_ocean.template?/fx_md_env_water_deep_ocean.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0025BA2BD7FBE18F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_norings.template?/fx_md_env_water_norings.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B2F07365435F53",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_norings_noammoshot.template?/fx_md_env_water_norings_noammoshot.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A171508852FBC1",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_norings_penetrable.template?/fx_md_env_water_norings_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00705938E8653AA6",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_opaque.template?/fx_md_env_water_opaque.entitytemplate].pc_entityresource",
+    "gameFlags": 13
+  },
+  {
+    "hash": "00C168F9D52CA7BD",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood.template?/fx_md_env_wood.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00FF457519D01D4F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood_creaky.template?/fx_md_env_wood_creaky.entitytemplate].pc_entityresource",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00F72B9B2FBEA684",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood_hard_old.template?/fx_md_env_wood_hard_old.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0066822A39A280E9",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood_penetrable.template?/fx_md_env_wood_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A780F487CCD1BC",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood_rickety.template?/fx_md_env_wood_rickety.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00831FD80A14F507",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood_wet.template?/fx_md_env_wood_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F57BC532343C13",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_woodplank.template?/fx_md_env_woodplank.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "003A35477A90CFD2",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_intel_cloth_pillowblack.template?/fx_md_intel_cloth_pillowblack.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C938C954732844",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_intel_env_marble_red.template?/fx_md_intel_env_marble_red.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009C3D35ACF628FF",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_invisible.template?/fx_md_invisible.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0095ABF9F5D153FE",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_invisible_penetrable.template?/fx_md_invisible_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CD04372494F856",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_parrot.template?/fx_md_parrot.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B6A9521E99696",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_axe.template?/fx_md_prop_axe.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0012070C617E1786",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_bat.template?/fx_md_prop_bat.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00128E1D49756068",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_batjapan.template?/fx_md_prop_batjapan.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00DC73C3B1751FD3",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_brik.template?/fx_md_prop_brik.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0049EFE9BE8C7C05",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_can.template?/fx_md_prop_can.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D4C75BCF6E2503",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_cigarette.template?/fx_md_prop_cigarette.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00A35F58CC37BBE4",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_club.template?/fx_md_prop_club.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D28EE771BE703A",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_coin.template?/fx_md_prop_coin.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00886695C9D36521",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_crowbar.template?/fx_md_prop_crowbar.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A3163F9E71532E",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_fireextinguisher.template?/fx_md_prop_fireextinguisher.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "007AE0C6523F1A90",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_hammer.template?/fx_md_prop_hammer.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D9936C33722F12",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_knife.template?/fx_md_prop_knife.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "002FFC8209F17F55",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_marbelball.template?/fx_md_prop_marbelball.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "006826D466EBDA88",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_metalrod.template?/fx_md_prop_metalrod.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0039592230C3B343",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_pan.template?/fx_md_prop_pan.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005FAF39931264AA",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_plasticdevice.template?/fx_md_prop_plasticdevice.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "008FA72AA80630C3",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_rubberball.template?/fx_md_prop_rubberball.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D99AF6A1814D40",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_rubberrud.template?/fx_md_prop_rubberrud.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00EFEDE952B2DACA",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_scissors.template?/fx_md_prop_scissors.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00970E53614B85C6",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_screwdriver.template?/fx_md_prop_screwdriver.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "000F77BBCD4F7439",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_shovel.template?/fx_md_prop_shovel.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "002D4ADBFF11290C",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_spraycan.template?/fx_md_prop_spraycan.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009AB43878D9B16F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_suitcase_leather.template?/fx_md_prop_suitcase_leather.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002DDF2200F6EAF6",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_suitcase_metal.template?/fx_md_prop_suitcase_metal.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0025CC785D7DE57F",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_sword.template?/fx_md_prop_sword.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00563EBCC65A5884",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_weapon_clip.template?/fx_md_prop_weapon_clip.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00356CE6305849F5",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_weapon_gun.template?/fx_md_prop_weapon_gun.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F71178F177DD83",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_wrench.template?/fx_md_prop_wrench.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0020929324B9FF20",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_seagull.template?/fx_md_seagull.entitytemplate].pc_entityresource",
+    "gameFlags": 44
+  },
+  {
+    "hash": "000B2B73D02B034C",
+    "path": "[assembly:/templates/levelselect/levelselectconfig.template?/levelselectconfig2.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CD3AB8031B3232",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_brick_red_01.template?/bgnd_brick_red_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0085D4595FCAD8A4",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_ceramic.template?/bgnd_ceramic.entitytemplate].pc_entityresource",
+    "gameFlags": 44
+  },
+  {
+    "hash": "009BBB5DD65DF8D1",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_cloth_01.template?/bgnd_cloth_01.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0060D0858022AAB4",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_concrete_01.template?/bgnd_concrete_01.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "0090A6D772B170F1",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_default_01.template?/bgnd_default_01.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00EF82C688A24AC0",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_foliage_01.template?/bgnd_foliage_01.entitytemplate].pc_entityresource",
+    "gameFlags": 13
+  },
+  {
+    "hash": "0028A756EC55AA55",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_fruit_01.template?/bgnd_fruit_01.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AE4F5910348ED3",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_glass_01.template?/bgnd_glass_01.entitytemplate].pc_entityresource",
+    "gameFlags": 31
+  },
+  {
+    "hash": "00339FD51D3B2B4E",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_glass_screen_lcd_01.template?/bgnd_glass_screen_lcd_01.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0055EDA79AB66A2C",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_01.template?/bgnd_metal_01.entitytemplate].pc_entityresource",
+    "gameFlags": 31
+  },
+  {
+    "hash": "008FA12D9D396202",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_car_01.template?/bgnd_metal_car_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "000EFEED2EF15FBC",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_chainlink_fence_01.template?/bgnd_metal_chainlink_fence_01.entitytemplate].pc_entityresource",
+    "gameFlags": 13
+  },
+  {
+    "hash": "00A5F7A36CF6140D",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_fence.template?/bgnd_metal_fence.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002823A703C09653",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_heavy_01.template?/bgnd_metal_heavy_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0042D4A966F271BB",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_oil_barrels_01.template?/bgnd_metal_oil_barrels_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00114FA3C486EB2A",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_penetrable_01.template?/bgnd_metal_penetrable_01.entitytemplate].pc_entityresource",
+    "gameFlags": 19
+  },
+  {
+    "hash": "00C251574803DC3A",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_sword.template?/bgnd_metal_sword.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004B8B511D5F19F6",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_thin_01.template?/bgnd_metal_thin_01.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F1AB68BA7556C7",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metaltube_01.template?/bgnd_metaltube_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0053D2A453A225ED",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_paper_01.template?/bgnd_paper_01.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "009C350996867279",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_plastic_01.template?/bgnd_plastic_01.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "003EDB262FCDB4FE",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_snow_01.template?/bgnd_snow_01.entitytemplate].pc_entityresource",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006B356D7222E544",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_sofa_01.template?/bgnd_sofa_01.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001E0169FCFB9D6B",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_stone_01.template?/bgnd_stone_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "008EE7EAA7F3DF6D",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_tiles_01.template?/bgnd_tiles_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "002C142963828F79",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_water_01.template?/bgnd_water_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00AC28AC665388AC",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_wood_01.template?/bgnd_wood_01.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "006B3925F91DEF80",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_wood_plank.template?/bgnd_wood_plank.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0069CECC06290579",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_wood_shards.template?/bgnd_wood_shards.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001714A082490A25",
+    "path": "[assembly:/templates/materialdescriptors/char_default_01.template?/char_default_01.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "002744440F35F069",
+    "path": "[assembly:/templates/materialdescriptors/char_glass_01.template?/char_glass_01.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BC4F2F6EE93A61",
+    "path": "[assembly:/templates/materialdescriptors/sound_default.template?/sound_default.entitytemplate].pc_entityresource",
+    "gameFlags": 2
+  },
+  {
+    "hash": "004A9CF0FDE4FEFA",
+    "path": "[assembly:/templates/materialdescriptors/sound_metal_weapon_01.template?/sound_metal_weapon_01.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0073246140B15583",
+    "path": "[assembly:/templates/materialdescriptors/sound_plastic_01.template?/sound_plastic_01.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006F993C7B3A5E4B",
+    "path": "[assembly:/templates/materialdescriptors/sound_shell.template?/sound_shell.entitytemplate].pc_entityresource",
+    "gameFlags": 17
+  },
+  {
+    "hash": "00373798EA832218",
+    "path": "[assembly:/templates/materialdescriptors/sound_wood_plank.template?/sound_wood_plank.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00E8B197D3BB4D2E",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_bulletimpact_glasscar.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A70865188EA04A",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_bulletimpact_metalplate.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0089FF596482DF52",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_carpet.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "007FDBA02BD19154",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_carpetcreaky.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006381B8BEFF6143",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_ceramic.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007C4F62F75590EF",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_concrete.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00171006B03265AF",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_dirt.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CDAC290B81C1C9",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_fabric.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E6403E08633BDD",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_flesh.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B9847A002F4A9E",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_foilagewet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AC45DF8589CC06",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_foliage.entitytemplate].pc_entityresource",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0047A70735B15552",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_fruit.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005634BB745BEC28",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_glass.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CD62049B996985",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_grass.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00C5B8BDBD7E5B0B",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_grass_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009F93433F06612F",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_gravel.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00295D426A9B16D6",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_gravelwet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F190EBE2FF3A97",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_heroflesh.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0007A53CD864579C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_inaudible.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0068704A6C133E04",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_marble.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "009DF6F0D4D4E26C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metal.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000ABFD8FEB8811C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalcar.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B6021185756050",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalfence.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00CF466675252520",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalheavy.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "005D85AD7271B9C0",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalnodecal.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E09D5C86B6740A",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metaloilbarrels.entitytemplate].pc_entityresource",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00BA13853D52B133",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalpan.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D1E9BF412E7F77",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalsteampipe.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00E347E4FBFF2950",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalthin.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F950E230336103",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalweapon.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00D8BC58054DDE9D",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_mud.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003D0BCF2E691246",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_mudgrass.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001EF2C30FFEAE15",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_paper.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00EC08C84CA4428F",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_paperbag.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00698BB916CCF032",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_plastic.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "004A85DAAE3DD15C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_plasticdevice.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00524678DD4A69A3",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_plastichollow.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0050C7A5C28BB012",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_plastictarp.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000CD8AFEDB9FB07",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_props_rubberball.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E9559CF448C2F7",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_props_scissors.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "009979B22506414C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_props_suitcase_leather.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00065896008DDA01",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsaxe.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00FC1B1A739B5004",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsbat.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0031454C822C3B51",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsbatjapan.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0026541BE83CA1A9",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsbrik.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "009082A3E28C8B3B",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propscan.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "004659E90F446B5A",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsclub.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00CEF3AAC8CE650A",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propscoin.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B86E27EC318BE9",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propscrowbar.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00699C3DA7BB9795",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsfireextinguisher.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0006F859F50C31C4",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propshammer.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0073644FCB11C30D",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsknife.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0022A6A852DAADDC",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsmarbelball.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00652F45A120B8A8",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsmetalrod.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "007E3EB4E12101EF",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsrubberrod.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D4AEC4A031C2E4",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsscrewdriver.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D2B64B8DAC29A5",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsshovel.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "001F0335D7FF0B1F",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsspraycan.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C9C7B7F7986F28",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsweapon_gun.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0071D5536337D23F",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propswrench.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00CD863C2BD91F61",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_ragdoll_body.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00EF4829F4412083",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_ragdoll_feet.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "0019413ADBAF11F0",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_ragdoll_hand.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006AE83CE26AA9B2",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_ragdoll_head.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "005953697C30F0F8",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_rooftile.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0034175F616D520B",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_rubber.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "003152EDD62A31E9",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_sand.entitytemplate].pc_entityresource",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D68996E9237A4C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_sand_wet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007C2E484051D098",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_shell.entitytemplate].pc_entityresource",
+    "gameFlags": 17
+  },
+  {
+    "hash": "0021D23EB748800E",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_silentbothmaterials.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00316563B255297F",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_snowhard.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00151995FDC97D57",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_stone.entitytemplate].pc_entityresource",
+    "gameFlags": 44
+  },
+  {
+    "hash": "002D4D21F890FE18",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_stonewet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007FCB393100CFE8",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_sword.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B5FFBE9C2D0719",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_undefined.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00A264AB552A8462",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_water.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00B7051042129BB6",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_waterbelow.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0084005DA15448EE",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_waterdeepocean.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0035B0D6C9F64481",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_weaponclip.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "004F3A62E47DBF50",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_windowglass.entitytemplate].pc_entityresource",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009E26511691A52C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_wood.entitytemplate].pc_entityresource",
+    "gameFlags": 63
+  },
+  {
+    "hash": "004ABD5CBDA2FB25",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_woodcreaky.entitytemplate].pc_entityresource",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0098A8EDFE70E54C",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_woodhardold.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A2911862F6C7AC",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_woodplank.entitytemplate].pc_entityresource",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00A9E52B7C51C17D",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_woodrickety.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0017E3DF260F0B54",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_woodwet.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002ED2538FA70CDC",
+    "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdscriptor_metalcorrugated.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0006AA0D8B4A2951",
+    "path": "fx_md_env_stone_tiles",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00110A6A7AFC6D2F",
+    "path": "",
+    "gameFlags": 38
+  },
+  {
+    "hash": "001F8CB0FC47624B",
+    "path": "fx_md_env_stone_concrete_intel",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006147991B3A63EF",
+    "path": "[assembly:/templates/ui/fonts.template?/fontconfigurationcommon.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "006239DCF7BBF352",
+    "path": "[assembly:/templates/ui/fonts.template?/fontconfigurationrussian.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "006D43618F5FD0C8",
+    "path": "fx_md_env_stone_concrete",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009536711EF1F28C",
+    "path": "[assembly:/templates/ui/fonts.template?/fontconfigurationjapanese.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00D44EF5C787EAD1",
+    "path": "[assembly:/templates/ui/fonts.template?/fontconfigurationchinese.entitytemplate].pc_entityresource",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00DEE9132A3885E9",
+    "path": "[assembly:/templates/ui/fonts.template?/fontconfigurationtraditionalchinese.entitytemplate].pc_entityresource",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0029B3A21E644170",
+    "path": "[assembly:/templates/materialdescriptors/sound_wood_01.template?/sound_wood_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A71EB8A8CB32C8",
+    "path": "[assembly:/templates/materialdescriptors/sound_metal_thin_01.template?/sound_metal_thin_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00010286DEDF6064",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_steampipe_01.template?/bgnd_metal_steampipe_01.entitytemplate].pc_entityresource",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00BF5F22A6D4A736",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_invisible_penetrable.template?/bgnd_invisible_penetrable.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D37C0CE951987D",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_shootingtarget.template?/fx_md_prop_shootingtarget.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00865452DC4C9C41",
+    "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_shootingtarget_bullseye.template?/fx_md_prop_shootingtarget_bullseye.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  }
+]

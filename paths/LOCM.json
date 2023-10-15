@@ -1,0 +1,82 @@
+[
+  {
+    "hash": "000DBBF979C1E52C",
+    "path": "[assembly:/localization/textlists/alllevels/onscreenhints/onscreenhints.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 17
+  },
+  {
+    "hash": "00A5086D11AC5502",
+    "path": "[assembly:/localization/textlists/ui/absolution_tips/absolution_tips.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 19
+  },
+  {
+    "hash": "002F0375DEFDFD41",
+    "path": "[assembly:/localization/textlists/ui/actionprompts/actionprompts.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00A43D8DA3F5B470",
+    "path": "[assembly:/localization/textlists/ui/buttonlegend/buttonlegend.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0046DC7B53042D95",
+    "path": "[assembly:/localization/textlists/ui/contractsshared/contractsshared.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "004CE5A1392AF677",
+    "path": "[assembly:/localization/textlists/ui/countrycodes/countrycodes.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00CF8C586F876F31",
+    "path": "[assembly:/localization/textlists/ui/endlevelmenu/endlevelmenu.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006633E0592D6437",
+    "path": "[assembly:/localization/textlists/ui/gamestats/gamestats.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0025315A813FD4F7",
+    "path": "[assembly:/localization/textlists/ui/ingamemenu/ingamemenu.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0038DFE65BDBCC72",
+    "path": "[assembly:/localization/textlists/ui/messages/messages.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0035D9B87AA53164",
+    "path": "[assembly:/localization/textlists/ui/notebook/notebook.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "006044A52882CEB3",
+    "path": "[assembly:/localization/textlists/ui/onlinemenu/onlinemenu.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00C022CB7521CF59",
+    "path": "[assembly:/localization/textlists/ui/options/options.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00537742E6A8DC67",
+    "path": "[assembly:/localization/textlists/ui/poi/poi.localized-textlist].pc_multilanguage-textlist",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0024AA1B21A2792A",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00DCEC073168A2C9",
+    "path": "",
+    "gameFlags": 16
+  }
+]

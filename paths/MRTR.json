@@ -1,0 +1,4267 @@
+[
+  {
+    "hash": "00548D517ECA5A5C",
+    "path": "[assembly:/_pro/_test/julienh/geometry/kraken_sail_boat_b~prop_kraken_sail_boat_b_00~.xml].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00923ABD5D7AAE8F",
+    "path": "[assembly:/_pro/_test/julienh/geometry/kraken_tentacles~prop_kraken_tentacles~.xml].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00742DC23E4E9621",
+    "path": "[assembly:/_pro/_test/julienh/geometry/squeletonarm_a~prop_squeletonarm_a~.xml].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0090A2CEAC7BEBC1",
+    "path": "[assembly:/_pro/environment/geometry/architecture/doors/door_bunker_entrance_a~prop_door_bunker_entrance_a_door~.xml].pc_rtr",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0044BDC21715FFDB",
+    "path": "[assembly:/_pro/environment/geometry/props/accessories/gardenshears_a~prop_gardenshears_a~.xml].pc_rtr",
+    "gameFlags": 39
+  },
+  {
+    "hash": "003494652CBB9DB7",
+    "path": "[assembly:/_pro/environment/geometry/props/electronics/spidermachine_operation_a~prop_spidermachine_operation_a_rig~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004CFE01210EC9E2",
+    "path": "[assembly:/_pro/environment/geometry/props/gameplay/distractions/hobbytraintrack_a~prop_hobbytraintrack_train_a~.xml].pc_rtr",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00A58E8FC72B6346",
+    "path": "[assembly:/_pro/environment/geometry/props/industrial/crane_traveling_a~prop_crane_claw_b~.xml].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00549B2EBAB32B1D",
+    "path": "[assembly:/_pro/environment/geometry/props/laboratory/laboratory_machine_d~prop_laboratory_machine_d_robotarm~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000F4EA7597C8B6E",
+    "path": "[assembly:/_pro/environment/geometry/props/lamps/lamp_rigs_fashionshow_d~prop_lamp_fashionshow_icerig_frame~.xml].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00EF124E2EA7D029",
+    "path": "[assembly:/_pro/environment/geometry/props/leisure/drumkit_a~prop_drumkit_a~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A2E708E2AD6539",
+    "path": "[assembly:/_pro/environment/geometry/props/movieset/copperhead_milo_rig~prop_copperhead_milo_ground~.xml].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00A68DE2D28C53CD",
+    "path": "[assembly:/_pro/environment/geometry/props/movieset/copperhead_minion_monster_rig~prop_copperhead_minion_ground~.xml].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00B246A63DB114BE",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/ar_npc_standard_a/ar_npc_standard_a~prop_ar_npc_standard_a~.xml].pc_rtr",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00D6045A316D4B2D",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/ar_stealth/ar_stealth~prop_ar_stealth_a~.xml].pc_rtr",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00A554E93B7AAD15",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_dartgun_sedative_a/pistol_dartgun_sedative_a~prop_pistol_dartgun_sedative_a~.xml].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003F62879A4498F1",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_npc_standard/pistol_npc_standard~prop_pistol_npc_standard~.xml].pc_rtr",
+    "gameFlags": 46
+  },
+  {
+    "hash": "0042F48A0ED9BEC3",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_stealth/pistol_stealth~prop_pistol_stealth_a~.xml].pc_rtr",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00A3AA8B2FD3B78C",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/shotgun_npc_standard_a/shotgun_npc_standard_a~prop_shotgun_npc_standard_a~.xml].pc_rtr",
+    "gameFlags": 62
+  },
+  {
+    "hash": "0065FC435984360F",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/shotgun_stealth/shotgun_stealth~prop_shotgun_stealth_a~.xml].pc_rtr",
+    "gameFlags": 62
+  },
+  {
+    "hash": "00DB55CA85A5EC0E",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/smg_npc_standard_a/smg_npc_standard_a~prop_smg_npc_standard_a~.xml].pc_rtr",
+    "gameFlags": 62
+  },
+  {
+    "hash": "007F561E6B0C68F6",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/smg_stealth/smg_stealth~prop_smg_stealth_a~.xml].pc_rtr",
+    "gameFlags": 62
+  },
+  {
+    "hash": "008104C79E14D5B3",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/sniper_classic_a/sniper_classic_a~prop_sniper_classic_a~.xml].pc_rtr",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0092432C23FA47D9",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/sniper_stealth/sniper_stealth_a_rig~prop_sniper_stealth_a~.xml].pc_rtr",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00257F3A6C63A3D1",
+    "path": "[assembly:/_pro/vehicles/geometry/american_ambulance_a/american_ambulance_a~prop_american_ambulance_a_rig~.xml].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00965EB83AD18BE8",
+    "path": "[assembly:/_pro/vehicles/geometry/american_van_a/american_van_a~prop_american_van_a_rig~.xml].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F4AFD8979C7AC9",
+    "path": "[assembly:/_pro/vehicles/geometry/apv_a/apv_a~prop_apv_a_motionbuilder~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C50554AFE0C098",
+    "path": "[assembly:/_pro/vehicles/geometry/boat_longtail_a/boat_longtail_a~prop_boat_longtail_rig~.xml].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C86936A70E9896",
+    "path": "[assembly:/_pro/vehicles/geometry/english_suv_a/english_suv_a~prop_english_suv_a_rig~.xml].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0034F268A10B0E0F",
+    "path": "[assembly:/_pro/vehicles/geometry/italian_sportscar_a/italian_sportscar_a~prop_italian_sportscar_a_motionbuilder~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FC1964B1294AD5",
+    "path": "[assembly:/_pro/vehicles/geometry/luxury_helicopter_a/luxury_helicopter_a~prop_luxury_helicopter_a_rotor~.xml].pc_rtr",
+    "gameFlags": 31
+  },
+  {
+    "hash": "0083DA3CA8CC675D",
+    "path": "[assembly:/_pro/vehicles/geometry/luxury_helicopter_a/luxury_helicopter_a~prop_luxury_helicopter_a~.xml].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0002AE5C9D7B5EA1",
+    "path": "[assembly:/_pro/vehicles/geometry/minitruck_a/minitruck_a~prop_minitruck_a_motionbuilder~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FF2C2CCD025BA0",
+    "path": "[assembly:/_pro/vehicles/geometry/old_french_compact_a/old_french_compact_a~prop_old_french_compact_a_motionbuilder~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00149AD08F7AB7C9",
+    "path": "[assembly:/_pro/vehicles/geometry/old_luxury_sedan_a/old_luxury_sedan_a~prop_old_luxury_sedan_a_motionbuilder~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00AEFC57473ABE1D",
+    "path": "[assembly:/_pro/vehicles/geometry/quadbike_a/quadbike~prop_quadbike_a_motionbuilder~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F4D9394C316926",
+    "path": "[assembly:/_pro/vehicles/geometry/scooter_e/scooter_e~prop_scooter_e_rig~.xml].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0024EBA90AB25799",
+    "path": "[assembly:/_pro/vehicles/geometry/seaplane_a/seaplane_a~prop_seeplane_a~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CFE5607B116092",
+    "path": "[assembly:/_pro/vehicles/geometry/trains_mumbai/train_locomotive_mumbai_a~prop_train_locomotive_mumbai_a_rig~.xml].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009265BA66F22B1A",
+    "path": "[assembly:/_pro/vehicles/geometry/tuk_tuk_a/tuk_tuk_a~prop_tuk_tuk_a_rig~.xml].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FAEADA8CD6F051",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_exit_boat/05_animation/scenes/s01_l01_paris_exit_boat.xmd?/boat.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0022D69498DD5539",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_exit_boat/05_animation/scenes/s01_l01_paris_exit_boat.xmd?/camera.xmdtake].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "0097E5B1C881C6B9",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_exit_chopper/05_animation/scenes/s01_l01_paris_exit_chopper.xmd?/camera.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00C2CCF851C254F8",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_intro/05_animation/scenes/s01_l01_paris_intro.xmd?/camera.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "007702F2C3AB4784",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_intro/05_animation/scenes/s01_l01_paris_intro.xmd?/invitation1.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "003F736DD2D05044",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_intro/05_animation/scenes/s01_l01_paris_intro.xmd?/tablet.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "000DED3FDB278DD0",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "008F9AA2E251C097",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro_1.xmdtake].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007BDDBCEB3ECFAF",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro_2.xmdtake].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0052187E735A7681",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro_3.xmdtake].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008576A9F1774997",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro_4.xmdtake].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A41089E4C2E755",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro_5.xmdtake].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00892DBFE905F67B",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro_6.xmdtake].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D9393470DDB9D6",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_hips_mixdrinks.xmd?/camera_01.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00A00797B17F2D30",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_hips_mixdrinks.xmd?/glass.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00F12B8A0FF505C3",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/015_hide_bodycontainer/hm_enter_bodycontainer.xmd?/lid_enter_bodycontainer.xmdtake].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "003562EE2EED8904",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/015_hide_bodycontainer/hm_enter_bodycontainer.xmd?/lid_exit_bodycontainer.xmdtake].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00523D6B4F967D6C",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/015_hide_bodycontainer/hm_enter_bodycontainer.xmd?/lid_exitpeek_bodycontainer.xmdtake].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00FE0636FC0B3785",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/12_chairs/reactionchair_anim.xmd?/reactionchair.xmdtake].pc_rtr",
+    "gameFlags": 63
+  },
+  {
+    "hash": "000B06032F5FB7FF",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/airplane_takeoff.xmd?/seaplane_takeoff.xmdtake].pc_rtr",
+    "gameFlags": 1
+  },
+  {
+    "hash": "00350E24C5DB5D2C",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/setpiece_trap_stairlift.xmd?/stairlift_down.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "008128048D17ABD5",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/setpiece_trap_stairlift.xmd?/stairlift_up.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "004EBEFC6036BA19",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_dome.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00598D4A4FC2D0BA",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_door_a.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0068588968FA0A7C",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_door_b.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "001FC34D56890C24",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_telescope_a.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00C5AEBD4DCF11BD",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_telescope_b.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0093BC2179D5BD3C",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_dome.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "001EBAC851BCB979",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_door_a.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00D3868C275C9B62",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_door_b.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "0000E8F23940C258",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_telescope_a.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00E2F82E4CD33EF4",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_telescope_b.xmdtake].pc_rtr",
+    "gameFlags": 15
+  },
+  {
+    "hash": "00E71E841B0C2B05",
+    "path": "[assembly:/geometry/characters/_export_rigs/biped~~.xml].pc_rtr",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00F4856AB12C44F5",
+    "path": "[assembly:/geometry/characters/_export_rigs/crowdrig~~.xml].pc_rtr",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007CCF925414E193",
+    "path": "[assembly:/geometry/characters/animals/pigeon/pigeon_01.xml].pc_rtr",
+    "gameFlags": 47
+  },
+  {
+    "hash": "00D6F48A94FB6E86",
+    "path": "[assembly:/geometry/weapons/gun_hardballers~prop_gun_hardballers~.xml].pc_rtr",
+    "gameFlags": 63
+  },
+  {
+    "hash": "007B3F15363D6FC9",
+    "path": "[assembly:/geometry/weapons/gun_taurus247~prop_gun_taurus247~.xml].pc_rtr",
+    "gameFlags": 63
+  },
+  {
+    "hash": "006EC2F19DB3925D",
+    "path": "[assembly:/geometry/weapons/rifle_hk416~prop_rifle_hk416_ground~.xml].pc_rtr",
+    "gameFlags": 25
+  },
+  {
+    "hash": "00D399F5E175AB28",
+    "path": "[assembly:/geometry/weapons/shotgun_mossberg590~prop_shotgun_mossberg590~.xml].pc_rtr",
+    "gameFlags": 63
+  },
+  {
+    "hash": "00FA1AAEFE2BB568",
+    "path": "[assembly:/geometry/weapons/smg_ump~prop_smg_ump~.xml].pc_rtr",
+    "gameFlags": 17
+  },
+  {
+    "hash": "00C5E9C813E60400",
+    "path": "[assembly:/geometry/weapons/sniper_sakotrg~prop_sniperrifle_sakotrg~.xml].pc_rtr",
+    "gameFlags": 17
+  },
+  {
+    "hash": "0000713F8D4C6B2D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000132913C0CF99C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0001AD3EDA7510EC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0001F94886C99523",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00024E9710C23315",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0002B9926DD45E05",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00034574E3670687",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00039D7BC4AE4A87",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0003CFF96D8B6972",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00044121427D1096",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0004BAB2BEF3476E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00056AFC0FF04447",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000570FB34527287",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0005A9A8C11269CC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00067B00D971AC6F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0007308A037AE5DE",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00076B9280C3785B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00085ADA91CAA2D2",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0008CAD359557EFD",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00092EC3A21736A7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00098FDC374D2A63",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0009AC3F24B29AC7",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0009D2DCD80D563F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000A142BF64823E8",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000A1A52B2EBF314",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000A63EFCA4E5170",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000A65C6857F0DD0",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000B099CD2C55E67",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000B8E4AF63A803B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000BA20AB54D6759",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000BA67BAF98358E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000BB17F63AFF8F0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000CA4B0FC07B545",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000CCBE9A5F0C090",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000D1DEE40217B79",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000D3597CE808538",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000D6608C4AE7200",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000D948259839139",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000DBCBBA67BBCF7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000DD7B3EE1C98C0",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000E217CABE57091",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000F5BEC1EFB6564",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "000FAA4B6AC06E29",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "000FC4A4486371BD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00105C90096563EC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00107F4B6FECA3F1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00111AEBB0B9AB13",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001190A5758CA7F8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0011AA44D060093F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0011D23AE2DE76F6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0011DBD488EEC002",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0011F9CCDE47FCA2",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0011FEF05FAE507D",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0012A0826815D15C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0012A6448E26DF41",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0012DB80FA9C786B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00136AE9E9D0BE4A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00137B0477E2339D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0013A340713FD0A3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001401EEC487BDE7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001426CFE4F8A930",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001430A6A2A8D728",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00144557FE104326",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00151C3F9E8CF14C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0015403170222648",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0015800A6798C846",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001634EAF92BEA14",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00164FAAAE212268",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001691BD4C10E0E9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0016B7AF4D20AB3F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0016FE022876F516",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001787B194FBFE34",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0017DCDC8155BBFF",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001860C43943CB9C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00189B5257C7B7A7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0018D138947FC372",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0019678F490AD213",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00198564DA25874A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001A74E8B2B14F89",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001ABE126E672ECD",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001BCBE20D1FAE25",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "001BD530342FA79C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001BE9F169418BFD",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001C117147E13944",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001C770D96746AC3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001CF66443A80E43",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001DBB6793F8A87C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001E168846B4AA07",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001E6547786C18A0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "001ED3A852BF820B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001FCAEEF413092B",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0020459316C02D6C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002068E2F341CA42",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00214106E7F7FF2B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002164B669ADC58D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0021BAE91019AE42",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0021F5ED31AEAF86",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00227266FE8A6E2D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0022E9DFB0E25DFE",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00239E166E96A82F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0023A33BE9A887A6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0023EE29223323D4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00240D0007436365",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00243EDB103E67FD",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0024988F6CE2905B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002536C161D446BA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0026572AFF70D293",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002666042D7D515F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002671A2E35801D9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002681815B784E59",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0026D4874D4EDB23",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0026D7556279A0F4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0027CB0380A01D70",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00281375C30E80CA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00281E2C741A91E4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00285EDD345AC2D4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00288F0506C81F72",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0028A3A3A087DB7B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0028F4BD38BED6DD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002958B43F4B7712",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0029BCD26CF1E740",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "002A24AD8B66E0F3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002A581D904CD6CF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B20EE89E78DE8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B37F8DE2B7C8C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B7C39820F7F93",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B822CF9AFE4A2",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002B8780473EFB7B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002BA9DAF2A3E2C7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002BB16C6BD60FAE",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002BFB54FA55BB49",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002C43931169F9DC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002D3C35E7ACB383",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "002D58C395F3987E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002D832B6DA91E8C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002D8C94441CA47A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002DE660E301DDFE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002E00535EC9B3C8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "002E0E0E406F7003",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002E81CF850478F8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F13E7D780C0C7",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "002F1FC5121DA65E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F7325C353D286",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0030DFB8180D7E61",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00311BDCD3D54D72",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00323CFC8290AFCF",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00324873ED68EC88",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003257F74CCD078D",
+    "path": "",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0032A93597F24EA0",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003337E224CD6F3F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0033EC006A9A8F29",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003414454CE2A787",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0034F103CF321D06",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00351489F71BE008",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00353CF0D49A3F3E",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003569CF483E3B94",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0035B43F3C5D6D9B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0035D037684AE6BE",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_interact_dropdownladder_200cm.xmd?/ladder.xmdtake].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0035F588D9778E22",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00360486E258C53F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0036539CA21FEB1C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0036653A7F91AB3E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00366BCB5A13AE0C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00366E27D955A7DC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0036989AC34D1D32",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00376A51CD020438",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003893E98552334E",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0038B1C9153C63EA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00390050AD416FE4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003980AABD95172F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0039874F3008538D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00399ECF91DF1D18",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0039B76047F2A230",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "0039BD291839FB07",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003A0435B1740AAB",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003A5540B7734F83",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003A99A98A27DFE1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003AFA26AE4FB621",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003B061CB6B54FC8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003B7E49413148DA",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003B9F4EFA3A9645",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003BBB503E9EC338",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003C437D5C1DBF74",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003CCD08B684185B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003D1119D09F054C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003DAE7C77CB2FD1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "003DBC2AD1C4AB33",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003DE977E5E94F78",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003EE90C105179CC",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "003F0074C40A84D2",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0040559DCF855878",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0041FDC71977162B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00420AEB97DF5EDC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0042227415ACE81C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0042A2648FC1180C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00445FBA10436E1C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004468138A173F0D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00447F842A14EEDB",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0044DA8CE7E8A262",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004519177851CB29",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "004566B5AD8E79FF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004600E3445BD27D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004640C2F1333A31",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0046A82D12587ADC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0046E010359B96BF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004729B305064316",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0047F4F493D1C597",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004811F527C792A2",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0048ED8CAB0F35EF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004A24E9EA8224BA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004ABD33B792BC0F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004AE781D8E4B042",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004B0E078D5325DF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004B28CDE2706EC5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004B8CDAC0E5A8AD",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004BB34640706356",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004BC288733D13E3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004BE7AC8D0154FF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004C173787F71BC6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "004C51212C8C1548",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004CFBF4ED05D4C5",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004D814F96D40019",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004E3A6AA80D1CF0",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004EF73E7365D0A9",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004F19CED271D520",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "004F1AF8DE041319",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00504EE514978124",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00507657C5769DBE",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0050B6FA4CA69AF9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0051379E52D18245",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005140A3505A5F21",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0051F9E93C1A1E92",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00522A0F10E6F894",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00532EF9516FAAE9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00537B208CDB11B7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0053EB9B9FB643F8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005415EC40C438ED",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00548710040CFB95",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0054AA6058D837CE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005524E5DAED4BCA",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00552F98101E9011",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00557611A3D0D45D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0055E975203E048B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0055F4414E5A3372",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00563C13347C8B58",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0057F22FB08757EB",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005810888E49B0E4",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00589EBCE7135128",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0058D7FE3FF6130B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0059A1581590380E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005A2F1DFFC6BA7A",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005A6110DB5CAF2C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005B040117EF8B97",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005B98189FEC9E2B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005BB0F373A07B90",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005BEC33549FE23E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005BF9A8E2AFB4D3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005C20838C35F5B1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005C81B027221459",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005CFA70EAF290C9",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005D48C311BCAD4B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005D81C0A3BB36CB",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005DAA6AD6A6F5AB",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005F20715343D434",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "005F522B7358E1D6",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "005FA62D8ACEE8B6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005FAB6F960C1097",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "0060DD9F699B29E6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00611BEFED87294F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006162C197D6EBEA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0061D4D716A6CA41",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006232F993C5F4EC",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0062DE4E400E30E1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0062F1B9EF7DA211",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0064E97941B019BD",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006507186C681B47",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00657A5D9B946585",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00659878A7C7FC9D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0065CAD8AE7FB943",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0066219C23609AE8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0066E06EB7DFD09C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0066EEA3ED7448D9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00671F8DC7C60B57",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0067405FC37A9B05",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0067B29429061CC6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0067C538A1ACE471",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00686EA4722DDC05",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0068A2EB7713600E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006907E516050B6A",
+    "path": "",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00697B679307BB59",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0069C007AB11BF0E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0069F0B6FE1B7B2E",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006A5D2DA10E2819",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006A721AD6D144AE",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006A86317FD52F60",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006B130FA67EE0F7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006B1E62DA74BE5D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006B4F43CB9C70C4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006B914863B8BFC5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006B98A092635146",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006BE09E76BE0125",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006C10E461A49F9B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006C3241BFA2ED3A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006C3DEFF1DAD5C4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006C54E9BE0612B0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006CB61A310A3696",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006CE9C28395DA60",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006E54DB9191D39C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006E6857E87D474B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006EA026B184BF17",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006EE25B442FC92F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "006F6355C3B3F18F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006F9F8025C16E8C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "006FC5E787BEAC7E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0070131BCC154C39",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00704BF49E642628",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007149392A01099F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00717BF924FA5B27",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0071DDD604827598",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0072250FF1462D8E",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0072CC10766C89AB",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0073673A93D3E4DC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007397B99ABF77B7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00747AAE7FDBE59D",
+    "path": "",
+    "gameFlags": 30
+  },
+  {
+    "hash": "0074AFFE86253455",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0074E9F96661A78D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0074FF78FE21C6BD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007544C7725C9CF0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0075473CF1498315",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0075B099740D5B5D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0075DD93EDC41768",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0077092408CE9B19",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00773CBB1B9EB425",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00779832FEDC0E44",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0077987D46E9A680",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007832C3CF85CB52",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00784815606119A5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00785C35FA1776F9",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0078EB206DE237E5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00790C25455B39D4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00790F23B8B968D3",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007A76B5BDE88DB3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007A8CF18DFA6CB0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007B74FE721A8E21",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007B77AE3AE7D924",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007C58121A53D92A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007C833ADEE15E40",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007C8E2901D9B481",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007D499169A83817",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "007E7007E349DE2A",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "007E80CACF53C665",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007ECABE12E2D01C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00802319A06F25EA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0080620502908198",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0080CA0C48E8B829",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0081EBA9092F2932",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008284222E485910",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0082BAD2A3FB1A53",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0082E744DBABA57D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008304301672AE6C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0083131FB9A228AC",
+    "path": "",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00834605393E364D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00836DD63098585D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008402C4BE7EBCE5",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008474C0884CAF46",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00848FC014B3C2B3",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00849DC933ED5A48",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00850F26AE34E195",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00851C4C78960998",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00852BF05823233D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0085C7E0B9568676",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0085CE0B03E58CBB",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00860FF1C2BFF272",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00863DABBF8116BD",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008789C836611166",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0087B292B67194EC",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0087D2BEF158BA27",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0088B9C87566759C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00891721F6529D44",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008A1EB90A03C60B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008A59F3FC9A1E4D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008A940ACA93B566",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008AA718AEA402EA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008AE0AE9F586862",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008AF9FEDF52FC69",
+    "path": "",
+    "gameFlags": 30
+  },
+  {
+    "hash": "008B11AECC31F7EC",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008B15BA2C7FE1F4",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008B326A380307E7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008BB00305C7F062",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008C4A04656F5280",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_interact_dropdownladder_200cm.xmd?/door.xmdtake].pc_rtr",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008C8D26913E331B",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_payphone.xmd?/handle.xmdtake].pc_rtr",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008C95B3DFC5423E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008DA08FD7C7EB1A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "008DB8C655CFBC9E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008E7B018ADBFE19",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "008EC2DD772A0238",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009027B1D32CC7CC",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0090AD9445AE2784",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0090C58BA173BBAF",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0090D2154EC94C72",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0090F1CBAA33AF3C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00915A2B050C0B71",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00916ED9E44CA09E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0091BBA5442280BE",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0091BF204E90104A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0091D77A3C6C8D5D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0091DB1E1EEA5E77",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "0091EB34264BD436",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "009254405E4D6193",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009337FF3B439EF8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00941574990F0E25",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009432F15C647FE3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0094CAA9729AEC03",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00950F679C8AE6CF",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00957F235D816759",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00958FA4DA02EEA7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0095BE156078C56E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0095F7844ABD3C44",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00960152E3A7FCEC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009748FE85B2A90E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009845F7436B9367",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00984C1632F6608C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0098520248DDC654",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00995EE7FC0C597C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00996A7D98E677FB",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0099A43166655981",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "0099DB4B31B4C1EF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009A4401BAC2BAF9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009A44975120492F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009ACCB3F437D9C0",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009B728D16675ED1",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009B8E8BF4CF2E7B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009C0D8751D2D43F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009C0E25461A1399",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009C4B917B8BCAF3",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009C4FFAF7F7C4C4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009C6E14D4FC9914",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009D5DB1EF26CFCF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009DFB3D49DC77C7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009E60F888C43549",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009EA26E419823EB",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009EC74FD8806382",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009F47BEB23B7E46",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "009FD4C72CAADC9B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A00DBE32B5CBB5",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00A0255D946018E5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A0FD58170D69FB",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A15EAC6ED0431D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A162BD9002BEF8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A173AE9D967241",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A184B4DC4C31ED",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A1E15D701B5868",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A1ED2B9B9F124C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A2C3FCB09B040E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A2EDF877523312",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A303B2D8C9880D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A390121B6F7221",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A444EFA0F05FB3",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A6F510EF30EFAA",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00A75A39484510A8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A777892DF9DBE6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A7C5B799C8495E",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00A7F90F62630B52",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A897A691A0DEA6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A8A239B21F8F17",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A90786349084AB",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A9460EA7D3C6C3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00A953F03CCE54A3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AA098F8A94BE6C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AA408D345F890E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AA8E7F14F0D1C5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AB16A8484849C6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AB2CE322C557B3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00ABC1CC120193C3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00ABCDB3C5B3F184",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AC245A4A18D34B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00ACB8670C97C06E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AEAE9E09C3A9D0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AEC85308AC5B3B",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00AECCE88AF19EAF",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00AED3E3C535B839",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00AF80F6C363F7BE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AFECC865E36E33",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B0187174296C52",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B0460E6F06DD1D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B07510CDB86644",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B0D5165EF10B80",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B0D5808ADA06C9",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B0FA801AAEC21B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B11C4D25799DF8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B15B9C30B4F868",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B1D0F55EE28E42",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B208857E0C60AA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B2340A351DACE0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B3FAEF0AAF8BE2",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B42AC5F5F481C8",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B5C6288EABFC61",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B60482DA172E3C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B752A99B31B0A1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B7978CA14C4BC3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B95318BEFC980D",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00B9A8612568AA08",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00B9F4254946B744",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BAC390F765A807",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BAC849A1C9C2A3",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BAED2B14199193",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BB1F4A554C1DEB",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BB2E7F06506411",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BB5AB08C71C174",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BBDAD5D7F3EAD1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BBFD9C15E5B7CA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BC57F194639511",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BC99B479F4013C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00BDB64553F927F9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BDC36142466E7D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BE23FB4015C2B7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BEF85840C72AD9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BF11168BC6CC5C",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00BF2BBC939C7607",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00BF74C21033A024",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BFB3505B761CE6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C0A00FC3F61BE1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C0A431423B9BBC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C0E423E53C9953",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C168430CF80E8F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C1889908615339",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C1B504AC389EE6",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00C1B9A905E8C38F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C1D591E381AC6C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C1E90D8C33E6E5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C1E9F31D5D3E7E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C32EA1CDE9BBB9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C340D520143DB4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C347F8DBC10ED8",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C36FD65C4D5C08",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s03_hm_lip_fox_confrontation.xmd?/table.xmdtake].pc_rtr",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C39E71FD47D517",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C49A887133E709",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C52E4AA3267426",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C534FAA58FE0A2",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C557C9EB59F418",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00C5630D86123FBA",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C57B4FF0B95043",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C6284E2107E22F",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C81B60EB1200E8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C81BF525B82568",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C8CDCE56136BB3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C8CFF3785484E5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C91DB8379AA971",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C97F9CA80D7E12",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00C983F7A523E77A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CAA32999AD5868",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00CB0B63B943DEAA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CBF07AD0D07848",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CC17E44774961B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CC2C088AAE26EF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CC377AAF12192E",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CC98821FE3257B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CCA672719518A1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CDCADA27C73320",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CE782A55B22911",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CEB1D430CF6ED2",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00CF30B795434D03",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00CFAD74F40B26EC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00CFF1DB1003BFA9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D028A4B9A121BD",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D046C2C50F3C12",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D07E49781CD216",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D0DEA617357A0C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D15EC42EB52F8C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D18F84F4E196F5",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D1A088CB322326",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D1B9D3248BD34E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D1C4E1FA8E9601",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D1F8CA883CA530",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D204DB32D49001",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D26D3D65C47F1B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D29CB7CD5297F3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D2DAF2502D45F7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D2E895DC65818A",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D33A5996B1D408",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D3645A62ADC2E8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D385B6793682B4",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D38F1D21B46B5D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D3BFE2BBC1C079",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D3F131B8F19B8D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D43840A057CFAE",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D443E6B7082A9A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D454B852A86E10",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D4AF457410DC75",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D4BBB69C26C006",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D4ECE01D803184",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D53A74EC7A91B1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D589772A9801C9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D5C2549538C9A2",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D5D92460D885A0",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D67472EE6C97EF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D6ADE7E6AF6CC0",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D6C91B1A42D83B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D70E75A5F22BF4",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00D7E9295CEA548D",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D8038311CC41A6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D833C70AF23161",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00D85ADB1CAE2680",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D8C70F76BF1008",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00D9DF5CD58CD3F1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DA3605995AF19A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DAD16A98B06617",
+    "path": "",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00DAFDAF1BA21442",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DB19CD8BDB98AD",
+    "path": "",
+    "gameFlags": 4
+  },
+  {
+    "hash": "00DB205433500983",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DBA951A5F66B22",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DBDF68567456BF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DC71F5CE9FFBFA",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DCB607D7E15E95",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DCEFF14B45D60B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00DDAFC5B0CDB1AF",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DE35C0FB894D49",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DF252AA44038A7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DF309C34A2434B",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00DFB3EB3C84E1B2",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E0E635C1B0578E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E0FF1ABE053500",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E111CC234D1F41",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E1E8B3108C0FB1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E28958413C3F7A",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E31F063DCA9E53",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E406DFE17B8E45",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E410C11C160FC3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E5010268F4AB06",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E52F33A76B94F1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E54491E70E20B8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E5964665E76648",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E64E2DA92F27DB",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E6F87E5A406C32",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E8550785DDA2B8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E8D02AFE5E6C03",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E8D0D2B9E27B39",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00E94D20059B32AC",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00E9EFB135A1ED83",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EA036CD64F9210",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EAC00A03D59A40",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EB24209EA88B60",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00EB372FDB2E4B26",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EBAC65CD97DA43",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EBFEEDAAE73251",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EC0134F402D8C2",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EC1CA5E81BEA0F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00ECEF805CE4C640",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00ECFE5901B05FDA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00ED142F92BF36A8",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EDD0ABDF7115CD",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EE82477131B87C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00EE9C0075B332B5",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00EF194ED2B22C55",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EF905077C138F3",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EF95079120405E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EFA6DC64468BFD",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EFBB8F1D06B197",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EFBCAAC489DE76",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00EFEE660007D4CA",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F016731788139C",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F02A8A3C571519",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F0326EB90C1025",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F032AAD625C9F3",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F1161D87F233FB",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F1A80807B6FF2B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F2BBD3C7E33E24",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F301CDDF70BED7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F34BE2278A81F7",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F41FD580C34FE6",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F43583927B830C",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F4E290615312D6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F51C3DF18EC22A",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F55BD5FE62CE5F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F58E142FCC7473",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F5A84C61DFEB05",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F5B1EF55D2401E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F6F77751106164",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F7387AC1E6C332",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F783749CF3C115",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F7852F2B83B341",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F78CEE88FE1F1B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F7DAB3DB01C22B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00F83E69AEDAB25A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F8B4DEECA49F63",
+    "path": "",
+    "gameFlags": 30
+  },
+  {
+    "hash": "00F8B7BB1E37EAAF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F92B3112E4CE18",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00F998EDAED18C6B",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FA064D8ED82312",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FA20975C8DC2A1",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FA252C4E9EEF9D",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00FA6A4348557C82",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FA74CB6CBDB056",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FBA78FF5BAAF04",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FBA8D83257CC3C",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00FBDDDB317C1169",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FBEC0FE18BB329",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FBF186D5A6E1D9",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FC5A50607D6DEC",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FCEDB7DEAF91A2",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FD02C905F13F2F",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FD3BB8C0482EFE",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FDC06563750527",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FE17089DADDCF8",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FE4F5BD244C64E",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FE58F016ED020A",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "00FE8ED0AAA47A90",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FECE5842E76788",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FF57363AF49D68",
+    "path": "",
+    "gameFlags": 44
+  },
+  {
+    "hash": "00FF62E71DF0237E",
+    "path": "",
+    "gameFlags": 46
+  },
+  {
+    "hash": "00FF789CF898C636",
+    "path": "",
+    "gameFlags": 12
+  },
+  {
+    "hash": "00FFDBFCA4261BB2",
+    "path": "",
+    "gameFlags": 14
+  },
+  {
+    "hash": "009A290942CC9769",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000A30E5DF4753FD",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "004CE18F27B17B54",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00558E491A3D7B5B",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00E35BCC16F91F4E",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "002A1104E918193A",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "0094EFCBAD00F5B1",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "0028056D7CA22F4E",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00381A6646C2E50D",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "0039C1A9200C2E70",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "003BB76BB85BBFAD",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "007F3E13B901F35D",
+    "path": "",
+    "gameFlags": 16
+  },
+  {
+    "hash": "00BD62334EF03003",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DD6F9CB84843BC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B8AE39BC6D55F3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00305F2EEE15C08B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A627590F0BF737",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007469FFAEBDACA0",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0079B62015D9DEAF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CDB3E7B0AA5956",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007EE288EFAA5DFE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DC50CAFCE99029",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007389CF23DADA20",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F9889BB994E440",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DC4DC2ED463A25",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009353C07162DEA7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00539E0C46F5D9B8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004F6EF789121B1C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AF479876221C96",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E87009B08CA5DD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0040C71A8ED59960",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D4C4B9883BC163",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F7C1A72145E722",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E8856BD5601280",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003C0415DB522853",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003781C2E4D58752",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E229EFB8DA0E0F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002C39BCF47E53B1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0059283C41458CF4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C75130A90393FB",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001A60D277608DC0",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EE2210A59F7941",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AD3C823C6547BD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008625EE5669DC2F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0089CC357135989F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DEFEF1F351CE2F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EDF680D6B057F7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D5D8E69F338FF7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A82CFB2F304634",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005803D05F5AD69C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007A283753FCB3AF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C210A334AD25A4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F868F724DE8D25",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00822A3B115AB606",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DE7E3A01B14938",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A540533222163E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004B76C19F7AB51E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EF0FA9B028E135",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00157273044A1FFF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0010C17C55FCE6F0",
+    "path": "",
+    "gameFlags": 8
+  }
+]
