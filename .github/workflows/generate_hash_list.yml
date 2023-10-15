@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Get version from tag or default to 0
         id: get_version
@@ -36,6 +36,29 @@ jobs:
           path: |
             hash_list.txt
             version
+
+  update_statistics:
+    name: Update Statistics
+    needs: generate_hash_list
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install pytablewriter
+
+      - name: Generate Statistics
+        run: python ./scripts/generate_stats.py
+
+      - name: Commit STATISTICS.md
+        uses: stefanzweifel/git-auto-commit-action@v5
+          with:
+            file_pattern: "STATISTICS.md"
 
   release:
     name: Release
