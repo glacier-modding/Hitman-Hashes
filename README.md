@@ -14,7 +14,7 @@ See [STATISTICS.md](STATISTICS.md).
 | SA    | 0b100000                    |
 
 ## Scripts
-This repository contains three main scripts merge.py and add_paths.py, add_new_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
+This repository contains three main scripts merge.py, add_paths.py and add_new_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
 
 ### merge.py
 Generates the hash_list.txt. Takes a version number as an argument.
