@@ -23,7 +23,7 @@ def update_json(hash_val, path_val, hash_type):
         else:
             return
 
-        with open(json_filename, 'w') as f:
+        with open(json_filename, 'w', newline='\n') as f:
             json.dump(data, f, indent=2)
     else:
         return
