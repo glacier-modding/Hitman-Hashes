@@ -6,7 +6,7 @@ from common_functions import *
 
 def generate_statistics_table():
     input_directory = "paths"
-    json_files = [os.path.join(input_directory, f) for f in os.listdir(input_directory) if f.endswith(".json")]
+    json_files = [os.path.join(input_directory, f) for f in sorted(os.listdir(input_directory)) if f.endswith(".json")]
 
     statistics = {}
 
