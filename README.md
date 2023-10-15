@@ -84,7 +84,7 @@
 | inSA    | 0b100000                    |
 
 ## Scripts
-This repository contains two main scripts merge.py and add_paths.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
+This repository contains three main scripts merge.py and add_paths.py, add_new_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
 
 ### merge.py
 Generates the hash_list.txt. Takes a version number as an argument.
@@ -100,3 +100,18 @@ Requires a `new_paths.txt` file in the repository's root directory which contain
 005EA1E72FC62DEC.WSGT,[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/paris/paris_rain_puddle_state.wwisestategroup].pc_entitytype
 0054C5081030A3D0.WSGB,[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/paris/paris_rain_puddle_state.wwisestategroup].pc_entityblueprint
 ```
+
+### add_new_hashes.py
+Adds new hashes into the JSON files.
+
+Requires a `new_hashes.txt` file in the repository's root directory which contains data structured like:
+
+```
+000A4FB9B5FDAB19.WSGT:h3
+004B66043E12A8E3.WSGB:h3
+005EA1E72FC62DEC.WSGT:h3
+0054C5081030A3D0.WSGB:h3
+003B993A25498AE6.AIBB:h2,h3
+```
+
+Possible games are: `alpha`, `h1`, `h2`, `h3`, `beta` and `sa`.
