@@ -59,4 +59,4 @@ jobs:
         with:
           files: |
             latest-hashes.7z
-            version.txt
+            version
