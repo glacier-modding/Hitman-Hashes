@@ -1,0 +1,56 @@
+name: Generate hash list
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - v*
+
+jobs:
+  generate_hash_list:
+    name: Generate hash list
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get version from tag or default to 0
+        id: get_version
+        run: |
+          version=${GITHUB_REF#refs/tags/v}
+          if [[ -z "$version" || "$version" == "$GITHUB_REF" ]]; then
+            version="0"
+          fi
+          echo "::set-output name=version::$version"
+
+      - name: Run merge.py
+        run: python ./scripts/merge.py ${{ steps.get_version.outputs.version }}
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Upload hash_list.txt
+          path: hash_list.txt
+
+  release:
+    needs: generate_hash_list
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')
+
+    steps:
+      - name: Download hash_list.txt artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: hash_list.txt
+
+      - name: Package artifacts for release
+        run: |
+          7z a latest-hashes.7z ./hash_list.txt -m0=lzma2 -mx9
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: latest-hashes.7z
