@@ -24,7 +24,7 @@ jobs:
             version="0"
           fi
           echo "version=$version" >> $GITHUB_OUTPUT
-          echo $version > version.txt
+          echo $version > version
 
       - name: Run merge.py
         run: python ./scripts/merge.py ${{ steps.get_version.outputs.version }}
@@ -59,4 +59,4 @@ jobs:
         with:
           files: |
             latest-hashes.7z
-            version
+            version.txt
