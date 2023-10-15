@@ -23,7 +23,7 @@ jobs:
           if [[ -z "$version" || "$version" == "$GITHUB_REF" ]]; then
             version="0"
           fi
-          echo "::set-output name=version::$version"
+          echo "version=$version" >> $GITHUB_OUTPUT
 
       - name: Run merge.py
         run: python ./scripts/merge.py ${{ steps.get_version.outputs.version }}
