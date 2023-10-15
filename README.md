@@ -4,14 +4,14 @@
 See [STATISTICS.md](STATISTICS.md).
 
 ## Game flags
-| Game    | Bit Representation (Binary) |
-| ------- | --------------------------- |
-| inAlpha | 0b000001                    |
-| inH1    | 0b000010                    |
-| inH2    | 0b000100                    |
-| inH3    | 0b001000                    |
-| inBeta  | 0b010000                    |
-| inSA    | 0b100000                    |
+| Game  | Bit Representation (Binary) |
+| ----- | --------------------------- |
+| Alpha | 0b000001                    |
+| H1    | 0b000010                    |
+| H2    | 0b000100                    |
+| H3    | 0b001000                    |
+| Beta  | 0b010000                    |
+| SA    | 0b100000                    |
 
 ## Scripts
 This repository contains three main scripts merge.py and add_paths.py, add_new_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
