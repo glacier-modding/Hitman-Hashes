@@ -58,7 +58,7 @@ jobs:
       - name: Commit STATISTICS.md
         uses: stefanzweifel/git-auto-commit-action@v5
           with:
-            file_pattern: "STATISTICS.md"
+            file_pattern: 'STATISTICS.md'
 
   release:
     name: Release
