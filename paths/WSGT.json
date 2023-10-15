@@ -676,12 +676,12 @@
   },
   {
     "hash": "000A4FB9B5FDAB19",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/paris/fashionshowmusic_level_state.wwisestategroup].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "005EA1E72FC62DEC",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/paris/paris_rain_puddle_state.wwisestategroup].pc_entitytype",
     "gameFlags": 8
   },
   {
