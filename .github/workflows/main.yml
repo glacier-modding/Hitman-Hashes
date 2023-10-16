@@ -106,6 +106,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           source: "hash_list.txt"
           target: "/etc/hashsearch/"
+          overwrite: true
 
       - name: Restart HashSearch service
         uses: appleboy/ssh-action@master
