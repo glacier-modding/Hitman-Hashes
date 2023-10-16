@@ -1,4 +1,4 @@
-name: Generate hash list
+name: Main
 
 on:
   push:
