@@ -27,7 +27,7 @@ def update_json(hash_val, path_val, hash_type):
 
 with open("new_paths.txt", 'r') as f:
     for line in f:
-        parts = line.strip().split(',')
+        parts = line.strip().split(',', 1)
         hash_with_type, path = parts[0], parts[1]
         
         hash_val, hash_type = infer_type(hash_with_type)
