@@ -38,7 +38,7 @@ jobs:
             version
 
   update_statistics:
-    name: Update Statistics
+    name: Update statistics
     needs: generate_hash_list
     runs-on: ubuntu-latest
     if: "!startsWith(github.ref, 'refs/tags/v')"
@@ -53,10 +53,10 @@ jobs:
       - name: Install dependencies
         run: pip install pytablewriter
 
-      - name: Generate Statistics
+      - name: Generate statistics
         run: python ./scripts/generate_stats.py
 
-      - name: Commit STATISTICS.md and README.md
+      - name: Update statistics
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Update statistics'
