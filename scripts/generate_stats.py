@@ -6,7 +6,7 @@ from common_functions import *
 
 def generate_badge_url(label, value, colour):
     label = label.replace(" ", "%20")
-    return f"https://img.shields.io/badge/{label}-{value}-{colour}"
+    return f"https://img.shields.io/badge/{label}-{value}-{colour}.svg"
 
 def total_completion_colour(percentage):
     if percentage >= 90:
