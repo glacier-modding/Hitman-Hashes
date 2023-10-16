@@ -56,11 +56,11 @@ jobs:
       - name: Generate Statistics
         run: python ./scripts/generate_stats.py
 
-      - name: Commit STATISTICS.md
+      - name: Commit STATISTICS.md and README.md
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Update STATISTICS.md'
-          file_pattern: 'STATISTICS.md'
+          commit_message: 'Update STATISTICS.md and README.md'
+          file_pattern: '*.md'
 
   release:
     name: Release

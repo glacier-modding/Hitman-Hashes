@@ -1,5 +1,6 @@
 # Hitman-Hashes
-
+<!-- TOTAL_COMPLETION_BADGE_START -->
+<!-- TOTAL_COMPLETION_BADGE_END -->
 ## Statistics
 See [STATISTICS.md](STATISTICS.md).
 
