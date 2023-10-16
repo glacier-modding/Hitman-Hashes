@@ -86,6 +86,36 @@ jobs:
             latest-hashes.7z
             version
 
+  update_hashsearch:
+    name: Update HashSearch's hash list
+    needs: generate_hash_list
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')
+
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: artifacts
+
+      - name: Copy hash_list.txt
+        uses: appleboy/scp-action@v0.1.4
+        env:
+          HOST: ${{ secrets.SSH_HOST }}
+          USERNAME: $${{ secrets.SSH_USER }}
+          KEY: $${{ secrets.SSH_KEY }}
+        with:
+          source: "hash_list.txt"
+          target: "/etc/hashsearch/"
+
+      - name: Restart HashSearch service
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: $${{ secrets.SSH_USER }}
+          key: $${{ secrets.SSH_KEY }}
+          script: sudo systemctl restart hashsearch
+
   discord_webhook:
     name: Discord webhook
     needs: release
