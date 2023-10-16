@@ -100,11 +100,10 @@ jobs:
 
       - name: Copy hash_list.txt
         uses: appleboy/scp-action@v0.1.4
-        env:
+        with:
           host: ${{ secrets.SSH_HOST }}
           username: $${{ secrets.SSH_USER }}
           key: $${{ secrets.SSH_KEY }}
-        with:
           source: "hash_list.txt"
           target: "/etc/hashsearch/"
 
