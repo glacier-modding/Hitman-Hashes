@@ -6,7 +6,7 @@ from common_functions import *
 
 def generate_badge_url(label, value, colour):
     label = label.replace(" ", "%20")
-    return f"https://img.shields.io/badge/{label}-{value}25-{colour}.svg"
+    return f"https://img.shields.io/badge/{label}-{value}-{colour}.svg"
 
 def total_completion_colour(percentage):
     if percentage >= 90:
@@ -59,7 +59,6 @@ def generate_statistics_table():
         value_matrix.append(row)
 
     writer = MarkdownTableWriter(
-        # table_name = "Statistics",
         headers = ["File Type", "Total Resources", "Correct Paths", "Correct Percentage", "Hints", "Hint Percentage"],
         value_matrix=value_matrix,
         column_styles = [
@@ -74,14 +73,12 @@ def generate_statistics_table():
     
     total_completion_percentage = (total_correct_all / total_resources_all) * 100
     colour = total_completion_colour(total_completion_percentage)
-    badge_url = generate_badge_url("Total Completion", f"{total_completion_percentage:.2f}%", colour)
+    completion_badge_url = generate_badge_url("Total Completion", f"{total_completion_percentage:.2f}%25", colour)
+    resources_badges_url = generate_badge_url("Total Resources", total_resources_all, "blue")
 
-    return writer.dumps(), badge_url
+    return writer.dumps(), completion_badge_url, resources_badges_url
 
-statistics_table, completion_badge_url = generate_statistics_table()
-
-# with open("STATISTICS.md", "w", newline='\n') as f:
-#     f.write(statistics_table)
+statistics_table, completion_badge_url, resources_badges_url = generate_statistics_table()
 
 def add_statistics_table_to_readme(statistics_table):
     start_marker = "<!-- STATISTICS_TABLE_START -->"
@@ -101,11 +98,12 @@ def add_statistics_table_to_readme(statistics_table):
     with open("README.md", "w") as f:
         f.write(content)
 
-badge_md = f"![Completion Badge]({completion_badge_url})"
+
+add_statistics_table_to_readme(statistics_table)
 
 def add_badge_to_readme(badge_md):
-    start_marker = "<!-- TOTAL_COMPLETION_BADGE_START -->"
-    end_marker = "<!-- TOTAL_COMPLETION_BADGE_END -->"
+    start_marker = "<!-- BADGES_START -->"
+    end_marker = "<!-- BADGES_END -->"
 
     with open("README.md", "r") as f:
         content = f.read()
@@ -113,14 +111,19 @@ def add_badge_to_readme(badge_md):
     start_index = content.find(start_marker)
     end_index = content.find(end_marker)
 
+    badges_str = "\n".join(badges_md)
+
     if start_index != -1 and end_index != -1:
         before_badge = content[:start_index + len(start_marker)]
         after_badge = content[end_index:]
-        content = before_badge + "\n" + badge_md + "\n" + after_badge
+        content = before_badge + "\n" + badges_str + "\n" + after_badge
 
     with open("README.md", "w") as f:
         f.write(content)
 
-add_statistics_table_to_readme(statistics_table)
+badges_md = [
+    f"![Resources Badge]({resources_badges_url})",
+    f"![Completion Badge]({completion_badge_url})"
+]
 
-add_badge_to_readme(badge_md)
+add_badge_to_readme(badges_md)

@@ -1,7 +1,8 @@
 # Hitman-Hashes
-<!-- TOTAL_COMPLETION_BADGE_START -->
+<!-- BADGES_START -->
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1551972-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.93%25-red.svg)
-<!-- TOTAL_COMPLETION_BADGE_END -->
+<!-- BADGES_END -->
 ## Statistics
 <!-- STATISTICS_TABLE_START -->
 |File Type|Total Resources|Correct Paths|Correct Percentage|Hints |Hint Percentage|
