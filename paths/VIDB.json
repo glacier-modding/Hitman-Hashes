@@ -1,468 +1,561 @@
 [
   {
     "hash": "0000A9964AF2B436",
-    "path": "videodatabase_dlc_0_kirroyal",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_kirroyal"
   },
   {
     "hash": "0001DBC271C51109",
-    "path": "videodatabase_dlc_0_kamikaze",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_kamikaze"
   },
   {
     "hash": "000E2D75C5CE3BE8",
-    "path": "videodatabase_llama",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_llama"
   },
   {
     "hash": "00150F3882B375C9",
-    "path": "videodatabase_dlc_0_sakini",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_sakini"
   },
   {
     "hash": "001BDC319DDD0623",
-    "path": "videodatabase_bramble",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_bramble"
   },
   {
     "hash": "002378C1FE77B4C3",
-    "path": "videodatabase_alabamaslammer",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_alabamaslammer"
   },
   {
     "hash": "0026F8DE4B766F45",
-    "path": "videodatabase_gecko",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_gecko"
   },
   {
     "hash": "00274069AA8572C3",
-    "path": "videodatabase_snakebite",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_snakebite"
   },
   {
     "hash": "002748FBDA28660F",
-    "path": "videodatabase_negroni",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_negroni"
   },
   {
     "hash": "00278F56E142B81F",
-    "path": "videodatabase_dlc_0",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "videodatabase_dlc_0"
   },
   {
     "hash": "00285F6335906FED",
-    "path": "videodatabase_falcon",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_falcon"
   },
   {
     "hash": "002B40BB4AC58D53",
-    "path": "videodatabase_dirtyoctopus",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dirtyoctopus"
   },
   {
     "hash": "002CF522F5CC2023",
-    "path": "videodatabase_s2_sambuca2",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_sambuca2"
   },
   {
     "hash": "002E608935DEACF8",
-    "path": "videodatabase_maitai",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_maitai"
   },
   {
     "hash": "00311ED2F83F2229",
-    "path": "videodatabase_s6_blueblazer",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_s6_blueblazer"
   },
   {
     "hash": "0032AEFF9FF70C46",
-    "path": "videodatabase_s2_01_sheep",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_01_sheep"
   },
   {
     "hash": "00331DC463148016",
-    "path": "videodatabase_dlc_0_mojito",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_mojito"
   },
   {
     "hash": "0034413ACE0950B2",
-    "path": "videodatabase_dlc_1",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_1"
   },
   {
     "hash": "003EA4D04CFFCA34",
-    "path": "videodatabase_dlc_0_shandy",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_shandy"
   },
   {
     "hash": "004079BEA745FE8D",
-    "path": "videodatabase_rat",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_rat"
   },
   {
     "hash": "00432A57B9611C5A",
-    "path": "videodatabase_fox",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_fox"
   },
   {
     "hash": "0043E3A43E9353E0",
-    "path": "videodatabase_thelastword",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_thelastword"
   },
   {
     "hash": "0045D283F06CF214",
-    "path": "videodatabase_vesper",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_vesper"
   },
   {
     "hash": "004720D544CE5F9A",
-    "path": "videodatabase_tamagokaze",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_tamagokaze"
   },
   {
     "hash": "00479622AA0EA9F7",
-    "path": "videodatabase_base",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "videodatabase_base"
   },
   {
     "hash": "004841B01250614A",
-    "path": "videodatabase_s2_05_skunk",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_05_skunk"
   },
   {
     "hash": "0048E72FA6604AB0",
-    "path": "videodatabase_gartersnake",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_gartersnake"
   },
   {
     "hash": "004B9A97081A5AA8",
-    "path": "videodatabase_martini",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_martini"
   },
   {
     "hash": "0051890BA79AC279",
-    "path": "videodatabase_wolverine",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_wolverine"
   },
   {
     "hash": "005739360B1B46F7",
-    "path": "videodatabase_s2_goldendoublet",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_goldendoublet"
   },
   {
     "hash": "005EBD0D2D806F04",
-    "path": "videodatabase_anaconda",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_anaconda"
   },
   {
     "hash": "005F0A49AC42A36E",
-    "path": "videodatabase_raccoon",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_raccoon"
   },
   {
     "hash": "0060E7EF82053C0C",
-    "path": "videodatabase_skittlebomb",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_skittlebomb"
   },
   {
     "hash": "0061780122BFCDC5",
-    "path": "videodatabase_moscowmule",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_moscowmule"
   },
   {
     "hash": "0062ABB959DAFF50",
-    "path": "videodatabase_dlc_2",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_2"
   },
   {
     "hash": "0062C4560732135D",
-    "path": "videodatabase_s6_blackrussian",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_s6_blackrussian"
   },
   {
     "hash": "006452D40B5ED7AB",
-    "path": "videodatabase_bronx",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_bronx"
   },
   {
     "hash": "006466A0E87ABB3A",
-    "path": "videodatabase_brassmonkey",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_brassmonkey"
   },
   {
     "hash": "0067A67B4527B88D",
-    "path": "videodatabase_corpsereviver",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_corpsereviver"
   },
   {
     "hash": "0067E0B6B6EFAD1F",
-    "path": "videodatabase_dlc_5",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_5"
   },
   {
     "hash": "00689D820454706B",
-    "path": "videodatabase_s6_gimlet",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_s6_gimlet"
   },
   {
     "hash": "006AB930973574BD",
-    "path": "videodatabase_dlc_1_harveywallbanger",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_1_harveywallbanger"
   },
   {
     "hash": "006C5A176953335E",
-    "path": "videodatabase_s2_06_magpie",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_06_magpie"
   },
   {
     "hash": "007012D0DBE6E09F",
-    "path": "videodatabase_dlc_6",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_6"
   },
   {
     "hash": "0070C51241AF4897",
-    "path": "videodatabase_dlc_1_sazerac",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_1_sazerac"
   },
   {
     "hash": "00791551F3C9919A",
-    "path": "videodatabase_dlc_4",
-    "gameFlags": 38
+    "path": "",
+    "gameFlags": 38,
+    "hint": "videodatabase_dlc_4"
   },
   {
     "hash": "0081A17E5EAC4858",
-    "path": "videodatabase_hawk",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "videodatabase_hawk"
   },
   {
     "hash": "0085FD1CEAE782ED",
-    "path": "videodatabase_dlc_2_screwdriver",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_2_screwdriver"
   },
   {
     "hash": "008F57D93828A60A",
-    "path": "videodatabase_s6_mimosa",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_s6_mimosa"
   },
   {
     "hash": "00908452AA976607",
-    "path": "videodatabase_gibson",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_gibson"
   },
   {
     "hash": "009FCF55FB182F18",
-    "path": "videodatabase_s2_highball",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_highball"
   },
   {
     "hash": "00A10C0F9FD3BF9F",
-    "path": "videodatabase_s2_02_flamingo_gamescom_2018",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_02_flamingo_gamescom_2018"
   },
   {
     "hash": "00AE83512F67F0C0",
-    "path": "videodatabase_bulldog",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_bulldog"
   },
   {
     "hash": "00AF8ABA3A30E24B",
-    "path": "videodatabase_seagull",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_seagull"
   },
   {
     "hash": "00B351025EB10D86",
-    "path": "videodatabase_flirtini",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_flirtini"
   },
   {
     "hash": "00B42496B2E414A6",
-    "path": "videodatabase_radler",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_radler"
   },
   {
     "hash": "00B4D87C15621515",
-    "path": "videodatabase_s2_03_hippo",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_03_hippo"
   },
   {
     "hash": "00B54938B88DCBCD",
-    "path": "videodatabase_hottoddy",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_hottoddy"
   },
   {
     "hash": "00B5CD43E7F883E1",
-    "path": "videodatabase_dlc_3",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_3"
   },
   {
     "hash": "00BA113C56AEE94B",
-    "path": "videodatabase_s2_sambuca",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_sambuca"
   },
   {
     "hash": "00C16253975FAC54",
-    "path": "videodatabase_dlc_0_whiterussian",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_whiterussian"
   },
   {
     "hash": "00C1C73C519B8C81",
-    "path": "videodatabase_s2_adonis",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_adonis"
   },
   {
     "hash": "00C60333E16FBB66",
-    "path": "videodatabase_s2_04_mongoose",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_04_mongoose"
   },
   {
     "hash": "00C9D4A35FC9B0F0",
-    "path": "videodatabase_dlc_1_quadruplerumandcoke",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_1_quadruplerumandcoke"
   },
   {
     "hash": "00CD704471C575A9",
-    "path": "videodatabase_cottonmouth",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_cottonmouth"
   },
   {
     "hash": "00D1593D1D57780F",
-    "path": "videodatabase_seabreeze",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_seabreeze"
   },
   {
     "hash": "00D3BF5F30524472",
-    "path": "videodatabase_dlc_1_piscosour",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_1_piscosour"
   },
   {
     "hash": "00D717C9D47E01C2",
-    "path": "videodatabase_stingray",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_stingray"
   },
   {
     "hash": "00DAE9E9B314A7A4",
-    "path": "videodatabase_dlc_0_tequilasunrise",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_tequilasunrise"
   },
   {
     "hash": "00DC980D931E3E00",
-    "path": "videodatabase_s2_base",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_base"
   },
   {
     "hash": "00DF2A0BD4F4027E",
-    "path": "videodatabase_mamba",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_mamba"
   },
   {
     "hash": "00DF3074828BC41F",
-    "path": "videodatabase_caipirinha",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_caipirinha"
   },
   {
     "hash": "00E1E17435B3DC91",
-    "path": "videodatabase_dlc_0_margarita",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_margarita"
   },
   {
     "hash": "00E4143217D283E4",
-    "path": "videodatabase_bushwacker",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_bushwacker"
   },
   {
     "hash": "00E6127C538950AC",
-    "path": "videodatabase_python",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_python"
   },
   {
     "hash": "00E986B7F927F7F5",
-    "path": "videodatabase_s2_chunk1",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_chunk1"
   },
   {
     "hash": "00EFF0B9202C623A",
-    "path": "videodatabase_copperhead",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_copperhead"
   },
   {
     "hash": "00F1BAB39B0B3FFB",
-    "path": "videodatabase_redsnapper",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_redsnapper"
   },
   {
     "hash": "00F4830EDDBBD1CB",
-    "path": "videodatabase_cosmopolitan",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_cosmopolitan"
   },
   {
     "hash": "00F649D9242250A0",
-    "path": "videodatabase_clerico",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_clerico"
   },
   {
     "hash": "00F6892DE2001B0D",
-    "path": "videodatabase_kingcobra",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_kingcobra"
   },
   {
     "hash": "00F6D97144ED377B",
-    "path": "videodatabase_dlc_1_mintjulep",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_1_mintjulep"
   },
   {
     "hash": "00F73BE2B8879A96",
-    "path": "videodatabase_bloodymary",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_bloodymary"
   },
   {
     "hash": "00FACA686F99D0F0",
-    "path": "videodatabase_jockeyclub",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_jockeyclub"
   },
   {
     "hash": "00FCC0C9B5272861",
-    "path": "videodatabase_s2_02_flamingo_e3_2018",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_02_flamingo_e3_2018"
   },
   {
     "hash": "00FE346E35C0D376",
-    "path": "videodatabase_dlc_0_lumumba",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_dlc_0_lumumba"
   },
   {
     "hash": "00FE432AF33A5BBD",
-    "path": "videodatabase_s6_ginfizz",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "videodatabase_s6_ginfizz"
   },
   {
     "hash": "00FECC8BCE224C2D",
-    "path": "videodatabase_s2_02_flamingo",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "videodatabase_s2_02_flamingo"
   },
   {
     "hash": "0087414D61827443",
-    "path": "videodatabase_dugong",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_dugong"
   },
   {
     "hash": "000597E2BC5D733F",
-    "path": "videodatabase_evergreen",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_evergreen"
   },
   {
     "hash": "002B498E47091DDE",
-    "path": "videodatabase_evergreen_intro",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "videodatabase_evergreen_intro"
   },
   {
     "hash": "001693F65B43705C",
-    "path": "ps4_videodatabase_evergreen_how_to_play",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "ps4_videodatabase_evergreen_how_to_play"
   },
   {
     "hash": "00767EC8E2D4F4CA",
-    "path": "ps5_videodatabase_evergreen_how_to_play",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "ps5_videodatabase_evergreen_how_to_play"
   },
   {
     "hash": "0008F99AB22A1633",

@@ -6,7 +6,8 @@
   },
   {
     "hash": "006FFEBDD49DC11B",
-    "path": "evergreen_entitlements",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "evergreen_entitlements"
   }
 ]

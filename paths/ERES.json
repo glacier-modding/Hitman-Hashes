@@ -1276,8 +1276,9 @@
   },
   {
     "hash": "0006AA0D8B4A2951",
-    "path": "fx_md_env_stone_tiles",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "fx_md_env_stone_tiles"
   },
   {
     "hash": "00110A6A7AFC6D2F",
@@ -1286,8 +1287,9 @@
   },
   {
     "hash": "001F8CB0FC47624B",
-    "path": "fx_md_env_stone_concrete_intel",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "fx_md_env_stone_concrete_intel"
   },
   {
     "hash": "006147991B3A63EF",
@@ -1301,8 +1303,9 @@
   },
   {
     "hash": "006D43618F5FD0C8",
-    "path": "fx_md_env_stone_concrete",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "fx_md_env_stone_concrete"
   },
   {
     "hash": "009536711EF1F28C",

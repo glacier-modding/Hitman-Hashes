@@ -13,10 +13,12 @@ def update_json(hash_val, path_val, hash_type):
 
         for entry in data:
             if entry["hash"] == hash_val:
-                entry["path"] = path_val.lower()
+                if ioi_hash(path_val) == hash_val:
+                    entry["path"] = path_val.lower()
+                    entry.pop("hint", None)  
+                else:
+                    entry["hint"] = path_val.lower()
                 break
-        else:
-            return
 
         with open(json_filename, 'w', newline='\n') as f:
             json.dump(data, f, indent=2)

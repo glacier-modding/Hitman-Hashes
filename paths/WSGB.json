@@ -186,13 +186,15 @@
   },
   {
     "hash": "00C3F6F00404C435",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fakecrowd_statecontrol.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fakecrowd_statecontrol.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "00D1A2269C5552C7",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fashionshowmusic_03.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fashionshowmusic_03.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "007EC9BAC70AAD95",
@@ -266,8 +268,9 @@
   },
   {
     "hash": "007A03605E0D9D1B",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/hasicaearpiece.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/hasicaearpiece.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "00574A370DED4E2F",
@@ -591,13 +594,15 @@
   },
   {
     "hash": "00428837139F9668",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_dreams.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_dreams.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "00347585D06D3B14",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_edwardsconfrontation.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_edwardsconfrontation.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "007AC28AB0FBBD2E",
@@ -606,8 +611,9 @@
   },
   {
     "hash": "0060DFB357A0AC80",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_cutscene_mix_states.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_cutscene_mix_states.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "008D544F64C66622",
@@ -616,8 +622,9 @@
   },
   {
     "hash": "009C2196BF8EBA5F",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_dreams_dx_states.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_dreams_dx_states.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "00779A64C24C9872",
@@ -626,13 +633,15 @@
   },
   {
     "hash": "0027E327B9AA06A8",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_flow.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_flow.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "009A86758B394A76",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_train_states.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_train_states.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "00280689C65390C5",
@@ -641,8 +650,9 @@
   },
   {
     "hash": "00F9F375F46814F6",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_train_biomes.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_train_biomes.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "00B8EFAFFE3BBA81",
@@ -661,8 +671,9 @@
   },
   {
     "hash": "00982DB3148AF2C5",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_tunnel_mix.wwisestategroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_tunnel_mix.wwisestategroup].pc_entityblueprint"
   },
   {
     "hash": "0024670556FD41F7",

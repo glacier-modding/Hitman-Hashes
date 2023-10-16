@@ -21681,8 +21681,9 @@
   },
   {
     "hash": "0000DB5028ADFA16",
-    "path": "[unknown:/*/challenges_location_elegant.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_location_elegant.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "000114C3C24E0711",
@@ -21761,8 +21762,9 @@
   },
   {
     "hash": "0004B3604BB1612C",
-    "path": "[unknown:/*/challenges_llama.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_llama.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0004D003149AB84C",
@@ -21771,8 +21773,9 @@
   },
   {
     "hash": "0004D196A5B794B5",
-    "path": "[unknown:/*/challenges_rat.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_rat.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "000513FA15B3201D",
@@ -21796,8 +21799,9 @@
   },
   {
     "hash": "0005C4887DC17971",
-    "path": "[unknown:/*/setpieces_hokkaido.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/setpieces_hokkaido.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0005C712DBF37066",
@@ -21811,8 +21815,9 @@
   },
   {
     "hash": "0006D32975945EF2",
-    "path": "[unknown:/*/apple_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/apple_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0007E7B301D1D921",
@@ -21831,8 +21836,9 @@
   },
   {
     "hash": "0008547524C50451",
-    "path": "[unknown:/*/escalation_sheepssorrel.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_sheepssorrel.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "000887E072075763",
@@ -21911,8 +21917,9 @@
   },
   {
     "hash": "000DE7A91998362C",
-    "path": "[unknown:/*/escalation_frangipani.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_frangipani.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "000E2F2827509F86",
@@ -22071,8 +22078,9 @@
   },
   {
     "hash": "0017A4FFE1AAFA3E",
-    "path": "[unknown:/*/challenges_et_jockeyclub.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_jockeyclub.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00186D1B83AFAC45",
@@ -22111,8 +22119,9 @@
   },
   {
     "hash": "001ADA4293B6CE8F",
-    "path": "[unknown:/*/challenges_highball.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_highball.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "001B2AEBB2EC90B4",
@@ -22121,8 +22130,9 @@
   },
   {
     "hash": "001B30A53BDE17D7",
-    "path": "[unknown:/*/areas_llama.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/areas_llama.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "001C3A32AF089871",
@@ -22206,8 +22216,9 @@
   },
   {
     "hash": "00215E4C23F75C90",
-    "path": "[unknown:/*/escalation_wolfsbane.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "[unknown:/*/escalation_wolfsbane.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0021A4AF1C2A9EFA",
@@ -22286,8 +22297,9 @@
   },
   {
     "hash": "0025286F54D201F4",
-    "path": "[unknown:/*/contract_gecko.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/contract_gecko.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0025AA5935DFEA16",
@@ -22311,8 +22323,9 @@
   },
   {
     "hash": "0027166F61B36048",
-    "path": "[unknown:/*/elusivetarget_skittlebomb.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/elusivetarget_skittlebomb.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0027736367B69944",
@@ -22326,8 +22339,9 @@
   },
   {
     "hash": "0028412C0CC57F9F",
-    "path": "[unknown:/*/hawk_menutext.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/hawk_menutext.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "002846903B34F389",
@@ -22341,8 +22355,9 @@
   },
   {
     "hash": "0028917108C4DFB4",
-    "path": "[unknown:/*/setpiece_trap_poison_marrakesh.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/setpiece_trap_poison_marrakesh.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0028E9C71C18B298",
@@ -22411,8 +22426,9 @@
   },
   {
     "hash": "002CF64DB1F3DD7D",
-    "path": "[unknown:/*/escalation_snowdrop.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "[unknown:/*/escalation_snowdrop.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "002D4A580B76CAAA",
@@ -22486,8 +22502,9 @@
   },
   {
     "hash": "0032D81F847F68C4",
-    "path": "[unknown:/*/challenges_fox.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_fox.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0032E26ECB541AC3",
@@ -22536,8 +22553,9 @@
   },
   {
     "hash": "00354993B72B7D0A",
-    "path": "[unknown:/*/melon_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/melon_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0036118872DE5BE1",
@@ -22576,8 +22594,9 @@
   },
   {
     "hash": "0037777B32A26C5C",
-    "path": "[unknown:/*/escalation_azalea.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_azalea.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003787236E641410",
@@ -22596,8 +22615,9 @@
   },
   {
     "hash": "00383AB595064F47",
-    "path": "[unknown:/*/infected_hinting.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/infected_hinting.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0038670FE1D556B9",
@@ -22631,28 +22651,33 @@
   },
   {
     "hash": "003A990DB55C2AC8",
-    "path": "[unknown:/*/et_bramble.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_bramble.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003AA1FD7C438D08",
-    "path": "[unknown:/*/purple_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/purple_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003B374006949248",
-    "path": "[unknown:/*/challenges_ambrosia.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_ambrosia.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003B574AB315B8E5",
-    "path": "[unknown:/*/challenges_et_gibson.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_gibson.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003BEEAE07CC6E2F",
-    "path": "[unknown:/*/escalation_bellflower.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_bellflower.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003C1D107207367F",
@@ -22671,18 +22696,21 @@
   },
   {
     "hash": "003D149FB1A3A485",
-    "path": "[unknown:/*/challenges_corpsereviver.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_corpsereviver.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003D8B40278C5FA1",
-    "path": "[unknown:/*/escalation_primrose.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "[unknown:/*/escalation_primrose.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003DC81DA68D398D",
-    "path": "[unknown:/*/escalation_jacaranda.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_jacaranda.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003E7E9A8FA03F2C",
@@ -22731,13 +22759,15 @@
   },
   {
     "hash": "0040CA7E294BC96A",
-    "path": "[unknown:/*/escalation_grasssnake.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_grasssnake.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0040D4329D403670",
-    "path": "[unknown:/*/white_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/white_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0040DB61F3F905BC",
@@ -22771,13 +22801,15 @@
   },
   {
     "hash": "0041D4230D40B4E6",
-    "path": "[unknown:/*/escalation_magnolia.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_magnolia.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004218C5FBD08061",
-    "path": "[unknown:/*/gamechangers_golden.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/gamechangers_golden.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00421CEF29C9127C",
@@ -22806,8 +22838,9 @@
   },
   {
     "hash": "0042C58CD82531BD",
-    "path": "[unknown:/*/intel_copperhead.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/intel_copperhead.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0042F04838BC90C9",
@@ -22816,8 +22849,9 @@
   },
   {
     "hash": "00436FB3038C3B29",
-    "path": "[unknown:/*/challenges_location_ancestral.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_location_ancestral.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0043A148F861F834",
@@ -22861,8 +22895,9 @@
   },
   {
     "hash": "00464B0C42D3B648",
-    "path": "[unknown:/*/plum_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/plum_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004658CA5837570B",
@@ -22881,13 +22916,15 @@
   },
   {
     "hash": "0046DA54E3F0B887",
-    "path": "[unknown:/*/escalation_cyclamen.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "[unknown:/*/escalation_cyclamen.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004757029ED4D7C4",
-    "path": "[unknown:/*/items_fox.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/items_fox.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00476CABABC5D3A4",
@@ -22921,8 +22958,9 @@
   },
   {
     "hash": "00489C6AE025588E",
-    "path": "[unknown:/*/challenges_falcon.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_falcon.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004976B829D7B87D",
@@ -22956,8 +22994,9 @@
   },
   {
     "hash": "004A3AD4EF0FB684",
-    "path": "[unknown:/*/et_radler.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_radler.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004A41947B543E4F",
@@ -23021,8 +23060,9 @@
   },
   {
     "hash": "004EC612565A38BD",
-    "path": "[unknown:/*/items_bulldog.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/items_bulldog.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004EEA54AAA2ED57",
@@ -23031,8 +23071,9 @@
   },
   {
     "hash": "004F7D033FA52196",
-    "path": "[unknown:/*/escalation_snakeshead.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_snakeshead.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004F8A9886EDBC56",
@@ -23041,8 +23082,9 @@
   },
   {
     "hash": "004FF345FC6A8F99",
-    "path": "[unknown:/*/escalation_cornflower.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_cornflower.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00509F9591374644",
@@ -23051,8 +23093,9 @@
   },
   {
     "hash": "005126F26945F1A7",
-    "path": "[unknown:/*/challenges_seagull.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_seagull.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00515E545CD10E49",
@@ -23081,18 +23124,21 @@
   },
   {
     "hash": "005272A480DD4767",
-    "path": "[unknown:/*/escalation_whitedryas.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_whitedryas.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00527943885AF419",
-    "path": "[unknown:/*/areas_fox.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/areas_fox.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00527B08EF323579",
-    "path": "[unknown:/*/intel_ebola.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/intel_ebola.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00529B5239433A2D",
@@ -23136,8 +23182,9 @@
   },
   {
     "hash": "0054CE8C9DA2AF57",
-    "path": "[unknown:/*/challenges_et_clerico.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_clerico.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0055167822CD7D44",
@@ -23146,8 +23193,9 @@
   },
   {
     "hash": "0055B13798A80231",
-    "path": "[unknown:/*/gamechangers_wet.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/gamechangers_wet.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0055ED009028CB4F",
@@ -23211,13 +23259,15 @@
   },
   {
     "hash": "005ABD39283EFD71",
-    "path": "[unknown:/*/setpieces_opportunities_bull.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/setpieces_opportunities_bull.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005AF40D2074E112",
-    "path": "[unknown:/*/contract_rat.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/contract_rat.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005AFD928A76B7EF",
@@ -23226,8 +23276,9 @@
   },
   {
     "hash": "005B75C20E23402F",
-    "path": "[unknown:/*/elusivetarget_adonis.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/elusivetarget_adonis.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005BFB4127B1CD71",
@@ -23261,13 +23312,15 @@
   },
   {
     "hash": "005D7C163CD6418F",
-    "path": "[unknown:/*/papaya_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/papaya_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005DA1CFA3FC5B52",
-    "path": "[unknown:/*/challenges_location_edgy.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_location_edgy.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005DE6FF4B418AF8",
@@ -23306,8 +23359,9 @@
   },
   {
     "hash": "005EAA84D3F29E70",
-    "path": "[unknown:/*/areas_bulldog.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/areas_bulldog.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005EDB9B7EE50199",
@@ -23336,8 +23390,9 @@
   },
   {
     "hash": "005F85CA4D4F7664",
-    "path": "[unknown:/*/escalation_desertrose.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_desertrose.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005FE93418FFB2A6",
@@ -23346,8 +23401,9 @@
   },
   {
     "hash": "006014D2E4BE7755",
-    "path": "[unknown:/*/et_jockeyclub.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_jockeyclub.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "006028292A2CC74A",
@@ -23376,8 +23432,9 @@
   },
   {
     "hash": "006172682C0F3EC3",
-    "path": "[unknown:/*/challenges_location_wet.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_location_wet.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0061BF2FD4DE7643",
@@ -23386,8 +23443,9 @@
   },
   {
     "hash": "0061D269B0BAA1AF",
-    "path": "[unknown:/*/gamechangers_global_s3.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/gamechangers_global_s3.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0062EA2B43DD113F",
@@ -23421,8 +23479,9 @@
   },
   {
     "hash": "0065352B61DD1140",
-    "path": "[unknown:/*/setpieces_opportunities_coastaltown.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/setpieces_opportunities_coastaltown.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0065BC03B5E08309",
@@ -23501,8 +23560,9 @@
   },
   {
     "hash": "0068935011220592",
-    "path": "[unknown:/*/pear_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/pear_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0068D12B4E5F9882",
@@ -23531,8 +23591,9 @@
   },
   {
     "hash": "006A521C6E552EDD",
-    "path": "[unknown:/*/challenges_mamushi.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_mamushi.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "006A5490753B08DF",
@@ -23561,8 +23622,9 @@
   },
   {
     "hash": "006C949B5FAD1FEB",
-    "path": "[unknown:/*/peach_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/peach_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "006C96E55AC1540E",
@@ -23591,8 +23653,9 @@
   },
   {
     "hash": "006DD204CDA79C49",
-    "path": "[unknown:/*/items_gecko.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/items_gecko.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "006E23AA39FFCE9E",
@@ -23626,8 +23689,9 @@
   },
   {
     "hash": "006F34A31AA88A2E",
-    "path": "[unknown:/*/et_redsnapper.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_redsnapper.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "006F4675890A2264",
@@ -23726,8 +23790,9 @@
   },
   {
     "hash": "007416F01870D27E",
-    "path": "[unknown:/*/challenges_gecko.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_gecko.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0074D9723F28F919",
@@ -23746,8 +23811,9 @@
   },
   {
     "hash": "00756B56FB00EF06",
-    "path": "[unknown:/*/challenges_goldendoublet.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_goldendoublet.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0075AC5C8E35ED91",
@@ -23826,8 +23892,9 @@
   },
   {
     "hash": "007A47F246CAD27E",
-    "path": "[unknown:/*/opportunities_spider.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/opportunities_spider.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "007A6BBD7B02863B",
@@ -23861,8 +23928,9 @@
   },
   {
     "hash": "007B45E1F324388B",
-    "path": "[unknown:/*/et_gibson.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_gibson.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "007BFB3E229B6766",
@@ -23976,8 +24044,9 @@
   },
   {
     "hash": "0082F66E2233E59D",
-    "path": "[unknown:/*/opportunities_tiger.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/opportunities_tiger.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "008343EE68DBE316",
@@ -23986,8 +24055,9 @@
   },
   {
     "hash": "0083BDC30164F0DE",
-    "path": "[unknown:/*/setpieces_opportunities_peacock.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/setpieces_opportunities_peacock.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0083D6B555676183",
@@ -24006,8 +24076,9 @@
   },
   {
     "hash": "0084B4FAA3BA0655",
-    "path": "[unknown:/*/escalation_vine.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_vine.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0084C4B07656ABBF",
@@ -24101,8 +24172,9 @@
   },
   {
     "hash": "008AF2B0F297D861",
-    "path": "[unknown:/*/challenges_wolverine.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_wolverine.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "008B0F9FE38EC230",
@@ -24121,8 +24193,9 @@
   },
   {
     "hash": "008B8F63208E147C",
-    "path": "[unknown:/*/challenges_et_radler.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_radler.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "008B9274FF25324D",
@@ -24176,8 +24249,9 @@
   },
   {
     "hash": "008F98EC5D370BEE",
-    "path": "[unknown:/*/setpieces_outfits_snowcrane.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/setpieces_outfits_snowcrane.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "008FF21C858452F1",
@@ -24206,8 +24280,9 @@
   },
   {
     "hash": "00912D9F91486751",
-    "path": "[unknown:/*/banana_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/banana_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009176283300CDEA",
@@ -24221,8 +24296,9 @@
   },
   {
     "hash": "0091A4CBE3107CA5",
-    "path": "[unknown:/*/escalation_nightphlox.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_nightphlox.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0091DD7C1C57C08F",
@@ -24231,8 +24307,9 @@
   },
   {
     "hash": "0093B8E64106C7D9",
-    "path": "[unknown:/*/apricot_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/apricot_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0093E6688F9D5799",
@@ -24356,8 +24433,9 @@
   },
   {
     "hash": "009959F114A3D235",
-    "path": "[unknown:/*/escalation_ginseng.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_ginseng.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009A6A277D90B0D2",
@@ -24371,8 +24449,9 @@
   },
   {
     "hash": "009AC8A878BD820A",
-    "path": "[unknown:/*/challenges_et_redsnapper.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_redsnapper.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009B4570C8F12F5A",
@@ -24381,8 +24460,9 @@
   },
   {
     "hash": "009B4B3585172CBE",
-    "path": "[unknown:/*/challenges_et_bramble.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_bramble.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009B8F1E06122A35",
@@ -24401,8 +24481,9 @@
   },
   {
     "hash": "009BAA013E14931E",
-    "path": "[unknown:/*/elusivetarget_highball.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/elusivetarget_highball.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009BEB136A7F7E52",
@@ -24446,8 +24527,9 @@
   },
   {
     "hash": "009DCF9397C29772",
-    "path": "[unknown:/*/escalation_wisteria.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "[unknown:/*/escalation_wisteria.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009E3BFAC61F3531",
@@ -24466,8 +24548,9 @@
   },
   {
     "hash": "009EF6E1161ED322",
-    "path": "[unknown:/*/setpieces_opportunities_tiger.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/setpieces_opportunities_tiger.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009F6357A8795328",
@@ -24491,13 +24574,15 @@
   },
   {
     "hash": "00A05CBE696F2007",
-    "path": "[unknown:/*/escalation_harebell.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_harebell.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00A0A41F4E234AE1",
-    "path": "[unknown:/*/challenges_alabamaslammer.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_alabamaslammer.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00A1299678A0D60A",
@@ -24511,8 +24596,9 @@
   },
   {
     "hash": "00A25E063B753B17",
-    "path": "[unknown:/*/challenges_location_trapped.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_location_trapped.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00A3314C8375C0EE",
@@ -24526,8 +24612,9 @@
   },
   {
     "hash": "00A40B0195844051",
-    "path": "[unknown:/*/escalation_torenia.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/escalation_torenia.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00A42FFBF0EE429E",
@@ -24556,8 +24643,9 @@
   },
   {
     "hash": "00A6B5E8729E091F",
-    "path": "[unknown:/*/escalation_bluebell.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "[unknown:/*/escalation_bluebell.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00A7072AF314713A",
@@ -24566,8 +24654,9 @@
   },
   {
     "hash": "00A743A8FDE10ED4",
-    "path": "[unknown:/*/falcon_menutext.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/falcon_menutext.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00A7988F1E88CCCA",
@@ -24611,8 +24700,9 @@
   },
   {
     "hash": "00A8B1668F9B652B",
-    "path": "[unknown:/*/escalation_angelica.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_angelica.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00A8FA7DC5255468",
@@ -24646,8 +24736,9 @@
   },
   {
     "hash": "00AB1D668DC934AC",
-    "path": "[unknown:/*/challenges_raccoon.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_raccoon.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00AB3D9782AE7375",
@@ -24686,8 +24777,9 @@
   },
   {
     "hash": "00AD2265C9033B8D",
-    "path": "[unknown:/*/gamechangers_edgy.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/gamechangers_edgy.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00AE1FB815A48C7F",
@@ -24696,8 +24788,9 @@
   },
   {
     "hash": "00AE61B7253083C2",
-    "path": "[unknown:/*/escalation_fern.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_fern.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00AE819BA75BBADA",
@@ -24776,8 +24869,9 @@
   },
   {
     "hash": "00B3B8B441E13796",
-    "path": "[unknown:/*/opportunities_peacock.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/opportunities_peacock.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00B42A437BE0F599",
@@ -24836,8 +24930,9 @@
   },
   {
     "hash": "00B65E54473FF52B",
-    "path": "[unknown:/*/areas_rat.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/areas_rat.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00B6F89DC009A015",
@@ -24861,8 +24956,9 @@
   },
   {
     "hash": "00B81120893747AD",
-    "path": "[unknown:/*/escalation_hollyhock.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_hollyhock.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00B8207E7599E674",
@@ -24936,8 +25032,9 @@
   },
   {
     "hash": "00BC9239EAD366B1",
-    "path": "[unknown:/*/elusivetarget_goldendoublet.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/elusivetarget_goldendoublet.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00BD18AED146FAA2",
@@ -25021,8 +25118,9 @@
   },
   {
     "hash": "00C1946FAA663FA0",
-    "path": "[unknown:/*/intel_bangkok.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/intel_bangkok.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00C1A20DABF3EEF6",
@@ -25096,8 +25194,9 @@
   },
   {
     "hash": "00C473591C72C358",
-    "path": "[unknown:/*/opportunities_snowcrane.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/opportunities_snowcrane.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00C4E5947953D114",
@@ -25111,8 +25210,9 @@
   },
   {
     "hash": "00C5ECE8B85D55C8",
-    "path": "[unknown:/*/et_clerico.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_clerico.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00C6018A86D99333",
@@ -25151,18 +25251,21 @@
   },
   {
     "hash": "00C7EDFA061B9D8B",
-    "path": "[unknown:/*/challenges_skittlebomb.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_skittlebomb.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00C7FE9B57A62C74",
-    "path": "[unknown:/*/items_llama.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/items_llama.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00C91EC659726530",
-    "path": "[unknown:/*/opportunities_copperhead.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/opportunities_copperhead.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00C945AB33269095",
@@ -25196,8 +25299,9 @@
   },
   {
     "hash": "00CA2B4B38BDC8B0",
-    "path": "[unknown:/*/elusivetarget_alabamaslammer.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/elusivetarget_alabamaslammer.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00CA73C75774F7E3",
@@ -25206,8 +25310,9 @@
   },
   {
     "hash": "00CAC2940FC28D57",
-    "path": "[unknown:/*/challenges_smoothsnake.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_smoothsnake.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00CB04141C7FBB39",
@@ -25226,8 +25331,9 @@
   },
   {
     "hash": "00CB849148029054",
-    "path": "[unknown:/*/areas_gecko.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/areas_gecko.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00CC0D2C7101A8A2",
@@ -25271,8 +25377,9 @@
   },
   {
     "hash": "00CF34519D288966",
-    "path": "[unknown:/*/escalation_nightshade.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/escalation_nightshade.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00D03FBB37A539CA",
@@ -25311,8 +25418,9 @@
   },
   {
     "hash": "00D1A2B7AFF52ED7",
-    "path": "[unknown:/*/escalation_larkspur.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "[unknown:/*/escalation_larkspur.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00D212CF8B4021A5",
@@ -25356,8 +25464,9 @@
   },
   {
     "hash": "00D4D2C6381730A9",
-    "path": "[unknown:/*/lemon_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/lemon_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00D5182E5475FCC0",
@@ -25366,8 +25475,9 @@
   },
   {
     "hash": "00D5C5B55BA0C2C6",
-    "path": "[unknown:/*/contract_wolverine.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/contract_wolverine.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00D6782B07BC3EFF",
@@ -25386,8 +25496,9 @@
   },
   {
     "hash": "00D6E07CDEFC94C9",
-    "path": "[unknown:/*/contract_llama.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/contract_llama.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00D73433F501F41C",
@@ -25456,8 +25567,9 @@
   },
   {
     "hash": "00DAB199091872BA",
-    "path": "[unknown:/*/challenges_location_golden.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_location_golden.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00DAF71037D14DA2",
@@ -25466,8 +25578,9 @@
   },
   {
     "hash": "00DB009771610DB5",
-    "path": "[unknown:/*/seagull_menutext.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/seagull_menutext.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00DBA3F14F5D2249",
@@ -25516,8 +25629,9 @@
   },
   {
     "hash": "00DE1EA2B8972EC6",
-    "path": "[unknown:/*/escalation_ambrosia.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_ambrosia.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00DE29D406B21378",
@@ -25581,13 +25695,15 @@
   },
   {
     "hash": "00E0D41337ABA531",
-    "path": "[unknown:/*/opportunities_octopus.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/opportunities_octopus.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00E0D6A42DE598D7",
-    "path": "[unknown:/*/intel_llama.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/intel_llama.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00E12B1D5ECCEAA2",
@@ -25601,8 +25717,9 @@
   },
   {
     "hash": "00E169E217674C36",
-    "path": "[unknown:/*/elusives.sweetmenutext].pc_sweetline",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/elusives.sweetmenutext].pc_sweetline"
   },
   {
     "hash": "00E16E0B6A412970",
@@ -25661,8 +25778,9 @@
   },
   {
     "hash": "00E45529FDC93B59",
-    "path": "[unknown:/*/challenges_bulldog.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_bulldog.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00E4725A4A88F860",
@@ -25776,8 +25894,9 @@
   },
   {
     "hash": "00E8949DB138D335",
-    "path": "[unknown:/*/challenges_adonis.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_adonis.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00E8D1F727A21C56",
@@ -25806,8 +25925,9 @@
   },
   {
     "hash": "00E9EF29EA014746",
-    "path": "[unknown:/*/et_vesper.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_vesper.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00EA463AA13D2FB4",
@@ -25826,13 +25946,15 @@
   },
   {
     "hash": "00EBC75FE70E9C62",
-    "path": "[unknown:/*/opportunities_bull.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/opportunities_bull.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00EBD46693B8BE57",
-    "path": "[unknown:/*/challenges_stingray.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/challenges_stingray.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00EBD88441714E9E",
@@ -25846,8 +25968,9 @@
   },
   {
     "hash": "00ED682E3EA61744",
-    "path": "[unknown:/*/contract_bulldog.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/contract_bulldog.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00EDB41EA143432B",
@@ -25941,8 +26064,9 @@
   },
   {
     "hash": "00F1A9CE062CB5EF",
-    "path": "[unknown:/*/intel_wolverine.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/intel_wolverine.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F1F974E67402AC",
@@ -25956,18 +26080,21 @@
   },
   {
     "hash": "00F25731BD413068",
-    "path": "[unknown:/*/challenges_frangipani.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_frangipani.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F2BEF29410F2C9",
-    "path": "[unknown:/*/items_rat.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/items_rat.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F2E6D6BB3E88EF",
-    "path": "[unknown:/*/escalation_smoothsnake.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_smoothsnake.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F2FC737DF3EE31",
@@ -26006,8 +26133,9 @@
   },
   {
     "hash": "00F5E8602BCF1EC7",
-    "path": "[unknown:/*/challenges_et_vesper.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_vesper.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F6013E9B14085C",
@@ -26041,8 +26169,9 @@
   },
   {
     "hash": "00F7A3684AC790B8",
-    "path": "[unknown:/*/escalation_bamboo.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/escalation_bamboo.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F7D03113D5AC18",
@@ -26051,8 +26180,9 @@
   },
   {
     "hash": "00F7D4D054D54410",
-    "path": "[unknown:/*/contract_fox.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/contract_fox.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F866CB4250B6A8",
@@ -26171,8 +26301,9 @@
   },
   {
     "hash": "00FBE7396CA85445",
-    "path": "[unknown:/*/elusivetarget_corpsereviver.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/elusivetarget_corpsereviver.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00FC679B13EB70BF",
@@ -26211,8 +26342,9 @@
   },
   {
     "hash": "00FD51E775846788",
-    "path": "[unknown:/*/escalation_lunaria.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_lunaria.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00FD70FF6343709C",
@@ -26241,8 +26373,9 @@
   },
   {
     "hash": "00FECBA761BE08D6",
-    "path": "[unknown:/*/escalation_makoyana.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_makoyana.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00FEF598072EA45F",
@@ -47756,53 +47889,63 @@
   },
   {
     "hash": "000CE16F7864FE17",
-    "path": "[unknown:/*/lime_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/lime_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0017CBD4AB34CDDE",
-    "path": "[unknown:/*/cherimoya_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/cherimoya_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "002F7AB01204206F",
-    "path": "[unknown:/*/challenges_escalation_grasssnake.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_escalation_grasssnake.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00389FF9C47990C5",
-    "path": "[unknown:/*/violet_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/violet_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004B1EBA26D0F331",
-    "path": "[unknown:/*/cherry_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/cherry_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004FBA3394532340",
-    "path": "[unknown:/*/carambola_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/carambola_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00878E53C10A2C1D",
-    "path": "[unknown:/*/blackberry_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/blackberry_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00BE5AE6CDE9C9C1",
-    "path": "[unknown:/*/avocado_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/avocado_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00BE5B9DB309F1B4",
-    "path": "[unknown:/*/pink_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/pink_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00DA97449135E8C3",
-    "path": "[unknown:/*/cantaloupe_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/cantaloupe_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00E0CD497569839C",
@@ -47811,13 +47954,15 @@
   },
   {
     "hash": "00E7ED9CB8C922FD",
-    "path": "[unknown:/*/mandarin_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/mandarin_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F426896E2F7B77",
-    "path": "[unknown:/*/grapefruit_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/grapefruit_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0082ADD80380C720",
@@ -47891,18 +48036,21 @@
   },
   {
     "hash": "00E1536609A07884",
-    "path": "[unknown:/*/soursop_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/soursop_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0096C99190DF9638",
-    "path": "[unknown:/*/contract_dugong.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/contract_dugong.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00CA6D3E92CF5DD6",
-    "path": "[unknown:/*/plantain_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/plantain_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00C97E46E53547D0",
@@ -47916,23 +48064,27 @@
   },
   {
     "hash": "000E79D03E509FE9",
-    "path": "[unknown:/*/lightblue_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/lightblue_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0078ACCCD0C2B44A",
-    "path": "[unknown:/*/tangelo_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/tangelo_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00B886EA1C823B63",
-    "path": "[unknown:/*/intel_dugong.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/intel_dugong.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0099492CD1D43241",
-    "path": "[unknown:/*/lightpurple_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/lightpurple_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0050EB3AD6DF0BB9",
@@ -47941,8 +48093,9 @@
   },
   {
     "hash": "00FF6F7212AC9C7C",
-    "path": "[unknown:/*/challenges_dugong.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_dugong.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00BF458B712DD967",
@@ -47951,68 +48104,81 @@
   },
   {
     "hash": "00ACDA2628AB4D5B",
-    "path": "[unknown:/*/lightgreen_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/lightgreen_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F232A17CAAFD15",
-    "path": "[unknown:/*/pomelo_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/pomelo_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "008AC5D4EBC4C13D",
-    "path": "[unknown:/*/challenges_location_rocky.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_location_rocky.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0020F8B9C1D7BA75",
-    "path": "[unknown:/*/areas_dugong.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/areas_dugong.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00343F3727FC9312",
-    "path": "[unknown:/*/salak_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/salak_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00FC809678232292",
-    "path": "[unknown:/*/nectarine_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/nectarine_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00875FFF1DD06F78",
-    "path": "[unknown:/*/honeydew_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/honeydew_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "001CC69C2C5DBF53",
-    "path": "[unknown:/*/lychee_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/lychee_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "008AD218ECD19B32",
-    "path": "[unknown:/*/blueberry_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/blueberry_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00B7104186DC27DC",
-    "path": "[unknown:/*/escalation_smilax.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_smilax.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0005B8CBEB34D118",
-    "path": "[unknown:/*/red_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/red_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "008D35A90B09B10C",
-    "path": "[unknown:/*/jackfruit_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/jackfruit_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0053DF929EA927A6",
-    "path": "[unknown:/*/yellow_batch.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/yellow_batch.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00BA6521B85776B7",
@@ -48021,18 +48187,21 @@
   },
   {
     "hash": "00C7F2D6BAD3DE9F",
-    "path": "[unknown:/*/fig_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fig_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "009B74AF8681325E",
-    "path": "[unknown:/*/strawberry_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/strawberry_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "003D6B99ED1F4519",
-    "path": "[unknown:/*/orange_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/orange_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0007D8A75CA1E096",
@@ -48041,8 +48210,9 @@
   },
   {
     "hash": "004985383EE27D74",
-    "path": "[unknown:/*/raspberry_contract.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/raspberry_contract.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004666943131513A",
@@ -48081,13 +48251,15 @@
   },
   {
     "hash": "00EACC06D7A486ED",
-    "path": "[unknown:/*/evergreen_campaign_leadernames.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/evergreen_campaign_leadernames.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0087EC7BFD1515C0",
-    "path": "[unknown:/*/evergreen_campaign_crimesectors.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/evergreen_campaign_crimesectors.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0094ED6B60B55260",
@@ -48096,13 +48268,15 @@
   },
   {
     "hash": "00CC560AA21E9343",
-    "path": "[unknown:/*/evergreen_campaign_bios.sweetmenutext].pc_sweetline",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/evergreen_campaign_bios.sweetmenutext].pc_sweetline"
   },
   {
     "hash": "0054A6C4880F6BF2",
-    "path": "[unknown:/*/escalation_sins_testing.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/escalation_sins_testing.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "007216E787E127F7",
@@ -48121,8 +48295,9 @@
   },
   {
     "hash": "00DC202021F89A51",
-    "path": "[unknown:/*/challenge_pack_argentum.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenge_pack_argentum.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00979605A36B862A",

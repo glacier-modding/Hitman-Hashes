@@ -16,7 +16,8 @@
   },
   {
     "hash": "00805A591F1A33EE",
-    "path": "ragdoll_bodybag",
-    "gameFlags": 62
+    "path": "",
+    "gameFlags": 62,
+    "hint": "ragdoll_bodybag"
   }
 ]

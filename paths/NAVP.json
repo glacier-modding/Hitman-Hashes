@@ -336,8 +336,9 @@
   },
   {
     "hash": "006BF37145EFFA5D",
-    "path": "scenario_flamingo_intel_8cores",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "scenario_flamingo_intel_8cores"
   },
   {
     "hash": "00B67EC300F24587",

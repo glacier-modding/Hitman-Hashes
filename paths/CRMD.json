@@ -241,8 +241,9 @@
   },
   {
     "hash": "00069EED6F062D96",
-    "path": "scenario_flamingo_intel_6cores",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "scenario_flamingo_intel_6cores"
   },
   {
     "hash": "0080DF90F8454657",

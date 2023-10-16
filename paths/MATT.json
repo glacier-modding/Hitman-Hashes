@@ -1,263 +1,315 @@
 [
   {
     "hash": "000CD221F564D7AB",
-    "path": "[unknown:/*/agent47_chinesesuit_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_chinesesuit_jacket.mi].pc_entitytype"
   },
   {
     "hash": "003B8BED28353A3D",
-    "path": "[unknown:/*/agent47_chinesesuit_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_chinesesuit_pants.mi].pc_entitytype"
   },
   {
     "hash": "009F47126751D3ED",
-    "path": "[unknown:/*/agent47_eyepatch.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_eyepatch.mi].pc_entitytype"
   },
   {
     "hash": "00732692A5E954B7",
-    "path": "[unknown:/*/agent47_falcon_backpack.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_falcon_backpack.mi].pc_entitytype"
   },
   {
     "hash": "00CC738C035ABB75",
-    "path": "[unknown:/*/agent47_gluttony_cape.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_gluttony_cape.mi].pc_entitytype"
   },
   {
     "hash": "00153B9F25CAF32C",
-    "path": "[unknown:/*/agent47_gluttony_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_gluttony_jacket.mi].pc_entitytype"
   },
   {
     "hash": "00D20237A10D9F8F",
-    "path": "[unknown:/*/agent47_gluttony_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_gluttony_pants.mi].pc_entitytype"
   },
   {
     "hash": "009F8D36203F460F",
-    "path": "[unknown:/*/agent47_goldmask.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_goldmask.mi].pc_entitytype"
   },
   {
     "hash": "0050D4B9E7346115",
-    "path": "[unknown:/*/agent47_greed_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_greed_jacket.mi].pc_entitytype"
   },
   {
     "hash": "00959C2F842BCEB9",
-    "path": "[unknown:/*/agent47_greed_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_greed_pants.mi].pc_entitytype"
   },
   {
     "hash": "0063DB357E895A23",
-    "path": "[unknown:/*/agent47_guru_glasses.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_guru_glasses.mi].pc_entitytype"
   },
   {
     "hash": "00036C0ED0FEEA01",
-    "path": "[unknown:/*/agent47_guru_kurta.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_guru_kurta.mi].pc_entitytype"
   },
   {
     "hash": "00E9004FFD25FC41",
-    "path": "[unknown:/*/agent47_guru_shirt.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_guru_shirt.mi].pc_entitytype"
   },
   {
     "hash": "00AC5CEFB3C647AC",
-    "path": "[unknown:/*/agent47_hippo_pants.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_hippo_pants.mi].pc_entitytype"
   },
   {
     "hash": "00BE998F5536A159",
-    "path": "[unknown:/*/agent47_hippo_shirt.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_hippo_shirt.mi].pc_entitytype"
   },
   {
     "hash": "00448652DCD7813C",
-    "path": "[unknown:/*/agent47_huntingsuit_boots.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_huntingsuit_boots.mi].pc_entitytype"
   },
   {
     "hash": "00149789FBE2408F",
-    "path": "[unknown:/*/agent47_huntingsuit_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_huntingsuit_jacket.mi].pc_entitytype"
   },
   {
     "hash": "00AA1F82942763B8",
-    "path": "[unknown:/*/agent47_huntingsuit_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_huntingsuit_pants.mi].pc_entitytype"
   },
   {
     "hash": "001ED3930AF3201F",
-    "path": "[unknown:/*/agent47_llama_tuxedo.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_llama_tuxedo.mi].pc_entitytype"
   },
   {
     "hash": "0063D75A266D43BA",
-    "path": "[unknown:/*/agent47_lust_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_lust_jacket.mi].pc_entitytype"
   },
   {
     "hash": "008D803DA69E2CDA",
-    "path": "[unknown:/*/agent47_lust_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_lust_pants.mi].pc_entitytype"
   },
   {
     "hash": "00943A2FDDA72B84",
-    "path": "[unknown:/*/agent47_magpie_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_magpie_jacket.mi].pc_entitytype"
   },
   {
     "hash": "00FDFC77D3159ADB",
-    "path": "[unknown:/*/agent47_magpie_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_magpie_pants.mi].pc_entitytype"
   },
   {
     "hash": "004CF3BC4BAB1F02",
-    "path": "[unknown:/*/agent47_mongoose_kelvin_tie.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_mongoose_kelvin_tie.mi].pc_entitytype"
   },
   {
     "hash": "00818726EDF92275",
-    "path": "[unknown:/*/agent47_mongoose_shirt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_mongoose_shirt.mi].pc_entitytype"
   },
   {
     "hash": "002C742213587DD4",
-    "path": "[unknown:/*/agent47_mongoose_shirt_sleeves.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_mongoose_shirt_sleeves.mi].pc_entitytype"
   },
   {
     "hash": "00AF5D7E4ADCC3E6",
-    "path": "[unknown:/*/agent47_pants_wrath.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pants_wrath.mi].pc_entitytype"
   },
   {
     "hash": "0001F6796A181E55",
-    "path": "[unknown:/*/agent47_parachute_shoes.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_parachute_shoes.mi].pc_entitytype"
   },
   {
     "hash": "00EBA644807FCC8F",
-    "path": "[unknown:/*/agent47_parachute_suit.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_parachute_suit.mi].pc_entitytype"
   },
   {
     "hash": "0010144624EBD2EB",
-    "path": "[unknown:/*/agent47_pirate_belt.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pirate_belt.mi].pc_entitytype"
   },
   {
     "hash": "005A5D66B2457713",
-    "path": "[unknown:/*/agent47_pirate_boots.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pirate_boots.mi].pc_entitytype"
   },
   {
     "hash": "00DBB166544C9C66",
-    "path": "[unknown:/*/agent47_pirate_hat.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pirate_hat.mi].pc_entitytype"
   },
   {
     "hash": "005FE63B4F4F65C2",
-    "path": "[unknown:/*/agent47_pirate_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pirate_jacket.mi].pc_entitytype"
   },
   {
     "hash": "0014BEE52B363E94",
-    "path": "[unknown:/*/agent47_pirate_scarf.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pirate_scarf.mi].pc_entitytype"
   },
   {
     "hash": "009DB232D08C9691",
-    "path": "[unknown:/*/agent47_pirate_shirt.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pirate_shirt.mi].pc_entitytype"
   },
   {
     "hash": "0076D3BAF0F13F4B",
-    "path": "[unknown:/*/agent47_pirate_trousers.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_pirate_trousers.mi].pc_entitytype"
   },
   {
     "hash": "00ADF5366CB9B1B0",
-    "path": "[unknown:/*/agent47_rat_coat.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_rat_coat.mi].pc_entitytype"
   },
   {
     "hash": "0015838E791A033A",
-    "path": "[unknown:/*/agent47_sheep_boots.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_sheep_boots.mi].pc_entitytype"
   },
   {
     "hash": "00FFF27E0FB3910F",
-    "path": "[unknown:/*/agent47_sheep_gloves.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_sheep_gloves.mi].pc_entitytype"
   },
   {
     "hash": "0011D2D07ADE2A05",
-    "path": "[unknown:/*/agent47_sheep_pants_cargo.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_sheep_pants_cargo.mi].pc_entitytype"
   },
   {
     "hash": "00B7F6619E30B74F",
-    "path": "[unknown:/*/agent47_sheep_watch.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_sheep_watch.mi].pc_entitytype"
   },
   {
     "hash": "000D275CB9589082",
-    "path": "[unknown:/*/agent47_sheep_wetsuit.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_sheep_wetsuit.mi].pc_entitytype"
   },
   {
     "hash": "0009394EFBDC2226",
-    "path": "[unknown:/*/agent47_shirt_polo.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_shirt_polo.mi].pc_entitytype"
   },
   {
     "hash": "0067B2A0211EB9BE",
-    "path": "[unknown:/*/agent47_shorts_chinos_slim.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_shorts_chinos_slim.mi].pc_entitytype"
   },
   {
     "hash": "000DD4F057304EFA",
-    "path": "[unknown:/*/agent47_signaturesuit_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_signaturesuit_jacket.mi].pc_entitytype"
   },
   {
     "hash": "0013E763A838660C",
-    "path": "[unknown:/*/agent47_signaturesuit_jacket_cheap.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_signaturesuit_jacket_cheap.mi].pc_entitytype"
   },
   {
     "hash": "00BD5910B986366C",
-    "path": "[unknown:/*/agent47_signaturesuit_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_signaturesuit_pants.mi].pc_entitytype"
   },
   {
     "hash": "00BC027F92D63095",
-    "path": "[unknown:/*/agent47_signaturesuit_pants_cheap.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_signaturesuit_pants_cheap.mi].pc_entitytype"
   },
   {
     "hash": "00E1C4A9C7CFF9B2",
-    "path": "[unknown:/*/agent47_skunk_tie.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/agent47_skunk_tie.mi].pc_entitytype"
   },
   {
     "hash": "00F95DFA6BC51067",
-    "path": "[unknown:/*/agent47_sloth_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_sloth_jacket.mi].pc_entitytype"
   },
   {
     "hash": "00791123B5F3466A",
-    "path": "[unknown:/*/agent47_sloth_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_sloth_pants.mi].pc_entitytype"
   },
   {
     "hash": "007C89875859765E",
-    "path": "[unknown:/*/agent47_straitjacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_straitjacket.mi].pc_entitytype"
   },
   {
     "hash": "009661051ABCD532",
@@ -266,23 +318,27 @@
   },
   {
     "hash": "00CB78CC1821A52A",
-    "path": "[unknown:/*/alexa_carlisle_head.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/alexa_carlisle_head.mi].pc_entitytype"
   },
   {
     "hash": "00F275D848303576",
-    "path": "[unknown:/*/alexacarlisle_shirt.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/alexacarlisle_shirt.mi].pc_entitytype"
   },
   {
     "hash": "0075B0DACFDF8FCC",
-    "path": "[unknown:/*/alexacarlisle_skirt.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/alexacarlisle_skirt.mi].pc_entitytype"
   },
   {
     "hash": "00B1C59C066C00BA",
-    "path": "[unknown:/*/alexacarlisle_vest.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/alexacarlisle_vest.mi].pc_entitytype"
   },
   {
     "hash": "00220302BDCC81D4",
@@ -296,48 +352,57 @@
   },
   {
     "hash": "008D4706E9511560",
-    "path": "[unknown:/*/apron_full_barber.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/apron_full_barber.mi].pc_entitytype"
   },
   {
     "hash": "00874B1966BD7DC5",
-    "path": "[unknown:/*/apron_full_bbq.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/apron_full_bbq.mi].pc_entitytype"
   },
   {
     "hash": "000039EED2290701",
-    "path": "[unknown:/*/apron_full_pocket.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/apron_full_pocket.mi].pc_entitytype"
   },
   {
     "hash": "001A49F578C42ED4",
-    "path": "[unknown:/*/aprun_full_pocket.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/aprun_full_pocket.mi].pc_entitytype"
   },
   {
     "hash": "004DD0A69C7E8943",
-    "path": "[unknown:/*/arkanian_robe.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/arkanian_robe.mi].pc_entitytype"
   },
   {
     "hash": "004B62C1D0642443",
-    "path": "[unknown:/*/arming_cap.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/arming_cap.mi].pc_entitytype"
   },
   {
     "hash": "0090E6AB07FDB738",
-    "path": "[unknown:/*/backpack_military.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/backpack_military.mi].pc_entitytype"
   },
   {
     "hash": "006163CD5600CCF9",
-    "path": "[unknown:/*/badge_triangle.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/badge_triangle.mi].pc_entitytype"
   },
   {
     "hash": "006DE64CAC87FB55",
-    "path": "[unknown:/*/balaclava_1hole.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/balaclava_1hole.mi].pc_entitytype"
   },
   {
     "hash": "0013317F09DE0812",
@@ -346,103 +411,123 @@
   },
   {
     "hash": "003FAD41E0BDBEC1",
-    "path": "[unknown:/*/base_brows.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/base_brows.mi].pc_entitytype"
   },
   {
     "hash": "00FDEC17A5A2BF5F",
-    "path": "[unknown:/*/base_eye.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/base_eye.mi].pc_entitytype"
   },
   {
     "hash": "0038C13D1A18FB78",
-    "path": "[unknown:/*/base_hair.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/base_hair.mi].pc_entitytype"
   },
   {
     "hash": "00E71D84A55D0739",
-    "path": "[unknown:/*/base_hair.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/base_hair.mi].pc_entitytype"
   },
   {
     "hash": "000BF013336584CF",
-    "path": "[unknown:/*/base_hair_vertexcolor.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/base_hair_vertexcolor.mi].pc_entitytype"
   },
   {
     "hash": "00E80E06EF025208",
-    "path": "[unknown:/*/base_male_jacket_bomber.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/base_male_jacket_bomber.mi].pc_entitytype"
   },
   {
     "hash": "009B39888DB8586B",
-    "path": "[unknown:/*/base_male_renzocaruso_hair.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/base_male_renzocaruso_hair.mi].pc_entitytype"
   },
   {
     "hash": "00769C8294D01782",
-    "path": "[unknown:/*/base_male_renzocaruso_head.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/base_male_renzocaruso_head.mi].pc_entitytype"
   },
   {
     "hash": "00526FE8FCF776FA",
-    "path": "[unknown:/*/base_male_shirt_regular.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/base_male_shirt_regular.mi].pc_entitytype"
   },
   {
     "hash": "00F9AA81A0F00BC0",
-    "path": "[unknown:/*/base_male_shirt_regular_tucked.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/base_male_shirt_regular_tucked.mi].pc_entitytype"
   },
   {
     "hash": "004322114AB52B08",
-    "path": "[unknown:/*/base_male_shorts_boxershorts.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/base_male_shorts_boxershorts.mi].pc_entitytype"
   },
   {
     "hash": "0083E944D3809191",
-    "path": "[unknown:/*/base_teeth.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/base_teeth.mi].pc_entitytype"
   },
   {
     "hash": "00C01CE36F9F8590",
-    "path": "[unknown:/*/blend_moss_wetbeach_tropical_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/blend_moss_wetbeach_tropical_a.mi].pc_entitytype"
   },
   {
     "hash": "0044B70BFF76277B",
-    "path": "[unknown:/*/blend_sandbeach_wetbeach_tropical_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/blend_sandbeach_wetbeach_tropical_a.mi].pc_entitytype"
   },
   {
     "hash": "0082B35F3846FFBB",
-    "path": "[unknown:/*/blend_sandbeach_wetbeach_tropical_b.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/blend_sandbeach_wetbeach_tropical_b.mi].pc_entitytype"
   },
   {
     "hash": "001D5AAA7A477165",
-    "path": "[unknown:/*/blend_sandbeach_wetbeach_tropical_transition_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/blend_sandbeach_wetbeach_tropical_transition_a.mi].pc_entitytype"
   },
   {
     "hash": "009F6A374A5A47E0",
-    "path": "[unknown:/*/blindfold.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/blindfold.mi].pc_entitytype"
   },
   {
     "hash": "00A80368BC6A2C04",
-    "path": "[unknown:/*/blueblazer_hair_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/blueblazer_hair_01.mi].pc_entitytype"
   },
   {
     "hash": "0039ECBF23288DB2",
-    "path": "[unknown:/*/boots_h_riding_laced.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/boots_h_riding_laced.mi].pc_entitytype"
   },
   {
     "hash": "00E57BB6EC5A0EB3",
-    "path": "[unknown:/*/bracelet_bandana_knot.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/bracelet_bandana_knot.mi].pc_entitytype"
   },
   {
     "hash": "00FE464B08947B68",
@@ -451,18 +536,21 @@
   },
   {
     "hash": "00F53578CDC07317",
-    "path": "[unknown:/*/bushwhacker_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/bushwhacker_head_01.mi].pc_entitytype"
   },
   {
     "hash": "00E90DA938F4F977",
-    "path": "[unknown:/*/bushwhacker_jacket_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/bushwhacker_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "00A3CF29DC4B0D07",
-    "path": "[unknown:/*/cap_trucker_decal.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/cap_trucker_decal.mi].pc_entitytype"
   },
   {
     "hash": "00D6F7D17F1D203B",
@@ -471,28 +559,33 @@
   },
   {
     "hash": "0059236BB9BD6471",
-    "path": "[unknown:/*/checker_worldspace_a.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/checker_worldspace_a.mi].pc_entitytype"
   },
   {
     "hash": "00A91B6F294C8F50",
-    "path": "[unknown:/*/cinematics_custom_poisoned_skin.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/cinematics_custom_poisoned_skin.mi].pc_entitytype"
   },
   {
     "hash": "00905D3C2F46DE79",
-    "path": "[unknown:/*/cinematics_dynamicfacewrinklemaps.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/cinematics_dynamicfacewrinklemaps.mi].pc_entitytype"
   },
   {
     "hash": "000AB06AA92B4908",
-    "path": "[unknown:/*/cobblestones_releif_raindrops.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/cobblestones_releif_raindrops.mi].pc_entitytype"
   },
   {
     "hash": "00483C078567E72D",
-    "path": "[unknown:/*/container_plastic_bucket_seagull_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/container_plastic_bucket_seagull_a.mi].pc_entitytype"
   },
   {
     "hash": "001D85B4B36267EC",
@@ -501,13 +594,15 @@
   },
   {
     "hash": "009A854C0C6D00BF",
-    "path": "[unknown:/*/corset_victorian.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/corset_victorian.mi].pc_entitytype"
   },
   {
     "hash": "00C24657643BB6F5",
-    "path": "[unknown:/*/coveralls_srtslv.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/coveralls_srtslv.mi].pc_entitytype"
   },
   {
     "hash": "0082A25E5A15A83C",
@@ -516,18 +611,21 @@
   },
   {
     "hash": "00AF8B45D8FA86F3",
-    "path": "[unknown:/*/darkandstormy_cap.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/darkandstormy_cap.mi].pc_entitytype"
   },
   {
     "hash": "006BC827B8AFF777",
-    "path": "[unknown:/*/darkandstormy_scarf.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/darkandstormy_scarf.mi].pc_entitytype"
   },
   {
     "hash": "0085138B855170F8",
-    "path": "[unknown:/*/devilmask.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/devilmask.mi].pc_entitytype"
   },
   {
     "hash": "000B7F8315D9BE99",
@@ -536,8 +634,9 @@
   },
   {
     "hash": "0062E325E63B8A9F",
-    "path": "[unknown:/*/dress_facilityguide.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/dress_facilityguide.mi].pc_entitytype"
   },
   {
     "hash": "008538C8B487E67E",
@@ -546,23 +645,27 @@
   },
   {
     "hash": "001BF26CC7C67BEA",
-    "path": "[unknown:/*/dumplingcook_apron.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/dumplingcook_apron.mi].pc_entitytype"
   },
   {
     "hash": "00501C2D8DC13676",
-    "path": "[unknown:/*/dumplingcook_jacket.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/dumplingcook_jacket.mi].pc_entitytype"
   },
   {
     "hash": "0074CF47BFB6A854",
-    "path": "[unknown:/*/earring_dangle_feather.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/earring_dangle_feather.mi].pc_entitytype"
   },
   {
     "hash": "009ADC6DC1776339",
-    "path": "[unknown:/*/earring_hoops_big.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/earring_hoops_big.mi].pc_entitytype"
   },
   {
     "hash": "00480F907B0316B7",
@@ -571,8 +674,9 @@
   },
   {
     "hash": "008FA0AAE832CEE8",
-    "path": "[unknown:/*/eyewear_binocularloupes.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/eyewear_binocularloupes.mi].pc_entitytype"
   },
   {
     "hash": "00D86D0C479E19A4",
@@ -581,33 +685,39 @@
   },
   {
     "hash": "008A526029F12119",
-    "path": "[unknown:/*/facilityguard_shirt.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/facilityguard_shirt.mi].pc_entitytype"
   },
   {
     "hash": "00DFBCE27157D80E",
-    "path": "[unknown:/*/fem_reg_acc_belt_bottle.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_acc_belt_bottle.mi].pc_entitytype"
   },
   {
     "hash": "00DCC1FEA3E7751B",
-    "path": "[unknown:/*/fem_reg_acc_neck_dupatta.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_acc_neck_dupatta.mi].pc_entitytype"
   },
   {
     "hash": "0082CE3662F36146",
-    "path": "[unknown:/*/fem_reg_acc_veil.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/fem_reg_acc_veil.mi].pc_entitytype"
   },
   {
     "hash": "003E764C90671D6F",
-    "path": "[unknown:/*/fem_reg_acc_waistbelt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_acc_waistbelt.mi].pc_entitytype"
   },
   {
     "hash": "00E7BA63D1608251",
-    "path": "[unknown:/*/fem_reg_bandage_foot.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_bandage_foot.mi].pc_entitytype"
   },
   {
     "hash": "00E45CFEE21599F4",
@@ -631,28 +741,33 @@
   },
   {
     "hash": "003D9759C97D932C",
-    "path": "[unknown:/*/fem_reg_blouse_spaghetti_anisotrpoic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_blouse_spaghetti_anisotrpoic.mi].pc_entitytype"
   },
   {
     "hash": "0036655A5ED70EAE",
-    "path": "[unknown:/*/fem_reg_body.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/fem_reg_body.mi].pc_entitytype"
   },
   {
     "hash": "0080CB48BC0105AE",
-    "path": "[unknown:/*/fem_reg_boots_rubber.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_boots_rubber.mi].pc_entitytype"
   },
   {
     "hash": "00E03788B9560BB3",
-    "path": "[unknown:/*/fem_reg_bow_sailor.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_bow_sailor.mi].pc_entitytype"
   },
   {
     "hash": "007E6755CF5CCDCA",
-    "path": "[unknown:/*/fem_reg_bra_regular.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_bra_regular.mi].pc_entitytype"
   },
   {
     "hash": "0099E110E0980946",
@@ -661,593 +776,711 @@
   },
   {
     "hash": "00D5553D5CEBB40D",
-    "path": "[unknown:/*/fem_reg_coat_3quarterslv_closed.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_coat_3quarterslv_closed.mi].pc_entitytype"
   },
   {
     "hash": "00A71B5570A4E860",
-    "path": "[unknown:/*/fem_reg_coat_trench_closed.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_coat_trench_closed.mi].pc_entitytype"
   },
   {
     "hash": "00C6755AA76E8972",
-    "path": "[unknown:/*/fem_reg_coat_trench_closed_formal.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_coat_trench_closed_formal.mi].pc_entitytype"
   },
   {
     "hash": "00DF6ED9F3B44389",
-    "path": "[unknown:/*/fem_reg_dress_50s_rockabilly_skirt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_50s_rockabilly_skirt.mi].pc_entitytype"
   },
   {
     "hash": "004760555B8FD102",
-    "path": "[unknown:/*/fem_reg_dress_50s_rockabilly_top.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_50s_rockabilly_top.mi].pc_entitytype"
   },
   {
     "hash": "0058D834DB2F17B8",
-    "path": "[unknown:/*/fem_reg_dress_denim.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_denim.mi].pc_entitytype"
   },
   {
     "hash": "00ED4C1E76B79E01",
-    "path": "[unknown:/*/fem_reg_dress_halter_slits.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_halter_slits.mi].pc_entitytype"
   },
   {
     "hash": "00C6B5CD4029188D",
-    "path": "[unknown:/*/fem_reg_dress_kameez.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_kameez.mi].pc_entitytype"
   },
   {
     "hash": "001A2F6A8EA9FA7A",
-    "path": "[unknown:/*/fem_reg_dress_maid.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_maid.mi].pc_entitytype"
   },
   {
     "hash": "00889B21825387AD",
-    "path": "[unknown:/*/fem_reg_dress_maid_long_sleeve.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_dress_maid_long_sleeve.mi].pc_entitytype"
   },
   {
     "hash": "0024E30624057410",
-    "path": "[unknown:/*/fem_reg_dress_top_birdge_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_top_birdge_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "003E4FA795425A18",
-    "path": "[unknown:/*/fem_reg_dress_top_flared_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_top_flared_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "0080091750F5C40B",
-    "path": "[unknown:/*/fem_reg_dress_top_tulip.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_top_tulip.mi].pc_entitytype"
   },
   {
     "hash": "000BE4B5EB2E90C9",
-    "path": "[unknown:/*/fem_reg_dress_tube_simple.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_dress_tube_simple.mi].pc_entitytype"
   },
   {
     "hash": "0074D8A75E0FF7E6",
-    "path": "[unknown:/*/fem_reg_eyelashes.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_eyelashes.mi].pc_entitytype"
   },
   {
     "hash": "0048F9F2B784077D",
-    "path": "[unknown:/*/fem_reg_feathers.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_feathers.mi].pc_entitytype"
   },
   {
     "hash": "0087C4F09DBB162A",
-    "path": "[unknown:/*/fem_reg_gloves_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_gloves_01.mi].pc_entitytype"
   },
   {
     "hash": "00F357A8F2A4BC93",
-    "path": "[unknown:/*/fem_reg_gloves_long.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_gloves_long.mi].pc_entitytype"
   },
   {
     "hash": "002F85B16DA80EB5",
-    "path": "[unknown:/*/fem_reg_haircap.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/fem_reg_haircap.mi].pc_entitytype"
   },
   {
     "hash": "00CBF04A2EB8AE76",
-    "path": "[unknown:/*/fem_reg_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head.mi].pc_entitytype"
   },
   {
     "hash": "000B3A2B0DB1D780",
-    "path": "[unknown:/*/fem_reg_head_african_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_african_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "006D7C615D37B60E",
-    "path": "[unknown:/*/fem_reg_head_asian_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_asian_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "00F5AA1941BFA5E4",
-    "path": "[unknown:/*/fem_reg_head_asian_20s_02.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_asian_20s_02.mi].pc_entitytype"
   },
   {
     "hash": "00D641867122DBA7",
-    "path": "[unknown:/*/fem_reg_head_asian_20s_03.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_asian_20s_03.mi].pc_entitytype"
   },
   {
     "hash": "009A99C40C02BD0C",
-    "path": "[unknown:/*/fem_reg_head_asian_40s_02.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_asian_40s_02.mi].pc_entitytype"
   },
   {
     "hash": "002EDCE6265391F4",
-    "path": "[unknown:/*/fem_reg_head_asian_50s_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_asian_50s_01.mi].pc_entitytype"
   },
   {
     "hash": "005D32C621972034",
-    "path": "[unknown:/*/fem_reg_head_asian_50s_02.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_asian_50s_02.mi].pc_entitytype"
   },
   {
     "hash": "006CD14F5CFA36AE",
-    "path": "[unknown:/*/fem_reg_head_bbqowner.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_bbqowner.mi].pc_entitytype"
   },
   {
     "hash": "00510ED872A88D7C",
-    "path": "[unknown:/*/fem_reg_head_catalinadelgado.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_catalinadelgado.mi].pc_entitytype"
   },
   {
     "hash": "00E455F1C4C3A398",
-    "path": "[unknown:/*/fem_reg_head_caucasian_20s_02_refined.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_20s_02_refined.mi].pc_entitytype"
   },
   {
     "hash": "00369B644C29B9D3",
-    "path": "[unknown:/*/fem_reg_head_caucasian_20s_03.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_20s_03.mi].pc_entitytype"
   },
   {
     "hash": "0081ACCBCAA473E1",
-    "path": "[unknown:/*/fem_reg_head_caucasian_30s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_30s_02.mi].pc_entitytype"
   },
   {
     "hash": "005A1E8F4AF813D6",
-    "path": "[unknown:/*/fem_reg_head_caucasian_30s_03.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_30s_03.mi].pc_entitytype"
   },
   {
     "hash": "005B927B96567B2A",
-    "path": "[unknown:/*/fem_reg_head_caucasian_40s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_40s_02.mi].pc_entitytype"
   },
   {
     "hash": "00163B4A9842C41C",
-    "path": "[unknown:/*/fem_reg_head_caucasian_40s_03.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_40s_03.mi].pc_entitytype"
   },
   {
     "hash": "0060C01665E5B080",
-    "path": "[unknown:/*/fem_reg_head_caucasian_40s_04.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_40s_04.mi].pc_entitytype"
   },
   {
     "hash": "00ABB0852A6EC0CF",
-    "path": "[unknown:/*/fem_reg_head_caucasian_70s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_caucasian_70s_01.mi].pc_entitytype"
   },
   {
     "hash": "00860CA0479FC29D",
-    "path": "[unknown:/*/fem_reg_head_childhoodgirlfriend.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_childhoodgirlfriend.mi].pc_entitytype"
   },
   {
     "hash": "00640F310E6A2A82",
-    "path": "[unknown:/*/fem_reg_head_hispanic_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_hispanic_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "001CE03360BFEBD9",
-    "path": "[unknown:/*/fem_reg_head_hispanic_30s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_hispanic_30s_01.mi].pc_entitytype"
   },
   {
     "hash": "00A77F9736D2A62D",
-    "path": "[unknown:/*/fem_reg_head_hispanic_60s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_hispanic_60s_01.mi].pc_entitytype"
   },
   {
     "hash": "0093C971A4B0A075",
-    "path": "[unknown:/*/fem_reg_head_indian_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_indian_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "0080641A0D097539",
-    "path": "[unknown:/*/fem_reg_head_indian_20s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_indian_20s_02.mi].pc_entitytype"
   },
   {
     "hash": "004227B5BB4F5071",
-    "path": "[unknown:/*/fem_reg_head_indian_30s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_indian_30s_01.mi].pc_entitytype"
   },
   {
     "hash": "00D364FDD7A9D737",
-    "path": "[unknown:/*/fem_reg_head_indian_30s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_indian_30s_02.mi].pc_entitytype"
   },
   {
     "hash": "00254DFFD60091C0",
-    "path": "[unknown:/*/fem_reg_head_indian_40s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_indian_40s_01.mi].pc_entitytype"
   },
   {
     "hash": "00A9554DDBF34B10",
-    "path": "[unknown:/*/fem_reg_head_indian_50s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_indian_50s_01.mi].pc_entitytype"
   },
   {
     "hash": "00371249CC4A59A8",
-    "path": "[unknown:/*/fem_reg_head_leadactress.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_leadactress.mi].pc_entitytype"
   },
   {
     "hash": "002C6378BC1378D3",
-    "path": "[unknown:/*/fem_reg_head_martinezsassistant.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_head_martinezsassistant.mi].pc_entitytype"
   },
   {
     "hash": "00ED3C5147155C56",
-    "path": "[unknown:/*/fem_reg_heels_hotelmanager_jacket_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_heels_hotelmanager_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "00100290E414A92C",
-    "path": "[unknown:/*/fem_reg_hoodie_headpieceup.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_hoodie_headpieceup.mi].pc_entitytype"
   },
   {
     "hash": "00A7CACA765DC3EA",
-    "path": "[unknown:/*/fem_reg_hostage_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_hostage_head.mi].pc_entitytype"
   },
   {
     "hash": "000E43EB13823376",
-    "path": "[unknown:/*/fem_reg_hotelstaff_hat_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_hotelstaff_hat_01.mi].pc_entitytype"
   },
   {
     "hash": "00E4B297F57C1A73",
-    "path": "[unknown:/*/fem_reg_hotelstaff_pant_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_hotelstaff_pant_01.mi].pc_entitytype"
   },
   {
     "hash": "0099FBFD62811425",
-    "path": "[unknown:/*/fem_reg_hotelstaff_shirt_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_hotelstaff_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00AB13F4C3BB790B",
-    "path": "[unknown:/*/fem_reg_hotelstaff_shoes_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_hotelstaff_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "00188BBACB940682",
-    "path": "[unknown:/*/fem_reg_jacket_halfcrop.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_jacket_halfcrop.mi].pc_entitytype"
   },
   {
     "hash": "004D606A4A5484DC",
-    "path": "[unknown:/*/fem_reg_jacket_sanslapel.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_jacket_sanslapel.mi].pc_entitytype"
   },
   {
     "hash": "009BFA8B83CF950E",
-    "path": "[unknown:/*/fem_reg_jackets_coat_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_jackets_coat_01.mi].pc_entitytype"
   },
   {
     "hash": "00737276941293EE",
-    "path": "[unknown:/*/fem_reg_market_salesman_apron_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_apron_01.mi].pc_entitytype"
   },
   {
     "hash": "004FEF341E8F32D4",
-    "path": "[unknown:/*/fem_reg_market_salesman_apron_03.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_apron_03.mi].pc_entitytype"
   },
   {
     "hash": "00CAF010C9787510",
-    "path": "[unknown:/*/fem_reg_market_salesman_hands_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_market_salesman_hands_02.mi].pc_entitytype"
   },
   {
     "hash": "00AFCE444ED230C9",
-    "path": "[unknown:/*/fem_reg_market_salesman_jacket_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "00AA93896B85308B",
-    "path": "[unknown:/*/fem_reg_market_salesman_jacket_02.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_jacket_02.mi].pc_entitytype"
   },
   {
     "hash": "00CCBF486DC04B38",
-    "path": "[unknown:/*/fem_reg_market_salesman_jacket_03.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_jacket_03.mi].pc_entitytype"
   },
   {
     "hash": "008D668256C1D903",
-    "path": "[unknown:/*/fem_reg_market_salesman_scarf_03.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_scarf_03.mi].pc_entitytype"
   },
   {
     "hash": "004B203B235DA3CF",
-    "path": "[unknown:/*/fem_reg_market_salesman_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "0083F0BE537843C5",
-    "path": "[unknown:/*/fem_reg_market_salesman_shirt_02.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_shirt_02.mi].pc_entitytype"
   },
   {
     "hash": "00F6E08DA33B3D64",
-    "path": "[unknown:/*/fem_reg_market_salesman_shirt_03.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_shirt_03.mi].pc_entitytype"
   },
   {
     "hash": "00E15D65B9098F8E",
-    "path": "[unknown:/*/fem_reg_market_salesman_shoes_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_market_salesman_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "006640E4AB012CF5",
-    "path": "[unknown:/*/fem_reg_market_salesman_shoes_03.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_market_salesman_shoes_03.mi].pc_entitytype"
   },
   {
     "hash": "008AC389BFA7242E",
-    "path": "[unknown:/*/fem_reg_market_salesman_skirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_skirt_01.mi].pc_entitytype"
   },
   {
     "hash": "0098BF3FFE5CF1FC",
-    "path": "[unknown:/*/fem_reg_market_salesman_skirt_02.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_skirt_02.mi].pc_entitytype"
   },
   {
     "hash": "00E7629BA2548DB8",
-    "path": "[unknown:/*/fem_reg_market_salesman_skirt_03.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_market_salesman_skirt_03.mi].pc_entitytype"
   },
   {
     "hash": "001C4CE7E27B4933",
-    "path": "[unknown:/*/fem_reg_necklace_pearl.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_necklace_pearl.mi].pc_entitytype"
   },
   {
     "hash": "00266653367D2485",
-    "path": "[unknown:/*/fem_reg_olivahall_haircap.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_olivahall_haircap.mi].pc_entitytype"
   },
   {
     "hash": "00ACD9F095BEF06B",
-    "path": "[unknown:/*/fem_reg_oliviahall_hair.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_oliviahall_hair.mi].pc_entitytype"
   },
   {
     "hash": "00C50D28F1969262",
-    "path": "[unknown:/*/fem_reg_oliviahall_head_season2.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_oliviahall_head_season2.mi].pc_entitytype"
   },
   {
     "hash": "00E7E3C4DE58C26B",
-    "path": "[unknown:/*/fem_reg_onepiece_swimsuit.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_onepiece_swimsuit.mi].pc_entitytype"
   },
   {
     "hash": "0005289FDFB176FC",
-    "path": "[unknown:/*/fem_reg_overshirt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_overshirt.mi].pc_entitytype"
   },
   {
     "hash": "0027A5C3EC227FBA",
-    "path": "[unknown:/*/fem_reg_panties_regular.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_panties_regular.mi].pc_entitytype"
   },
   {
     "hash": "00290920707CA7A4",
-    "path": "[unknown:/*/fem_reg_pants_cargo_loose.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_pants_cargo_loose.mi].pc_entitytype"
   },
   {
     "hash": "00B0B8C6FEDFC879",
-    "path": "[unknown:/*/fem_reg_pants_churidarsalwar.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_pants_churidarsalwar.mi].pc_entitytype"
   },
   {
     "hash": "00ED75DAE781BFCF",
-    "path": "[unknown:/*/fem_reg_pants_dabbawala_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_pants_dabbawala_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "00B054BE4AA9AE11",
-    "path": "[unknown:/*/fem_reg_pants_dress_slim_short.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_pants_dress_slim_short.mi].pc_entitytype"
   },
   {
     "hash": "00D6E0EEE7A5E520",
-    "path": "[unknown:/*/fem_reg_pants_flared.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_pants_flared.mi].pc_entitytype"
   },
   {
     "hash": "00148F49C774A4AD",
-    "path": "[unknown:/*/fem_reg_pants_jeans_loose.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_pants_jeans_loose.mi].pc_entitytype"
   },
   {
     "hash": "00003D13C8189205",
-    "path": "[unknown:/*/fem_reg_pants_tights.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_pants_tights.mi].pc_entitytype"
   },
   {
     "hash": "00995250621E0A10",
-    "path": "[unknown:/*/fem_reg_protester_01_jacket_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_protester_01_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "0073005C05002DA1",
-    "path": "[unknown:/*/fem_reg_protester_01_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_01_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "00095975D18F57C8",
-    "path": "[unknown:/*/fem_reg_protester_01_sandals_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_protester_01_sandals_01.mi].pc_entitytype"
   },
   {
     "hash": "00598BF8E0E5D91D",
-    "path": "[unknown:/*/fem_reg_protester_01_scarf_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_01_scarf_01.mi].pc_entitytype"
   },
   {
     "hash": "004D639C5D5750BC",
-    "path": "[unknown:/*/fem_reg_protester_02_dress_01.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/fem_reg_protester_02_dress_01.mi].pc_entitytype"
   },
   {
     "hash": "0002373609C8E13D",
-    "path": "[unknown:/*/fem_reg_protester_02_mask_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_02_mask_01.mi].pc_entitytype"
   },
   {
     "hash": "009F6C030142D2E1",
-    "path": "[unknown:/*/fem_reg_protester_02_sandals_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_02_sandals_01.mi].pc_entitytype"
   },
   {
     "hash": "001BC6A4884AF98E",
-    "path": "[unknown:/*/fem_reg_protester_02_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_02_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "005BA410A11CE1D1",
-    "path": "[unknown:/*/fem_reg_protester_03_bag_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_03_bag_01.mi].pc_entitytype"
   },
   {
     "hash": "009D32212DCD01D9",
-    "path": "[unknown:/*/fem_reg_protester_03_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_03_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "00843A3C22D924EA",
-    "path": "[unknown:/*/fem_reg_protester_03_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_03_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00AD4520C77807B0",
-    "path": "[unknown:/*/fem_reg_protester_03_shoes_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_03_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "00FB7703EEE9CD19",
-    "path": "[unknown:/*/fem_reg_protester_03_watch_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_protester_03_watch_01.mi].pc_entitytype"
   },
   {
     "hash": "004DDF9E11600A79",
-    "path": "[unknown:/*/fem_reg_protester_04_bandana_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_04_bandana_01.mi].pc_entitytype"
   },
   {
     "hash": "009BC15F319D1B90",
-    "path": "[unknown:/*/fem_reg_protester_04_gasmask_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_protester_04_gasmask_01.mi].pc_entitytype"
   },
   {
     "hash": "004C273B3D71146E",
-    "path": "[unknown:/*/fem_reg_protester_04_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_04_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "0056D9CF04F4E481",
-    "path": "[unknown:/*/fem_reg_protester_04_shirt_02.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/fem_reg_protester_04_shirt_02.mi].pc_entitytype"
   },
   {
     "hash": "00872F3A18371CED",
-    "path": "[unknown:/*/fem_reg_protester_04_shoes_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_protester_04_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "00B7D73DA87ED6DE",
-    "path": "[unknown:/*/fem_reg_romper_denim_shorts.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_romper_denim_shorts.mi].pc_entitytype"
   },
   {
     "hash": "00C3CE5E4CB2C578",
-    "path": "[unknown:/*/fem_reg_sari_nivi.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_sari_nivi.mi].pc_entitytype"
   },
   {
     "hash": "00A27E4AB8F127FC",
-    "path": "[unknown:/*/fem_reg_sari_purnia.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_sari_purnia.mi].pc_entitytype"
   },
   {
     "hash": "00CA53AC6948155A",
-    "path": "[unknown:/*/fem_reg_sari_purnia_underskirt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_sari_purnia_underskirt.mi].pc_entitytype"
   },
   {
     "hash": "002E276FD0E50234",
-    "path": "[unknown:/*/fem_reg_scarf_frenchtwist.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_scarf_frenchtwist.mi].pc_entitytype"
   },
   {
     "hash": "00188A98ABA1E34E",
-    "path": "[unknown:/*/fem_reg_shirt_choli.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_shirt_choli.mi].pc_entitytype"
   },
   {
     "hash": "006AC6DBB2656476",
-    "path": "[unknown:/*/fem_reg_shoes_heels_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_shoes_heels_01.mi].pc_entitytype"
   },
   {
     "hash": "008E5726EC08EE7E",
-    "path": "[unknown:/*/fem_reg_shoes_heels_pumps_circle.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_shoes_heels_pumps_circle.mi].pc_entitytype"
   },
   {
     "hash": "00EC8430C6986587",
-    "path": "[unknown:/*/fem_reg_shoes_heels_sandals_heelstrap.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_shoes_heels_sandals_heelstrap.mi].pc_entitytype"
   },
   {
     "hash": "004067CB9E015423",
-    "path": "[unknown:/*/fem_reg_skirts_tube.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_skirts_tube.mi].pc_entitytype"
   },
   {
     "hash": "003E59ABDCF7385A",
-    "path": "[unknown:/*/fem_reg_stockings.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_stockings.mi].pc_entitytype"
   },
   {
     "hash": "0034387D2EFC7089",
-    "path": "[unknown:/*/fem_reg_sweater_uneck_pshdslv_tkd.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_sweater_uneck_pshdslv_tkd.mi].pc_entitytype"
   },
   {
     "hash": "00C50FB4B31F9908",
@@ -1256,28 +1489,33 @@
   },
   {
     "hash": "008379DB7370DBDF",
-    "path": "[unknown:/*/fem_reg_tights.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_tights.mi].pc_entitytype"
   },
   {
     "hash": "00B406EA74536E8A",
-    "path": "[unknown:/*/fem_reg_top_tank_basic.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_top_tank_basic.mi].pc_entitytype"
   },
   {
     "hash": "0029C90D8188FDD8",
-    "path": "[unknown:/*/fem_reg_top_turleneck_sleeveless_tkdh.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_top_turleneck_sleeveless_tkdh.mi].pc_entitytype"
   },
   {
     "hash": "00531786789AD3BA",
-    "path": "[unknown:/*/fem_reg_tshirt_uneck_crop.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_tshirt_uneck_crop.mi].pc_entitytype"
   },
   {
     "hash": "00EB2FB83D2FEBB3",
-    "path": "[unknown:/*/fem_reg_vanyashah_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fem_reg_vanyashah_head.mi].pc_entitytype"
   },
   {
     "hash": "00B214ABF523A587",
@@ -1291,83 +1529,99 @@
   },
   {
     "hash": "005094B1F90F6255",
-    "path": "[unknown:/*/female_crowd_formal_hat_01_v2.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/female_crowd_formal_hat_01_v2.mi].pc_entitytype"
   },
   {
     "hash": "00CC637D1D04886C",
-    "path": "[unknown:/*/female_reg_femalecrowd_02_dress_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/female_reg_femalecrowd_02_dress_01.mi].pc_entitytype"
   },
   {
     "hash": "00EBB88D5C4F12A2",
-    "path": "[unknown:/*/female_reg_femalecrowd_02_sandals_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/female_reg_femalecrowd_02_sandals_01.mi].pc_entitytype"
   },
   {
     "hash": "00F6007D0D744786",
-    "path": "[unknown:/*/female_reg_femalecrowd_02_shirt_02.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/female_reg_femalecrowd_02_shirt_02.mi].pc_entitytype"
   },
   {
     "hash": "006F621DBAFDB640",
-    "path": "[unknown:/*/female_reg_femalecrowd_03_sandals_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/female_reg_femalecrowd_03_sandals_01.mi].pc_entitytype"
   },
   {
     "hash": "0053E9A72944F808",
-    "path": "[unknown:/*/female_reg_femalecrowd_03_skirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/female_reg_femalecrowd_03_skirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00CDD65508D10A57",
-    "path": "[unknown:/*/female_regular_oliviahall_01_bag_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/female_regular_oliviahall_01_bag_01.mi].pc_entitytype"
   },
   {
     "hash": "00A88BEEFD0FDFC6",
-    "path": "[unknown:/*/female_regular_oliviahall_01_pant_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/female_regular_oliviahall_01_pant_01.mi].pc_entitytype"
   },
   {
     "hash": "000B9F2BDC36DB55",
-    "path": "[unknown:/*/female_regular_oliviahall_01_shoes_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/female_regular_oliviahall_01_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "003B0A37AD95DB16",
-    "path": "[unknown:/*/fence_misc_seagull_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/fence_misc_seagull_a.mi].pc_entitytype"
   },
   {
     "hash": "00F991448F0B19D7",
-    "path": "[unknown:/*/fireclothmat.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fireclothmat.mi].pc_entitytype"
   },
   {
     "hash": "00A9F0112BC8215F",
-    "path": "[unknown:/*/flag_leg_wrapped.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/flag_leg_wrapped.mi].pc_entitytype"
   },
   {
     "hash": "00050BE29D1B8FC2",
-    "path": "[unknown:/*/fogsnowstorm.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fogsnowstorm.mi].pc_entitytype"
   },
   {
     "hash": "0036EEB35747FA62",
-    "path": "[unknown:/*/football_helmet.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/football_helmet.mi].pc_entitytype"
   },
   {
     "hash": "009DE93698E1D500",
-    "path": "[unknown:/*/football_helmet_glass.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/football_helmet_glass.mi].pc_entitytype"
   },
   {
     "hash": "0093859CF043C8F4",
-    "path": "[unknown:/*/fox_worker_staff_pigmask.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fox_worker_staff_pigmask.mi].pc_entitytype"
   },
   {
     "hash": "008A40833C0E8239",
@@ -1421,93 +1675,111 @@
   },
   {
     "hash": "0062551FA59C5750",
-    "path": "[unknown:/*/gecko_eventsecurity_parts.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/gecko_eventsecurity_parts.mi].pc_entitytype"
   },
   {
     "hash": "0081010E1DEF15CC",
-    "path": "[unknown:/*/gecko_eventsecurity_tunic.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/gecko_eventsecurity_tunic.mi].pc_entitytype"
   },
   {
     "hash": "009532C5FD0C333F",
-    "path": "[unknown:/*/ghutra_foldedback.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/ghutra_foldedback.mi].pc_entitytype"
   },
   {
     "hash": "0051B5AD412D0960",
-    "path": "[unknown:/*/ginfizz_hair_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/ginfizz_hair_01.mi].pc_entitytype"
   },
   {
     "hash": "001EFEFD67EA3E39",
-    "path": "[unknown:/*/ginfizz_head_01.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/ginfizz_head_01.mi].pc_entitytype"
   },
   {
     "hash": "007A018F7776D91A",
-    "path": "[unknown:/*/ginfizz_jacket_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/ginfizz_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "00B8F6E02EB4DE43",
-    "path": "[unknown:/*/ginfizz_shoes_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/ginfizz_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "0088FE5C693D702A",
-    "path": "[unknown:/*/ginfizz_trousers_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/ginfizz_trousers_01.mi].pc_entitytype"
   },
   {
     "hash": "009AD40A16E84DE1",
-    "path": "[unknown:/*/gloves_latex_long.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/gloves_latex_long.mi].pc_entitytype"
   },
   {
     "hash": "00E3E8AB8CB06EC3",
-    "path": "[unknown:/*/goldendoublet_coat_fur.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/goldendoublet_coat_fur.mi].pc_entitytype"
   },
   {
     "hash": "00A1992131A4EE2D",
-    "path": "[unknown:/*/goldendoublet_coat_fur_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/goldendoublet_coat_fur_02.mi].pc_entitytype"
   },
   {
     "hash": "00B50433331D463A",
-    "path": "[unknown:/*/goldendoublet_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/goldendoublet_head.mi].pc_entitytype"
   },
   {
     "hash": "00472D1D8A2FA638",
-    "path": "[unknown:/*/gown_burial.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/gown_burial.mi].pc_entitytype"
   },
   {
     "hash": "00ABBFBD36971C4F",
-    "path": "[unknown:/*/grey.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/grey.mi].pc_entitytype"
   },
   {
     "hash": "003E3A88A1DA8D65",
-    "path": "[unknown:/*/hair_braids.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/hair_braids.mi].pc_entitytype"
   },
   {
     "hash": "00BF614CCD62F4CE",
-    "path": "[unknown:/*/hair_braids_top.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/hair_braids_top.mi].pc_entitytype"
   },
   {
     "hash": "00588D6519C56F25",
-    "path": "[unknown:/*/hair_haircap_braids_cornrows.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/hair_haircap_braids_cornrows.mi].pc_entitytype"
   },
   {
     "hash": "00A697633685CBA0",
-    "path": "[unknown:/*/hand_grenade_a_body_poison_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hand_grenade_a_body_poison_a.mi].pc_entitytype"
   },
   {
     "hash": "00C9F6C290BC1F30",
@@ -1531,103 +1803,123 @@
   },
   {
     "hash": "00DD7006DBB2DA2A",
-    "path": "[unknown:/*/harbour_net_pile_seagull_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/harbour_net_pile_seagull_a.mi].pc_entitytype"
   },
   {
     "hash": "0010706BDA4A38DE",
-    "path": "[unknown:/*/hat_beanie_dockworker.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_beanie_dockworker.mi].pc_entitytype"
   },
   {
     "hash": "007908685EC19482",
-    "path": "[unknown:/*/hat_beanie_falcon_sniper_snow.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_beanie_falcon_sniper_snow.mi].pc_entitytype"
   },
   {
     "hash": "00AB020E98F25156",
-    "path": "[unknown:/*/hat_calot.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_calot.mi].pc_entitytype"
   },
   {
     "hash": "0015D941D8B9E2B4",
-    "path": "[unknown:/*/hat_calot_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_calot_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "001808A9ED7EA96D",
-    "path": "[unknown:/*/hat_cap_flap.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_cap_flap.mi].pc_entitytype"
   },
   {
     "hash": "0093B327BF9683DD",
-    "path": "[unknown:/*/hat_cap_visor.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_cap_visor.mi].pc_entitytype"
   },
   {
     "hash": "008CBDCF6C6C400E",
-    "path": "[unknown:/*/hat_cocktail_feathers_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_cocktail_feathers_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "003183D0E8E8CED0",
-    "path": "[unknown:/*/hat_cocktail_flower.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_cocktail_flower.mi].pc_entitytype"
   },
   {
     "hash": "00CB01D65CA7AD1F",
-    "path": "[unknown:/*/hat_dabbawala.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_dabbawala.mi].pc_entitytype"
   },
   {
     "hash": "00DC586BDBC7F5BB",
-    "path": "[unknown:/*/hat_frenchberet.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_frenchberet.mi].pc_entitytype"
   },
   {
     "hash": "00E1029FC6D5E84B",
-    "path": "[unknown:/*/hat_hairnet.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_hairnet.mi].pc_entitytype"
   },
   {
     "hash": "008A6A4C8496037A",
-    "path": "[unknown:/*/hat_hardhat_visar_protection.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_hardhat_visar_protection.mi].pc_entitytype"
   },
   {
     "hash": "00F90B1C3AE960D3",
-    "path": "[unknown:/*/hat_servant.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_servant.mi].pc_entitytype"
   },
   {
     "hash": "004B2D97834DF058",
-    "path": "[unknown:/*/hat_sheriff.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_sheriff.mi].pc_entitytype"
   },
   {
     "hash": "006870B54EA995CD",
-    "path": "[unknown:/*/hat_top_trilby_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_top_trilby_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "00A9FC0900163757",
-    "path": "[unknown:/*/hat_turban.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hat_turban.mi].pc_entitytype"
   },
   {
     "hash": "00A7514A51B21FA6",
-    "path": "[unknown:/*/hat_vueltiao.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/hat_vueltiao.mi].pc_entitytype"
   },
   {
     "hash": "00D1BD43AAE712C7",
-    "path": "[unknown:/*/head_undertaker.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/head_undertaker.mi].pc_entitytype"
   },
   {
     "hash": "005E368205357769",
-    "path": "[unknown:/*/headbag.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/headbag.mi].pc_entitytype"
   },
   {
     "hash": "0068ECE3434E1B49",
@@ -1646,8 +1938,9 @@
   },
   {
     "hash": "00A55B257C08A375",
-    "path": "[unknown:/*/headwear_turban_chainmail.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/headwear_turban_chainmail.mi].pc_entitytype"
   },
   {
     "hash": "006FC9F53341A322",
@@ -1656,33 +1949,39 @@
   },
   {
     "hash": "00D2988B6B2E566F",
-    "path": "[unknown:/*/helmet_racing.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/helmet_racing.mi].pc_entitytype"
   },
   {
     "hash": "00FE16CCE97ECF45",
-    "path": "[unknown:/*/helmet_racing_glass.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/helmet_racing_glass.mi].pc_entitytype"
   },
   {
     "hash": "00DC8A6CF03FD73F",
-    "path": "[unknown:/*/helmet_skydive.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/helmet_skydive.mi].pc_entitytype"
   },
   {
     "hash": "0030B02E603B2FF2",
-    "path": "[unknown:/*/highball_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/highball_head.mi].pc_entitytype"
   },
   {
     "hash": "00EE80F9FBC973C7",
-    "path": "[unknown:/*/hokkaido_character_decals.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/hokkaido_character_decals.mi].pc_entitytype"
   },
   {
     "hash": "00B62C7BAAE93FAE",
-    "path": "[unknown:/*/hottoddy_skirt_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/hottoddy_skirt_01.mi].pc_entitytype"
   },
   {
     "hash": "005AB3ED4813F55E",
@@ -1691,78 +1990,93 @@
   },
   {
     "hash": "0079FAD6189F8AF9",
-    "path": "[unknown:/*/ioi_basic_glass_refraction.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/ioi_basic_glass_refraction.mi].pc_entitytype"
   },
   {
     "hash": "008B30DDDB65B75E",
-    "path": "[unknown:/*/ioi_basic_hair.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/ioi_basic_hair.mi].pc_entitytype"
   },
   {
     "hash": "00CA06A70C0857BE",
-    "path": "[unknown:/*/ioi_basic_skin_sickness_head.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/ioi_basic_skin_sickness_head.mi].pc_entitytype"
   },
   {
     "hash": "009567935972D652",
-    "path": "[unknown:/*/italy_florist_a.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/italy_florist_a.mi].pc_entitytype"
   },
   {
     "hash": "00087BEFE0EFFF66",
-    "path": "[unknown:/*/jacket_puffer.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/jacket_puffer.mi].pc_entitytype"
   },
   {
     "hash": "0080C269695B8EEF",
-    "path": "[unknown:/*/knight_belt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/knight_belt.mi].pc_entitytype"
   },
   {
     "hash": "00944407D479765E",
-    "path": "[unknown:/*/knight_body.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/knight_body.mi].pc_entitytype"
   },
   {
     "hash": "002A6CCE920DB2A9",
-    "path": "[unknown:/*/knight_boots.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/knight_boots.mi].pc_entitytype"
   },
   {
     "hash": "00E8EB2CEC300BE1",
-    "path": "[unknown:/*/knight_elbow_pads.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/knight_elbow_pads.mi].pc_entitytype"
   },
   {
     "hash": "00486A1296C97A9E",
-    "path": "[unknown:/*/knight_gloves.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/knight_gloves.mi].pc_entitytype"
   },
   {
     "hash": "001A2E8D29A62ED1",
-    "path": "[unknown:/*/knight_hair.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/knight_hair.mi].pc_entitytype"
   },
   {
     "hash": "00041191F46227C8",
-    "path": "[unknown:/*/knight_head.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/knight_head.mi].pc_entitytype"
   },
   {
     "hash": "00435D45A6AAE42B",
-    "path": "[unknown:/*/knight_pins.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/knight_pins.mi].pc_entitytype"
   },
   {
     "hash": "001A247FAB9009DA",
-    "path": "[unknown:/*/knight_tanktop.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/knight_tanktop.mi].pc_entitytype"
   },
   {
     "hash": "00BF6279F9E277F5",
-    "path": "[unknown:/*/kronstadt_welcome_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/kronstadt_welcome_a.mi].pc_entitytype"
   },
   {
     "hash": "0046F7886C1F48F2",
@@ -1771,8 +2085,9 @@
   },
   {
     "hash": "000F013B6494FE4D",
-    "path": "[unknown:/*/lindseylacoeur.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/lindseylacoeur.mi].pc_entitytype"
   },
   {
     "hash": "008CD1DAD45F8DF2",
@@ -1796,33 +2111,39 @@
   },
   {
     "hash": "005C25E1DE872174",
-    "path": "[unknown:/*/lumumba_head_01.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/lumumba_head_01.mi].pc_entitytype"
   },
   {
     "hash": "00FFB331DC9D7E60",
-    "path": "[unknown:/*/maitai_hat.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/maitai_hat.mi].pc_entitytype"
   },
   {
     "hash": "009ED8E9EAF2E5FC",
-    "path": "[unknown:/*/maitai_head.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/maitai_head.mi].pc_entitytype"
   },
   {
     "hash": "0011EE0E55951204",
-    "path": "[unknown:/*/maitai_shirt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/maitai_shirt.mi].pc_entitytype"
   },
   {
     "hash": "00767D45F2782689",
-    "path": "[unknown:/*/male_nemesis_jacket_s3_customimpact.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_nemesis_jacket_s3_customimpact.mi].pc_entitytype"
   },
   {
     "hash": "00BE180AA53192E6",
-    "path": "[unknown:/*/male_old_body.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_old_body.mi].pc_entitytype"
   },
   {
     "hash": "00E0146EBE8CDEBD",
@@ -1831,108 +2152,129 @@
   },
   {
     "hash": "00745D6CA5116017",
-    "path": "[unknown:/*/male_reg_acc_canteen_military.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_acc_canteen_military.mi].pc_entitytype"
   },
   {
     "hash": "000C8B7E5E80AE5A",
-    "path": "[unknown:/*/male_reg_agent47_gecko_shirt_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_agent47_gecko_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "0013AF733835055F",
-    "path": "[unknown:/*/male_reg_bag_shoulder.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_bag_shoulder.mi].pc_entitytype"
   },
   {
     "hash": "00E1C0FA18B80AC8",
-    "path": "[unknown:/*/male_reg_bandana_mouthcover.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_bandana_mouthcover.mi].pc_entitytype"
   },
   {
     "hash": "002285AA5D1E6D90",
-    "path": "[unknown:/*/male_reg_beard.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_beard.mi].pc_entitytype"
   },
   {
     "hash": "00A34104284DF797",
-    "path": "[unknown:/*/male_reg_beard_vertexcolor.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_beard_vertexcolor.mi].pc_entitytype"
   },
   {
     "hash": "00AD883619DC5B8F",
-    "path": "[unknown:/*/male_reg_beardcap.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_beardcap.mi].pc_entitytype"
   },
   {
     "hash": "0043725859FC505F",
-    "path": "[unknown:/*/male_reg_belt_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_belt_01.mi].pc_entitytype"
   },
   {
     "hash": "003814A68D309A6C",
-    "path": "[unknown:/*/male_reg_belt_buckle_cowboy.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_belt_buckle_cowboy.mi].pc_entitytype"
   },
   {
     "hash": "002AF451C81EDE37",
-    "path": "[unknown:/*/male_reg_belt_buckle_oval_l.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_belt_buckle_oval_l.mi].pc_entitytype"
   },
   {
     "hash": "006CDBB659185FD7",
-    "path": "[unknown:/*/male_reg_blackrussian_tshirt.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_blackrussian_tshirt.mi].pc_entitytype"
   },
   {
     "hash": "00FD84366CFEE0B4",
-    "path": "[unknown:/*/male_reg_bloodymary_hair.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_bloodymary_hair.mi].pc_entitytype"
   },
   {
     "hash": "00D6D9F4C8E77504",
-    "path": "[unknown:/*/male_reg_bloodymary_head.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_bloodymary_head.mi].pc_entitytype"
   },
   {
     "hash": "00B0AACA6836EBFD",
-    "path": "[unknown:/*/male_reg_bloodymary_jacket.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_bloodymary_jacket.mi].pc_entitytype"
   },
   {
     "hash": "003E7CF7FF8B8C4C",
-    "path": "[unknown:/*/male_reg_bloodymary_pants.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_bloodymary_pants.mi].pc_entitytype"
   },
   {
     "hash": "0053E5704C2C36C7",
-    "path": "[unknown:/*/male_reg_bloodymary_tie.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_bloodymary_tie.mi].pc_entitytype"
   },
   {
     "hash": "003DCA5E22F37B5F",
-    "path": "[unknown:/*/male_reg_body.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_body.mi].pc_entitytype"
   },
   {
     "hash": "0042D744B9A51019",
-    "path": "[unknown:/*/male_reg_body_tattoo.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_body_tattoo.mi].pc_entitytype"
   },
   {
     "hash": "00B260BAFA6FAF31",
-    "path": "[unknown:/*/male_reg_bowtie_butterfly.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_bowtie_butterfly.mi].pc_entitytype"
   },
   {
     "hash": "00E2D43DC71C2F78",
-    "path": "[unknown:/*/male_reg_brassmonkey_eye_blind.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_brassmonkey_eye_blind.mi].pc_entitytype"
   },
   {
     "hash": "00C8B94C3C61BACE",
-    "path": "[unknown:/*/male_reg_brassmonkey_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_brassmonkey_head_01.mi].pc_entitytype"
   },
   {
     "hash": "001ECA454707051B",
@@ -1941,33 +2283,39 @@
   },
   {
     "hash": "003F36A49AEEEEDB",
-    "path": "[unknown:/*/male_reg_civilian_01_dress_01.mi].pc_entitytype",
-    "gameFlags": 2
+    "path": "",
+    "gameFlags": 2,
+    "hint": "[unknown:/*/male_reg_civilian_01_dress_01.mi].pc_entitytype"
   },
   {
     "hash": "0008AFEDD1E3DD42",
-    "path": "[unknown:/*/male_reg_civilian_01_dress_02.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_civilian_01_dress_02.mi].pc_entitytype"
   },
   {
     "hash": "00A963A38570C082",
-    "path": "[unknown:/*/male_reg_civilian_01_hoodie_02.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_civilian_01_hoodie_02.mi].pc_entitytype"
   },
   {
     "hash": "00AE35A7C373CAF3",
-    "path": "[unknown:/*/male_reg_civilian_01_pants_01.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_civilian_01_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "007DA02822A5F000",
-    "path": "[unknown:/*/male_reg_civilian_01_sandals_01.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_civilian_01_sandals_01.mi].pc_entitytype"
   },
   {
     "hash": "009C84823A0CE872",
-    "path": "[unknown:/*/male_reg_coat_robe_luxury.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_coat_robe_luxury.mi].pc_entitytype"
   },
   {
     "hash": "004716CC749B6F11",
@@ -1981,73 +2329,87 @@
   },
   {
     "hash": "00781F7043553492",
-    "path": "[unknown:/*/male_reg_dress_shirt_btndwn3_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_dress_shirt_btndwn3_01.mi].pc_entitytype"
   },
   {
     "hash": "00D3DD963A6AF70D",
-    "path": "[unknown:/*/male_reg_dress_shirt_buttoned_up_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_dress_shirt_buttoned_up_01.mi].pc_entitytype"
   },
   {
     "hash": "0013955F2CEE3741",
-    "path": "[unknown:/*/male_reg_dress_shirt_buttoned_up_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_dress_shirt_buttoned_up_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "008F3CBB410A44C6",
-    "path": "[unknown:/*/male_reg_dress_shirt_long_sleeve_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_dress_shirt_long_sleeve_01.mi].pc_entitytype"
   },
   {
     "hash": "0031DE2F9152932C",
-    "path": "[unknown:/*/male_reg_dress_shirt_short_sleeves_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_dress_shirt_short_sleeves_01.mi].pc_entitytype"
   },
   {
     "hash": "00B67DAFFF517337",
-    "path": "[unknown:/*/male_reg_dress_shirt_short_sleeves_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_dress_shirt_short_sleeves_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "00E0DEF17DC4E9FC",
-    "path": "[unknown:/*/male_reg_dustsuit.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_dustsuit.mi].pc_entitytype"
   },
   {
     "hash": "003DDE3EB0622FAC",
-    "path": "[unknown:/*/male_reg_emergenctvest.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_emergenctvest.mi].pc_entitytype"
   },
   {
     "hash": "004C30A7A778483E",
-    "path": "[unknown:/*/male_reg_eventstaff_tanktop_long.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_eventstaff_tanktop_long.mi].pc_entitytype"
   },
   {
     "hash": "003DF79BF8D04DF5",
-    "path": "[unknown:/*/male_reg_exterminator_belt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_exterminator_belt_01.mi].pc_entitytype"
   },
   {
     "hash": "00D18E7EEA65FF6A",
-    "path": "[unknown:/*/male_reg_exterminator_glove_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_exterminator_glove_01.mi].pc_entitytype"
   },
   {
     "hash": "00AF6FD15BFAC222",
-    "path": "[unknown:/*/male_reg_eyelashes.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_eyelashes.mi].pc_entitytype"
   },
   {
     "hash": "009152298E59C2B9",
-    "path": "[unknown:/*/male_reg_eyewear_glasses_round_frameless.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_eyewear_glasses_round_frameless.mi].pc_entitytype"
   },
   {
     "hash": "00C2ED8802A92AE1",
-    "path": "[unknown:/*/male_reg_eyewear_glasses_round_frameless_metal.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_eyewear_glasses_round_frameless_metal.mi].pc_entitytype"
   },
   {
     "hash": "00EBE71044434717",
@@ -2066,373 +2428,447 @@
   },
   {
     "hash": "0055A70CC61AD1A3",
-    "path": "[unknown:/*/male_reg_flirtini_head_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_flirtini_head_01.mi].pc_entitytype"
   },
   {
     "hash": "00C44C92EC8AEA9D",
-    "path": "[unknown:/*/male_reg_garybusey_head.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_garybusey_head.mi].pc_entitytype"
   },
   {
     "hash": "00CA1FE1B8CD5BE1",
-    "path": "[unknown:/*/male_reg_gimlet_pants.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_gimlet_pants.mi].pc_entitytype"
   },
   {
     "hash": "00D3D6B3FDACA841",
-    "path": "[unknown:/*/male_reg_gimlet_shirt.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_gimlet_shirt.mi].pc_entitytype"
   },
   {
     "hash": "00E375BC55999151",
-    "path": "[unknown:/*/male_reg_gloves_oven.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_gloves_oven.mi].pc_entitytype"
   },
   {
     "hash": "0019882C80F35D6C",
-    "path": "[unknown:/*/male_reg_haircap.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_haircap.mi].pc_entitytype"
   },
   {
     "hash": "0035AFD562EAF50E",
-    "path": "[unknown:/*/male_reg_handkerchief_and_suspenders.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_handkerchief_and_suspenders.mi].pc_entitytype"
   },
   {
     "hash": "00A473479B2CE0C3",
-    "path": "[unknown:/*/male_reg_hat_bandana_regular.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_hat_bandana_regular.mi].pc_entitytype"
   },
   {
     "hash": "0099724C34B7E6B1",
-    "path": "[unknown:/*/male_reg_hat_outback_foldedup.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_hat_outback_foldedup.mi].pc_entitytype"
   },
   {
     "hash": "0095A196D8523271",
-    "path": "[unknown:/*/male_reg_head.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_head.mi].pc_entitytype"
   },
   {
     "hash": "00F42C88EABBE918",
-    "path": "[unknown:/*/male_reg_head_47_h3_rain.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_47_h3_rain.mi].pc_entitytype"
   },
   {
     "hash": "0085EC475F82AB68",
-    "path": "[unknown:/*/male_reg_head_47_s2.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_47_s2.mi].pc_entitytype"
   },
   {
     "hash": "00DC32666D040183",
-    "path": "[unknown:/*/male_reg_head_47_s3.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_47_s3.mi].pc_entitytype"
   },
   {
     "hash": "002CFCBAA72FD4B3",
-    "path": "[unknown:/*/male_reg_head_african_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_african_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "006483411E316C33",
-    "path": "[unknown:/*/male_reg_head_african_20s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_african_20s_02.mi].pc_entitytype"
   },
   {
     "hash": "009DC77B092FFEE7",
-    "path": "[unknown:/*/male_reg_head_arabic_30s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_arabic_30s_01.mi].pc_entitytype"
   },
   {
     "hash": "00333A135E58A783",
-    "path": "[unknown:/*/male_reg_head_arabic_30s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_arabic_30s_02.mi].pc_entitytype"
   },
   {
     "hash": "00913C2A0B54F57F",
-    "path": "[unknown:/*/male_reg_head_arabic_50s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_arabic_50s_01.mi].pc_entitytype"
   },
   {
     "hash": "007FCB28E5257663",
-    "path": "[unknown:/*/male_reg_head_asian_20s_02.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_asian_20s_02.mi].pc_entitytype"
   },
   {
     "hash": "00E2C168B65A84F4",
-    "path": "[unknown:/*/male_reg_head_asian_30s_03.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_asian_30s_03.mi].pc_entitytype"
   },
   {
     "hash": "00C174C081BAA121",
-    "path": "[unknown:/*/male_reg_head_asian_30s_04.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_asian_30s_04.mi].pc_entitytype"
   },
   {
     "hash": "002B2F7C8661191D",
-    "path": "[unknown:/*/male_reg_head_asian_50s_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_asian_50s_01.mi].pc_entitytype"
   },
   {
     "hash": "00A1154F8B448760",
-    "path": "[unknown:/*/male_reg_head_asian_50s_02.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_asian_50s_02.mi].pc_entitytype"
   },
   {
     "hash": "0004D80AEFA6483A",
-    "path": "[unknown:/*/male_reg_head_asian_70s_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_asian_70s_01.mi].pc_entitytype"
   },
   {
     "hash": "0056F4E44EA7B2C6",
-    "path": "[unknown:/*/male_reg_head_barman.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_barman.mi].pc_entitytype"
   },
   {
     "hash": "009482493BF31320",
-    "path": "[unknown:/*/male_reg_head_broadwaydancer.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_broadwaydancer.mi].pc_entitytype"
   },
   {
     "hash": "0029B5B6F408B0C2",
-    "path": "[unknown:/*/male_reg_head_butler_bulldog.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_butler_bulldog.mi].pc_entitytype"
   },
   {
     "hash": "008D544036D30B9A",
-    "path": "[unknown:/*/male_reg_head_carl_ingram_s3.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_head_carl_ingram_s3.mi].pc_entitytype"
   },
   {
     "hash": "004059243575AF4E",
-    "path": "[unknown:/*/male_reg_head_caucasian_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "00FE4C4D62B374CF",
-    "path": "[unknown:/*/male_reg_head_caucasian_20s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_20s_02.mi].pc_entitytype"
   },
   {
     "hash": "003C35F06ED2FF60",
-    "path": "[unknown:/*/male_reg_head_caucasian_30s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_30s_01.mi].pc_entitytype"
   },
   {
     "hash": "0091BE7A4687ECD7",
-    "path": "[unknown:/*/male_reg_head_caucasian_30s_03.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_30s_03.mi].pc_entitytype"
   },
   {
     "hash": "001016F33CE057E5",
-    "path": "[unknown:/*/male_reg_head_caucasian_40s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_40s_02.mi].pc_entitytype"
   },
   {
     "hash": "0046717A631ECC38",
-    "path": "[unknown:/*/male_reg_head_caucasian_40s_03.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_40s_03.mi].pc_entitytype"
   },
   {
     "hash": "0025D08A9B540A0E",
-    "path": "[unknown:/*/male_reg_head_caucasian_40s_04.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_40s_04.mi].pc_entitytype"
   },
   {
     "hash": "00BFB8DE96807D62",
-    "path": "[unknown:/*/male_reg_head_caucasian_40s_05.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_40s_05.mi].pc_entitytype"
   },
   {
     "hash": "0054846404DEC434",
-    "path": "[unknown:/*/male_reg_head_caucasian_60s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_60s_01.mi].pc_entitytype"
   },
   {
     "hash": "003FF8D5CFC0991E",
-    "path": "[unknown:/*/male_reg_head_caucasian_60s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_60s_02.mi].pc_entitytype"
   },
   {
     "hash": "0048A0B0E73AD5A6",
-    "path": "[unknown:/*/male_reg_head_caucasian_70s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_caucasian_70s_01.mi].pc_entitytype"
   },
   {
     "hash": "0052DF304BF1E190",
-    "path": "[unknown:/*/male_reg_head_guard_dead_hippo.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_guard_dead_hippo.mi].pc_entitytype"
   },
   {
     "hash": "00489C040E4D270E",
-    "path": "[unknown:/*/male_reg_head_hectordelgado.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_hectordelgado.mi].pc_entitytype"
   },
   {
     "hash": "000ED942557E4F1B",
-    "path": "[unknown:/*/male_reg_head_helicopterpilot.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_helicopterpilot.mi].pc_entitytype"
   },
   {
     "hash": "0053658B6F7EDF06",
-    "path": "[unknown:/*/male_reg_head_hippowhisperer.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_hippowhisperer.mi].pc_entitytype"
   },
   {
     "hash": "0020F67947D6E5DC",
-    "path": "[unknown:/*/male_reg_head_hispanic_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_hispanic_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "00B8C8B3E5F7EB06",
-    "path": "[unknown:/*/male_reg_head_hispanic_30s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_hispanic_30s_01.mi].pc_entitytype"
   },
   {
     "hash": "00332AAFC37D5577",
-    "path": "[unknown:/*/male_reg_head_hispanic_30s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_hispanic_30s_02.mi].pc_entitytype"
   },
   {
     "hash": "0025D4250C9977B3",
-    "path": "[unknown:/*/male_reg_head_hispanic_40s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_hispanic_40s_01.mi].pc_entitytype"
   },
   {
     "hash": "0080B849130BF2D9",
-    "path": "[unknown:/*/male_reg_head_hispanic_50s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_hispanic_50s_01.mi].pc_entitytype"
   },
   {
     "hash": "005DFE67604A8FC2",
-    "path": "[unknown:/*/male_reg_head_indian_20s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_20s_01.mi].pc_entitytype"
   },
   {
     "hash": "002C4B2DC1377049",
-    "path": "[unknown:/*/male_reg_head_indian_20s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_20s_02.mi].pc_entitytype"
   },
   {
     "hash": "0012F86DE96371B5",
-    "path": "[unknown:/*/male_reg_head_indian_30s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_30s_01.mi].pc_entitytype"
   },
   {
     "hash": "00647305B3835886",
-    "path": "[unknown:/*/male_reg_head_indian_30s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_30s_02.mi].pc_entitytype"
   },
   {
     "hash": "0075FA7192C3357E",
-    "path": "[unknown:/*/male_reg_head_indian_30s_03.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_30s_03.mi].pc_entitytype"
   },
   {
     "hash": "007C0786CF44D2E1",
-    "path": "[unknown:/*/male_reg_head_indian_30s_04.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_30s_04.mi].pc_entitytype"
   },
   {
     "hash": "00754B7C0320FDBB",
-    "path": "[unknown:/*/male_reg_head_indian_40s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_40s_01.mi].pc_entitytype"
   },
   {
     "hash": "0027F2F443737EE4",
-    "path": "[unknown:/*/male_reg_head_indian_50s_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_50s_01.mi].pc_entitytype"
   },
   {
     "hash": "002B41D125AE512F",
-    "path": "[unknown:/*/male_reg_head_indian_50s_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_50s_02.mi].pc_entitytype"
   },
   {
     "hash": "00462296A23B3133",
-    "path": "[unknown:/*/male_reg_head_indian_50s_03.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_indian_50s_03.mi].pc_entitytype"
   },
   {
     "hash": "00C69AC527856279",
-    "path": "[unknown:/*/male_reg_head_itgenius.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_itgenius.mi].pc_entitytype"
   },
   {
     "hash": "003ED9B2A6C2AF09",
-    "path": "[unknown:/*/male_reg_head_leadsubmarinetech.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_leadsubmarinetech.mi].pc_entitytype"
   },
   {
     "hash": "00BA961FFEC75D03",
-    "path": "[unknown:/*/male_reg_head_nolancassidy.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_nolancassidy.mi].pc_entitytype"
   },
   {
     "hash": "00D1EBA8651CF876",
-    "path": "[unknown:/*/male_reg_head_politiciansassistant.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_politiciansassistant.mi].pc_entitytype"
   },
   {
     "hash": "00896E777E75AE39",
-    "path": "[unknown:/*/male_reg_head_realestatebroker.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_realestatebroker.mi].pc_entitytype"
   },
   {
     "hash": "00046374CC3AADE0",
-    "path": "[unknown:/*/male_reg_head_ricodelgado_bleed.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_ricodelgado_bleed.mi].pc_entitytype"
   },
   {
     "hash": "007EC9D96FAD55C7",
-    "path": "[unknown:/*/male_reg_head_sambuca.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_sambuca.mi].pc_entitytype"
   },
   {
     "hash": "0072B5B1805F9986",
-    "path": "[unknown:/*/male_reg_head_shaman.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_shaman.mi].pc_entitytype"
   },
   {
     "hash": "00E006B0A2E956A4",
-    "path": "[unknown:/*/male_reg_head_sheik.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_sheik.mi].pc_entitytype"
   },
   {
     "hash": "00AA8531658B323C",
-    "path": "[unknown:/*/male_reg_head_spencergreen.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_spencergreen.mi].pc_entitytype"
   },
   {
     "hash": "00A7C4C1B6305D61",
-    "path": "[unknown:/*/male_reg_head_tailor.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_tailor.mi].pc_entitytype"
   },
   {
     "hash": "00843DFD2D8D8DA1",
-    "path": "[unknown:/*/male_reg_head_tattooartist.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_tattooartist.mi].pc_entitytype"
   },
   {
     "hash": "00F9394F8D7391C1",
-    "path": "[unknown:/*/male_reg_head_vanisher.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_vanisher.mi].pc_entitytype"
   },
   {
     "hash": "006C344FF97AA9C9",
-    "path": "[unknown:/*/male_reg_head_winner_daniele_carco_chaosagent.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_winner_daniele_carco_chaosagent.mi].pc_entitytype"
   },
   {
     "hash": "00BD09C5869FA0EB",
-    "path": "[unknown:/*/male_reg_head_winner_jens_rothe_urben_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_winner_jens_rothe_urben_head.mi].pc_entitytype"
   },
   {
     "hash": "00CE46B531D52282",
-    "path": "[unknown:/*/male_reg_head_winner_jordan_cucci_jack9mm_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_head_winner_jordan_cucci_jack9mm_head.mi].pc_entitytype"
   },
   {
     "hash": "002E7435031E8631",
@@ -2441,18 +2877,21 @@
   },
   {
     "hash": "00632A45DE051981",
-    "path": "[unknown:/*/male_reg_jacket_downparka.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_jacket_downparka.mi].pc_entitytype"
   },
   {
     "hash": "006D5D44D83AD185",
-    "path": "[unknown:/*/male_reg_jacket_tuxedo.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_jacket_tuxedo.mi].pc_entitytype"
   },
   {
     "hash": "006B621477D276AF",
-    "path": "[unknown:/*/male_reg_kamikaze_jacket_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_kamikaze_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "002FABF76FA68B9B",
@@ -2461,198 +2900,237 @@
   },
   {
     "hash": "0017F99DDF3B79B6",
-    "path": "[unknown:/*/male_reg_loincloth_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_loincloth_01.mi].pc_entitytype"
   },
   {
     "hash": "000EE1A848DC51CE",
-    "path": "[unknown:/*/male_reg_maccoat.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_maccoat.mi].pc_entitytype"
   },
   {
     "hash": "008543F6ED45A2A1",
-    "path": "[unknown:/*/male_reg_market_salesman_hat_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_market_salesman_hat_01.mi].pc_entitytype"
   },
   {
     "hash": "00231F24A41CA9A9",
-    "path": "[unknown:/*/male_reg_market_salesman_hat_02.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_market_salesman_hat_02.mi].pc_entitytype"
   },
   {
     "hash": "005CA3874983F17F",
-    "path": "[unknown:/*/male_reg_market_salesman_jacket_02.mi].pc_entitytype",
-    "gameFlags": 2
+    "path": "",
+    "gameFlags": 2,
+    "hint": "[unknown:/*/male_reg_market_salesman_jacket_02.mi].pc_entitytype"
   },
   {
     "hash": "00C66D1E7FB228A0",
-    "path": "[unknown:/*/male_reg_martini_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_martini_head_01.mi].pc_entitytype"
   },
   {
     "hash": "00C0715D99E72572",
-    "path": "[unknown:/*/male_reg_mask_rabbit.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_mask_rabbit.mi].pc_entitytype"
   },
   {
     "hash": "003E383F2898F299",
-    "path": "[unknown:/*/male_reg_mimosa_01_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_mimosa_01_head_01.mi].pc_entitytype"
   },
   {
     "hash": "000E6B4E6E57C380",
-    "path": "[unknown:/*/male_reg_mimosa_01_sweater_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_mimosa_01_sweater_01.mi].pc_entitytype"
   },
   {
     "hash": "0062BD666EFD8BE3",
-    "path": "[unknown:/*/male_reg_neckerchief.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_neckerchief.mi].pc_entitytype"
   },
   {
     "hash": "00C94A4E0B06D706",
-    "path": "[unknown:/*/male_reg_neckwear_ruler_scissor.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_neckwear_ruler_scissor.mi].pc_entitytype"
   },
   {
     "hash": "000D74EE2ADB8DBE",
-    "path": "[unknown:/*/male_reg_package_cigarette.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_package_cigarette.mi].pc_entitytype"
   },
   {
     "hash": "00F00545BA58BA46",
-    "path": "[unknown:/*/male_reg_pants_dress_loose_hlfbrk.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pants_dress_loose_hlfbrk.mi].pc_entitytype"
   },
   {
     "hash": "00B48F973D7A4E10",
-    "path": "[unknown:/*/male_reg_pants_jeans.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_pants_jeans.mi].pc_entitytype"
   },
   {
     "hash": "00DCB08DEF470235",
-    "path": "[unknown:/*/male_reg_pants_jeans_baggy.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pants_jeans_baggy.mi].pc_entitytype"
   },
   {
     "hash": "007C7482A84DCAC1",
-    "path": "[unknown:/*/male_reg_pants_sweats_baggy.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pants_sweats_baggy.mi].pc_entitytype"
   },
   {
     "hash": "008BF14EAB27AEC7",
-    "path": "[unknown:/*/male_reg_pants_tights.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pants_tights.mi].pc_entitytype"
   },
   {
     "hash": "00A708101DE1A2C0",
-    "path": "[unknown:/*/male_reg_pin_providence.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pin_providence.mi].pc_entitytype"
   },
   {
     "hash": "000F2CCD220AB522",
-    "path": "[unknown:/*/male_reg_pocketwatch.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pocketwatch.mi].pc_entitytype"
   },
   {
     "hash": "00A0E16565DFB2EA",
-    "path": "[unknown:/*/male_reg_pressvest.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pressvest.mi].pc_entitytype"
   },
   {
     "hash": "003D21C243FEBEA2",
-    "path": "[unknown:/*/male_reg_protester_01_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_01_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "00F4DAE83B7E95AF",
-    "path": "[unknown:/*/male_reg_protester_01_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_01_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "0086C1D19D040AC5",
-    "path": "[unknown:/*/male_reg_protester_01_t-shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_01_t-shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "005E7A4003BE3021",
-    "path": "[unknown:/*/male_reg_protester_02_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_02_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "0024B118DE0EC8A6",
-    "path": "[unknown:/*/male_reg_protester_02_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_02_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00405CF755DBC1E3",
-    "path": "[unknown:/*/male_reg_protester_02_shoes_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_02_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "00A8D3ECC2BE43D9",
-    "path": "[unknown:/*/male_reg_protester_03_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_03_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "006D0D68BB4DA434",
-    "path": "[unknown:/*/male_reg_protester_03_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_03_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00F508A1CBD6E673",
-    "path": "[unknown:/*/male_reg_protester_04_bandana_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_04_bandana_01.mi].pc_entitytype"
   },
   {
     "hash": "00F4D65946CA8FC3",
-    "path": "[unknown:/*/male_reg_protester_04_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_04_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "0067A6CF44E33A21",
-    "path": "[unknown:/*/male_reg_protester_04_sandals_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_protester_04_sandals_01.mi].pc_entitytype"
   },
   {
     "hash": "0054D10CFCD20CBD",
-    "path": "[unknown:/*/male_reg_protester_04_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_04_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "001101EE7077DA22",
-    "path": "[unknown:/*/male_reg_protester_shirt.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_protester_shirt.mi].pc_entitytype"
   },
   {
     "hash": "0098707593EBF373",
-    "path": "[unknown:/*/male_reg_pullover_tied.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_pullover_tied.mi].pc_entitytype"
   },
   {
     "hash": "004BAFB3A9A54DB0",
-    "path": "[unknown:/*/male_reg_remotespeaker_shoulder.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_remotespeaker_shoulder.mi].pc_entitytype"
   },
   {
     "hash": "00B2F4C8E395EBEB",
-    "path": "[unknown:/*/male_reg_seabreeze_belt.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_seabreeze_belt.mi].pc_entitytype"
   },
   {
     "hash": "006662E4284F6F4F",
-    "path": "[unknown:/*/male_reg_seabreeze_shoes.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_seabreeze_shoes.mi].pc_entitytype"
   },
   {
     "hash": "005F11167B753E51",
-    "path": "[unknown:/*/male_reg_seabreeze_yukata.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_seabreeze_yukata.mi].pc_entitytype"
   },
   {
     "hash": "00CD471DAA95F4BF",
-    "path": "[unknown:/*/male_reg_shemagh.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_shemagh.mi].pc_entitytype"
   },
   {
     "hash": "00E6C1E33E936A26",
@@ -2661,78 +3139,93 @@
   },
   {
     "hash": "00E3684D0A62C96E",
-    "path": "[unknown:/*/male_reg_shirt_officer_btnup_srtslv_tkd.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shirt_officer_btnup_srtslv_tkd.mi].pc_entitytype"
   },
   {
     "hash": "00684059E3E50009",
-    "path": "[unknown:/*/male_reg_shirt_open_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shirt_open_01.mi].pc_entitytype"
   },
   {
     "hash": "00F0F77C9149EEF9",
-    "path": "[unknown:/*/male_reg_shirt_polo.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shirt_polo.mi].pc_entitytype"
   },
   {
     "hash": "0076B124A20B41A6",
-    "path": "[unknown:/*/male_reg_shirt_srtslv_pocket.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shirt_srtslv_pocket.mi].pc_entitytype"
   },
   {
     "hash": "00289C1AE2BA7A93",
-    "path": "[unknown:/*/male_reg_shoes_boots_hip.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shoes_boots_hip.mi].pc_entitytype"
   },
   {
     "hash": "0045CC1FE70B0E81",
-    "path": "[unknown:/*/male_reg_shoes_cowboy.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shoes_cowboy.mi].pc_entitytype"
   },
   {
     "hash": "00B3B324B425BD0A",
-    "path": "[unknown:/*/male_reg_shoes_racing.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shoes_racing.mi].pc_entitytype"
   },
   {
     "hash": "00C95D9B54A62305",
-    "path": "[unknown:/*/male_reg_shoes_sandals_cork.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_shoes_sandals_cork.mi].pc_entitytype"
   },
   {
     "hash": "0091D73CA6420561",
-    "path": "[unknown:/*/male_reg_shoes_sneakers.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shoes_sneakers.mi].pc_entitytype"
   },
   {
     "hash": "00C3091A0A44E829",
-    "path": "[unknown:/*/male_reg_shorts_dj.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_shorts_dj.mi].pc_entitytype"
   },
   {
     "hash": "0007A85738F1D541",
-    "path": "[unknown:/*/male_reg_skirt_dhoti_folded_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_skirt_dhoti_folded_01.mi].pc_entitytype"
   },
   {
     "hash": "00A61EF227ED9FFA",
-    "path": "[unknown:/*/male_reg_skirt_dhoti_loose_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_skirt_dhoti_loose_01.mi].pc_entitytype"
   },
   {
     "hash": "000191174AD4F0BC",
-    "path": "[unknown:/*/male_reg_socks_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_socks_01.mi].pc_entitytype"
   },
   {
     "hash": "00D52BC28ED6D88D",
-    "path": "[unknown:/*/male_reg_socks_stayup.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_socks_stayup.mi].pc_entitytype"
   },
   {
     "hash": "00FB5132EED9A032",
-    "path": "[unknown:/*/male_reg_stilletto_trenchcoat_closed.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_stilletto_trenchcoat_closed.mi].pc_entitytype"
   },
   {
     "hash": "0081C4A6D2360E11",
@@ -2746,53 +3239,63 @@
   },
   {
     "hash": "00AA597E70C6A43F",
-    "path": "[unknown:/*/male_reg_strandbergsacc_pant_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_strandbergsacc_pant_01.mi].pc_entitytype"
   },
   {
     "hash": "00EE68648FAB907D",
-    "path": "[unknown:/*/male_reg_strandbergsacc_shirt_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_strandbergsacc_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00147B535D3AB1C3",
-    "path": "[unknown:/*/male_reg_suit_jacket_01_closed.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_suit_jacket_01_closed.mi].pc_entitytype"
   },
   {
     "hash": "006B1597F1644AD3",
-    "path": "[unknown:/*/male_reg_suit_jacket_01_closed_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_suit_jacket_01_closed_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "004DC12C36D8926E",
-    "path": "[unknown:/*/male_reg_suit_jacket_01_closed_velvet.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_suit_jacket_01_closed_velvet.mi].pc_entitytype"
   },
   {
     "hash": "009762DAE23E62A4",
-    "path": "[unknown:/*/male_reg_suit_jacket_01_open.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_suit_jacket_01_open.mi].pc_entitytype"
   },
   {
     "hash": "0074A1B094FC4120",
-    "path": "[unknown:/*/male_reg_suit_pants_01.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/male_reg_suit_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "00475ECD0A7CE94A",
-    "path": "[unknown:/*/male_reg_suit_pants_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_suit_pants_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "00DC2AE993404B2C",
-    "path": "[unknown:/*/male_reg_suit_pants_dbl_pleat_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_suit_pants_dbl_pleat_01.mi].pc_entitytype"
   },
   {
     "hash": "002B6C6816C684D3",
-    "path": "[unknown:/*/male_reg_suit_pants_wet.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_suit_pants_wet.mi].pc_entitytype"
   },
   {
     "hash": "00C01B0FFA0D5BE0",
@@ -2831,23 +3334,27 @@
   },
   {
     "hash": "001C8F2370DF1BC2",
-    "path": "[unknown:/*/male_reg_tamagozake_apron_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_tamagozake_apron_01.mi].pc_entitytype"
   },
   {
     "hash": "00CF5DF6FAA6F61B",
-    "path": "[unknown:/*/male_reg_tamagozake_jacket_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_tamagozake_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "00AA4F58FD3DA396",
-    "path": "[unknown:/*/male_reg_tamagozake_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_tamagozake_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "00670AF8952346D7",
-    "path": "[unknown:/*/male_reg_tamagozake_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_tamagozake_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "007FB7F0AD11B61F",
@@ -2876,63 +3383,75 @@
   },
   {
     "hash": "009EA2D3D1133437",
-    "path": "[unknown:/*/male_reg_tattoo.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_tattoo.mi].pc_entitytype"
   },
   {
     "hash": "0075C620177DEDDA",
-    "path": "[unknown:/*/male_reg_tedmendez.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_tedmendez.mi].pc_entitytype"
   },
   {
     "hash": "0086FFBFCB2070D7",
-    "path": "[unknown:/*/male_reg_tie_simple.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_reg_tie_simple.mi].pc_entitytype"
   },
   {
     "hash": "00A3C48ABB395A07",
-    "path": "[unknown:/*/male_reg_tshirt_oversized.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_tshirt_oversized.mi].pc_entitytype"
   },
   {
     "hash": "00924C8EC79BCC9C",
-    "path": "[unknown:/*/male_reg_tshirt_redsnapper.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_tshirt_redsnapper.mi].pc_entitytype"
   },
   {
     "hash": "00C4104C9B8E6DEE",
-    "path": "[unknown:/*/male_reg_tvcrew_producer_glass_01.mi].pc_entitytype",
-    "gameFlags": 2
+    "path": "",
+    "gameFlags": 2,
+    "hint": "[unknown:/*/male_reg_tvcrew_producer_glass_01.mi].pc_entitytype"
   },
   {
     "hash": "00E1FC8251D6679A",
-    "path": "[unknown:/*/male_reg_tvcrew_producer_shirt_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_tvcrew_producer_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "004380A5DA6A7930",
-    "path": "[unknown:/*/male_reg_underwear_boxerbriefs.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_underwear_boxerbriefs.mi].pc_entitytype"
   },
   {
     "hash": "00235BD813208631",
-    "path": "[unknown:/*/male_reg_underwear_string.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_underwear_string.mi].pc_entitytype"
   },
   {
     "hash": "0055F0F64B4A0ED5",
-    "path": "[unknown:/*/male_reg_ushanka.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_ushanka.mi].pc_entitytype"
   },
   {
     "hash": "002BE7ED7768BFB4",
-    "path": "[unknown:/*/male_reg_vest_combat_chinese.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_vest_combat_chinese.mi].pc_entitytype"
   },
   {
     "hash": "00582248E502088F",
-    "path": "[unknown:/*/male_reg_vest_worker_open.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_reg_vest_worker_open.mi].pc_entitytype"
   },
   {
     "hash": "00BC1AB361E4FAB1",
@@ -2941,8 +3460,9 @@
   },
   {
     "hash": "002FF3D36A0FFD53",
-    "path": "[unknown:/*/male_reg_waistcoat_5btn_open.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/male_reg_waistcoat_5btn_open.mi].pc_entitytype"
   },
   {
     "hash": "002E1525F59F7404",
@@ -2961,53 +3481,63 @@
   },
   {
     "hash": "002001CD4A9B93CF",
-    "path": "[unknown:/*/male_regular_elitesoldier_01_boot_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_elitesoldier_01_boot_01.mi].pc_entitytype"
   },
   {
     "hash": "0021E983D5A4988B",
-    "path": "[unknown:/*/male_regular_elitesoldier_01_helmet_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/male_regular_elitesoldier_01_helmet_01.mi].pc_entitytype"
   },
   {
     "hash": "0034F8646DF360C8",
-    "path": "[unknown:/*/male_regular_elitesoldier_01_pant_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_elitesoldier_01_pant_01.mi].pc_entitytype"
   },
   {
     "hash": "000409E56634A337",
-    "path": "[unknown:/*/male_regular_elitesoldier_01_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_elitesoldier_01_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00CC1BDE26253011",
-    "path": "[unknown:/*/male_regular_elitesoldier_01_vest_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_elitesoldier_01_vest_01.mi].pc_entitytype"
   },
   {
     "hash": "00CB4D1FF70E3531",
-    "path": "[unknown:/*/male_regular_officer_01_belt_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_regular_officer_01_belt_01.mi].pc_entitytype"
   },
   {
     "hash": "00630B437C89F9DE",
-    "path": "[unknown:/*/male_regular_officer_01_beret_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_officer_01_beret_01.mi].pc_entitytype"
   },
   {
     "hash": "006FFBBC6ECD1F0A",
-    "path": "[unknown:/*/male_regular_officer_01_boot_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_regular_officer_01_boot_01.mi].pc_entitytype"
   },
   {
     "hash": "0056290E0CA6B08F",
-    "path": "[unknown:/*/male_regular_officer_01_jacket_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_regular_officer_01_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "003A3C51E1E6D4F0",
-    "path": "[unknown:/*/male_regular_officer_01_pant_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_regular_officer_01_pant_01.mi].pc_entitytype"
   },
   {
     "hash": "00178C9BE37FFFF3",
@@ -3036,18 +3566,21 @@
   },
   {
     "hash": "008CC3AAC34A7FBA",
-    "path": "[unknown:/*/male_regular_soldier_01_hat_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_soldier_01_hat_01.mi].pc_entitytype"
   },
   {
     "hash": "008F249D64C7EBD7",
-    "path": "[unknown:/*/male_regular_soldier_01_jacket_01_.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_soldier_01_jacket_01_.mi].pc_entitytype"
   },
   {
     "hash": "009FFA8C883EB583",
-    "path": "[unknown:/*/male_regular_soldier_01_pant_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/male_regular_soldier_01_pant_01.mi].pc_entitytype"
   },
   {
     "hash": "00DF3FF2282474D9",
@@ -3071,103 +3604,123 @@
   },
   {
     "hash": "006E7D1EBF3D2CAD",
-    "path": "[unknown:/*/mascot_flamingo_body.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mascot_flamingo_body.mi].pc_entitytype"
   },
   {
     "hash": "006C9E10B26D12AA",
-    "path": "[unknown:/*/mascot_flamingo_head.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mascot_flamingo_head.mi].pc_entitytype"
   },
   {
     "hash": "000E1507EB5721C5",
-    "path": "[unknown:/*/mascot_flamingo_legs.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/mascot_flamingo_legs.mi].pc_entitytype"
   },
   {
     "hash": "00A88FC900F204A6",
-    "path": "[unknown:/*/mascot_flamingo_shirt.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mascot_flamingo_shirt.mi].pc_entitytype"
   },
   {
     "hash": "004F66C5373D097B",
-    "path": "[unknown:/*/mascot_flamingo_slippers.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mascot_flamingo_slippers.mi].pc_entitytype"
   },
   {
     "hash": "005912F00BEB423F",
-    "path": "[unknown:/*/mascot_flamingo_slippers.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/mascot_flamingo_slippers.mi].pc_entitytype"
   },
   {
     "hash": "0051971D33A1537F",
-    "path": "[unknown:/*/mask_arkian_masters.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mask_arkian_masters.mi].pc_entitytype"
   },
   {
     "hash": "00046AE8BEAD8A38",
-    "path": "[unknown:/*/mask_arkian_skull.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mask_arkian_skull.mi].pc_entitytype"
   },
   {
     "hash": "00BC9EBAD1203280",
-    "path": "[unknown:/*/metal_painted_container_c_variation_b.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/metal_painted_container_c_variation_b.mi].pc_entitytype"
   },
   {
     "hash": "0048D287AF5931CD",
-    "path": "[unknown:/*/metal_painted_container_c_variation_b2.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/metal_painted_container_c_variation_b2.mi].pc_entitytype"
   },
   {
     "hash": "00109E1A6BC6B025",
-    "path": "[unknown:/*/metal_painted_container_hinges_a_variation_b.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/metal_painted_container_hinges_a_variation_b.mi].pc_entitytype"
   },
   {
     "hash": "00F43CBB312E156A",
-    "path": "[unknown:/*/metal_painted_container_hinges_a_variation_b2.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/metal_painted_container_hinges_a_variation_b2.mi].pc_entitytype"
   },
   {
     "hash": "0092B58FB563A23F",
-    "path": "[unknown:/*/mintjulep_hat_01.mi].pc_entitytype",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/*/mintjulep_hat_01.mi].pc_entitytype"
   },
   {
     "hash": "00ADD8C11C3F399D",
-    "path": "[unknown:/*/mintjulep_shoes_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mintjulep_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "0054C3ADDA2C2160",
-    "path": "[unknown:/*/mojito_beard_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/mojito_beard_01.mi].pc_entitytype"
   },
   {
     "hash": "002F3180B35DA765",
-    "path": "[unknown:/*/mojito_hat_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/mojito_hat_01.mi].pc_entitytype"
   },
   {
     "hash": "00B0D88FAB7FEBFD",
-    "path": "[unknown:/*/mojito_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/mojito_head_01.mi].pc_entitytype"
   },
   {
     "hash": "00382DE75A22E476",
-    "path": "[unknown:/*/mojito_pants_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/mojito_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "00F3E6C8BB0D62BC",
-    "path": "[unknown:/*/mojito_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/mojito_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00D52DBBC25054AD",
-    "path": "[unknown:/*/moscowmule_male_gloves_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/moscowmule_male_gloves_01.mi].pc_entitytype"
   },
   {
     "hash": "00A4A66E497F9267",
@@ -3176,18 +3729,21 @@
   },
   {
     "hash": "00BDA02852D3DD67",
-    "path": "[unknown:/*/necklace_bib_diamonds_square.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/necklace_bib_diamonds_square.mi].pc_entitytype"
   },
   {
     "hash": "00F32A95EF7A48B8",
-    "path": "[unknown:/*/necklace_bib_pearl_leaf.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/necklace_bib_pearl_leaf.mi].pc_entitytype"
   },
   {
     "hash": "0033531D1EAFB0E9",
-    "path": "[unknown:/*/necklace_pearl_knot.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/necklace_pearl_knot.mi].pc_entitytype"
   },
   {
     "hash": "00171204DDA649C3",
@@ -3196,38 +3752,45 @@
   },
   {
     "hash": "00CAFFD56E79F729",
-    "path": "[unknown:/*/nightgown.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/nightgown.mi].pc_entitytype"
   },
   {
     "hash": "00603AC88CC7DE88",
-    "path": "[unknown:/*/paloma_glasses_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/paloma_glasses_01.mi].pc_entitytype"
   },
   {
     "hash": "00386CF05455CDF0",
-    "path": "[unknown:/*/paloma_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/paloma_head_01.mi].pc_entitytype"
   },
   {
     "hash": "008CF0E6AC0A42F2",
-    "path": "[unknown:/*/pam_kingsley_head_h3.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/pam_kingsley_head_h3.mi].pc_entitytype"
   },
   {
     "hash": "00A8C17D1F9F54B4",
-    "path": "[unknown:/*/pants_dabbawala.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/pants_dabbawala.mi].pc_entitytype"
   },
   {
     "hash": "00C173F17FA83A4F",
-    "path": "[unknown:/*/pants_gibson.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/pants_gibson.mi].pc_entitytype"
   },
   {
     "hash": "00D363A3E0FEC86A",
-    "path": "[unknown:/*/parachute_parachute.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/parachute_parachute.mi].pc_entitytype"
   },
   {
     "hash": "0070FE58B7611D5A",
@@ -3241,53 +3804,63 @@
   },
   {
     "hash": "004713A9F3DB934B",
-    "path": "[unknown:/*/perfectsubject_gown.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/perfectsubject_gown.mi].pc_entitytype"
   },
   {
     "hash": "006BC6170CB6B00D",
-    "path": "[unknown:/*/philonewcombe_head.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/philonewcombe_head.mi].pc_entitytype"
   },
   {
     "hash": "002534FA3F19D0EA",
-    "path": "[unknown:/*/pillar_concrete_bare_intel_a.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/pillar_concrete_bare_intel_a.mi].pc_entitytype"
   },
   {
     "hash": "00849A62878C068D",
-    "path": "[unknown:/*/piscosour_hair_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/piscosour_hair_01.mi].pc_entitytype"
   },
   {
     "hash": "00C776B541BF2A85",
-    "path": "[unknown:/*/piscosour_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/piscosour_head_01.mi].pc_entitytype"
   },
   {
     "hash": "009E4B23492FA973",
-    "path": "[unknown:/*/piscosour_shoes_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/piscosour_shoes_01.mi].pc_entitytype"
   },
   {
     "hash": "0069BE0F05328253",
-    "path": "[unknown:/*/piscosour_trousers_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/piscosour_trousers_01.mi].pc_entitytype"
   },
   {
     "hash": "00CA95C00B17895E",
-    "path": "[unknown:/*/piscosour_tshirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/piscosour_tshirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00FA459DECFA0E02",
-    "path": "[unknown:/*/plastic_sheet_fence_a_seagull.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/plastic_sheet_fence_a_seagull.mi].pc_entitytype"
   },
   {
     "hash": "0034EB8E6BCB80CD",
-    "path": "[unknown:/*/plastic_sheet_fence_b_seagull.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/plastic_sheet_fence_b_seagull.mi].pc_entitytype"
   },
   {
     "hash": "0095FB2173FAB0D2",
@@ -3296,28 +3869,33 @@
   },
   {
     "hash": "000922DCF7F9DCA0",
-    "path": "[unknown:/*/poncho_rain.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/poncho_rain.mi].pc_entitytype"
   },
   {
     "hash": "00F5F206F5482088",
-    "path": "[unknown:/*/priest_stole.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/priest_stole.mi].pc_entitytype"
   },
   {
     "hash": "00EAD6520E873AAC",
-    "path": "[unknown:/*/priest_surplice.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/priest_surplice.mi].pc_entitytype"
   },
   {
     "hash": "0030BF05424881E0",
-    "path": "[unknown:/*/privateinvestigator_coat.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/privateinvestigator_coat.mi].pc_entitytype"
   },
   {
     "hash": "00CD214F5DA06D63",
-    "path": "[unknown:/*/prototype_material_white.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/prototype_material_white.mi].pc_entitytype"
   },
   {
     "hash": "004E6F450FA9D685",
@@ -3326,8 +3904,9 @@
   },
   {
     "hash": "00FFF200B3BF88B2",
-    "path": "[unknown:/*/racing_suit.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/racing_suit.mi].pc_entitytype"
   },
   {
     "hash": "004CDCAC28779AF4",
@@ -3341,38 +3920,45 @@
   },
   {
     "hash": "00906FD2A122128D",
-    "path": "[unknown:/*/redsnapper_eyebrows.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/redsnapper_eyebrows.mi].pc_entitytype"
   },
   {
     "hash": "0000E3BD9743CBF3",
-    "path": "[unknown:/*/regmale_fauxcrystaldawn_balaclava_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/regmale_fauxcrystaldawn_balaclava_01.mi].pc_entitytype"
   },
   {
     "hash": "0015D1950F07A490",
-    "path": "[unknown:/*/sakini_apron_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/sakini_apron_01.mi].pc_entitytype"
   },
   {
     "hash": "00D0E0F38B282832",
-    "path": "[unknown:/*/sakini_beard_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/sakini_beard_01.mi].pc_entitytype"
   },
   {
     "hash": "00BC3B15E5EF7E3A",
-    "path": "[unknown:/*/sakini_hat_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/sakini_hat_01.mi].pc_entitytype"
   },
   {
     "hash": "007D047312EFB2E1",
-    "path": "[unknown:/*/sakini_head_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/sakini_head_01.mi].pc_entitytype"
   },
   {
     "hash": "00F61072831D05A9",
-    "path": "[unknown:/*/sakini_shirt_01.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/sakini_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "0021D2FB57D01419",
@@ -3381,8 +3967,9 @@
   },
   {
     "hash": "00AEB37E3A6F71C5",
-    "path": "[unknown:/*/scarf_long_overshoulder.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/scarf_long_overshoulder.mi].pc_entitytype"
   },
   {
     "hash": "006B74712707BFFA",
@@ -3401,13 +3988,15 @@
   },
   {
     "hash": "0095ACB73A8B7A42",
-    "path": "[unknown:/*/seagull_container_atlas_a_variation_b.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/seagull_container_atlas_a_variation_b.mi].pc_entitytype"
   },
   {
     "hash": "00D02137EC670762",
-    "path": "[unknown:/*/seagull_container_atlas_a_variation_b2.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/seagull_container_atlas_a_variation_b2.mi].pc_entitytype"
   },
   {
     "hash": "000594DE309DB9EC",
@@ -3426,8 +4015,9 @@
   },
   {
     "hash": "00464020F22EB9A9",
-    "path": "[unknown:/*/selectnumbershader.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/selectnumbershader.mi].pc_entitytype"
   },
   {
     "hash": "00F10B548C68C945",
@@ -3441,73 +4031,87 @@
   },
   {
     "hash": "003496C5356F9583",
-    "path": "[unknown:/*/shandy_accessories_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shandy_accessories_01.mi].pc_entitytype"
   },
   {
     "hash": "00C90ABF728CC03D",
-    "path": "[unknown:/*/shandy_hair_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/shandy_hair_01.mi].pc_entitytype"
   },
   {
     "hash": "00A150A12EEA78AE",
-    "path": "[unknown:/*/shandy_hoodie_01.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shandy_hoodie_01.mi].pc_entitytype"
   },
   {
     "hash": "002DEC278E5EEECE",
-    "path": "[unknown:/*/shandy_pants_01.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/shandy_pants_01.mi].pc_entitytype"
   },
   {
     "hash": "006E0E0171D94716",
-    "path": "[unknown:/*/shirt_btnup_denim.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shirt_btnup_denim.mi].pc_entitytype"
   },
   {
     "hash": "003AC26DFD783451",
-    "path": "[unknown:/*/shirt_btnup_worker_halfopen.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shirt_btnup_worker_halfopen.mi].pc_entitytype"
   },
   {
     "hash": "0096F459062A9E87",
-    "path": "[unknown:/*/shirt_dabbawala.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shirt_dabbawala.mi].pc_entitytype"
   },
   {
     "hash": "0060585313EDA3C2",
-    "path": "[unknown:/*/shirt_decal.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shirt_decal.mi].pc_entitytype"
   },
   {
     "hash": "006A8B5E5A295882",
-    "path": "[unknown:/*/shirt_kandura_shirtcuffs.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/shirt_kandura_shirtcuffs.mi].pc_entitytype"
   },
   {
     "hash": "00B74939E98F09AA",
-    "path": "[unknown:/*/shirt_kurta_long_sash.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shirt_kurta_long_sash.mi].pc_entitytype"
   },
   {
     "hash": "0039FACC9BA6D577",
-    "path": "[unknown:/*/shirt_military.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shirt_military.mi].pc_entitytype"
   },
   {
     "hash": "00AC3815EE21FBE1",
-    "path": "[unknown:/*/shirt_pajamas.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/shirt_pajamas.mi].pc_entitytype"
   },
   {
     "hash": "006B02F5EDB4F9E3",
-    "path": "[unknown:/*/shoes_bunnyslippers.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shoes_bunnyslippers.mi].pc_entitytype"
   },
   {
     "hash": "00750074EACAD6A3",
-    "path": "[unknown:/*/shoes_slipon_flower.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/shoes_slipon_flower.mi].pc_entitytype"
   },
   {
     "hash": "00CB7686A4635AC4",
@@ -3516,38 +4120,45 @@
   },
   {
     "hash": "00C47FABBCB46DD9",
-    "path": "[unknown:/*/snakebite_hair_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/snakebite_hair_01.mi].pc_entitytype"
   },
   {
     "hash": "00118851F3417C64",
-    "path": "[unknown:/*/stockingsandgloves_burial.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/stockingsandgloves_burial.mi].pc_entitytype"
   },
   {
     "hash": "001C9A54381CC825",
-    "path": "[unknown:/*/stone_boots.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/stone_boots.mi].pc_entitytype"
   },
   {
     "hash": "002EA59D817F999E",
-    "path": "[unknown:/*/stone_gloves.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/stone_gloves.mi].pc_entitytype"
   },
   {
     "hash": "00632E5CF9695003",
-    "path": "[unknown:/*/stone_head.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/stone_head.mi].pc_entitytype"
   },
   {
     "hash": "00D1DD9F0434EFB1",
-    "path": "[unknown:/*/stone_turtleneck.mi].pc_entitytype",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/*/stone_turtleneck.mi].pc_entitytype"
   },
   {
     "hash": "00F8A1276963070B",
-    "path": "[unknown:/*/stone_watch.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/stone_watch.mi].pc_entitytype"
   },
   {
     "hash": "0046FA12E524BCA5",
@@ -3566,43 +4177,51 @@
   },
   {
     "hash": "0031C2E3B5968793",
-    "path": "[unknown:/*/sweater_commando.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/sweater_commando.mi].pc_entitytype"
   },
   {
     "hash": "0084D9EE31681316",
-    "path": "[unknown:/*/sweater_fleece_nosleeves_open.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/sweater_fleece_nosleeves_open.mi].pc_entitytype"
   },
   {
     "hash": "00F758A2575BF8E9",
-    "path": "[unknown:/*/tanktop_oversized_wideshldr.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/tanktop_oversized_wideshldr.mi].pc_entitytype"
   },
   {
     "hash": "005C442A233B3EBA",
-    "path": "[unknown:/*/top_princess_tkdh.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/top_princess_tkdh.mi].pc_entitytype"
   },
   {
     "hash": "0011E3FDDBB55B10",
-    "path": "[unknown:/*/towel_fur.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/towel_fur.mi].pc_entitytype"
   },
   {
     "hash": "00E707BA75E50804",
-    "path": "[unknown:/*/tracksuit_jacket_closed.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/tracksuit_jacket_closed.mi].pc_entitytype"
   },
   {
     "hash": "00EF834E3C20C807",
-    "path": "[unknown:/*/tracksuit_pants.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/tracksuit_pants.mi].pc_entitytype"
   },
   {
     "hash": "00FAFDE77E19686D",
-    "path": "[unknown:/*/tunic_native.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/tunic_native.mi].pc_entitytype"
   },
   {
     "hash": "00F75488116B1340",
@@ -3611,8 +4230,9 @@
   },
   {
     "hash": "008803746EC15C96",
-    "path": "[unknown:/*/vanya_bracelets.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/vanya_bracelets.mi].pc_entitytype"
   },
   {
     "hash": "00C2C07AB54298A8",
@@ -3621,13 +4241,15 @@
   },
   {
     "hash": "00D2B4C254A45B4F",
-    "path": "[unknown:/*/veil_arkian_anisotropic.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/veil_arkian_anisotropic.mi].pc_entitytype"
   },
   {
     "hash": "0065CDF5E7ADDEE2",
-    "path": "[unknown:/*/waistcoat_3btn_open.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/waistcoat_3btn_open.mi].pc_entitytype"
   },
   {
     "hash": "005A733563A1FB54",
@@ -3656,38 +4278,45 @@
   },
   {
     "hash": "00F0C947A510DD8C",
-    "path": "[unknown:/*/wetsuit.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/wetsuit.mi].pc_entitytype"
   },
   {
     "hash": "0058CAB16A43D1ED",
-    "path": "[unknown:/*/white_russian_hair_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/white_russian_hair_01.mi].pc_entitytype"
   },
   {
     "hash": "00693F5EA9BA1440",
-    "path": "[unknown:/*/white_russian_jacket_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/white_russian_jacket_01.mi].pc_entitytype"
   },
   {
     "hash": "002787FAD6225B55",
-    "path": "[unknown:/*/white_russian_shirt_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/white_russian_shirt_01.mi].pc_entitytype"
   },
   {
     "hash": "00E3B04A00B99FEB",
-    "path": "[unknown:/*/white_russian_trousers_01.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/white_russian_trousers_01.mi].pc_entitytype"
   },
   {
     "hash": "0045F13A3CCD7E24",
-    "path": "[unknown:/*/whiteninja_goggles.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/whiteninja_goggles.mi].pc_entitytype"
   },
   {
     "hash": "00C448432DA6566C",
-    "path": "[unknown:/*/wolverinedreameffect.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/wolverinedreameffect.mi].pc_entitytype"
   },
   {
     "hash": "001D2B21A56C4DC8",
@@ -3746,18 +4375,21 @@
   },
   {
     "hash": "00AB0878E88194A2",
-    "path": "[unknown:/*/wristwear_bracelet_links.mi].pc_entitytype",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/*/wristwear_bracelet_links.mi].pc_entitytype"
   },
   {
     "hash": "000D2A325291A52C",
-    "path": "[unknown:/*/xmas_bauble_a.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/xmas_bauble_a.mi].pc_entitytype"
   },
   {
     "hash": "001B9E938359BF92",
-    "path": "[unknown:/*/xmas_bauble_metal_a.mi].pc_entitytype",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/*/xmas_bauble_metal_a.mi].pc_entitytype"
   },
   {
     "hash": "00BAF5D332707A0F",
@@ -26161,8 +26793,9 @@
   },
   {
     "hash": "002F964E23AAD6BA",
-    "path": "[unknown:/*/male_reg_shoes_sneakers_laces.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_shoes_sneakers_laces.mi].pc_entitytype"
   },
   {
     "hash": "003140AB43BD6C1F",
@@ -26236,8 +26869,9 @@
   },
   {
     "hash": "00B354E58AB5FB7C",
-    "path": "[unknown:/*/agent47_shoulder_bandaid.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_shoulder_bandaid.mi].pc_entitytype"
   },
   {
     "hash": "00B86401A2414186",
@@ -26276,8 +26910,9 @@
   },
   {
     "hash": "00F626404B4C1C6D",
-    "path": "[unknown:/*/base_male_jacket_bomber_goldenlux.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/base_male_jacket_bomber_goldenlux.mi].pc_entitytype"
   },
   {
     "hash": "006D6941C905679D",
@@ -26476,8 +27111,9 @@
   },
   {
     "hash": "00BEB22DF9420A34",
-    "path": "[unknown:/*/femreg_head_auntiefarah.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/femreg_head_auntiefarah.mi].pc_entitytype"
   },
   {
     "hash": "00F4549F576A8B4C",
@@ -26561,8 +27197,9 @@
   },
   {
     "hash": "0032D462236854B8",
-    "path": "[unknown:/*/tropical_lva_cordyline_a.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/tropical_lva_cordyline_a.mi].pc_entitytype"
   },
   {
     "hash": "008F8CF02FD3631B",
@@ -26646,8 +27283,9 @@
   },
   {
     "hash": "002284E0FA3F532E",
-    "path": "[unknown:/*/agent47_skunk_tie.mi].pc_entitytype",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_skunk_tie.mi].pc_entitytype"
   },
   {
     "hash": "006F7D062141F50C",

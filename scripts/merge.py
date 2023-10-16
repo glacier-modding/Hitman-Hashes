@@ -20,11 +20,18 @@ for json_file in json_files:
     with open(json_file, "r") as f:
         data = json.load(f)
         for entry in data:
+            if entry.get('path'):
+                path = entry['path']
+            elif entry.get('hint'):
+                path = entry['hint']
+            else:
+                path = ''
+            
             total_hashes += 1
-            calculated_hash = ioi_hash(entry['path'])
+            calculated_hash = ioi_hash(path)
             if calculated_hash == entry['hash']:
                 matching_hashes += 1
-            merged_entry = f"{entry['hash']}.{os.path.basename(json_file).split('.')[0]},{entry['path']}"
+            merged_entry = f"{entry['hash']}.{os.path.basename(json_file).split('.')[0]},{path}"
             merged_data.append(merged_entry)
 
 completion_percentage = (matching_hashes / total_hashes) * 100

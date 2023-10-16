@@ -1301,8 +1301,9 @@
   },
   {
     "hash": "0011AF93CDB56D8B",
-    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_haggard_tired_sick.asva].pc_asva",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_haggard_tired_sick.asva].pc_asva"
   },
   {
     "hash": "001FF2ACC41CB876",
@@ -1316,28 +1317,33 @@
   },
   {
     "hash": "00504EF977C23543",
-    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_vri_civ_skunk_unique_nolancassidy_m_fast.asva].pc_asva",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_vri_civ_skunk_unique_nolancassidy_m_fast.asva].pc_asva"
   },
   {
     "hash": "005983E66E27E361",
-    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_bodyguard_janus_skunks02.asva].pc_asva",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_bodyguard_janus_skunks02.asva].pc_asva"
   },
   {
     "hash": "006EE4BB3123A4A2",
-    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_carry_brickmine.asva].pc_asva",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_carry_brickmine.asva].pc_asva"
   },
   {
     "hash": "007031BD266C383B",
-    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_skunk_unique_nolancassidy_m.asva].pc_asva",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_skunk_unique_nolancassidy_m.asva].pc_asva"
   },
   {
     "hash": "007923348E99328A",
-    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_vri_s02_civ_setpiece_miami_unique_android_act_stop.asva].pc_asva",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_vri_s02_civ_setpiece_miami_unique_android_act_stop.asva].pc_asva"
   },
   {
     "hash": "008323730E926704",
@@ -1346,8 +1352,9 @@
   },
   {
     "hash": "0094AD062CDBCCB2",
-    "path": "[unknown:/animations/animationdatabases/actor_reactions.aset?/unknown_animset_civ_haggard_tired.asva].pc_asva",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/animations/animationdatabases/actor_reactions.aset?/unknown_animset_civ_haggard_tired.asva].pc_asva"
   },
   {
     "hash": "009B8579AD495FB4",
@@ -1356,8 +1363,9 @@
   },
   {
     "hash": "009E559FF419F65C",
-    "path": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_haggard_tired.asva].pc_asva",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/animations/animationdatabases/hm5_animations.aset?/unknown_animset_civ_haggard_tired.asva].pc_asva"
   },
   {
     "hash": "00B4EFA6A46A3C4C",
@@ -1366,8 +1374,9 @@
   },
   {
     "hash": "00E4876FAC7AAFD0",
-    "path": "[unknown:/animations/animationdatabases/actor_reactions.aset?/unknown_animset_civ_carry_brickmine.asva].pc_asva",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/animations/animationdatabases/actor_reactions.aset?/unknown_animset_civ_carry_brickmine.asva].pc_asva"
   },
   {
     "hash": "00F27E5BDC342FA4",

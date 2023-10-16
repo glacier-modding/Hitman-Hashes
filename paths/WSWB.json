@@ -96,38 +96,45 @@
   },
   {
     "hash": "00030F2B7C73DA33",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_ambientstate.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_ambientstate.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00D0A82DA0B889D3",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_gender_switch.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_gender_switch.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00A26950F407A33A",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_language.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_language.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "0024596D1C275DE3",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_rectake.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_rectake.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00E506DBB280035F",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "006B1B884384DE78",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state_v2.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state_v2.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00647EF4DAEF9E32",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowdgroup_size.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 12
+    "path": "",
+    "gameFlags": 12,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowdgroup_size.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00905316DF2B5CBA",
@@ -161,8 +168,9 @@
   },
   {
     "hash": "00E4F3D3CA22B7A7",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/fibrewire_material.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 8
+    "path": "",
+    "gameFlags": 8,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/fibrewire_material.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "005A5C9E372948AB",
@@ -171,13 +179,15 @@
   },
   {
     "hash": "00A1A7E3371930F1",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_key.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_key.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00FE18E7E49E4225",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_play_variation.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_play_variation.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00FF7D50DEC8718E",
@@ -186,23 +196,27 @@
   },
   {
     "hash": "00A462BC397EA2AE",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musicrecording.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musicrecording.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00740785DABA33E6",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musictrack.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musictrack.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "0022F2B894BA83F5",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/snipermap_escapecut.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 44
+    "path": "",
+    "gameFlags": 44,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/snipermap_escapecut.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "000678694BF37C32",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/switch_band_music.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 14
+    "path": "",
+    "gameFlags": 14,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/switch_band_music.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "0016D9B2B15532F1",
@@ -211,8 +225,9 @@
   },
   {
     "hash": "00CDCD5B35D361CA",
-    "path": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/test_buttonhold_styles.wwiseswitchgroup].pc_entityblueprint",
-    "gameFlags": 46
+    "path": "",
+    "gameFlags": 46,
+    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/test_buttonhold_styles.wwiseswitchgroup].pc_entityblueprint"
   },
   {
     "hash": "00F1CDEE973E0986",
