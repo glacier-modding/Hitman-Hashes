@@ -59,7 +59,7 @@ jobs:
       - name: Commit STATISTICS.md and README.md
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Update STATISTICS.md and README.md'
+          commit_message: 'Update statistics'
           file_pattern: '*.md'
 
   release:
