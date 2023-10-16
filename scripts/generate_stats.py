@@ -16,36 +16,42 @@ def generate_statistics_table():
             data = json.load(f)
             total_resources = len(data)
             correct_paths = sum(1 for entry in data if entry['hash'] == ioi_hash(entry['path']))
-
+            hints = sum(1 for entry in data if entry.get('hint') and entry['hint'] != "")
             if file_type in statistics:
                 total_resources += statistics[file_type]['total_resources']
                 correct_paths += statistics[file_type]['correct_paths']
-
+                hints += statistics[file_type]['hints']
             statistics[file_type] = {
                 'total_resources': total_resources,
                 'correct_paths': correct_paths,
-                'correct_percentage': (correct_paths / total_resources) * 100
+                'correct_percentage': (correct_paths / total_resources) * 100,
+                'hints': hints,
+                'hint_percentage': (hints / total_resources) * 100
             }
 
     value_matrix = []
     for file_type, stats in statistics.items():
         row = [
-            file_type, 
-            stats['total_resources'], 
-            stats['correct_paths'], 
-            f"{stats['correct_percentage']:.2f}%"
+            file_type,
+            stats['total_resources'],
+            stats['correct_paths'],
+            f"{stats['correct_percentage']:.2f}%",
+            stats['hints'],
+            f"{stats['hint_percentage']:.2f}%"
         ]
         value_matrix.append(row)
 
     writer = MarkdownTableWriter(
         table_name = "Statistics",
-        headers = ["File Type", "Total Resources", "Correct Paths", "Correct Percentage"],
+        headers = ["File Type", "Total Resources", "Correct Paths", "Correct Percentage", "Hints", "Hint Percentage"],
         value_matrix=value_matrix,
         column_styles = [
             Style(align="left"),
             Style(align="left"),
             Style(align="left"),
             Style(align="left"),
+            Style(align="left"),
+            Style(align="left")
         ]
     )
 
