@@ -1,6 +1,6 @@
 # Hitman-Hashes
 <!-- TOTAL_COMPLETION_BADGE_START -->
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.93%-red)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.93%-red.svg)
 <!-- TOTAL_COMPLETION_BADGE_END -->
 ## Statistics
 See [STATISTICS.md](STATISTICS.md).
