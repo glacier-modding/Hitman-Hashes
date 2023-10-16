@@ -13,7 +13,7 @@ def update_json(hash_val, path_val, hash_type):
 
         for entry in data:
             if entry["hash"] == hash_val:
-                entry["path"] = path_val
+                entry["path"] = path_val.lower()
                 break
         else:
             return
