@@ -59,7 +59,7 @@ def generate_statistics_table():
         value_matrix.append(row)
 
     writer = MarkdownTableWriter(
-        table_name = "Statistics",
+        # table_name = "Statistics",
         headers = ["File Type", "Total Resources", "Correct Paths", "Correct Percentage", "Hints", "Hint Percentage"],
         value_matrix=value_matrix,
         column_styles = [
@@ -80,8 +80,26 @@ def generate_statistics_table():
 
 statistics_table, completion_badge_url = generate_statistics_table()
 
-with open("STATISTICS.md", "w", newline='\n') as f:
-    f.write(statistics_table)
+# with open("STATISTICS.md", "w", newline='\n') as f:
+#     f.write(statistics_table)
+
+def add_statistics_table_to_readme(statistics_table):
+    start_marker = "<!-- STATISTICS_TABLE_START -->"
+    end_marker = "<!-- STATISTICS_TABLE_END -->"
+
+    with open("README.md", "r") as f:
+        content = f.read()
+
+    start_index = content.find(start_marker)
+    end_index = content.find(end_marker)
+
+    if start_index != -1 and end_index != -1:
+        before_table = content[:start_index + len(start_marker)]
+        after_table = content[end_index:]
+        content = before_table + "\n" + statistics_table + after_table
+
+    with open("README.md", "w") as f:
+        f.write(content)
 
 badge_md = f"![Completion Badge]({completion_badge_url})"
 
@@ -102,5 +120,7 @@ def add_badge_to_readme(badge_md):
 
     with open("README.md", "w") as f:
         f.write(content)
+
+add_statistics_table_to_readme(statistics_table)
 
 add_badge_to_readme(badge_md)
