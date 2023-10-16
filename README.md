@@ -1,6 +1,6 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-1551972-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,551,972-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.93%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics

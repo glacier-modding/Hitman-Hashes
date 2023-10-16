@@ -74,7 +74,7 @@ def generate_statistics_table():
     total_completion_percentage = (total_correct_all / total_resources_all) * 100
     colour = total_completion_colour(total_completion_percentage)
     completion_badge_url = generate_badge_url("Total Completion", f"{total_completion_percentage:.2f}%25", colour)
-    resources_badges_url = generate_badge_url("Total Resources", total_resources_all, "blue")
+    resources_badges_url = generate_badge_url("Total Resources", f"{total_resources_all:,}", "blue")
 
     return writer.dumps(), completion_badge_url, resources_badges_url
 
