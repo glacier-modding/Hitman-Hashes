@@ -98,10 +98,7 @@ def add_statistics_table_to_readme(statistics_table):
     with open("README.md", "w") as f:
         f.write(content)
 
-
-add_statistics_table_to_readme(statistics_table)
-
-def add_badge_to_readme(badge_md):
+def add_badges_to_readme():
     start_marker = "<!-- BADGES_START -->"
     end_marker = "<!-- BADGES_END -->"
 
@@ -126,4 +123,5 @@ badges_md = [
     f"![Completion Badge]({completion_badge_url})"
 ]
 
-add_badge_to_readme(badges_md)
+add_badges_to_readme()
+add_statistics_table_to_readme(statistics_table)
