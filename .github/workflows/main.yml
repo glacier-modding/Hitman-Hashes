@@ -39,7 +39,6 @@ jobs:
 
   update_statistics:
     name: Update statistics
-    needs: generate_hash_list
     runs-on: ubuntu-latest
     if: "!startsWith(github.ref, 'refs/tags/v')"
 
