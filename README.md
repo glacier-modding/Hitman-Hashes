@@ -92,10 +92,10 @@
 This repository contains three main scripts merge.py, add_paths.py and add_new_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
 
 ### merge.py
-Generates the hash_list.txt. Takes a version number as an argument.
+Generates hash_list.txt. Takes a version number as an argument. Example: `python ./scripts/merge.py 0`
 
 ### add_paths.py
-Adds paths to their assoicated hashes within the path's JSON files.
+Adds paths to their assoicated hashes within the path folder's JSON files.
 
 Requires a `new_paths.txt` file in the repository's root directory which contains data structured like:
 
