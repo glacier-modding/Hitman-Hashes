@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,551,972-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.93%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.94%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <!-- STATISTICS_TABLE_START -->
@@ -38,7 +38,7 @@
 |GIDX     |1              |1            |100.00%           |0     |0.00%          |
 |HIKC     |2              |2            |100.00%           |0     |0.00%          |
 |JSON     |3117           |1466         |47.03%            |1358  |43.57%         |
-|LINE     |32101          |25341        |78.94%            |11    |0.03%          |
+|LINE     |32101          |25359        |79.00%            |11    |0.03%          |
 |LOCM     |16             |14           |87.50%            |0     |0.00%          |
 |LOCR     |9627           |5389         |55.98%            |175   |1.82%          |
 |MATB     |5439           |4791         |88.09%            |638   |11.73%         |
