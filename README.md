@@ -8,6 +8,7 @@
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.02%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-49.96%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-64.39%25-red.svg)
+![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-67.31%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <!-- STATISTICS_TABLE_START -->
