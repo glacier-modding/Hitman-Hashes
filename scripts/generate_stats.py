@@ -83,7 +83,7 @@ def generate_statistics_table():
     colour = total_completion_colour(total_completion_percentage)
     completion_badge_url = generate_badge_url("Total Completion", f"{total_completion_percentage:.2f}%25", colour)
     resources_badge_url = generate_badge_url("Total Resources", f"{total_resources_all:,}", "blue")
-    formats_badge_url = generate_badge_url("Formats completed", f"{total_format_completion_amount} /{len(statistics)}", "blue")
+    formats_badge_url = generate_badge_url("Formats completed", f"{total_format_completion_amount}/{len(statistics)}", "blue")
 
     game_badge_urls = {}
     for game, stats in game_statistics.items():
