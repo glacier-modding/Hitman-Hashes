@@ -4,29 +4,24 @@ from common_functions import *
 
 output_directory = "paths"
 
-def update_json(hash_val, path_val, hash_type):
-    json_filename = os.path.join(output_directory, f"{hash_type}.json")
-    
-    if os.path.exists(json_filename):
-        with open(json_filename, 'r') as f:
-            data = json.load(f)
+def update_data(data, hash_val, path_val):
+    for entry in data.values():
+        if entry["hash"] == hash_val:
+            if ioi_hash(path_val) == hash_val:
+                entry["path"] = path_val.lower()
+                entry.pop("hint", None)
+            else:
+                if "path" in entry and entry["path"] != "":
+                    print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val.lower()}.")
+                    continue
+                entry["hint"] = path_val.lower()
+            break
 
-        for entry in data:
-            if entry["hash"] == hash_val:
-                if ioi_hash(path_val) == hash_val:
-                    entry["path"] = path_val.lower()
-                    entry.pop("hint", None)
-                else:
-                    if "path" in entry and entry["path"] != "":
-                        print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val.lower()}.")
-                        continue
-                    entry["hint"] = path_val.lower()
-                break
-
-        with open(json_filename, 'w', newline='\n') as f:
-            json.dump(data, f, indent=2)
-    else:
-        return
+all_data = {}
+for file_name in os.listdir(output_directory):
+    if file_name.endswith(".json"):
+        hash_type = file_name.split('.')[0]
+        all_data[hash_type] = read_json_file(os.path.join(output_directory, file_name))
 
 with open("new_paths.txt", 'r') as f:
     for line in f:
@@ -35,7 +30,10 @@ with open("new_paths.txt", 'r') as f:
         
         hash_val, hash_type = infer_type(hash_with_type)
         
-        if hash_type:
-            update_json(hash_val, path, hash_type)
+        if hash_type and hash_type in all_data:
+            update_data(all_data[hash_type], hash_val, path)
+
+for hash_type, data in all_data.items():
+    write_json_file(os.path.join(output_directory, f"{hash_type}.json"), data)
 
 print("Paths added successfully!")

@@ -1,3 +1,5 @@
+import os
+import json
 import hashlib
 
 GAME_FLAGS = {
@@ -20,3 +22,14 @@ def infer_type(hash_with_type):
     if len(parts) == 2:
         return parts[0], parts[1]
     return parts[0], None
+
+def read_json_file(filename):
+    if os.path.exists(filename):
+        with open(filename, 'r') as f:
+            entries = json.load(f)
+            return {entry["hash"]: entry for entry in entries}
+    return {}
+
+def write_json_file(filename, data):
+    with open(filename, 'w', newline='\n') as f:
+        json.dump(list(data.values()), f, indent=2)

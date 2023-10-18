@@ -9,17 +9,6 @@ def update_data(data, hash_val, game_flags):
         data[hash_val] = {"hash": hash_val, "path": "", "gameFlags": 0}
     data[hash_val]["gameFlags"] |= game_flags
 
-def read_json_file(filename):
-    if os.path.exists(filename):
-        with open(filename, 'r') as f:
-            entries = json.load(f)
-            return {entry["hash"]: entry for entry in entries}
-    return {}
-
-def write_json_file(filename, data):
-    with open(filename, 'w', newline='\n') as f:
-        json.dump(list(data.values()), f, indent=2)
-
 all_data = {}
 for file_name in os.listdir(output_directory):
     if file_name.endswith(".json"):
