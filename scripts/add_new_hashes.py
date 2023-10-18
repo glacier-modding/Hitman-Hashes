@@ -18,7 +18,7 @@ def update_json(hash_val, hash_type, game_flags_str):
 
         for entry in data:
             if entry["hash"] == hash_val:
-                entry["gameFlags"] = game_flags
+                entry["gameFlags"] |= game_flags
                 break
         else:
             data.append({
