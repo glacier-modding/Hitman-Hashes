@@ -4317,7 +4317,7 @@
   {
     "hash": "00705EA83679EA75",
     "path": "[assembly:/_pro/characters/assets/individuals/italy/dinobrosco/geometry/male_reg_dinobrosco.wl2?/full_character.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "007479B9E5BC49F5",
@@ -25092,7 +25092,7 @@
   {
     "hash": "009C0275A34A279E",
     "path": "",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "009C0E7935425E1B",

@@ -68,7 +68,7 @@
   {
     "hash": "0077E642762D201C",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 64,
     "hint": "briefing_bronx"
   },
   {
@@ -482,7 +482,7 @@
   {
     "hash": "006925AD50886E7E",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 64,
     "hint": "briefing_snakebite"
   },
   {
@@ -506,7 +506,7 @@
   {
     "hash": "004E240CB0529FF2",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 64,
     "hint": "briefing_tamagozake"
   },
   {
@@ -518,7 +518,7 @@
   {
     "hash": "00A0042220AEDE8B",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 64,
     "hint": "briefing_thelastword"
   },
   {
@@ -572,13 +572,13 @@
   {
     "hash": "00DC828BEA96A73D",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 64,
     "hint": "debriefing_flamingo_e3_2018"
   },
   {
     "hash": "005BA1376856AF29",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 64,
     "hint": "debriefing_flamingo_gamescom_2018"
   },
   {
@@ -728,7 +728,7 @@
   {
     "hash": "006985F909E241CE",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 64,
     "hint": "previously_on_season1"
   },
   {

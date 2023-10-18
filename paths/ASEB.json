@@ -942,7 +942,7 @@
   {
     "hash": "009C6E54611FC845",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/smoke/fx_steam.template?/fx_e_steam_00.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00795C7B59F93B18",

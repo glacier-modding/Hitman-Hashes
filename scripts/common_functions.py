@@ -6,7 +6,8 @@ GAME_FLAGS = {
     "h2": 0b000100,
     "h3": 0b001000,
     "beta": 0b010000,
-    "sa": 0b100000
+    "sa": 0b100000,
+    "unknown": 0b1000000
 }
 
 def ioi_hash(string):

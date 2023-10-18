@@ -6238,12 +6238,12 @@
   {
     "hash": "00C0FE779E735E0B",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/hub/dashboard/data/data_fsp_issmoothsnakefree.json].pc_json",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "006043E3291A16C9",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/hub/dashboard/data/data_fsp_smoothsnake.json].pc_json",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "0002815604501F1D",

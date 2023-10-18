@@ -8142,7 +8142,7 @@
   {
     "hash": "0052AC79A05B303D",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/profile_challenges/featured_contract_hmn_9.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "0017E7F69D0FEF31",
@@ -10847,12 +10847,12 @@
   {
     "hash": "006DFDDD524136E2",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_edgy_smilax_reward_items.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00235AEA94DFA979",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_edgy_smilax_weaponcondition.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "005953E48112A8BF",
@@ -10957,17 +10957,17 @@
   {
     "hash": "007469B7937080A5",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_elegant_lupina.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "0014548867929DEF",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_elegant_lupina_3targets.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00A70825BB2764C8",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_elegant_lupina_5targets.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "006F5AE37B141F0D",
@@ -11097,7 +11097,7 @@
   {
     "hash": "00AB1FFA28D5A9AF",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_golden_sins_testing.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00FF5ADE97FF0B67",
@@ -11437,72 +11437,72 @@
   {
     "hash": "003828D505F764E2",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00685EA4AEBB2497",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintartwoman.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00C7C072C0C3B1EF",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintbacklobby.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00720853CD8DEB37",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintbathroomguard.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "0060C8D4357AECDC",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintblackgoldbar.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00EBF5A242A81B43",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintguard.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "001EC602BC3A9C7C",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintpickupglasstable.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00C29ABBE7CC692E",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintpickupkitchen.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00E70AE750E7FC22",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintpickupplywood.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "0001490981CE18D5",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintpickupsecurity.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00272A94DDD8FAEE",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintpickupserver.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "000DAA2C87F09849",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintpilot.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00AB8C4B16B670CF",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintreceptionist.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00B27587FCF6E049",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_sinstest_hintservant.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "002CD1A657FC7DDC",
@@ -12092,7 +12092,7 @@
   {
     "hash": "006F8F601BBD274C",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_shacknews.jpg].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00B3C91950A4E49F",
@@ -14682,7 +14682,7 @@
   {
     "hash": "00462E1AEA0B8FF7",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/dlc/dlc_deadlysins_pack_01_wide_logo.png].pc_gfx",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "0025FFAE4B988496",

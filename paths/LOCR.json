@@ -20767,12 +20767,12 @@
   {
     "hash": "001C966A8840A1A6",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/evergreen/evergreen_gameflow.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00DE238B16F5C3BC",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/evergreen/evergreen_setpieces.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00C4CE79FE5D5C0E",
@@ -20922,7 +20922,7 @@
   {
     "hash": "00BE80ACACC49943",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_s2_outbreak.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "008F3C517DB2A6AF",
@@ -22929,7 +22929,7 @@
   {
     "hash": "00476CABABC5D3A4",
     "path": "",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00477481EF26CA36",

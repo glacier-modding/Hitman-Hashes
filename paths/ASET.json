@@ -1317,7 +1317,7 @@
   {
     "hash": "00847B1845918D24",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/smoke/fx_steam.template?/fx_e_steam_00.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "000DF6069776AF7B",
@@ -23337,7 +23337,7 @@
   {
     "hash": "00F9502341B9EA71",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/gadget/bear_flash_device_a.wl2?/bear_flash_device_a.prim].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "009B16D71F7E983C",

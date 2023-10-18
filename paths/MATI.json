@@ -19844,12 +19844,12 @@
   {
     "hash": "00E74250DE8BFDAE",
     "path": "[assembly:/_pro/characters/assets/workers/hokkaido/morguedoctor/material/male_reg_morguedoctor_visor.mi].pc_mi",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00A9996FE6DAF38C",
     "path": "[assembly:/_pro/characters/assets/workers/hokkaido/morguedoctor/material/male_reg_morguedoctor_visor_glass.mi].pc_mi",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "00F34807E20538CC",
@@ -34369,7 +34369,7 @@
   {
     "hash": "004C8CBCBBD01321",
     "path": "[assembly:/_pro/environment/materials/foliage/acacia_10m_a_billboard.mi].pc_mi",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "0071C1F65B6A63A3",
@@ -91779,7 +91779,7 @@
   {
     "hash": "00D966B105063F17",
     "path": "",
-    "gameFlags": 0
+    "gameFlags": 64
   },
   {
     "hash": "009B3C653579814A",
