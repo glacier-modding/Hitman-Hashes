@@ -2,6 +2,12 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,551,972-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.94%25-red.svg)
+![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.69%25-red.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-71.97%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.02%25-yellow.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-49.96%25-red.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-64.39%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
 <!-- STATISTICS_TABLE_START -->
