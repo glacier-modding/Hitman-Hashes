@@ -4,15 +4,6 @@ from common_functions import *
 
 output_directory = "paths"
 
-GAME_FLAGS = {
-    "alpha": 0b000001,
-    "h1": 0b000010,
-    "h2": 0b000100,
-    "h3": 0b001000,
-    "beta": 0b010000,
-    "sa": 0b100000
-}
-
 def update_json(hash_val, hash_type, game_flags_str):
     game_flags = 0
     for flag_str in game_flags_str:
