@@ -9,6 +9,9 @@ parser.add_argument('--game', choices=GAME_FLAGS.keys(), nargs='*', help="Game t
 parser.add_argument('--output', type=str, default="hash_list.txt", help="Output folder and/or name. Defaults to hash_list.txt.")
 args = parser.parse_args()
 
+if not args.game:
+    args.game = list(GAME_FLAGS.keys())
+
 if args.output:
     if args.output.endswith(os.sep) or (os.path.isdir(args.output) if os.path.exists(args.output) else args.output.endswith("/") or args.output.endswith("\\")):
         args.output = os.path.join(args.output, "hash_list.txt")
