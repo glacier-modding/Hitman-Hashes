@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,551,972-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-70.00%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-17 /69-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.69%25-red.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-71.97%25-yellow.svg)
