@@ -1822,7 +1822,7 @@
   {
     "hash": "00155558EB4B9944",
     "path": "[assembly:/_pro/characters/assets/guards/cicada_lab_guard/geometry/male_reg_lab_guard_01.wl2?/shoes.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 11
   },
   {
     "hash": "006389F82E4FAED6",
@@ -1842,7 +1842,7 @@
   {
     "hash": "00B8A5E8649D1690",
     "path": "[assembly:/_pro/characters/assets/guards/cicada_lab_guard/geometry/male_reg_lab_guard_02.wl2?/pants.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "00075DE2FEFF87D0",
@@ -8542,7 +8542,7 @@
   {
     "hash": "007E741315E1000B",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_ceramic_marrakesh_f.wl2?/vase_ceramic_marrakesh_f_00.linkedprim].pc_bonerig",
-    "gameFlags": 4
+    "gameFlags": 12
   },
   {
     "hash": "0061ADA861E5E186",
@@ -12732,7 +12732,7 @@
   {
     "hash": "000572038A646E5C",
     "path": "",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "0005771241E12701",
@@ -12797,7 +12797,7 @@
   {
     "hash": "00065F392C2D5F90",
     "path": "",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "00067AEC58DD9810",
@@ -16367,7 +16367,7 @@
   {
     "hash": "003508A71DA6227C",
     "path": "",
-    "gameFlags": 4
+    "gameFlags": 12
   },
   {
     "hash": "0035194FDCFD7312",
@@ -19047,7 +19047,7 @@
   {
     "hash": "00556761CC301BB7",
     "path": "",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "00556D77B9B3E8F5",
@@ -19907,7 +19907,7 @@
   {
     "hash": "005E9BEC89A982F0",
     "path": "",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "005EB141C38E0813",
@@ -24162,7 +24162,7 @@
   {
     "hash": "0092804E9CFF6810",
     "path": "",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "00929D21ACD3FE14",
@@ -27277,7 +27277,7 @@
   {
     "hash": "00B4969C928C9BFF",
     "path": "",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "00B49C048EA9D1D9",
@@ -29787,7 +29787,7 @@
   {
     "hash": "00D14A6276A8182F",
     "path": "",
-    "gameFlags": 32
+    "gameFlags": 40
   },
   {
     "hash": "00D1554718DC3ACB",

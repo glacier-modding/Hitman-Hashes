@@ -5384,7 +5384,7 @@
   {
     "hash": "00CD85B3C124B649",
     "path": "[assembly:/_pro/characters/assets/_genericparts/heads/male/materials/male_reg_hair_02.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 11
   },
   {
     "hash": "00F588517AC58F09",
@@ -6144,7 +6144,7 @@
   {
     "hash": "00917E913C6A7F7F",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/materials/male_globalsecurity_01_poloshirt_01.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 11
   },
   {
     "hash": "003C1455F8512D5C",

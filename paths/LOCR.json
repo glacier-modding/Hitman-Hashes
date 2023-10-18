@@ -20797,37 +20797,37 @@
   {
     "hash": "001F0B9CE49EF0BF",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_gameflow.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "001758B3553E60BF",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_hud_messages.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "004F13495913454C",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_identifiers.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "003B21FE8053889D",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_maplegends.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "0031D320C0F9FF08",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_menutext.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "00B7482C2C0EF59D",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_safehouse.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "00749106596AFD39",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_setpieces.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "00F5817876E691F1",
@@ -21577,7 +21577,7 @@
   {
     "hash": "002FE934E2373C10",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_rocky.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 0
+    "gameFlags": 8
   },
   {
     "hash": "0022B34B96CD9DB4",

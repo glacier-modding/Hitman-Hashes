@@ -8362,7 +8362,7 @@
   {
     "hash": "00F1C6AFBFDD56F8",
     "path": "[modules:/zhm5valueentity_scolorrgb.class].pc_entityblueprint",
-    "gameFlags": 2
+    "gameFlags": 10
   },
   {
     "hash": "004229DDD6299699",
@@ -10347,7 +10347,7 @@
   {
     "hash": "00C5D0F43719EC55",
     "path": "[modules:/zrenderuientity.class].pc_entityblueprint",
-    "gameFlags": 18
+    "gameFlags": 26
   },
   {
     "hash": "0061D1DD25662488",
@@ -10372,7 +10372,7 @@
   {
     "hash": "005DD5395A3CF046",
     "path": "[modules:/zrepositorykeyentity.class].pc_entityblueprint",
-    "gameFlags": 32
+    "gameFlags": 40
   },
   {
     "hash": "0076CC902CED4EFC",

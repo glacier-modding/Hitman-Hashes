@@ -1242,7 +1242,7 @@
   {
     "hash": "00C0FAC2CFCF7678",
     "path": "[assembly:/_pro/_test/tracyh/geometry/mockup_walls.wl2?/mockup_floor_5mx5m_a.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 9
   },
   {
     "hash": "005665AC95F4CED9",
@@ -1282,7 +1282,7 @@
   {
     "hash": "006BDB9279ED93A2",
     "path": "[assembly:/_pro/_test/tracyh/geometry/mockup_walls.wl2?/mockup_wall_1m_a.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 9
   },
   {
     "hash": "0031B250C2C38D9E",
@@ -33432,7 +33432,7 @@
   {
     "hash": "008DC991712C1DC6",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_ceramic_marrakesh_f.wl2?/vase_ceramic_marrakesh_f_00.linkedprim].pc_coll",
-    "gameFlags": 4
+    "gameFlags": 12
   },
   {
     "hash": "00A9EA8E0F35BF6D",

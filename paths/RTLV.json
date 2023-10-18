@@ -38,7 +38,7 @@
   {
     "hash": "0033E85198BA6955",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 8,
     "hint": "briefing_blackrussian"
   },
   {
@@ -50,7 +50,7 @@
   {
     "hash": "00A7DC7636F8B2ED",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 8,
     "hint": "briefing_blueblazer"
   },
   {
@@ -194,13 +194,13 @@
   {
     "hash": "00DECCC7EAD23366",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 8,
     "hint": "briefing_gimlet"
   },
   {
     "hash": "0061D375DD518389",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 8,
     "hint": "briefing_ginfizz"
   },
   {
@@ -320,7 +320,7 @@
   {
     "hash": "007F018276F608C9",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 8,
     "hint": "briefing_mimosa"
   },
   {
@@ -446,7 +446,7 @@
   {
     "hash": "00F88A95C364EC75",
     "path": "",
-    "gameFlags": 0,
+    "gameFlags": 8,
     "hint": "briefing_seabreeze"
   },
   {

@@ -6103,7 +6103,7 @@
   {
     "hash": "00A4270AAD80BE8D",
     "path": "",
-    "gameFlags": 2,
+    "gameFlags": 10,
     "hint": "[unknown:/*/male_reg_mimosa_01_shirt_01.mi].pc_mi"
   },
   {
@@ -6115,7 +6115,7 @@
   {
     "hash": "00FA717F776F5ABD",
     "path": "",
-    "gameFlags": 2,
+    "gameFlags": 10,
     "hint": "[unknown:/*/male_reg_mimosa_01_tie_01.mi].pc_mi"
   },
   {
@@ -12079,7 +12079,7 @@
   {
     "hash": "00706A331C774698",
     "path": "[assembly:/_pro/characters/assets/_genericparts/heads/male/materials/male_reg_hair_02.mi].pc_mi",
-    "gameFlags": 19
+    "gameFlags": 27
   },
   {
     "hash": "00C989786B52DBCB",
@@ -14284,7 +14284,7 @@
   {
     "hash": "00D79F7A9019B3CC",
     "path": "[assembly:/_pro/characters/assets/guards/cicada_lab_guard/materials/male_reg_lab_guard_01_boots_01.mi].pc_mi",
-    "gameFlags": 3
+    "gameFlags": 11
   },
   {
     "hash": "004EF158ADB053F5",
@@ -36489,7 +36489,7 @@
   {
     "hash": "00F683BD36C2E821",
     "path": "[assembly:/_pro/environment/materials/foliage/tropical_jungle_tree_leaves_a.mi].pc_mi",
-    "gameFlags": 4
+    "gameFlags": 12
   },
   {
     "hash": "00BF780DB57C38BC",
@@ -89489,7 +89489,7 @@
   {
     "hash": "00C85381A0BCD391",
     "path": "[assembly:/materials/_placeholder/placeholder.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 9
   },
   {
     "hash": "0057185B601268FB",
