@@ -99,7 +99,7 @@
 This repository contains three main scripts merge.py, add_paths.py and add_new_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
 
 ### merge.py
-Generates hash_list.txt. Takes a version number as an argument. Example: `python ./scripts/merge.py 0`
+Generates hash_list.txt. Takes a version number as an argument and optionally `--game` (separate games by spaces if you wish to include multiple). Example: `python ./scripts/merge.py 0` or `python ./scripts/merge.py 0 --game h1 h2`
 
 ### add_paths.py
 Adds paths to their assoicated hashes within the path folder's JSON files.
