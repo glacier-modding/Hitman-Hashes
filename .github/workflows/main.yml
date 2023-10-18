@@ -11,6 +11,9 @@ jobs:
   generate_hash_list:
     name: Generate hash list
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        game: ['all', 'alpha', 'h1', 'h2', 'h3', 'beta', 'sa']
 
     steps:
       - name: Checkout
@@ -27,14 +30,19 @@ jobs:
           echo $version > version
 
       - name: Run merge.py
-        run: python ./scripts/merge.py ${{ steps.get_version.outputs.version }}
+        run: |
+          if [ "${{ matrix.game }}" == "all" ]; then
+            python ./scripts/merge.py ${{ steps.get_version.outputs.version }} --output hash_list.txt
+          else
+            python ./scripts/merge.py ${{ steps.get_version.outputs.version }} --game ${{ matrix.game }} --output hash_list_${{ matrix.game }}.txt
+          fi
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: artifacts
+          name: ${{ matrix.game == 'all' && 'artifacts' || format('artifacts_{0}', matrix.game) }}
           path: |
-            hash_list.txt
+            ${{ matrix.game == 'all' && 'hash_list.txt' || format('hash_list_{0}.txt', matrix.game) }}
             version
 
   update_statistics:
