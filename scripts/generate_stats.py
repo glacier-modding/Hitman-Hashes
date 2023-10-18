@@ -23,11 +23,18 @@ def generate_statistics_table():
     statistics = {}
     total_resources_all = 0
     total_correct_all = 0
+    game_statistics = {game: {'total_resources': 0, 'correct_paths': 0} for game in GAME_FLAGS}
 
     for json_file in json_files:
         file_type = os.path.basename(json_file).split('.')[0]
         with open(json_file, 'r') as f:
             data = json.load(f)
+            for entry in data:
+                for game, flag in GAME_FLAGS.items():
+                    if entry['gameFlags'] & flag:
+                        game_statistics[game]['total_resources'] += 1
+                        if entry['hash'] == ioi_hash(entry['path']):
+                            game_statistics[game]['correct_paths'] += 1
             total_resources = len(data)
             correct_paths = sum(1 for entry in data if entry['hash'] == ioi_hash(entry['path']))
             hints = sum(1 for entry in data if entry.get('hint') and entry['hint'] != "")
@@ -42,7 +49,7 @@ def generate_statistics_table():
                 'hints': hints,
                 'hint_percentage': (hints / total_resources) * 100
             }
-            
+
             total_resources_all += total_resources
             total_correct_all += correct_paths
 
@@ -74,54 +81,50 @@ def generate_statistics_table():
     total_completion_percentage = (total_correct_all / total_resources_all) * 100
     colour = total_completion_colour(total_completion_percentage)
     completion_badge_url = generate_badge_url("Total Completion", f"{total_completion_percentage:.2f}%25", colour)
-    resources_badges_url = generate_badge_url("Total Resources", f"{total_resources_all:,}", "blue")
+    resources_badge_url = generate_badge_url("Total Resources", f"{total_resources_all:,}", "blue")
 
-    return writer.dumps(), completion_badge_url, resources_badges_url
+    game_badge_urls = {}
+    for game, stats in game_statistics.items():
+        total_game_resources = stats['total_resources']
+        total_game_correct = stats['correct_paths']
+        game_completion_percentage = (total_game_correct / total_game_resources) * 100 if total_game_resources else 0
+        colour = total_completion_colour(game_completion_percentage)
+        game_badge_url = generate_badge_url(f"{game.capitalize()} Completion", f"{game_completion_percentage:.2f}%25", colour)
+        game_badge_urls[game] = game_badge_url
 
-statistics_table, completion_badge_url, resources_badges_url = generate_statistics_table()
+    return writer.dumps(), completion_badge_url, resources_badge_url, game_badge_urls
+
+def add_to_readme(start_marker, end_marker, addition_str):
+    with open("README.md", "r") as f:
+        content = f.read()
+
+    start_index = content.find(start_marker)
+    end_index = content.find(end_marker)
+
+    if start_index != -1 and end_index != -1:
+        before_section = content[:start_index + len(start_marker)]
+        after_section = content[end_index:]
+        content = before_section + "\n" + addition_str + after_section
+
+    with open("README.md", "w", newline="\n") as f:
+        f.write(content)
 
 def add_statistics_table_to_readme(statistics_table):
-    start_marker = "<!-- STATISTICS_TABLE_START -->"
-    end_marker = "<!-- STATISTICS_TABLE_END -->"
+    add_to_readme("<!-- STATISTICS_TABLE_START -->", "<!-- STATISTICS_TABLE_END -->", statistics_table)
 
-    with open("README.md", "r") as f:
-        content = f.read()
+def add_badges_to_readme(badges_md):
+    badges_str = "\n".join(badges_md) + "\n"
+    add_to_readme("<!-- BADGES_START -->", "<!-- BADGES_END -->", badges_str)
 
-    start_index = content.find(start_marker)
-    end_index = content.find(end_marker)
-
-    if start_index != -1 and end_index != -1:
-        before_table = content[:start_index + len(start_marker)]
-        after_table = content[end_index:]
-        content = before_table + "\n" + statistics_table + after_table
-
-    with open("README.md", "w") as f:
-        f.write(content)
-
-def add_badges_to_readme():
-    start_marker = "<!-- BADGES_START -->"
-    end_marker = "<!-- BADGES_END -->"
-
-    with open("README.md", "r") as f:
-        content = f.read()
-
-    start_index = content.find(start_marker)
-    end_index = content.find(end_marker)
-
-    badges_str = "\n".join(badges_md)
-
-    if start_index != -1 and end_index != -1:
-        before_badge = content[:start_index + len(start_marker)]
-        after_badge = content[end_index:]
-        content = before_badge + "\n" + badges_str + "\n" + after_badge
-
-    with open("README.md", "w") as f:
-        f.write(content)
+statistics_table, completion_badge_url, resources_badges_url, game_badge_urls = generate_statistics_table()
 
 badges_md = [
     f"![Resources Badge]({resources_badges_url})",
     f"![Completion Badge]({completion_badge_url})"
 ]
 
-add_badges_to_readme()
+for game, badge_url in game_badge_urls.items():
+    badges_md.append(f"![{game.capitalize()} Badge]({badge_url})")
+
+add_badges_to_readme(badges_md)
 add_statistics_table_to_readme(statistics_table)
