@@ -79,9 +79,11 @@ def generate_statistics_table():
     )
     
     total_completion_percentage = (total_correct_all / total_resources_all) * 100
+    total_format_completion_amount = sum(1 for stat in statistics.values() if stat['correct_percentage'] == 100)
     colour = total_completion_colour(total_completion_percentage)
     completion_badge_url = generate_badge_url("Total Completion", f"{total_completion_percentage:.2f}%25", colour)
     resources_badge_url = generate_badge_url("Total Resources", f"{total_resources_all:,}", "blue")
+    formats_badge_url = generate_badge_url("Formats completed", f"{total_format_completion_amount} /{len(statistics)}", "blue")
 
     game_badge_urls = {}
     for game, stats in game_statistics.items():
@@ -92,7 +94,7 @@ def generate_statistics_table():
         game_badge_url = generate_badge_url(f"{game.capitalize()} Completion", f"{game_completion_percentage:.2f}%25", colour)
         game_badge_urls[game] = game_badge_url
 
-    return writer.dumps(), completion_badge_url, resources_badge_url, game_badge_urls
+    return writer.dumps(), completion_badge_url, resources_badge_url, formats_badge_url, game_badge_urls
 
 def add_to_readme(start_marker, end_marker, addition_str):
     with open("README.md", "r") as f:
@@ -116,11 +118,12 @@ def add_badges_to_readme(badges_md):
     badges_str = "\n".join(badges_md) + "\n"
     add_to_readme("<!-- BADGES_START -->", "<!-- BADGES_END -->", badges_str)
 
-statistics_table, completion_badge_url, resources_badges_url, game_badge_urls = generate_statistics_table()
+statistics_table, completion_badge_url, resources_badges_url, formats_badge_url, game_badge_urls = generate_statistics_table()
 
 badges_md = [
     f"![Resources Badge]({resources_badges_url})",
-    f"![Completion Badge]({completion_badge_url})"
+    f"![Completion Badge]({completion_badge_url})",
+    f"![Formats Badge]({formats_badge_url})"
 ]
 
 for game, badge_url in game_badge_urls.items():
