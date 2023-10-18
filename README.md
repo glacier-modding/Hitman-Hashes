@@ -1,11 +1,11 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,551,972-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.94%25-red.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.97%25-red.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.69%25-red.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-71.97%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.02%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.07%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-49.96%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-64.39%25-red.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-67.31%25-red.svg)
@@ -78,7 +78,7 @@
 |WSGT     |142            |131          |92.25%            |11    |7.75%          |
 |WSWB     |61             |46           |75.41%            |15    |24.59%         |
 |WSWT     |66             |46           |69.70%            |15    |22.73%         |
-|WWEM     |381505         |121476       |31.84%            |224901|58.95%         |
+|WWEM     |381505         |121929       |31.96%            |224448|58.83%         |
 |WWES     |185757         |185757       |100.00%           |0     |0.00%          |
 |WWEV     |26071          |18867        |72.37%            |6222  |23.87%         |
 |WWFX     |17082          |16189        |94.77%            |0     |0.00%          |
