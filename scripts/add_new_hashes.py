@@ -9,6 +9,12 @@ def update_data(data, hash_val, game_flags):
         data[hash_val] = {"hash": hash_val, "path": "", "gameFlags": 0}
     data[hash_val]["gameFlags"] |= game_flags
 
+def hash_exists_in_any_file(all_data, hash_val):
+    for file_data in all_data.values():
+        if hash_val in file_data:
+            return True
+    return False
+
 all_data = {}
 for file_name in os.listdir(output_directory):
     if file_name.endswith(".json"):
@@ -23,7 +29,7 @@ with open("new_hashes.txt", 'r') as f:
 
         hash_val, hash_type = infer_type(hash_with_type)
 
-        if hash_type:
+        if hash_type and not hash_exists_in_any_file(all_data, hash_val):
             update_data(all_data.setdefault(hash_type, {}), hash_val, game_flags)
 
 for hash_type, data in all_data.items():
