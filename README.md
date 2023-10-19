@@ -97,10 +97,10 @@
 | SA    | 0b100000                    |
 
 ## Scripts
-This repository contains three main scripts merge.py, add_paths.py and add_new_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
+This repository contains four main scripts merge.py, add_paths.py, add_new_hashes.py and extract_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
 
 ### merge.py
-Generates hash_list.txt. Takes a version number as an argument and optionally `--game` (separate games by spaces if you wish to include multiple). Example: `python ./scripts/merge.py 0` or `python ./scripts/merge.py 0 --game h1 h2`
+Generates hash_list.txt. Takes a version number as an argument and optionally `--game` (separate games by spaces if you wish to include multiple). Example: `python ./scripts/merge.py 0` or `python ./scripts/merge.py 0 --game h1 h2`.
 
 ### add_paths.py
 Adds paths to their assoicated hashes within the path folder's JSON files.
@@ -128,3 +128,6 @@ Requires a `new_hashes.txt` file in the repository's root directory which contai
 ```
 
 Possible games are: `alpha`, `h1`, `h2`, `h3`, `beta` and `sa`.
+
+### extract_hashes.py
+Extracts a list of hashes from RPKG files into a text file. This is for use with the `add_new_hashes.py` script. Example: `python .\scripts\extract_hashes.py --input C:\Epic\HITMAN3\Runtime --game h3`.
