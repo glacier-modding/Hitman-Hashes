@@ -98,43 +98,43 @@
     "hash": "00F71E2AC0A388A7",
     "path": "",
     "gameFlags": 12,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_ambientstate.wwiseswitchgroup].pc_entitytype"
+    "hint": "crowd_ambientstate"
   },
   {
     "hash": "00982B2B913BFD2A",
     "path": "",
     "gameFlags": 12,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_gender_switch.wwiseswitchgroup].pc_entitytype"
+    "hint": "crowd_gender_switch"
   },
   {
     "hash": "00A45A3B5442E0DC",
     "path": "",
     "gameFlags": 12,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_language.wwiseswitchgroup].pc_entitytype"
+    "hint": "crowd_language"
   },
   {
     "hash": "0057B9014E88658D",
     "path": "",
     "gameFlags": 12,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_rectake.wwiseswitchgroup].pc_entitytype"
+    "hint": "crowd_rectake"
   },
   {
     "hash": "009896394126434C",
     "path": "",
     "gameFlags": 12,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state.wwiseswitchgroup].pc_entitytype"
+    "hint": "crowd_state"
   },
   {
     "hash": "003592B48E4DB067",
     "path": "",
     "gameFlags": 12,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowd_state_v2.wwiseswitchgroup].pc_entitytype"
+    "hint": "crowd_state_v2"
   },
   {
     "hash": "005767FBB65FA0C1",
     "path": "",
     "gameFlags": 12,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/crowdgroup_size.wwiseswitchgroup].pc_entitytype"
+    "hint": "crowdgroup_size"
   },
   {
     "hash": "00FAEB3BE2A97DC5",
@@ -170,7 +170,7 @@
     "hash": "00F66070D4195539",
     "path": "",
     "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/fibrewire_material.wwiseswitchgroup].pc_entitytype"
+    "hint": "fibrewire_material"
   },
   {
     "hash": "004BBE99DBF76908",
@@ -181,13 +181,13 @@
     "hash": "00517741B5F71F33",
     "path": "",
     "gameFlags": 14,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_key.wwiseswitchgroup].pc_entitytype"
+    "hint": "instrument_key"
   },
   {
     "hash": "00F1EEB41DE34699",
     "path": "",
     "gameFlags": 14,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/instrument_play_variation.wwiseswitchgroup].pc_entitytype"
+    "hint": "instrument_play_variation"
   },
   {
     "hash": "00991E87C7162681",
@@ -198,25 +198,25 @@
     "hash": "00ACCBCD6F34CD3E",
     "path": "",
     "gameFlags": 14,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musicrecording.wwiseswitchgroup].pc_entitytype"
+    "hint": "musicrecording"
   },
   {
     "hash": "00E7BE148A4D1ED4",
     "path": "",
     "gameFlags": 14,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/musictrack.wwiseswitchgroup].pc_entitytype"
+    "hint": "musictrack"
   },
   {
     "hash": "003EAF95CAC1DFD7",
     "path": "",
     "gameFlags": 44,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/snipermap_escapecut.wwiseswitchgroup].pc_entitytype"
+    "hint": "snipermap_escapecut"
   },
   {
     "hash": "006A50A1310ED515",
     "path": "",
     "gameFlags": 14,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/switch_band_music.wwiseswitchgroup].pc_entitytype"
+    "hint": "switch_band_music"
   },
   {
     "hash": "00DF4C967A1C8B18",
@@ -227,7 +227,7 @@
     "hash": "00BD83CC92ED99ED",
     "path": "",
     "gameFlags": 46,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/switches/unknown/test_buttonhold_styles.wwiseswitchgroup].pc_entitytype"
+    "hint": "test_buttonhold_styles"
   },
   {
     "hash": "000D43F9E6CD0D69",
