@@ -322,26 +322,31 @@
   {
     "hash": "00E02514E48985F7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "ev_dianaidhair"
   },
   {
     "hash": "003A8033B5F81486",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "ev_dianawelcome"
   },
   {
     "hash": "0018DC7A1B4FDDC7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "ev_dianaidacc"
   },
   {
     "hash": "0038F6EB0055900D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "ev_meeting"
   },
   {
     "hash": "0008A1625B50BA0D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "ev_tells"
   }
 ]
