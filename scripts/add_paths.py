@@ -14,7 +14,8 @@ def update_data(data, hash_val, path_val):
                 if "path" in entry and entry["path"] != "":
                     print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val.lower()}.")
                     continue
-                entry["hint"] = path_val.lower()
+                else:
+                    entry["hint"] = path_val.lower()
             break
 
 all_data = {}
