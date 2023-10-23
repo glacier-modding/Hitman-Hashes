@@ -1,15 +1,18 @@
-import json
 import os
 from common_functions import *
 
 output_directory = "paths"
 
 modified_types = set()
+paths_added = 0
 
 def update_data(data, hash_val, path_val):
+    global paths_added
     for entry in data.values():
         if entry["hash"] == hash_val:
             if ioi_hash(path_val) == hash_val:
+                if "path" not in entry or entry["path"] == "":
+                    paths_added += 1
                 entry["path"] = path_val.lower()
                 entry.pop("hint", None)
                 modified_types.add(hash_type)
@@ -42,4 +45,4 @@ for hash_type, data in all_data.items():
     if hash_type in modified_types:
         write_json_file(os.path.join(output_directory, f"{hash_type}.json"), data)
 
-print("Paths added successfully!")
+print(f"{paths_added} new path(s) added successfully!")
