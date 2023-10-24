@@ -1,5 +1,5 @@
 import os
-from common_functions import *
+from common import *
 
 output_directory = "paths"
 

@@ -1,5 +1,5 @@
 import json
-from common_functions import *
+from common import *
 import argparse
 
 parser = argparse.ArgumentParser(description="Bruteforce DLGE paths")
