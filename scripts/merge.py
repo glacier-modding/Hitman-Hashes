@@ -1,7 +1,7 @@
 import json
 import os
 import argparse
-from common import *
+from common import GAME_FLAGS, ioi_hash
 
 parser = argparse.ArgumentParser(description="Merge JSON files and generates a hash list.")
 parser.add_argument('version', type=int, help="Current version number to be embedded in the hash list.")

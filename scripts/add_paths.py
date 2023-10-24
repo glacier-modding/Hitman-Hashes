@@ -1,5 +1,5 @@
 import os
-from common import *
+from common import infer_type, ioi_hash, read_json_file, write_json_file
 
 output_directory = "paths"
 

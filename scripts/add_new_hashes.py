@@ -1,6 +1,5 @@
-import json
 import os
-from common import *
+from common import GAME_FLAGS, infer_type, read_json_file, write_json_file
 
 output_directory = "paths"
 

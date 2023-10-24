@@ -2,7 +2,7 @@ import json
 import os
 from pytablewriter import MarkdownTableWriter
 from pytablewriter.style import Style
-from common import *
+from common import GAME_FLAGS, ioi_hash
 
 def generate_badge_url(label, value, colour):
     label = label.replace(" ", "%20")

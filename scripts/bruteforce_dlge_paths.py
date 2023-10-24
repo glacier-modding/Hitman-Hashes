@@ -1,5 +1,6 @@
 import json
-from common import *
+import os
+from common import ioi_hash
 import argparse
 
 parser = argparse.ArgumentParser(description="Bruteforce DLGE paths")
