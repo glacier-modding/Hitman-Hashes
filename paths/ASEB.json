@@ -28501,7 +28501,7 @@
   },
   {
     "hash": "000BD0C04D97D9B8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zevergreenmenuentryzoomableconfig.class].entitytype,[modules:/zspatialentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {

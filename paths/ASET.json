@@ -67336,7 +67336,7 @@
   },
   {
     "hash": "004C28E2CD191956",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zevergreenmenuentryzoomableconfig.class].entitytype,[modules:/zspatialentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
