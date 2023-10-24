@@ -18441,7 +18441,7 @@
   },
   {
     "hash": "008DA88E821C0FE8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/industrial/hanging_chains_a.template?/workshop_hanging_chain_hook_medium_b.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 14
   },
   {

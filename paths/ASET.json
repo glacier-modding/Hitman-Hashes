@@ -35186,7 +35186,7 @@
   },
   {
     "hash": "003357E705B46C82",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/industrial/hanging_chains_a.template?/workshop_hanging_chain_hook_medium_b.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -67386,7 +67386,7 @@
   },
   {
     "hash": "00BD010245060EA8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/gameplay/fx_gameplay_invisibleshotcoli.wl2?/invisibleshotcoli_capsule_r25h100.prim].entitytype,[modules:/zhm5collisionlayerentity.class].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
