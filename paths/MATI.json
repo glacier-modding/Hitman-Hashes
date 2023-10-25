@@ -93909,7 +93909,8 @@
   {
     "hash": "0041395C6FB6DACA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/agent47_makeshift_scrap_reflex_pants.mi].pc_mi"
   },
   {
     "hash": "0086E80103ED86A8",
@@ -93999,7 +94000,8 @@
   {
     "hash": "000811924F231C1E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/scatter_grass_beach_a_green_evergreen.mi].pc_mi"
   },
   {
     "hash": "006A3AB98B9B79C9",
@@ -94038,7 +94040,7 @@
   },
   {
     "hash": "0091FA7E8DDDCB49",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_exotic_ultracompact/pistol_exotic_ultracompact.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94159,7 +94161,8 @@
   {
     "hash": "00241F5BC6210E0E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/suitcase_01.mi].pc_mi"
   },
   {
     "hash": "005A51D4586B61D6",
@@ -94179,7 +94182,8 @@
   {
     "hash": "005B6B040DAEDD0E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_sweater_cardigan_closed_loose.mi].pc_mi"
   },
   {
     "hash": "0007DE12658BCB3F",
@@ -94224,7 +94228,8 @@
   {
     "hash": "001E6275598E03A8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_civilian_01_hat_01.mi].pc_mi"
   },
   {
     "hash": "00E4FAF73386552C",
@@ -94279,7 +94284,8 @@
   {
     "hash": "0076CE126A134071",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fx_worldmap_selector.mi].pc_mi"
   },
   {
     "hash": "00E3FAF5506CF451",

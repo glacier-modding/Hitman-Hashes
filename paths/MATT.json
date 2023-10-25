@@ -27385,7 +27385,8 @@
   {
     "hash": "008A9796C07A312D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fem_reg_sweater_cardigan_closed_loose.mi].pc_entitytype"
   },
   {
     "hash": "000D1EA8771BDCE6",
@@ -27415,7 +27416,8 @@
   {
     "hash": "00EF1176E2620325",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_civilian_01_hat_01.mi].pc_entitytype"
   },
   {
     "hash": "00CF4D0C04D2E414",
@@ -27550,7 +27552,8 @@
   {
     "hash": "000772A9148A44DB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/fx_worldmap_selector.mi].pc_entitytype"
   },
   {
     "hash": "0031CB8E3B80B0B0",
@@ -27725,7 +27728,8 @@
   {
     "hash": "00DD9730A366F4FC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/mintjulep_handkerchief_01.mi].pc_entitytype"
   },
   {
     "hash": "00FB16F2B5CD216D",

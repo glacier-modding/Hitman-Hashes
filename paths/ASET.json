@@ -66801,7 +66801,7 @@
   },
   {
     "hash": "008241DDADACD1CF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/firearms/frames/pistol_exotic_ultracompact/pistol_exotic_ultracompact.wl2?/clip_full.prim].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
