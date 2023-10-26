@@ -29078,5 +29078,10 @@
     "hash": "009DE05530AA932D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/hokkaido_morgue_lamp_a_00.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "00AB210447FE7285",
+    "path": "",
+    "gameFlags": 8
   }
 ]

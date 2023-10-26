@@ -2498,5 +2498,10 @@
     "hash": "003E58E8E5BC94AF",
     "path": "[assembly:/sound/sounddefinitions/dugong_engineer_mhi02.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "00636F5E84080F3E",
+    "path": "",
+    "gameFlags": 8
   }
 ]

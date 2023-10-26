@@ -4218,5 +4218,10 @@
     "hash": "00D9910D97B900DE",
     "path": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/evergreen_convolution_hq.wwisesoundbank].pc_wwisebank",
     "gameFlags": 8
+  },
+  {
+    "hash": "00B965EEC1BC924E",
+    "path": "",
+    "gameFlags": 8
   }
 ]

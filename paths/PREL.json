@@ -703,5 +703,10 @@
     "hash": "00E1DD5EE88DAFE8",
     "path": "[assembly:/_pro/scenes/missions/skunk/scene_skunk_mild_solitaire.entity].pc_preload",
     "gameFlags": 8
+  },
+  {
+    "hash": "00E0D457370C2CD9",
+    "path": "",
+    "gameFlags": 8
   }
 ]

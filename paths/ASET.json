@@ -67433,5 +67433,10 @@
     "hash": "0084AC999EF8D902",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/gadget/snail_shell_a.template?/itemart_snail_audio_proximity_sloth_a.entitytemplate].entitytype,[modules:/zvisibilitysaveaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00B52DA5B5CDC5CF",
+    "path": "",
+    "gameFlags": 8
   }
 ]
