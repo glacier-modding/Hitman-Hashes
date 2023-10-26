@@ -10,6 +10,11 @@ hints_added = 0
 def update_data(data, hash_val, path_val):
     global paths_added
     global hints_added
+
+    if not path_val:
+        print(f"Path/Hint is empty for hash: {hash_val}. Skipping.")
+        return
+
     for entry in data.values():
         if entry["hash"] == hash_val:
             if ioi_hash(path_val) == hash_val:
