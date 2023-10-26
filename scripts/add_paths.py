@@ -20,17 +20,17 @@ def update_data(data, hash_val, path_val):
             if ioi_hash(path_val) == hash_val:
                 if "path" not in entry or entry["path"] == "":
                     paths_added += 1
-                entry["path"] = path_val.lower()
+                entry["path"] = path_val
                 entry.pop("hint", None)
                 modified_types.add(hash_type)
             else:
                 if "path" in entry and entry["path"] != "":
-                    print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val.lower()}.")
+                    print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val}.")
                     continue
                 else:
                     if "hint" not in entry or entry["hint"] == "":
                         hints_added += 1
-                    entry["hint"] = path_val.lower()
+                    entry["hint"] = path_val
                     modified_types.add(hash_type)
             break
 
@@ -43,7 +43,7 @@ for file_name in os.listdir(output_directory):
 with open("new_paths.txt", 'r') as f:
     for line in f:
         parts = line.strip().split(',', 1)
-        hash_with_type, path = parts[0], parts[1].lstrip()
+        hash_with_type, path = parts[0], parts[1].lstrip().lower()
         
         hash_val, hash_type = infer_type(hash_with_type)
         
