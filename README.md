@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,063-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.96%25-red.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-13/69-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-14/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.69%25-red.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-71.99%25-yellow.svg)
@@ -18,7 +18,7 @@
 |AIBB     |1              |1            |100.00%           |0     |0.00%          |
 |AIBX     |1              |1            |100.00%           |0     |0.00%          |
 |AIBZ     |5              |4            |80.00%            |0     |0.00%          |
-|AIRG     |50             |49           |98.00%            |0     |0.00%          |
+|AIRG     |50             |50           |100.00%           |0     |0.00%          |
 |ALOC     |26258          |16519        |62.91%            |0     |0.00%          |
 |ASEB     |5817           |1702         |29.26%            |0     |0.00%          |
 |ASET     |13488          |6160         |45.67%            |0     |0.00%          |
@@ -56,7 +56,7 @@
 |MJBA     |19585          |7363         |37.60%            |0     |0.00%          |
 |MRTN     |2248           |1073         |47.73%            |0     |0.00%          |
 |MRTR     |853            |85           |9.96%             |0     |0.00%          |
-|NAVP     |78             |75           |96.15%            |1     |1.28%          |
+|NAVP     |78             |76           |97.44%            |1     |1.28%          |
 |ORES     |9              |7            |77.78%            |0     |0.00%          |
 |PREL     |142            |141          |99.30%            |0     |0.00%          |
 |PRIM     |42738          |21842        |51.11%            |221   |0.52%          |
@@ -64,9 +64,9 @@
 |RTLV     |142            |0            |0.00%             |133   |93.66%         |
 |SCDA     |877            |818          |93.27%            |0     |0.00%          |
 |SDEF     |501            |500          |99.80%            |0     |0.00%          |
-|TBLU     |55989          |39195        |70.00%            |16451 |29.38%         |
+|TBLU     |55989          |39198        |70.01%            |16451 |29.38%         |
 |TELI     |65278          |34674        |53.12%            |0     |0.00%          |
-|TEMP     |85540          |58194        |68.03%            |26902 |31.45%         |
+|TEMP     |85540          |58197        |68.03%            |26902 |31.45%         |
 |TEXD     |43336          |32230        |74.37%            |39    |0.09%          |
 |TEXT     |44115          |32574        |73.84%            |337   |0.76%          |
 |UICB     |393            |393          |100.00%           |0     |0.00%          |
