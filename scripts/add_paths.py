@@ -43,7 +43,7 @@ for file_name in os.listdir(output_directory):
 with open("new_paths.txt", 'r') as f:
     for line in f:
         parts = line.strip().split(',', 1)
-        hash_with_type, path = parts[0], parts[1]
+        hash_with_type, path = parts[0], parts[1].lstrip()
         
         hash_val, hash_type = infer_type(hash_with_type)
         
