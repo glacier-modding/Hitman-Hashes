@@ -1,6 +1,6 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,052-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,063-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-69.96%25-red.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-13/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
@@ -41,7 +41,7 @@
 |FXAC     |4              |4            |100.00%           |0     |0.00%          |
 |FXAS     |349991         |349059       |99.73%            |0     |0.00%          |
 |GFXF     |41             |41           |100.00%           |0     |0.00%          |
-|GFXI     |11797          |9122         |77.32%            |187   |1.59%          |
+|GFXI     |11808          |9122         |77.25%            |187   |1.58%          |
 |GFXV     |318            |119          |37.42%            |195   |61.32%         |
 |GIDX     |1              |1            |100.00%           |0     |0.00%          |
 |HIKC     |2              |2            |100.00%           |0     |0.00%          |
