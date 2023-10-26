@@ -27864,12 +27864,14 @@
   {
     "hash": "00D259835970987E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/dimitrivegas_shirt.mi].pc_entityblueprint"
   },
   {
     "hash": "001FD823C3CBF28C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_suit_pants_dbl_pleat_anisotropic_christmas.mi].pc_entityblueprint"
   },
   {
     "hash": "001656C661FBD2DD",

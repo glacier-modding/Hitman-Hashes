@@ -94535,31 +94535,34 @@
   {
     "hash": "0025C857D66B53B7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/dimitrivegas_shirt.mi].pc_mi"
   },
   {
     "hash": "00135E014FB06084",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_graffiti_murals_o.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001C15813DED1EC7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_graffiti_mix_b_01.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000B5048511C84A2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/male_reg_suit_pants_dbl_pleat_anisotropic_christmas.mi].pc_mi"
   },
   {
     "hash": "00019ED6305C9314",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_graffiti_a_01.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "005B2FE629EC4CB3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/dimitrivegas_head.mi].pc_mi"
   }
 ]
