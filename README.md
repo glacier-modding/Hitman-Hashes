@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,063-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-70.00%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-70.01%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.69%25-red.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-71.99%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.12%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.14%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-49.96%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-64.39%25-red.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-67.31%25-red.svg)
@@ -64,9 +64,9 @@
 |RTLV     |142            |0            |0.00%             |133   |93.66%         |
 |SCDA     |877            |818          |93.27%            |0     |0.00%          |
 |SDEF     |501            |501          |100.00%           |0     |0.00%          |
-|TBLU     |55989          |39205        |70.02%            |16461 |29.40%         |
+|TBLU     |55989          |39287        |70.17%            |16495 |29.46%         |
 |TELI     |65278          |34674        |53.12%            |0     |0.00%          |
-|TEMP     |85540          |58204        |68.04%            |26913 |31.46%         |
+|TEMP     |85540          |58286        |68.14%            |26947 |31.50%         |
 |TEXD     |43336          |32230        |74.37%            |39    |0.09%          |
 |TEXT     |44115          |32574        |73.84%            |337   |0.76%          |
 |UICB     |393            |393          |100.00%           |0     |0.00%          |
