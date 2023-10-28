@@ -11,6 +11,13 @@ args = parser.parse_args()
 
 temp_references = defaultdict(lambda: defaultdict(int))
 
+# Linked templates + geometry templates blueprint hashes
+blueprints = {
+    '00B4FF13E74E586F', '00F4A1A8B9394135', '00F5C5148B9F676D', '0055940FD55AFF09', 
+    '00E9D42DAEBE559B', '00181EBCF53A405D', '008130A85A690BE8', '00C7E348A80A6E6E', 
+    '002E141E1B1C6EFE'
+}
+
 # Removes numbers from the end of the entity name
 pattern = re.compile(r'(_\d+|\d+)$')
 
@@ -24,8 +31,7 @@ for dirpath, dirnames, filenames in os.walk(args.input):
                 
                 for entity in data['entities'].values():
                     blueprint = entity.get('blueprint', '')
-                    # Linked templates + geometry templates blueprint hashes
-                    if blueprint.endswith('00B4FF13E74E586F') or blueprint.endswith('00F4A1A8B9394135') or blueprint.endswith('00F5C5148B9F676D') or blueprint.endswith('0055940FD55AFF09') or blueprint.endswith('00E9D42DAEBE559B') or blueprint.endswith('00181EBCF53A405D') or blueprint.endswith('008130A85A690BE8') or blueprint.endswith('00C7E348A80A6E6E') or blueprint.endswith('002E141E1B1C6EFE'):
+                    if any(blueprint.endswith(blueprint) for blueprint in blueprints):
                         name = pattern.sub('', entity.get('name', ''))
                         factory = entity.get('factory', '')
                         temp_references[factory][name] += 1
