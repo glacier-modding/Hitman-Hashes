@@ -12,6 +12,9 @@
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-67.31%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
+<details>
+<summary>Show table</summary>
+
 <!-- STATISTICS_TABLE_START -->
 |File Type|Total Resources|Correct Paths|Correct Percentage|Hints |Hint Percentage|
 |---------|---------------|-------------|------------------|------|---------------|
@@ -85,6 +88,7 @@
 |WWFX     |17082          |16189        |94.77%            |0     |0.00%          |
 |YSHP     |4              |3            |75.00%            |1     |25.00%         |
 <!-- STATISTICS_TABLE_END -->
+</details>
 
 ## Game flags
 | Game  | Bit Representation (Binary) |
