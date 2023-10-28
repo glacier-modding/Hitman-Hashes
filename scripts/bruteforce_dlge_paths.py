@@ -41,6 +41,6 @@ with open(args.input, "r") as f:
                         foundIt = True
                         break
 
-with open(args.output, "a") as f:
+with open(args.output, "w") as f:
     for item in found:
         f.write(f"{item}\n")
