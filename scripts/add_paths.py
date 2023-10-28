@@ -4,6 +4,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description="Add paths/hints")
 parser.add_argument('--input', type=str, required=False, default="new_paths.txt", help="File which contains new paths/hints to add.")
+parser.add_argument('--overwrite-hints', action='store_true', help="Overwrite existing hints with new ones.")
 args = parser.parse_args()
 
 output_directory = "paths"
@@ -11,10 +12,12 @@ output_directory = "paths"
 modified_types = set()
 paths_added = 0
 hints_added = 0
+hints_overwritten = 0
 
 def update_data(data, hash_val, path_val):
     global paths_added
     global hints_added
+    global hints_overwritten
 
     if not path_val:
         print(f"Path/Hint is empty for hash: {hash_val}. Skipping.")
@@ -33,9 +36,14 @@ def update_data(data, hash_val, path_val):
                     # print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val}.")
                     continue
                 else:
-                    hints_added += 1
-                    entry["hint"] = path_val
-                    modified_types.add(hash_type)
+                    if "hint" not in entry or entry["hint"] == "":
+                        hints_added += 1
+                        entry["hint"] = path_val
+                        modified_types.add(hash_type)
+                    elif args.overwrite_hints:
+                        hints_overwritten += 1
+                        entry["hint"] = path_val
+                        modified_types.add(hash_type)
             break
 
 all_data = {}
@@ -58,10 +66,12 @@ for hash_type, data in all_data.items():
     if hash_type in modified_types:
         write_json_file(os.path.join(output_directory, f"{hash_type}.json"), data)
 
-if paths_added or hints_added:
+if paths_added or hints_added or hints_overwritten:
     if paths_added > 0:
         print(f"{paths_added} new path(s) added successfully!")
     if hints_added > 0:
         print(f"{hints_added} new hint(s) added/modified successfully!")
+    if hints_overwritten > 0:
+        print(f"{hints_overwritten} hint(s) overwritten successfully!")
 else:
     print("No new paths or hints added.")
