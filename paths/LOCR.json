@@ -21672,7 +21672,8 @@
   {
     "hash": "00005E98B6A0C5A1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/golden/40000_gecko/40003_guard.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00008039C4A80DC4",
@@ -21868,7 +21869,8 @@
   {
     "hash": "000A540AD2A426C6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/ancestral/41000_bulldog/41003_murder.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "000B3F8965E03F84",
@@ -22740,7 +22742,8 @@
   {
     "hash": "004031BCC6283594",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/golden/40000_gecko/40002_grey.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00405A5A05FDF31A",
@@ -22985,7 +22988,8 @@
   {
     "hash": "0049F1AA4F75A663",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/ancestral/41000_bulldog/41001_burial.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "004A2410957D1103",
@@ -23245,7 +23249,8 @@
   {
     "hash": "005971C8BF37B9BA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/ancestral/41000_bulldog/41002_photo.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005A42FCB10D0F30",
@@ -23255,7 +23260,8 @@
   {
     "hash": "005A8ECEBCAFB848",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/elegant/44000_llama/44001_privatetour.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "005ABD39283EFD71",
@@ -23491,7 +23497,8 @@
   {
     "hash": "0065DC3675BE4072",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/wet/43000_rat/43003_meeting.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0065F5BF9D6AAC3B",
@@ -23572,7 +23579,8 @@
   {
     "hash": "0069370009FFDC77",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/elegant/44000_llama/44004_eyesontarget.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00699FDA898F60BA",
@@ -23858,7 +23866,8 @@
   {
     "hash": "0078AA050BBD46F0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/elegant/44000_llama/44003_overflow.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0078E29659834C80",
@@ -24005,7 +24014,8 @@
   {
     "hash": "0080997ED6F3DDD4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/wet/43000_rat/43002_test.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0080DE1438DBD2F6",
@@ -24040,7 +24050,8 @@
   {
     "hash": "0082B95525FA6440",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/wet/43000_rat/43001_controller.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0082F66E2233E59D",
@@ -24256,7 +24267,8 @@
   {
     "hash": "008FF21C858452F1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/elegant/44000_llama/44002_vintageyear.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "0090164D3092925A",
@@ -25671,7 +25683,8 @@
   {
     "hash": "00DFB94995D258CD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/golden/40000_gecko/40001_assassin.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00DFD0217AD568D4",
@@ -48317,11 +48330,13 @@
   {
     "hash": "005AF02CB06FE23D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/challenges_et_tomorrowland.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F3D25FC3719890",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "[unknown:/*/et_tomorrowland.sweetmenutext].pc_localized-textlist"
   }
 ]
