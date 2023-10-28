@@ -1,5 +1,10 @@
 import os
 from common import infer_type, ioi_hash, read_json_file, write_json_file
+import argparse
+
+parser = argparse.ArgumentParser(description="Add paths/hints")
+parser.add_argument('--input', type=str, required=False, default="new_paths.txt", help="File which contains new paths/hints to add.")
+args = parser.parse_args()
 
 output_directory = "paths"
 
@@ -28,8 +33,7 @@ def update_data(data, hash_val, path_val):
                     # print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val}.")
                     continue
                 else:
-                    if "hint" not in entry or entry["hint"] == "":
-                        hints_added += 1
+                    hints_added += 1
                     entry["hint"] = path_val
                     modified_types.add(hash_type)
             break
@@ -40,7 +44,7 @@ for file_name in os.listdir(output_directory):
         hash_type = file_name.split('.')[0]
         all_data[hash_type] = read_json_file(os.path.join(output_directory, file_name))
 
-with open("new_paths.txt", 'r') as f:
+with open(args.input, 'r') as f:
     for line in f:
         parts = line.strip().split(',', 1)
         hash_with_type, path = parts[0], parts[1].lstrip().lower()
@@ -58,6 +62,6 @@ if paths_added or hints_added:
     if paths_added > 0:
         print(f"{paths_added} new path(s) added successfully!")
     if hints_added > 0:
-        print(f"{hints_added} new hint(s) added successfully!")
+        print(f"{hints_added} new hint(s) added/modified successfully!")
 else:
     print("No new paths or hints added.")
