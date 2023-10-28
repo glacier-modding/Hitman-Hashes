@@ -4,7 +4,7 @@ import re
 from collections import defaultdict
 import argparse
 
-parser = argparse.ArgumentParser(description="Bruteforce DLGE paths")
+parser = argparse.ArgumentParser(description="Get hints for linked and geometry templates")
 parser.add_argument('--input', type=str, required=False, help="Path to folder containing QN entity.json files.")
 parser.add_argument('--output', type=str, default="new_geometry_hints.txt", help="Output folder and/or name. Defaults to new_geometry_hints.txt.")
 args = parser.parse_args()
