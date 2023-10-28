@@ -5,12 +5,12 @@ import argparse
 
 parser = argparse.ArgumentParser(description="Bruteforce DLGE paths")
 parser.add_argument('--input', type=str, required=False, default="DLGEs.JSON", help="Path to DLGEs.JSON. Extract using rpkg-cli: .\\rpkg-cli.exe -dev_dlge_names")
-parser.add_argument('--output', type=str, default="new_paths.txt", help="Output folder and/or name. Defaults to new_paths.txt.")
+parser.add_argument('--output', type=str, default="new_dlge_paths.txt", help="Output folder and/or name. Defaults to new_dlge_paths.txt.")
 args = parser.parse_args()
 
 if args.output:
     if args.output.endswith(os.sep) or (os.path.isdir(args.output) if os.path.exists(args.output) else args.output.endswith("/") or args.output.endswith("\\")):
-        args.output = os.path.join(args.output, "new_paths.txt")
+        args.output = os.path.join(args.output, "new_dlge_paths.txt")
     
     directory = os.path.dirname(args.output)
     
