@@ -764,7 +764,8 @@
   {
     "hash": "00056B5418330190",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "tutorial_modulecompletionhandlerfsp"
   },
   {
     "hash": "000E688B9D57D8BA",
@@ -774,7 +775,8 @@
   {
     "hash": "006BDB7A3B80C11F",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "tutorial_modulecompletionhandler"
   },
   {
     "hash": "00C9D3149F7A412D",

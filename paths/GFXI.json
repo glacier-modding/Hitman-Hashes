@@ -37734,7 +37734,8 @@
   {
     "hash": "00111CE6A4D31680",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "explosive device"
   },
   {
     "hash": "001125D7396A75CB",
@@ -38579,7 +38580,8 @@
   {
     "hash": "00261C24003F0F38",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "playfulsuccesdialog"
   },
   {
     "hash": "002630A6510FB0D6",
@@ -38629,7 +38631,8 @@
   {
     "hash": "0027910A06550308",
     "path": "",
-    "gameFlags": 42
+    "gameFlags": 42,
+    "hint": "menu_simple_splashscreen_skipable"
   },
   {
     "hash": "0027C81F5E840A66",
@@ -38854,7 +38857,8 @@
   {
     "hash": "002D486D39158EBE",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "bangkok_caketopper"
   },
   {
     "hash": "002D5D4AEFFE1137",
@@ -39019,7 +39023,8 @@
   {
     "hash": "00311682737250F3",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "crowbar"
   },
   {
     "hash": "00311EFE1A5D1780",
@@ -39029,7 +39034,8 @@
   {
     "hash": "003155A0BE77EE2E",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "ratfood"
   },
   {
     "hash": "0031828917F756DF",
@@ -39204,7 +39210,8 @@
   {
     "hash": "00369F9D0249B663",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "lockpick"
   },
   {
     "hash": "0036A4130D9667A4",
@@ -39759,7 +39766,8 @@
   {
     "hash": "004311B4ACB27129",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "coin"
   },
   {
     "hash": "004316515A0080B6",
@@ -40134,7 +40142,8 @@
   {
     "hash": "0048CFB9D455D777",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "skilledsuccesdialog"
   },
   {
     "hash": "00490EE9980264B5",
@@ -40154,7 +40163,8 @@
   {
     "hash": "004943C0675A47A7",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "gunpowder"
   },
   {
     "hash": "00494B2E017DE801",
@@ -40269,7 +40279,8 @@
   {
     "hash": "004B8873E684F1D2",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "screwdriver"
   },
   {
     "hash": "004BDDDFB1E17AB3",
@@ -40899,7 +40910,8 @@
   {
     "hash": "005889A77ABFF6E0",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_modaldialog_ok_sign_weaponcrates"
   },
   {
     "hash": "0058AC0C9D0464B5",
@@ -40979,7 +40991,8 @@
   {
     "hash": "0059C5554624B03E",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "key"
   },
   {
     "hash": "0059DCB3E18BF29B",
@@ -41174,7 +41187,8 @@
   {
     "hash": "005E0D734DDA55D6",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "spatialicon"
   },
   {
     "hash": "005E10A055E75CE2",
@@ -41279,7 +41293,8 @@
   {
     "hash": "0060A7BC8B0AE763",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "tutorial_ui_modaldialog_ok_ritterunconscious"
   },
   {
     "hash": "0060C93965FED665",
@@ -41394,7 +41409,8 @@
   {
     "hash": "00633EE80D669695",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_modaldialog_ok_sign_accident"
   },
   {
     "hash": "0063594C733CE198",
@@ -42049,7 +42065,8 @@
   {
     "hash": "0072F975A957038B",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "nosavingicon"
   },
   {
     "hash": "00733C1868212455",
@@ -42384,7 +42401,8 @@
   {
     "hash": "007B58B0CF7CC8C4",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "poison"
   },
   {
     "hash": "007B970702EC0BF8",
@@ -42434,7 +42452,8 @@
   {
     "hash": "007CE9715A9E6C5C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hitmanlogo stadia"
   },
   {
     "hash": "007D04D9E4465BEB",
@@ -42479,7 +42498,8 @@
   {
     "hash": "007DDA27D7F6228D",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "tutorial_ui_modaldialog_ok_tagsign"
   },
   {
     "hash": "007DDD693711EDFC",
@@ -42904,7 +42924,8 @@
   {
     "hash": "00872A95E2FA8DF2",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_modaldialog_ok_showsign_infiltrate"
   },
   {
     "hash": "008756750E499EF7",
@@ -42979,7 +43000,8 @@
   {
     "hash": "00887C04A67CFE98",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "backdrop01"
   },
   {
     "hash": "0088BF1309747C28",
@@ -43459,7 +43481,8 @@
   {
     "hash": "0093DAACB78A5F51",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "cannonball"
   },
   {
     "hash": "0093E74DBAA58E27",
@@ -43689,7 +43712,8 @@
   {
     "hash": "0098E2D51E8B011C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "exiticonghosted"
   },
   {
     "hash": "0098FB2B8BA2D786",
@@ -43854,7 +43878,8 @@
   {
     "hash": "009C21E9DE412F25",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "spaghettican"
   },
   {
     "hash": "009C24194DFCC811",
@@ -44009,7 +44034,8 @@
   {
     "hash": "009EE547D41DE9D7",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "imagebox"
   },
   {
     "hash": "009F049E59A5DC94",
@@ -44479,7 +44505,8 @@
   {
     "hash": "00A974CC6E17DC3B",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "tutorial_ui_modaldialog_ok_tagsign"
   },
   {
     "hash": "00A992536881ED6F",
@@ -44579,7 +44606,8 @@
   {
     "hash": "00AC1A3A3A8C1F5E",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "imagebox"
   },
   {
     "hash": "00AC270F843F6DEB",
@@ -44679,7 +44707,8 @@
   {
     "hash": "00AEB3B2D1FFB018",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "wrench"
   },
   {
     "hash": "00AEB6D0E7295659",
@@ -44969,7 +44998,8 @@
   {
     "hash": "00B42D955164300C",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_modaldialog_ok_showsign_enforcer"
   },
   {
     "hash": "00B43699C6E2A71A",
@@ -45114,7 +45144,8 @@
   {
     "hash": "00B7A7D8396D062F",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "card"
   },
   {
     "hash": "00B7C021C1D540B5",
@@ -45974,7 +46005,8 @@
   {
     "hash": "00CC53D32ACED692",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "tutorial_ui_modaldialog_ok_tagsign"
   },
   {
     "hash": "00CC6499911702D3",
@@ -46009,7 +46041,8 @@
   {
     "hash": "00CDB272B00EE929",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_modaldialog_ok_enforcersign"
   },
   {
     "hash": "00CDC76AE8A5E852",
@@ -46234,7 +46267,8 @@
   {
     "hash": "00D2F0F9BA5E946E",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_getjasperknight"
   },
   {
     "hash": "00D2F9A4A089823C",
@@ -46269,7 +46303,8 @@
   {
     "hash": "00D39205ECA84E9A",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "password"
   },
   {
     "hash": "00D3DE44F734223E",
@@ -46414,7 +46449,8 @@
   {
     "hash": "00D79ED4B7F311F1",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "knife"
   },
   {
     "hash": "00D7A869C92DF68D",
@@ -46544,7 +46580,8 @@
   {
     "hash": "00DA3992BBF9D2F5",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_modaldialog_listen"
   },
   {
     "hash": "00DA3BC013F5518F",
@@ -46999,7 +47036,8 @@
   {
     "hash": "00E58840A4912D4B",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "lockpick electric"
   },
   {
     "hash": "00E593EA34874F65",
@@ -47069,7 +47107,8 @@
   {
     "hash": "00E78D160C8E5681",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "tutorial_ui_modaldialog_ok_showsign_saveload"
   },
   {
     "hash": "00E7C4A207ED9FF0",
@@ -47659,7 +47698,8 @@
   {
     "hash": "00FA1334127C338A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "menu_simple_splashscreen_middleware_01"
   },
   {
     "hash": "00FA1D8F06CA8921",
