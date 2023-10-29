@@ -37332,7 +37332,7 @@
     "hash": "00077B8BE1C567EB",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon (s3) ica device modular breach charge mkiii"
+    "hint": "hudicon ica device modular breach charge"
   },
   {
     "hash": "000783CC4763B09D",
@@ -37466,7 +37466,7 @@
     "hash": "000A3AB5D20FFB71",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon explosive baseball"
+    "hint": "hudicon melee_baseball"
   },
   {
     "hash": "000A85269257BB59",
@@ -37556,7 +37556,7 @@
     "hash": "000C4C0372CD2EE2",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon melee_fireaxe_holiday_present"
+    "hint": "hudicon melee_fireaxe"
   },
   {
     "hash": "000C95CA0FACA652",
@@ -37881,7 +37881,7 @@
     "hash": "0012BF411AA00AA1",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon insecticide"
+    "hint": "hudicon insecticide (sedative)"
   },
   {
     "hash": "0012BFB02DCB68D2",
@@ -38139,7 +38139,7 @@
     "hash": "001831709D0E141C",
     "path": "",
     "gameFlags": 62,
-    "hint": "hudicon archetype_tool_coin"
+    "hint": "hudicon tool_coin"
   },
   {
     "hash": "0018356AF7F0D30F",
@@ -38725,7 +38725,7 @@
     "hash": "0025D2DEA9376F0A",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon keycard (fx truck)"
+    "hint": "hudicon keycard"
   },
   {
     "hash": "0025F8AB5F11809E",
@@ -38775,7 +38775,7 @@
     "hash": "0026EE8BFF622B9E",
     "path": "",
     "gameFlags": 44,
-    "hint": "hudicon sc sniper heavy knight ruby rude b"
+    "hint": "hudicon sc sniper heavy knight"
   },
   {
     "hash": "0026F675BE87A467",
@@ -39621,7 +39621,7 @@
     "hash": "003A22ED55A814CD",
     "path": "",
     "gameFlags": 12,
-    "hint": "hudicon (container) arctic tool box"
+    "hint": "hudicon briefcase"
   },
   {
     "hash": "003A25245199AAD9",
@@ -41096,7 +41096,7 @@
     "hash": "0055B8262FCC1FAB",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon questitem_explosivecompound"
+    "hint": "hudicon questitem_gunpowder_pouch"
   },
   {
     "hash": "0055C80A1174B955",
@@ -41151,7 +41151,7 @@
     "hash": "00569A29F595B331",
     "path": "",
     "gameFlags": 12,
-    "hint": "hudicon poison emetic flower"
+    "hint": "hudicon poison flower"
   },
   {
     "hash": "00569C7056905588",
@@ -41495,7 +41495,7 @@
     "hash": "005C75BED9EF962E",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon oilspill"
+    "hint": "hudicon tool_apricot"
   },
   {
     "hash": "005CAE97317E19DF",
@@ -41965,7 +41965,7 @@
     "hash": "006750705CAEF2CC",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon lethal poison fatalidomide"
+    "hint": "hudicon lethal poison vial"
   },
   {
     "hash": "00675762F7E2179F",
@@ -42523,7 +42523,7 @@
     "hash": "0072ABB1076C38FE",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon detonator remote lethal gas"
+    "hint": "hudicon detonator"
   },
   {
     "hash": "0072F975A957038B",
@@ -42591,7 +42591,7 @@
     "hash": "00742E25227415B4",
     "path": "",
     "gameFlags": 12,
-    "hint": "hudicon (outbreak) device proximity cure gas large"
+    "hint": "hudicon ica device modular proximity concussion"
   },
   {
     "hash": "007463CDB011A5F8",
@@ -43504,7 +43504,7 @@
     "hash": "008797A83B47B50E",
     "path": "",
     "gameFlags": 8,
-    "hint": "hudicon mercer_evergreen_medium_rewardcrate"
+    "hint": "hudicon burn_phone_fox"
   },
   {
     "hash": "00879878A2FEEF3B",
@@ -44120,7 +44120,7 @@
     "hash": "0094D6CA2846A512",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon mine disarm device"
+    "hint": "hudicon fireworks_remote"
   },
   {
     "hash": "0094EA632092EE3D",
@@ -44377,7 +44377,7 @@
     "hash": "0099499F5BD41BFC",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon sedative poison retynzine"
+    "hint": "hudicon sedative poison"
   },
   {
     "hash": "009966EA582065C4",
@@ -44581,7 +44581,7 @@
     "hash": "009D50129A462EBD",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon maelstromvoicerecording 5"
+    "hint": "hudicon phone_archetype"
   },
   {
     "hash": "009D7420F3D1D0DC",
@@ -44648,7 +44648,7 @@
     "hash": "009E40F7E65B21FA",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon device ghost proximity flash armed"
+    "hint": "hudicon ica device modular proximity explosive"
   },
   {
     "hash": "009E50CE175C448D",
@@ -45250,7 +45250,7 @@
     "hash": "00AA9AF53D8ADCCE",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon device ghost remote explosive ver2"
+    "hint": "hudicon ica device modular remote explosive"
   },
   {
     "hash": "00AAE531753DDC9B",
@@ -45311,7 +45311,7 @@
     "hash": "00ABF48042E2FB7B",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon questitem_italy_dnavirus_francesca"
+    "hint": "hudicon virus vial"
   },
   {
     "hash": "00AC022F13D3ECA0",
@@ -46536,7 +46536,7 @@
     "hash": "00C53C277BFEFFE1",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon lethal pills s3"
+    "hint": "hudicon pills"
   },
   {
     "hash": "00C54A268703FBE5",
@@ -46729,7 +46729,7 @@
     "hash": "00CA43904E062F6F",
     "path": "",
     "gameFlags": 12,
-    "hint": "hudicon melee_shuriken_bat_x"
+    "hint": "hudicon melee_shuriken_bat"
   },
   {
     "hash": "00CA50F44ABD7F90",
@@ -47225,7 +47225,7 @@
     "hash": "00D582DE78A4304C",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon (gadget) power bait"
+    "hint": "hudicon (gadget) firecracker (the big one)"
   },
   {
     "hash": "00D59731767D4E5F",
@@ -47391,7 +47391,7 @@
     "hash": "00D8E64D9086796A",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon ica device flash phone"
+    "hint": "hudicon ica device explosive phone"
   },
   {
     "hash": "00D90B21C8834A2B",
@@ -47470,7 +47470,7 @@
     "hash": "00DA48A155774702",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon melee_golfball_golfmode"
+    "hint": "hudicon explosive golf ball"
   },
   {
     "hash": "00DA902A0BEB790A",
@@ -47565,7 +47565,7 @@
     "hash": "00DBFF9F689C5B37",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon ica device rubberduck remote explosive classic"
+    "hint": "hudicon ica device rubberduck remote explosive"
   },
   {
     "hash": "00DC31B29A0106DA",
@@ -47609,7 +47609,7 @@
     "hash": "00DD89B72896C93B",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon wolverine c4 explosive"
+    "hint": "hudicon ica device c4 proximity explosive"
   },
   {
     "hash": "00DDAAE720099479",
@@ -48588,7 +48588,7 @@
     "hash": "00F6A66216548D24",
     "path": "",
     "gameFlags": 12,
-    "hint": "hudicon (fiberwire) phone cord"
+    "hint": "hudicon (fiberwire) black earphone"
   },
   {
     "hash": "00F6C00D7A2BCE6D",
@@ -48729,7 +48729,7 @@
     "hash": "00FB5C0CDA7F3BE3",
     "path": "",
     "gameFlags": 46,
-    "hint": "hudicon ica device semtex remote explosive"
+    "hint": "hudicon ica device c4 remote explosive"
   },
   {
     "hash": "00FB724F89B0F9B0",
@@ -51738,7 +51738,7 @@
     "hash": "00262FBF9B6C926D",
     "path": "",
     "gameFlags": 8,
-    "hint": "hudicon (tool) lockpick classic"
+    "hint": "hudicon tool_lockpick"
   },
   {
     "hash": "00270EB30340F8CA",
