@@ -2,7 +2,7 @@ import os
 from common import infer_type, ioi_hash, read_json_file, write_json_file
 import argparse
 
-parser = argparse.ArgumentParser(description="Add paths/hints")
+parser = argparse.ArgumentParser(description="Add paths/hints", allow_abbrev=False)
 parser.add_argument('-i', '--input', type=str, required=False, default="new_paths.txt", help="File which contains new paths/hints to add.")
 parser.add_argument('--overwrite-hints', action='store_true', help="Overwrite existing hints with new ones.")
 args = parser.parse_args()

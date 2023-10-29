@@ -1,7 +1,7 @@
 import os
 import argparse
 
-parser = argparse.ArgumentParser(description="Extract a list of hashes from RPKG files.")
+parser = argparse.ArgumentParser(description="Extract a list of hashes from RPKG files.", allow_abbrev=False)
 parser.add_argument('-g', '--game', required=True, type=str, default="h3", help="Specify the game. Possible options are alpha, h1, h2, h3, beta, and sa.")
 parser.add_argument('-i', '--input', type=str, required=True, help="Path to game's runtime folder.")
 parser.add_argument('-o', '--output', type=str, default="new_hashes.txt", help="Output folder and/or name. Defaults to new_hashes.txt.")

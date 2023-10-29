@@ -3,7 +3,7 @@ import os
 import argparse
 from common import GAME_FLAGS, ioi_hash
 
-parser = argparse.ArgumentParser(description="Merge JSON files and generates a hash list.")
+parser = argparse.ArgumentParser(description="Merge JSON files and generates a hash list.", allow_abbrev=False)
 parser.add_argument('version', type=int, help="Current version number to be embedded in the hash list.")
 parser.add_argument('-g', '--game', choices=GAME_FLAGS.keys(), nargs='*', help="Game to generate the hash list for. Defaults to all.")
 parser.add_argument('-o', '--output', type=str, default="hash_list.txt", help="Output folder and/or name. Defaults to hash_list.txt.")

@@ -2,7 +2,7 @@ import os
 import json
 import argparse
 
-parser = argparse.ArgumentParser(description="Get hints for templates and blueprints")
+parser = argparse.ArgumentParser(description="Get hints for templates and blueprints", allow_abbrev=False)
 parser.add_argument('-i', '--input', type=str, required=False, help="Path to folder containing QN entity.json files.")
 parser.add_argument('-o', '--output', type=str, default="new_entity_hints.txt", help="Output folder and/or name. Defaults to new_entity_hints.txt.")
 args = parser.parse_args()

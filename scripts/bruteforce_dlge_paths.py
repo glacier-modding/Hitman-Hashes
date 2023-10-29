@@ -3,7 +3,7 @@ import os
 from common import ioi_hash
 import argparse
 
-parser = argparse.ArgumentParser(description="Bruteforce DLGE paths")
+parser = argparse.ArgumentParser(description="Bruteforce DLGE paths", allow_abbrev=False)
 parser.add_argument('-i', '--input', type=str, required=False, default="DLGEs.JSON", help="Path to DLGEs.JSON. Extract using rpkg-cli: .\\rpkg-cli.exe -dev_dlge_names")
 parser.add_argument('-o', '--output', type=str, default="new_dlge_paths.txt", help="Output folder and/or name. Defaults to new_dlge_paths.txt.")
 args = parser.parse_args()
