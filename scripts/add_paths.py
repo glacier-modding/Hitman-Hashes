@@ -55,7 +55,7 @@ for file_name in os.listdir(output_directory):
 with open(args.input, 'r') as f:
     for line in f:
         parts = line.strip().split(',', 1)
-        hash_with_type, path = parts[0], parts[1].lstrip().lower()
+        hash_with_type, path = parts[0].upper(), parts[1].lstrip().lower()
         
         hash_val, hash_type = infer_type(hash_with_type)
         
