@@ -27833,42 +27833,42 @@
   },
   {
     "hash": "0073D45067686B4B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_signs_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006C59D317D22D6C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_scarecrow_boots.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A71830BBB3C7CA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_pumpkin.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00B1AD11B2E2263C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_posters_c.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00089BC89D8AC936",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/fire/fx_par_fire_explosion_2t_8x4_gecko_hotairballoon_fire.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00AB175A1242E4FC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/fox/fox_concrete_floor_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "007494DCCF138D9E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_posters_easter_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "003F238C35DB3844",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_scarecrow_dungarees.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27885,12 +27885,12 @@
   },
   {
     "hash": "0046DF7C5EE2D8F1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_scarecrow_gloves.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A396B32D96EF92",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_stickers_tags_b.mi].pc_entitytype",
     "gameFlags": 8
   }
 ]

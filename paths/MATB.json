@@ -27838,27 +27838,27 @@
   },
   {
     "hash": "00D5F691EB15C52A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_posters_easter_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "006D9D0C0263C990",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_signs_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0086367FFD960B8A",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/fire/fx_par_fire_explosion_2t_8x4_gecko_hotairballoon_fire.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00FFA5A779B0792F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_scarecrow_boots.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00100E095020038D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_pumpkin.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27875,27 +27875,27 @@
   },
   {
     "hash": "001656C661FBD2DD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/fox/fox_concrete_floor_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00AE8E2DC5A1846B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_scarecrow_dungarees.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00391E57E0199A04",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_posters_c.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001A6888FF624133",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/scarecrow/materials/male_reg_scarecrow_gloves.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00798AD2151F35AF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_stickers_tags_b.mi].pc_entityblueprint",
     "gameFlags": 8
   }
 ]
