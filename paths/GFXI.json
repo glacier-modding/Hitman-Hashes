@@ -38016,7 +38016,8 @@
   {
     "hash": "0015FFBB015843DC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "buisnes card intel"
   },
   {
     "hash": "001637D747163DBB",
@@ -39361,7 +39362,8 @@
   {
     "hash": "003527B4BDD72DC6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "stolen painting"
   },
   {
     "hash": "003544F86A0F61BF",
@@ -46718,7 +46720,8 @@
   {
     "hash": "00CA1EDA6006F26F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "top floor plan"
   },
   {
     "hash": "00CA257529B59511",
