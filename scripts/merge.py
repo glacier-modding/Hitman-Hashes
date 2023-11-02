@@ -33,6 +33,9 @@ matching_hashes = 0
 for json_file in json_files:
     with open(json_file, "r") as f:
         data = json.load(f)
+
+        resource_type = os.path.basename(json_file).split('.')[0]
+
         for entry in data:
             if entry.get('gameFlags') is None or not any(entry['gameFlags'] & GAME_FLAGS[game] for game in args.game):
                 continue
@@ -42,12 +45,18 @@ for json_file in json_files:
                 path = entry['hint']
             else:
                 path = ''
-            
+
+            if resource_type == 'LINE':
+                line_hash_str = f"({entry['lineHash']})" if 'lineHash' in entry else ''
+            else:
+                line_hash_str = ''
+
             total_hashes += 1
             calculated_hash = ioi_hash(path)
             if calculated_hash == entry['hash']:
                 matching_hashes += 1
-            merged_entry = f"{entry['hash']}.{os.path.basename(json_file).split('.')[0]},{path}"
+
+            merged_entry = f"{entry['hash']}.{resource_type},{path}{line_hash_str}"
             merged_data.append(merged_entry)
 
 completion_percentage = (matching_hashes / total_hashes) * 100 if total_hashes else 0
