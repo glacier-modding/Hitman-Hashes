@@ -5,6 +5,7 @@ import argparse
 parser = argparse.ArgumentParser(description="Add paths/hints", allow_abbrev=False)
 parser.add_argument('-i', '--input', type=str, required=False, default="new_paths.txt", help="File which contains new paths/hints to add.")
 parser.add_argument('--overwrite-hints', action='store_true', help="Overwrite existing hints with new ones.")
+parser.add_argument('--add-line-hashes', action='store_true', help="Add line hashes to the LINE paths file.")
 args = parser.parse_args()
 
 output_directory = "paths"
@@ -35,6 +36,9 @@ def update_data(data, hash_val, path_val):
                 if "path" in entry and entry["path"] != "":
                     # print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val}.")
                     continue
+                if args.add_line_hashes:
+                        entry["lineHash"] = path_val.upper()
+                        modified_types.add(hash_type)
                 else:
                     if "hint" not in entry or entry["hint"] == "":
                         hints_added += 1
