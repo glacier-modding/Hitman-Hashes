@@ -7,7 +7,7 @@ parser.add_argument('-i', '--input', type=str, required=True, help="Path to fold
 parser.add_argument('-o', '--output', type=str, default="line_hashes.txt", help="Output file name. Defaults to line_hashes.txt.")
 args = parser.parse_args()
 
-matched_lines = []
+matched_lines = set()
 
 for dirpath, dirnames, filenames in os.walk(args.input):
     for filename in filenames:
@@ -17,7 +17,7 @@ for dirpath, dirnames, filenames in os.walk(args.input):
             with open(full_path, 'rb') as file:
                 binary_data = file.read(4)
                 line_hash = struct.unpack('<I', binary_data[:4])[0]
-                matched_lines.append(f"{filename},{line_hash:08X}")
+                matched_lines.add(f"{filename},{line_hash:08X}")
 
 with open(args.output, "w") as f:
     for line in matched_lines:
