@@ -31,6 +31,7 @@ def update_data(data, hash_val, path_val):
                     paths_added += 1
                 entry["path"] = path_val
                 entry.pop("hint", None)
+                entry.pop("lineHash", None)
                 modified_types.add(hash_type)
             else:
                 if "path" in entry and entry["path"] != "":
