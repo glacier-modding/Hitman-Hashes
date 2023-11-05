@@ -3,7 +3,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description="Generate LINE hints using the lines.json file from the https://github.com/glacier-modding/Hitman-l10n-Hashes repository", allow_abbrev=False)
 parser.add_argument('-i', '--input', type=str, required=True, help="lines.json file.")
-parser.add_argument('-o', '--output', type=str, required=False, default="line_hints.txt", help="Output file.")
+parser.add_argument('-o', '--output', type=str, required=False, default="line_hints.txt", help="Output file name. Defaults to line_hints.txt.")
 args = parser.parse_args()
 
 with open(args.input, "r") as file1:

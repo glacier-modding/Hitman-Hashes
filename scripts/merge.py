@@ -6,20 +6,11 @@ from common import GAME_FLAGS, ioi_hash
 parser = argparse.ArgumentParser(description="Merge JSON files and generates a hash list.", allow_abbrev=False)
 parser.add_argument('version', type=int, help="Current version number to be embedded in the hash list.")
 parser.add_argument('-g', '--game', choices=GAME_FLAGS.keys(), nargs='*', help="Game to generate the hash list for. Defaults to all.")
-parser.add_argument('-o', '--output', type=str, default="hash_list.txt", help="Output folder and/or name. Defaults to hash_list.txt.")
+parser.add_argument('-o', '--output', type=str, default="hash_list.txt", help="Output file name. Defaults to hash_list.txt.")
 args = parser.parse_args()
 
 if not args.game:
     args.game = list(GAME_FLAGS.keys())
-
-if args.output:
-    if args.output.endswith(os.sep) or (os.path.isdir(args.output) if os.path.exists(args.output) else args.output.endswith("/") or args.output.endswith("\\")):
-        args.output = os.path.join(args.output, "hash_list.txt")
-    
-    directory = os.path.dirname(args.output)
-    
-    if directory and not os.path.exists(directory):
-        os.makedirs(directory)
 
 input_directory = "paths"
 

@@ -4,17 +4,8 @@ import argparse
 parser = argparse.ArgumentParser(description="Extract a list of hashes from RPKG files.", allow_abbrev=False)
 parser.add_argument('-g', '--game', required=True, type=str, default="h3", help="Specify the game. Possible options are alpha, h1, h2, h3, beta, and sa.")
 parser.add_argument('-i', '--input', type=str, required=True, help="Path to game's runtime folder.")
-parser.add_argument('-o', '--output', type=str, default="new_hashes.txt", help="Output folder and/or name. Defaults to new_hashes.txt.")
+parser.add_argument('-o', '--output', type=str, default="new_hashes.txt", help="Output file name. Defaults to new_hashes.txt.")
 args = parser.parse_args()
-
-if args.output:
-    if args.output.endswith(os.sep) or (os.path.isdir(args.output) if os.path.exists(args.output) else args.output.endswith("/") or args.output.endswith("\\")):
-        args.output = os.path.join(args.output, "new_hashes.txt")
-    
-    directory = os.path.dirname(args.output)
-    
-    if directory and not os.path.exists(directory):
-        os.makedirs(directory)
 
 def readHexFromFile(file, offset, length):
 	file.seek(offset)

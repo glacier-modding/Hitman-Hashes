@@ -7,7 +7,7 @@ import argparse
 # But I have no way of doing that in this repository.
 
 parser = argparse.ArgumentParser(description="Bruteforce LINE paths")
-parser.add_argument('-o', '--output', type=str, default="new_line_paths.txt", help="Output file path. Defaults to new_line_paths.txt.")
+parser.add_argument('-o', '--output', type=str, default="new_line_paths.txt", help="Output file name. Defaults to new_line_paths.txt.")
 args = parser.parse_args()
 
 with open("paths\\LOCR.json", "r") as f:
