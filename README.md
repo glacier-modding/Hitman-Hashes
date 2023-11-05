@@ -91,14 +91,15 @@
 </details>
 
 ## Game flags
-| Game  | Bit Representation (Binary) |
-| ----- | --------------------------- |
-| Alpha | 0b000001                    |
-| H1    | 0b000010                    |
-| H2    | 0b000100                    |
-| H3    | 0b001000                    |
-| Beta  | 0b010000                    |
-| SA    | 0b100000                    |
+| Game    | Bit Representation (Binary) |
+| ------- | --------------------------- |
+| Alpha   | 0b000001                    |
+| H1      | 0b000010                    |
+| H2      | 0b000100                    |
+| H3      | 0b001000                    |
+| Beta    | 0b010000                    |
+| SA      | 0b100000                    |
+| Unknown | 0b1000000                   |
 
 ## Scripts
 This repository contains four main scripts merge.py, add_paths.py, add_new_hashes.py and extract_hashes.py. They must be ran from the repository's root directory like `python ./scripts/add_paths.py`.
