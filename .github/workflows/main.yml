@@ -122,24 +122,3 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_KEY }}
           script: sudo systemctl restart hashsearch
-
-  discord_webhook:
-    name: Discord webhook
-    needs: release
-    runs-on: ubuntu-latest
-    steps:
-      - name: Get version from tag
-        id: get_version
-        run: |
-          version=${GITHUB_REF#refs/tags/v}
-          if [[ -z "$version" || "$version" == "$GITHUB_REF" ]]; then
-            version="0"
-          fi
-          echo "version=$version" >> $GITHUB_OUTPUT
-          echo $version > version
-
-      - name: Discord Webhook Action
-        uses: tsickert/discord-webhook@v5.3.0
-        with:
-          webhook-url: ${{ secrets.WEBHOOK_URL }}
-          content: "Hash List v${{ steps.get_version.outputs.version }} has been released!"
