@@ -6,6 +6,7 @@ parser = argparse.ArgumentParser(description="Add paths/hints", allow_abbrev=Fal
 parser.add_argument('-i', '--input', type=str, required=False, default="new_paths.txt", help="File which contains new paths/hints to add.")
 parser.add_argument('--overwrite-hints', action='store_true', help="Overwrite existing hints with new ones.")
 parser.add_argument('--add-line-hashes', action='store_true', help="Add line hashes to the LINE paths file.")
+parser.add_argument('--add-entity-subtypes', action='store_true', help="Add subtype information to TEMP/TBLU path files.")
 args = parser.parse_args()
 
 output_directory = "paths"
@@ -32,6 +33,9 @@ def update_data(data, hash_val, path_val):
                 entry["path"] = path_val
                 entry.pop("hint", None)
                 entry.pop("lineHash", None)
+                modified_types.add(hash_type)
+            if args.add_entity_subtypes:
+                entry["subType"] = path_val
                 modified_types.add(hash_type)
             else:
                 if "path" in entry and entry["path"] != "":
