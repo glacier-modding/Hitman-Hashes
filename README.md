@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,063-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-70.03%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.70%25-red.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-71.99%25-yellow.svg)
@@ -20,7 +20,7 @@
 |---------|---------------|-------------|------------------|------|---------------|
 |AIBB     |1              |1            |100.00%           |0     |0.00%          |
 |AIBX     |1              |1            |100.00%           |0     |0.00%          |
-|AIBZ     |5              |4            |80.00%            |0     |0.00%          |
+|AIBZ     |5              |5            |100.00%           |0     |0.00%          |
 |AIRG     |50             |50           |100.00%           |0     |0.00%          |
 |ALOC     |26258          |16519        |62.91%            |0     |0.00%          |
 |ASEB     |5817           |1703         |29.28%            |0     |0.00%          |
