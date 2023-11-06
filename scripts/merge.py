@@ -45,12 +45,12 @@ for json_file in json_files:
                 extra_str = f" ({entry['lineHash']})" if 'lineHash' in entry else ''
             
             if resource_type == 'TEMP' and entry['path'] == "":
-                extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
+                extra_str = f"({entry['subType']})" if 'subType' in entry else ''
             if entry.get('hint') and entry['hint'] != "":
                 extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
 
             if resource_type == 'TBLU' and entry['path'] == "":
-                extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
+                extra_str = f"({entry['subType']})" if 'subType' in entry else ''
             if entry.get('hint') and entry['hint'] != "":
                 extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
 
