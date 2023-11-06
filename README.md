@@ -4,7 +4,7 @@
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-70.03%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.69%25-red.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.70%25-red.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-71.99%25-yellow.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.16%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-49.96%25-red.svg)
@@ -49,7 +49,7 @@
 |GIDX     |1              |1            |100.00%           |0     |0.00%          |
 |HIKC     |2              |2            |100.00%           |0     |0.00%          |
 |JSON     |3119           |1467         |47.03%            |1406  |45.08%         |
-|LINE     |32118          |25466        |79.29%            |1445  |4.50%          |
+|LINE     |32118          |25480        |79.33%            |1447  |4.51%          |
 |LOCM     |16             |14           |87.50%            |0     |0.00%          |
 |LOCR     |9630           |5389         |55.96%            |190   |1.97%          |
 |MATB     |5451           |4801         |88.08%            |644   |11.81%         |
