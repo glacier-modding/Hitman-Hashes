@@ -37,27 +37,29 @@ for json_file in json_files:
             else:
                 path = ''
 
-            if resource_type == 'LINE':
-                line_hash_str = f"({entry['lineHash']})" if 'lineHash' in entry else ''
-            else:
-                line_hash_str = ''
+            extra_str = ''
+
+            if resource_type == 'LINE' and entry['path'] == "":
+                extra_str = f"({entry['lineHash']})" if 'lineHash' in entry else ''
+            if entry.get('hint') and entry['hint'] != "":
+                extra_str = f" ({entry['lineHash']})" if 'lineHash' in entry else ''
             
             if resource_type == 'TEMP' and entry['path'] == "":
-                temp_subtype_str = f"({entry['subType']})" if 'subType' in entry else ''
-            else:
-                temp_subtype_str = ''
+                extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
+            if entry.get('hint') and entry['hint'] != "":
+                extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
 
             if resource_type == 'TBLU' and entry['path'] == "":
-                tblu_subtype_str = f"({entry['subType']})" if 'subType' in entry else ''
-            else:
-                tblu_subtype_str = ''
+                extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
+            if entry.get('hint') and entry['hint'] != "":
+                extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
 
             total_hashes += 1
             calculated_hash = ioi_hash(path)
             if calculated_hash == entry['hash']:
                 matching_hashes += 1
 
-            merged_entry = f"{entry['hash']}.{resource_type},{path}{line_hash_str}{temp_subtype_str}{tblu_subtype_str}"
+            merged_entry = f"{entry['hash']}.{resource_type},{path}{extra_str}"
             merged_data.append(merged_entry)
 
 completion_percentage = (matching_hashes / total_hashes) * 100 if total_hashes else 0
