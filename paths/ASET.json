@@ -63136,7 +63136,7 @@
   },
   {
     "hash": "00F6189E202B3FA4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/movieset/mumbai_photoshoot_wings_a.wl2?/mumbai_photoshoot_wings_b.prim].entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entitytype",
     "gameFlags": 12
   },
   {
@@ -63616,7 +63616,7 @@
   },
   {
     "hash": "00F9853D43E39F95",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/party_balloons_a.wl2?/party_balloons_cluster_b_00.prim].entitytype,[modules:/zclothcustommeshentity.class].entitytype,[modules:/zblurbufferentity.class].entitytype).pc_entitytype",
     "gameFlags": 12
   },
   {
