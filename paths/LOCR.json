@@ -21915,7 +21915,8 @@
   {
     "hash": "000DCBE1B8D40472",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "[unknown:/*/amaranth.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "000DE7A91998362C",
@@ -25061,7 +25062,8 @@
   {
     "hash": "00BD6E1ABA347590",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfits_pickup_fox"
   },
   {
     "hash": "00BDF319E1B00EBE",
@@ -25515,7 +25517,8 @@
   {
     "hash": "00D73433F501F41C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpieces_fox"
   },
   {
     "hash": "00D76FB3A86B3162",
@@ -26210,7 +26213,8 @@
   {
     "hash": "00F8925931B78B7F",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "[unknown:/*/acacia.sweetmenutext].pc_localized-textlist"
   },
   {
     "hash": "00F8A84AF8B2CFAC",
@@ -26220,7 +26224,8 @@
   {
     "hash": "00F8E928A9B777AA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfits_pickup_bulldog"
   },
   {
     "hash": "00F8F4B5D945E1E2",
