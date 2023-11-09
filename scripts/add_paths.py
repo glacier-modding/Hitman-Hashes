@@ -1,5 +1,5 @@
 import os
-from common import infer_type, ioi_hash, read_json_file, write_json_file
+from common import infer_type, find_type, ioi_hash, read_json_file, write_json_file
 import argparse
 
 parser = argparse.ArgumentParser(description="Add paths/hints", allow_abbrev=False)
@@ -68,6 +68,9 @@ with open(args.input, 'r') as f:
         
         hash_val, hash_type = infer_type(hash_with_type)
         
+        if not hash_type:
+            hash_type = find_type(hash_val, all_data)
+
         if hash_type and hash_type in all_data:
             update_data(all_data[hash_type], hash_val, path)
 
