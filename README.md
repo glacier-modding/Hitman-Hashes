@@ -1,14 +1,14 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,063-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-70.12%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-70.13%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.86%25-red.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-72.00%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.19%25-yellow.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.04%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-64.40%25-red.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-61.89%25-red.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-72.04%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.22%25-yellow.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.07%25-red.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-64.42%25-red.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-67.31%25-red.svg)
 <!-- BADGES_END -->
 ## Statistics
@@ -49,9 +49,9 @@
 |GIDX     |1              |1            |100.00%           |0     |0.00%          |
 |HIKC     |2              |2            |100.00%           |0     |0.00%          |
 |JSON     |3119           |1467         |47.03%            |1406  |45.08%         |
-|LINE     |32118          |25583        |79.65%            |1449  |4.51%          |
+|LINE     |32118          |25846        |80.47%            |1448  |4.51%          |
 |LOCM     |16             |14           |87.50%            |0     |0.00%          |
-|LOCR     |9630           |6529         |67.80%            |195   |2.02%          |
+|LOCR     |9630           |6530         |67.81%            |195   |2.02%          |
 |MATB     |5451           |4801         |88.08%            |644   |11.81%         |
 |MATE     |1102           |833          |75.59%            |0     |0.00%          |
 |MATI     |18661          |17377        |93.12%            |1261  |6.76%          |
