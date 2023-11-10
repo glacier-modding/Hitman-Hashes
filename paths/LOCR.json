@@ -21662,7 +21662,8 @@
   {
     "hash": "00002292B0644B73",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "holly"
   },
   {
     "hash": "000044C886E43053",
@@ -21689,7 +21690,8 @@
   {
     "hash": "000114C3C24E0711",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3002"
   },
   {
     "hash": "000115099A4B9A9E",
@@ -21704,7 +21706,8 @@
   {
     "hash": "0001963E8ABD92B0",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1009"
   },
   {
     "hash": "0001C43DEDE4743E",
@@ -21719,27 +21722,32 @@
   {
     "hash": "00021532C3DCA023",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "23007"
   },
   {
     "hash": "000240D1C0EC5A2F",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack berylium"
   },
   {
     "hash": "0002798204D277C8",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "7002"
   },
   {
     "hash": "000291D4C5B76887",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "23002"
   },
   {
     "hash": "0002B5D5682CCB4D",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "foxglove"
   },
   {
     "hash": "0003260007D7EBE4",
@@ -21759,7 +21767,8 @@
   {
     "hash": "000496B4F706B0AA",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_octopus"
   },
   {
     "hash": "0004B3604BB1612C",
@@ -21781,7 +21790,8 @@
   {
     "hash": "000513FA15B3201D",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "hellebore"
   },
   {
     "hash": "00052E2825E2E2E1",
@@ -21807,7 +21817,8 @@
   {
     "hash": "0005C712DBF37066",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "octopus_items"
   },
   {
     "hash": "000686E49D0EF154",
@@ -21823,17 +21834,20 @@
   {
     "hash": "0007E7B301D1D921",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "heliconia"
   },
   {
     "hash": "0007F587D71F000C",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "cereus"
   },
   {
     "hash": "0008258D309FD723",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "8003"
   },
   {
     "hash": "0008547524C50451",
@@ -21844,7 +21858,8 @@
   {
     "hash": "000887E072075763",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "8006"
   },
   {
     "hash": "00098EDD7F7A7900",
@@ -21859,7 +21874,8 @@
   {
     "hash": "000A1FED894040D9",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack sodium"
   },
   {
     "hash": "000A242FBCD37598",
@@ -21880,7 +21896,8 @@
   {
     "hash": "000B6082012057A8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "nutmeg"
   },
   {
     "hash": "000BB804B1123056",
@@ -21895,17 +21912,20 @@
   {
     "hash": "000C05812238D55C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "bjorn"
   },
   {
     "hash": "000C0CAB6BE7C0CC",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "hawthorn"
   },
   {
     "hash": "000C2FF325E2CF7D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "opuntia"
   },
   {
     "hash": "000CFE5F85C30DC5",
@@ -21942,7 +21962,8 @@
   {
     "hash": "000F7041EE80F69E",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "maps_slices"
   },
   {
     "hash": "000F80DE8E58450F",
@@ -21962,7 +21983,8 @@
   {
     "hash": "001050BDFCEC619F",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "poi"
   },
   {
     "hash": "0010787EC7B00F5F",
@@ -21972,12 +21994,14 @@
   {
     "hash": "00108CE382884C57",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack lithium"
   },
   {
     "hash": "0010AA12E47869FF",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "anthogonium"
   },
   {
     "hash": "0010BAB14530FC5D",
@@ -22002,7 +22026,8 @@
   {
     "hash": "0011AA824BB13ECB",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "crinum"
   },
   {
     "hash": "00121ED6A88CCC70",
@@ -22027,7 +22052,8 @@
   {
     "hash": "001352468CC60E4A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "baneberry"
   },
   {
     "hash": "00139D6E122A76D6",
@@ -22052,7 +22078,8 @@
   {
     "hash": "00154D303E9A0450",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6009"
   },
   {
     "hash": "00156209B3021F7E",
@@ -22062,12 +22089,14 @@
   {
     "hash": "0016F5B2FD6AD54B",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "27006"
   },
   {
     "hash": "00175AFFD157543D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "plumbago"
   },
   {
     "hash": "00178BDABA88E81F",
@@ -22077,7 +22106,8 @@
   {
     "hash": "0017A0651DCF499B",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "rhododendron"
   },
   {
     "hash": "0017A4FFE1AAFA3E",
@@ -22113,12 +22143,14 @@
   {
     "hash": "001A31F8E34A1D8E",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "bloodlily"
   },
   {
     "hash": "001A68F1E0C014FA",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "milkweed"
   },
   {
     "hash": "001ADA4293B6CE8F",
@@ -22145,7 +22177,8 @@
   {
     "hash": "001C624FAF0C2C00",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack phosphorus"
   },
   {
     "hash": "001D0AD4E23CA287",
@@ -22165,12 +22198,14 @@
   {
     "hash": "001E07E9F4262474",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "7005"
   },
   {
     "hash": "001E124320A857B1",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "thistle"
   },
   {
     "hash": "001E4E508A4ADFD7",
@@ -22180,7 +22215,8 @@
   {
     "hash": "001EB8BB9AA16898",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "amaryllis"
   },
   {
     "hash": "001F2539091E72C7",
@@ -22190,12 +22226,14 @@
   {
     "hash": "001F5190A2AC6C07",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "delphinium"
   },
   {
     "hash": "00205AA4E3D41210",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "34005"
   },
   {
     "hash": "00209713B0A31C10",
@@ -22210,7 +22248,8 @@
   {
     "hash": "00212687A912DF6B",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "countrycodes"
   },
   {
     "hash": "00212D5C62DFFC1F",
@@ -22251,7 +22290,8 @@
   {
     "hash": "0022A0A6BC1C383E",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_python"
   },
   {
     "hash": "0023893B2F666E26",
@@ -22266,7 +22306,8 @@
   {
     "hash": "0024113CCDF1598B",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "et_sambuca"
   },
   {
     "hash": "00241AC7F7E6FD3E",
@@ -22281,7 +22322,8 @@
   {
     "hash": "0024306DA36FB40D",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "notebooktext"
   },
   {
     "hash": "002493F178D32C72",
@@ -22296,7 +22338,8 @@
   {
     "hash": "0024DDCD4DA6ED3A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack oxygen"
   },
   {
     "hash": "0025286F54D201F4",
@@ -22317,7 +22360,8 @@
   {
     "hash": "0026246AAF0DB645",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "lotus"
   },
   {
     "hash": "0026F6292A883011",
@@ -22333,7 +22377,8 @@
   {
     "hash": "0027736367B69944",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1006"
   },
   {
     "hash": "0027DBF137F4C4EC",
@@ -22365,7 +22410,8 @@
   {
     "hash": "0028E9C71C18B298",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "bakerian"
   },
   {
     "hash": "00291DBBA6AC2183",
@@ -22375,7 +22421,8 @@
   {
     "hash": "002A214E08DDE472",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "29001"
   },
   {
     "hash": "002A2EC6DDCC56D5",
@@ -22395,7 +22442,8 @@
   {
     "hash": "002A4A51D09700F3",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4008"
   },
   {
     "hash": "002B0A81CA786DF0",
@@ -22405,7 +22453,8 @@
   {
     "hash": "002BB9224C8C96C0",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "3010"
   },
   {
     "hash": "002BCDE4D5D96A67",
@@ -22425,7 +22474,8 @@
   {
     "hash": "002CBE1DCDF92B3A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25004"
   },
   {
     "hash": "002CF64DB1F3DD7D",
@@ -22451,7 +22501,8 @@
   {
     "hash": "002EAB7E1C73D549",
     "path": "",
-    "gameFlags": 48
+    "gameFlags": 48,
+    "hint": "itemstext_2"
   },
   {
     "hash": "002EE25823ADCE74",
@@ -22466,7 +22517,8 @@
   {
     "hash": "002FC5403B41BF01",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "ingamemenutext"
   },
   {
     "hash": "00305E3485271C1E",
@@ -22476,7 +22528,8 @@
   {
     "hash": "00308702A128E416",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "29005"
   },
   {
     "hash": "00309FEC7FFAFB7F",
@@ -22491,7 +22544,8 @@
   {
     "hash": "0031C73EAC4FE839",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "edelweiss"
   },
   {
     "hash": "003239C386EB12FC",
@@ -22501,7 +22555,8 @@
   {
     "hash": "0032B48A14CA7951",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "onlinemenutext"
   },
   {
     "hash": "0032D81F847F68C4",
@@ -22527,12 +22582,14 @@
   {
     "hash": "003348158F50E2B5",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "34001"
   },
   {
     "hash": "0033591CDF296B01",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "arrayan"
   },
   {
     "hash": "00345081A439A7C8",
@@ -22552,7 +22609,8 @@
   {
     "hash": "003525D2D125D104",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "milfoil"
   },
   {
     "hash": "00354993B72B7D0A",
@@ -22563,7 +22621,8 @@
   {
     "hash": "0036118872DE5BE1",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "blackthorn"
   },
   {
     "hash": "00363659C2287337",
@@ -22588,12 +22647,14 @@
   {
     "hash": "00373B3A0ADB96F8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "21002"
   },
   {
     "hash": "003741DC72F71DD9",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "marigold"
   },
   {
     "hash": "0037777B32A26C5C",
@@ -22695,7 +22756,8 @@
   {
     "hash": "003C6F5882273D44",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "27002"
   },
   {
     "hash": "003D149FB1A3A485",
@@ -22728,7 +22790,8 @@
   {
     "hash": "003EB9FEF96D6242",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "7001"
   },
   {
     "hash": "00401ABB46272932",
@@ -22738,7 +22801,8 @@
   {
     "hash": "00401BE0F91323E0",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "21001"
   },
   {
     "hash": "004031BCC6283594",
@@ -22759,7 +22823,8 @@
   {
     "hash": "00408715BD4188CF",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_hippo"
   },
   {
     "hash": "0040CA7E294BC96A",
@@ -22786,7 +22851,8 @@
   {
     "hash": "0041158620D61267",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_peacock"
   },
   {
     "hash": "00411DC2D1CF7C59",
@@ -22860,7 +22926,8 @@
   {
     "hash": "0043A148F861F834",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "sakura"
   },
   {
     "hash": "0043ACE6E47F915B",
@@ -22870,7 +22937,8 @@
   {
     "hash": "0043B6AA7F81235A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "rafflesia"
   },
   {
     "hash": "004497FD133699E8",
@@ -22885,7 +22953,8 @@
   {
     "hash": "00451BCDB1B50C00",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "dahlia"
   },
   {
     "hash": "00457360353B9868",
@@ -22911,12 +22980,14 @@
   {
     "hash": "00466FB9390832BA",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "9004"
   },
   {
     "hash": "0046876EF373B1A2",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "sharedcontracts"
   },
   {
     "hash": "0046DA54E3F0B887",
@@ -22938,12 +23009,14 @@
   {
     "hash": "00477481EF26CA36",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "pentas"
   },
   {
     "hash": "0047A0294228F44B",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "lilac"
   },
   {
     "hash": "0047FB148680D3C6",
@@ -22953,7 +23026,8 @@
   {
     "hash": "004816A4DEDDF299",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "peacock_items"
   },
   {
     "hash": "004869A85C1B424B",
@@ -22969,7 +23043,8 @@
   {
     "hash": "004976B829D7B87D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "contract_racoon"
   },
   {
     "hash": "0049A88000D08314",
@@ -22979,12 +23054,14 @@
   {
     "hash": "0049B47BDBD22D59",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "galium"
   },
   {
     "hash": "0049D2C29E4D3641",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "sheep_items"
   },
   {
     "hash": "0049F1AA4F75A663",
@@ -23011,7 +23088,8 @@
   {
     "hash": "004A720FD3BABA8F",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "gamestoremetadata"
   },
   {
     "hash": "004AEB2EFF4F95D7",
@@ -23046,7 +23124,8 @@
   {
     "hash": "004DE09B74F69A3F",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_mongoose"
   },
   {
     "hash": "004DFE90CFC619A3",
@@ -23056,7 +23135,8 @@
   {
     "hash": "004E1B666F04762D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack magnesium"
   },
   {
     "hash": "004E42D721482CD2",
@@ -23083,7 +23163,8 @@
   {
     "hash": "004F8A9886EDBC56",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack neon"
   },
   {
     "hash": "004FF345FC6A8F99",
@@ -23115,17 +23196,20 @@
   {
     "hash": "00519DE2C015368E",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "spider_items"
   },
   {
     "hash": "00520048548599D2",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "mongoose_items"
   },
   {
     "hash": "0052163F83F975DF",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_bonus"
   },
   {
     "hash": "005272A480DD4767",
@@ -23168,7 +23252,8 @@
   {
     "hash": "00538965F0F0EF15",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "23003"
   },
   {
     "hash": "0053BBFF900486CF",
@@ -23205,7 +23290,8 @@
   {
     "hash": "0055ED009028CB4F",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gamechangers_miami"
   },
   {
     "hash": "00565EA1F3133305",
@@ -23225,7 +23311,8 @@
   {
     "hash": "005708F35A36FAA6",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "23005"
   },
   {
     "hash": "0057C400A2935A9E",
@@ -23235,7 +23322,8 @@
   {
     "hash": "00592B8D4CEA51DF",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "2005"
   },
   {
     "hash": "0059356CE257BF1D",
@@ -23290,12 +23378,14 @@
   {
     "hash": "005BFB4127B1CD71",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gorse"
   },
   {
     "hash": "005C21A6E1F6D997",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "artemisia"
   },
   {
     "hash": "005C81583908BB90",
@@ -23332,12 +23422,14 @@
   {
     "hash": "005DE6FF4B418AF8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "theisland_items"
   },
   {
     "hash": "005DF6794629293A",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "jasmine"
   },
   {
     "hash": "005E354102EB57F4",
@@ -23347,17 +23439,20 @@
   {
     "hash": "005E571E88F56C5F",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25001"
   },
   {
     "hash": "005E6E067A246864",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack nitrogen"
   },
   {
     "hash": "005E72080DAEA7D9",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "buttonlegend"
   },
   {
     "hash": "005E77695BB04C01",
@@ -23373,12 +23468,14 @@
   {
     "hash": "005EDB9B7EE50199",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "oleander"
   },
   {
     "hash": "005EE3289716621A",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "10002"
   },
   {
     "hash": "005F4D0B7C277AA4",
@@ -23393,7 +23490,8 @@
   {
     "hash": "005F665A19EB71D9",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "10001"
   },
   {
     "hash": "005F85CA4D4F7664",
@@ -23415,7 +23513,8 @@
   {
     "hash": "006028292A2CC74A",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "salvia"
   },
   {
     "hash": "00607373BC1087F9",
@@ -23425,7 +23524,8 @@
   {
     "hash": "0060D85C211AB39C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "33004"
   },
   {
     "hash": "00611A7718CEB67E",
@@ -23435,7 +23535,8 @@
   {
     "hash": "0061233A67BC1B83",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gloriosa"
   },
   {
     "hash": "006172682C0F3EC3",
@@ -23446,7 +23547,8 @@
   {
     "hash": "0061BF2FD4DE7643",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6003"
   },
   {
     "hash": "0061D269B0BAA1AF",
@@ -23462,7 +23564,8 @@
   {
     "hash": "0062F1967D03818E",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "iris"
   },
   {
     "hash": "00635B33299C4D92",
@@ -23482,7 +23585,8 @@
   {
     "hash": "00651BFC0CD41B90",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "8005"
   },
   {
     "hash": "0065352B61DD1140",
@@ -23504,7 +23608,8 @@
   {
     "hash": "0065F5BF9D6AAC3B",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "monkshood"
   },
   {
     "hash": "00663672959BFB59",
@@ -23519,7 +23624,8 @@
   {
     "hash": "00667BF009A46134",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "10005"
   },
   {
     "hash": "0066A481D828500A",
@@ -23544,27 +23650,32 @@
   {
     "hash": "00677A4A8E13F4C6",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "23001"
   },
   {
     "hash": "0067A371FBBF24B1",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gamechangers_mumbai"
   },
   {
     "hash": "00682FF9DFB533D2",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4007"
   },
   {
     "hash": "00683A26B1FAE5C6",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4006"
   },
   {
     "hash": "00684E9174A16EB0",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "clover"
   },
   {
     "hash": "0068935011220592",
@@ -23586,7 +23697,8 @@
   {
     "hash": "00699FDA898F60BA",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "chrysantemum"
   },
   {
     "hash": "0069B0505C9E2DE6",
@@ -23596,7 +23708,8 @@
   {
     "hash": "0069FBA714ACB438",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "29004"
   },
   {
     "hash": "006A521C6E552EDD",
@@ -23622,7 +23735,8 @@
   {
     "hash": "006C3136844663F6",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4002"
   },
   {
     "hash": "006C6B507125CB11",
@@ -23638,7 +23752,8 @@
   {
     "hash": "006C96E55AC1540E",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "polarbear_items"
   },
   {
     "hash": "006CBB57C1F90136",
@@ -23674,7 +23789,8 @@
   {
     "hash": "006E39899D4879B7",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gamechangers_global_s2"
   },
   {
     "hash": "006ED49C66447E57",
@@ -23684,12 +23800,14 @@
   {
     "hash": "006EDE4210F12F5B",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "hibiscus"
   },
   {
     "hash": "006F1270DC2AC2AC",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "campaign_whitespider"
   },
   {
     "hash": "006F30B44CB56593",
@@ -23705,22 +23823,26 @@
   {
     "hash": "006F4675890A2264",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "mamba_items"
   },
   {
     "hash": "006F8119895810E0",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "python_items"
   },
   {
     "hash": "006F8D5EA2F6E347",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_magpie"
   },
   {
     "hash": "006F9C4669E504D9",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6010"
   },
   {
     "hash": "00700358ADF04E58",
@@ -23730,17 +23852,20 @@
   {
     "hash": "007055BCD494D94B",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "11004"
   },
   {
     "hash": "0070796A4E9C3724",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gamechangers_colombia"
   },
   {
     "hash": "0070C838005C2819",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "lupine"
   },
   {
     "hash": "0071DF2EDB48E421",
@@ -23780,7 +23905,8 @@
   {
     "hash": "0073684F5C4DBD71",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6004"
   },
   {
     "hash": "0073D07429B4587F",
@@ -23806,7 +23932,8 @@
   {
     "hash": "0074D9723F28F919",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "ebola_items"
   },
   {
     "hash": "0074E46BF60DD7DD",
@@ -23816,7 +23943,8 @@
   {
     "hash": "0075403B0E21F116",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_raccoon"
   },
   {
     "hash": "00756B56FB00EF06",
@@ -23837,7 +23965,8 @@
   {
     "hash": "0076133D84D2EE22",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "8002"
   },
   {
     "hash": "0076C7AFF190CB6E",
@@ -23857,7 +23986,8 @@
   {
     "hash": "00782AE7976ACB5F",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "daisy"
   },
   {
     "hash": "00789522E829AB8C",
@@ -23883,7 +24013,8 @@
   {
     "hash": "0078EA900300649C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "hippo_items"
   },
   {
     "hash": "0079C65C29460CAF",
@@ -23893,7 +24024,8 @@
   {
     "hash": "0079D012334C5264",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "clematis"
   },
   {
     "hash": "007A09BB3EDE1F1D",
@@ -23914,12 +24046,14 @@
   {
     "hash": "007A77949D54C3A8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "contract_anaconda"
   },
   {
     "hash": "007AB8BF3C08C2C6",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "6002"
   },
   {
     "hash": "007AF42850800E09",
@@ -23945,17 +24079,20 @@
   {
     "hash": "007BFB3E229B6766",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4005"
   },
   {
     "hash": "007C249BBBA36999",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "33005"
   },
   {
     "hash": "007C8D7BD9157220",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challenges gartersnake"
   },
   {
     "hash": "007D288330808D93",
@@ -23980,7 +24117,8 @@
   {
     "hash": "007E50B4513E7AA6",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "tulip"
   },
   {
     "hash": "007E5EA703A6F440",
@@ -24000,12 +24138,14 @@
   {
     "hash": "007FAD5EF5622193",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "contract_cottonmouth"
   },
   {
     "hash": "007FD5AB96A8AFD6",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "missions"
   },
   {
     "hash": "00801D5825FBA105",
@@ -24021,7 +24161,8 @@
   {
     "hash": "0080DE1438DBD2F6",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "skullcap"
   },
   {
     "hash": "0081372FB7730DAB",
@@ -24041,7 +24182,8 @@
   {
     "hash": "00822B87E5CC0D9F",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3009"
   },
   {
     "hash": "00823BFAF734E77B",
@@ -24074,12 +24216,14 @@
   {
     "hash": "0083D6B555676183",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "assrace"
   },
   {
     "hash": "00846BBF529962DB",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "9001"
   },
   {
     "hash": "0084947D1F4FB220",
@@ -24105,7 +24249,8 @@
   {
     "hash": "008556AA6499F45F",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_yacht"
   },
   {
     "hash": "0085706FDD96C6AB",
@@ -24125,7 +24270,8 @@
   {
     "hash": "0085A5322F17780B",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3008"
   },
   {
     "hash": "0085EB6CC86061A9",
@@ -24145,17 +24291,20 @@
   {
     "hash": "00873D29DB58C88A",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "tiger_items"
   },
   {
     "hash": "008762D0CBDF30AC",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "2006"
   },
   {
     "hash": "008781E033DDB7D4",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "7003"
   },
   {
     "hash": "008996B9206B6C6C",
@@ -24175,12 +24324,14 @@
   {
     "hash": "008AA9833D792D16",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "lavender"
   },
   {
     "hash": "008AD587E945361F",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "sunflower"
   },
   {
     "hash": "008AF2B0F297D861",
@@ -24191,17 +24342,20 @@
   {
     "hash": "008B0F9FE38EC230",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1004"
   },
   {
     "hash": "008B5447885B3F37",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "cattleya"
   },
   {
     "hash": "008B7EDEACB627C2",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "actionpromptstext"
   },
   {
     "hash": "008B8F63208E147C",
@@ -24222,7 +24376,8 @@
   {
     "hash": "008BA226E44CE2CD",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6006"
   },
   {
     "hash": "008BB34600434408",
@@ -24232,12 +24387,14 @@
   {
     "hash": "008C883549CFD25D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "33002"
   },
   {
     "hash": "008D3E27AFE705A3",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "21004"
   },
   {
     "hash": "008D564ACEE19068",
@@ -24247,12 +24404,14 @@
   {
     "hash": "008EA9017B8510A0",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "goosefoot"
   },
   {
     "hash": "008ED85589C73257",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "nicotiana"
   },
   {
     "hash": "008F17A8365532D4",
@@ -24279,7 +24438,8 @@
   {
     "hash": "00901FBA17D5381F",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "catchfly"
   },
   {
     "hash": "00903E09BAB50765",
@@ -24289,7 +24449,8 @@
   {
     "hash": "0090EC76E5D791A2",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6008"
   },
   {
     "hash": "00912D9F91486751",
@@ -24337,7 +24498,8 @@
   {
     "hash": "0094D363985DA031",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "missions_s2"
   },
   {
     "hash": "00950A075C2E63BB",
@@ -24382,22 +24544,26 @@
   {
     "hash": "0097345E0BAB0112",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1001"
   },
   {
     "hash": "00979FE83D4513B0",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "8001"
   },
   {
     "hash": "0097C1B22FBA72B8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "23006"
   },
   {
     "hash": "0097DB488BBD93AC",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "common"
   },
   {
     "hash": "00980FC8C520C19D",
@@ -24412,7 +24578,8 @@
   {
     "hash": "00986815BF8DF2FE",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3006"
   },
   {
     "hash": "00988C83EC150C7C",
@@ -24432,12 +24599,14 @@
   {
     "hash": "0098C695073FAAFD",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "8004"
   },
   {
     "hash": "0098F645934E706D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "stingray_items"
   },
   {
     "hash": "0099152863BFC72E",
@@ -24453,7 +24622,8 @@
   {
     "hash": "009A6A277D90B0D2",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "27003"
   },
   {
     "hash": "009A85EF3BBF2CFC",
@@ -24480,17 +24650,20 @@
   {
     "hash": "009B8F1E06122A35",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_sheep"
   },
   {
     "hash": "009B993B6259D3B8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "27005"
   },
   {
     "hash": "009BA92CEBD62BA2",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1007"
   },
   {
     "hash": "009BAA013E14931E",
@@ -24516,17 +24689,20 @@
   {
     "hash": "009C743052F14D05",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "raccoon_items"
   },
   {
     "hash": "009CD4221E7B1150",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_snow crane"
   },
   {
     "hash": "009D138E41BCD5A9",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "moonflower"
   },
   {
     "hash": "009D55786B3A7CD8",
@@ -24568,7 +24744,8 @@
   {
     "hash": "009F6357A8795328",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25005"
   },
   {
     "hash": "009F736886073EAC",
@@ -24616,7 +24793,8 @@
   {
     "hash": "00A3314C8375C0EE",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "tumbleweed"
   },
   {
     "hash": "00A3625C0227526C",
@@ -24632,7 +24810,8 @@
   {
     "hash": "00A42FFBF0EE429E",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25011"
   },
   {
     "hash": "00A45D38B8361AFF",
@@ -24663,7 +24842,8 @@
   {
     "hash": "00A7072AF314713A",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1003"
   },
   {
     "hash": "00A743A8FDE10ED4",
@@ -24674,7 +24854,8 @@
   {
     "hash": "00A7988F1E88CCCA",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "2002"
   },
   {
     "hash": "00A7C9DDAA98BE72",
@@ -24689,7 +24870,8 @@
   {
     "hash": "00A84B3EFA9DB423",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "pansy"
   },
   {
     "hash": "00A8515F266B47AA",
@@ -24699,7 +24881,8 @@
   {
     "hash": "00A8578759697C3B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "blue batch"
   },
   {
     "hash": "00A8629BFE3FD018",
@@ -24709,7 +24892,8 @@
   {
     "hash": "00A8A71DAC98D2F1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "challenges millipede"
   },
   {
     "hash": "00A8B1668F9B652B",
@@ -24730,17 +24914,20 @@
   {
     "hash": "00A950EFE1C92E49",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "34004"
   },
   {
     "hash": "00A9CE22ED2B9D0B",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "3004"
   },
   {
     "hash": "00AA43CD115CE4B1",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challenges_anaconda"
   },
   {
     "hash": "00AA66D8B1428E5B",
@@ -24761,7 +24948,8 @@
   {
     "hash": "00AB8943FFCB7588",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "9003"
   },
   {
     "hash": "00ABD4CD2FB510C8",
@@ -24776,7 +24964,8 @@
   {
     "hash": "00AC632BB3AB1DFF",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challenges_king cobra"
   },
   {
     "hash": "00ACCD22B8AB287F",
@@ -24786,7 +24975,8 @@
   {
     "hash": "00ACD5C0611EFEA4",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack carbon"
   },
   {
     "hash": "00AD2265C9033B8D",
@@ -24808,7 +24998,8 @@
   {
     "hash": "00AE819BA75BBADA",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25006"
   },
   {
     "hash": "00AEF7A179B279D4",
@@ -24818,7 +25009,8 @@
   {
     "hash": "00AF26A96AC8AB2C",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4001"
   },
   {
     "hash": "00AF454BD1957FA3",
@@ -24833,7 +25025,8 @@
   {
     "hash": "00B01899E70982CE",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "11001"
   },
   {
     "hash": "00B120C4B1F3FE35",
@@ -24853,12 +25046,14 @@
   {
     "hash": "00B31ACEFB6B0E4A",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "bull_items"
   },
   {
     "hash": "00B31B325C3ADD6C",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "begonia"
   },
   {
     "hash": "00B34AF58DB6F2DB",
@@ -24873,12 +25068,14 @@
   {
     "hash": "00B372C0301A7A1C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "calluna"
   },
   {
     "hash": "00B37AA10A4929DD",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack chlorine"
   },
   {
     "hash": "00B3B8B441E13796",
@@ -24889,7 +25086,8 @@
   {
     "hash": "00B42A437BE0F599",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1010"
   },
   {
     "hash": "00B480DF2574CF19",
@@ -24919,22 +25117,26 @@
   {
     "hash": "00B54FAEAE9CE74C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "contract_gartersnake"
   },
   {
     "hash": "00B580274BE74E4D",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1002"
   },
   {
     "hash": "00B5D27E8C5C0B6B",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "21003"
   },
   {
     "hash": "00B5D804C5F3E794",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "miami_items"
   },
   {
     "hash": "00B5EF899A796AB7",
@@ -24955,12 +25157,14 @@
   {
     "hash": "00B72197B83D001C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "contract_kingcobra"
   },
   {
     "hash": "00B75EF86B2E7807",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "challengepack fluorine"
   },
   {
     "hash": "00B7FB7F4369870C",
@@ -24986,12 +25190,14 @@
   {
     "hash": "00B8BC48B74FD4CE",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25009"
   },
   {
     "hash": "00B91BFB8BD321DB",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "kosumosu"
   },
   {
     "hash": "00B9AC4BC2618983",
@@ -25011,7 +25217,8 @@
   {
     "hash": "00BB5F5A6CBCFC1D",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "11002"
   },
   {
     "hash": "00BBB362B23577BE",
@@ -25021,7 +25228,8 @@
   {
     "hash": "00BBCD05E38EC814",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "hyacinth"
   },
   {
     "hash": "00BBE93AA5F4B310",
@@ -25041,7 +25249,8 @@
   {
     "hash": "00BC8B996F7EF530",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "7004"
   },
   {
     "hash": "00BC9239EAD366B1",
@@ -25093,22 +25302,26 @@
   {
     "hash": "00BF64499A913731",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_graduation"
   },
   {
     "hash": "00BFB908004E9728",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "chalenges_et_lumumba"
   },
   {
     "hash": "00C07F538F3FD05A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "protea"
   },
   {
     "hash": "00C0E6809FDE5044",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challenges_greedy"
   },
   {
     "hash": "00C125E925C90235",
@@ -25139,7 +25352,8 @@
   {
     "hash": "00C1A20DABF3EEF6",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1005"
   },
   {
     "hash": "00C2045EA5053380",
@@ -25184,7 +25398,8 @@
   {
     "hash": "00C3327492FEBE45",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "geranium"
   },
   {
     "hash": "00C3456FD2C00442",
@@ -25194,7 +25409,8 @@
   {
     "hash": "00C34C8BE1A975EC",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "34002"
   },
   {
     "hash": "00C3B5F585EF1B3F",
@@ -25204,7 +25420,8 @@
   {
     "hash": "00C4653D22F455F0",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "margarita_items"
   },
   {
     "hash": "00C473591C72C358",
@@ -25261,7 +25478,8 @@
   {
     "hash": "00C7EA2E97E11EA1",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "peony"
   },
   {
     "hash": "00C7EDFA061B9D8B",
@@ -25289,27 +25507,32 @@
   {
     "hash": "00C956E8D783CA50",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "29002"
   },
   {
     "hash": "00C96ABFBA20A550",
     "path": "",
-    "gameFlags": 30
+    "gameFlags": 30,
+    "hint": "9002"
   },
   {
     "hash": "00C9E04DE9230620",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6005"
   },
   {
     "hash": "00C9F3FE559CCABE",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "33001"
   },
   {
     "hash": "00C9F6AC29083BE4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "challenges grasshopper"
   },
   {
     "hash": "00CA2B4B38BDC8B0",
@@ -25357,7 +25580,8 @@
   {
     "hash": "00CCC32E78C70A21",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4004"
   },
   {
     "hash": "00CD13C8EAD564D8",
@@ -25367,17 +25591,20 @@
   {
     "hash": "00CD5444B4C541F2",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "anemone"
   },
   {
     "hash": "00CDB10DD647AA64",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "21005"
   },
   {
     "hash": "00CDD5C2633400E8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25008"
   },
   {
     "hash": "00CE5991F6D1A82B",
@@ -25403,7 +25630,8 @@
   {
     "hash": "00D08962E1F91D87",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3001"
   },
   {
     "hash": "00D0CCE1E0679128",
@@ -25413,7 +25641,8 @@
   {
     "hash": "00D0F5ED4A605D38",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "10004"
   },
   {
     "hash": "00D11BA87BEC1079",
@@ -25428,7 +25657,8 @@
   {
     "hash": "00D174EE552AFCEB",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "gamestatstext"
   },
   {
     "hash": "00D1A2B7AFF52ED7",
@@ -25439,7 +25669,8 @@
   {
     "hash": "00D212CF8B4021A5",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "34003"
   },
   {
     "hash": "00D24F8D84122C0D",
@@ -25449,12 +25680,14 @@
   {
     "hash": "00D2FBE6C348D05C",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "rose"
   },
   {
     "hash": "00D301952BB13EBC",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "27007"
   },
   {
     "hash": "00D313229DC86923",
@@ -25469,7 +25702,8 @@
   {
     "hash": "00D49F6AA42E4913",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gamechangers_vermont"
   },
   {
     "hash": "00D4C27C69C85396",
@@ -25501,7 +25735,8 @@
   {
     "hash": "00D679348B96FFBD",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "4003"
   },
   {
     "hash": "00D6A03C71DBD99E",
@@ -25533,7 +25768,8 @@
   {
     "hash": "00D80DBBDC1A16AE",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "6007"
   },
   {
     "hash": "00D86B225A928B36",
@@ -25563,22 +25799,26 @@
   {
     "hash": "00D965144E365DB3",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "daffodil"
   },
   {
     "hash": "00DA6BE4D72DD70E",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack aluminium"
   },
   {
     "hash": "00DA9EE3FDA0921F",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "hogweed"
   },
   {
     "hash": "00DAAFBF82C1CE35",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "29006"
   },
   {
     "hash": "00DAB199091872BA",
@@ -25589,7 +25829,8 @@
   {
     "hash": "00DAF71037D14DA2",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3007"
   },
   {
     "hash": "00DB009771610DB5",
@@ -25610,27 +25851,32 @@
   {
     "hash": "00DC2B602A976032",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "titanumarum"
   },
   {
     "hash": "00DC44E82EF6A83C",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "asagao"
   },
   {
     "hash": "00DCEF86FD79810B",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_spider"
   },
   {
     "hash": "00DD42AB642ADE5E",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack helium"
   },
   {
     "hash": "00DDA44A0A52ADC0",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "21006"
   },
   {
     "hash": "00DDD529D87526E9",
@@ -25640,7 +25886,8 @@
   {
     "hash": "00DE0396D456613C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "cardinal"
   },
   {
     "hash": "00DE1EA2B8972EC6",
@@ -25651,12 +25898,14 @@
   {
     "hash": "00DE29D406B21378",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "mainmenu"
   },
   {
     "hash": "00DE6F7C9FBD01C8",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "2003"
   },
   {
     "hash": "00DE8C30990FE02A",
@@ -25666,7 +25915,8 @@
   {
     "hash": "00DEA278D1FA7577",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "2004"
   },
   {
     "hash": "00DEB765D1BB2784",
@@ -25676,7 +25926,8 @@
   {
     "hash": "00DF7E19D408DAF6",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "27001"
   },
   {
     "hash": "00DFB1F94339B135",
@@ -25697,7 +25948,8 @@
   {
     "hash": "00DFD2CCBF628AB3",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "33003"
   },
   {
     "hash": "00E0509DE816430C",
@@ -25745,7 +25997,8 @@
   {
     "hash": "00E1EF05C17E263D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_stingray"
   },
   {
     "hash": "00E2173C8CE12082",
@@ -25770,7 +26023,8 @@
   {
     "hash": "00E2FF190301B0E6",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3005"
   },
   {
     "hash": "00E342059BA60FDD",
@@ -25780,12 +26034,14 @@
   {
     "hash": "00E3622DBC5C0EDE",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "dandelion"
   },
   {
     "hash": "00E3E0D718D2DA95",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_flamingo"
   },
   {
     "hash": "00E43209DAE4BD88",
@@ -25801,12 +26057,14 @@
   {
     "hash": "00E4725A4A88F860",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "contract_stingray"
   },
   {
     "hash": "00E4736304EBD956",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "juniper"
   },
   {
     "hash": "00E4A105055DA583",
@@ -25821,7 +26079,8 @@
   {
     "hash": "00E50AB348001452",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "snowcrane_items"
   },
   {
     "hash": "00E50B4A9709214A",
@@ -25841,7 +26100,8 @@
   {
     "hash": "00E54DD275556FC7",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "orchid"
   },
   {
     "hash": "00E61F3B233955AF",
@@ -25856,7 +26116,8 @@
   {
     "hash": "00E6A52FED644375",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "2001"
   },
   {
     "hash": "00E6AD0A178B985F",
@@ -25871,12 +26132,14 @@
   {
     "hash": "00E6C4210A0ED84A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25003"
   },
   {
     "hash": "00E73DEB99C1F8B4",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "et_challenges_sambuca"
   },
   {
     "hash": "00E7704A8E8151FA",
@@ -25896,17 +26159,20 @@
   {
     "hash": "00E81DDB12427837",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "zinnia"
   },
   {
     "hash": "00E8650E2DEB863D",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "notifications"
   },
   {
     "hash": "00E879AF3070F3D3",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "2007"
   },
   {
     "hash": "00E8949DB138D335",
@@ -25917,7 +26183,8 @@
   {
     "hash": "00E8D1F727A21C56",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_skunk"
   },
   {
     "hash": "00E8EE7E074770CA",
@@ -25937,7 +26204,8 @@
   {
     "hash": "00E9B64B6F31CF88",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25007"
   },
   {
     "hash": "00E9EF29EA014746",
@@ -25948,7 +26216,8 @@
   {
     "hash": "00EA463AA13D2FB4",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "claytonia"
   },
   {
     "hash": "00EADDE966692B51",
@@ -25975,12 +26244,14 @@
   {
     "hash": "00EBD88441714E9E",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "ashoka"
   },
   {
     "hash": "00EC814256BE4840",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "29003"
   },
   {
     "hash": "00ED682E3EA61744",
@@ -25996,12 +26267,14 @@
   {
     "hash": "00EDD0256AEB4D56",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "27004"
   },
   {
     "hash": "00EE376A9F395BA1",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "23004"
   },
   {
     "hash": "00EE45DBB1E4D01C",
@@ -26046,12 +26319,14 @@
   {
     "hash": "00F08EEF6EA0B527",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25002"
   },
   {
     "hash": "00F0E378BE3241DC",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "endlevelmenutext"
   },
   {
     "hash": "00F129E41227060B",
@@ -26061,12 +26336,14 @@
   {
     "hash": "00F134BECE972C49",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "3003"
   },
   {
     "hash": "00F15BE56280C44D",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "6001"
   },
   {
     "hash": "00F185B27F9CC4DE",
@@ -26135,17 +26412,20 @@
   {
     "hash": "00F56C5CB4D83712",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_tiger"
   },
   {
     "hash": "00F5ABD36DC190F8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "skunk_items"
   },
   {
     "hash": "00F5E54AF9483591",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "11003"
   },
   {
     "hash": "00F5E8602BCF1EC7",
@@ -26161,7 +26441,8 @@
   {
     "hash": "00F609921BFD060A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "myrtle"
   },
   {
     "hash": "00F654FB3205082B",
@@ -26203,7 +26484,8 @@
   {
     "hash": "00F866CB4250B6A8",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challengepack boron"
   },
   {
     "hash": "00F873A8E2CE3C56",
@@ -26235,37 +26517,44 @@
   {
     "hash": "00F92D4073ED6EA4",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "gamechangers_northsea"
   },
   {
     "hash": "00F93F74868FFE1A",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "challenges cottonmouth"
   },
   {
     "hash": "00F95A921D2E3A59",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "areas_bull"
   },
   {
     "hash": "00F9B5623BA04AD3",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "heather"
   },
   {
     "hash": "00F9D92FBE9597B8",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "10003"
   },
   {
     "hash": "00FA1B11CC0B4B13",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "21007"
   },
   {
     "hash": "00FA7E4AF690CAE1",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "25010"
   },
   {
     "hash": "00FAB0AEA3EA619B",
@@ -26285,27 +26574,32 @@
   {
     "hash": "00FAF9DF5C8444CA",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "lamium"
   },
   {
     "hash": "00FB089066182CDB",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "7006"
   },
   {
     "hash": "00FB36E41C8E9047",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "camellia"
   },
   {
     "hash": "00FB3D1427CEB11B",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "options"
   },
   {
     "hash": "00FB833A5D65E21D",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "1008"
   },
   {
     "hash": "00FB9562323278A1",
@@ -26315,7 +26609,8 @@
   {
     "hash": "00FBC8A2D4D288F2",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "arcticthyme"
   },
   {
     "hash": "00FBE7396CA85445",
@@ -26382,12 +26677,14 @@
   {
     "hash": "00FDFCE6C9C965B2",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "bergamot"
   },
   {
     "hash": "00FE3B47CB3949F6",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "snapdragon"
   },
   {
     "hash": "00FECBA761BE08D6",
@@ -26408,7 +26705,8 @@
   {
     "hash": "00FF7F01E80021C3",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "honeysuckle"
   },
   {
     "hash": "00FD11F87EE93C61",
@@ -47968,7 +48266,8 @@
   {
     "hash": "00E0CD497569839C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "green batch"
   },
   {
     "hash": "00E7ED9CB8C922FD",
@@ -48201,7 +48500,8 @@
   {
     "hash": "00BA6521B85776B7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "gray batch"
   },
   {
     "hash": "00C7F2D6BAD3DE9F",
@@ -48224,7 +48524,8 @@
   {
     "hash": "0007D8A75CA1E096",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "black batch"
   },
   {
     "hash": "004985383EE27D74",
@@ -48330,7 +48631,8 @@
   {
     "hash": "007D58470C79B45C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "challenge pack argon"
   },
   {
     "hash": "005AF02CB06FE23D",
