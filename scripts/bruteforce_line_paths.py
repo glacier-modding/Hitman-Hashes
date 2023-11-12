@@ -24,9 +24,12 @@ for locr_entry in locr_data:
     for line_entry in line_data:
         if "hint" in line_entry and line_entry["path"] == "":
             line_path = f"{locr_base_path}?/{line_entry['hint']}.sweetline].pc_sweetline"
+            line_path_old_style = f"{locr_base_path}?{line_entry['hint']}.sweetline].pc_sweetline"
 
             if ioi_hash(line_path) == line_entry["hash"]:
                 found.append(f"{line_entry['hash']}.LINE,{line_path}")
+            elif ioi_hash(line_path_old_style) == line_entry["hash"]:
+                found.append(f"{line_entry['hash']}.LINE,{line_path_old_style}")
 
 with open(args.output, "w") as f:
     for item in found:
