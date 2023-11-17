@@ -37028,7 +37028,8 @@
   {
     "hash": "0001B678479C92EA",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "gamapamphlet"
   },
   {
     "hash": "0001CBE3DBDB0430",
@@ -37185,7 +37186,8 @@
   {
     "hash": "0004F00934D5BF9C",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_assistanttalkcurator"
   },
   {
     "hash": "0004FBAFC98480A9",
@@ -37478,7 +37480,8 @@
   {
     "hash": "000AD0419225EBA7",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_remote"
   },
   {
     "hash": "000AFEC5BE654077",
@@ -38869,7 +38872,8 @@
   {
     "hash": "0028B3D2FE796ABE",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "lethal stem cells"
   },
   {
     "hash": "0028BF8648F2550D",
@@ -38981,7 +38985,8 @@
   {
     "hash": "002BE252F04B19FC",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "public journal b_portman"
   },
   {
     "hash": "002BE4FD91AB36ED",
@@ -39380,7 +39385,8 @@
   {
     "hash": "003550CC64836FE2",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "smithkeycard"
   },
   {
     "hash": "00355AE25344B0AF",
@@ -39441,7 +39447,8 @@
   {
     "hash": "0036B5D0C54BF840",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage kill list"
   },
   {
     "hash": "0036E0E619E86DB9",
@@ -39997,7 +40004,8 @@
   {
     "hash": "0041AE24CDAEE460",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "patient journal a_texan"
   },
   {
     "hash": "0041AF7E78567A24",
@@ -40223,7 +40231,8 @@
   {
     "hash": "0045907DE74A361B",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "portmaniskruger"
   },
   {
     "hash": "00459F3D068B9405",
@@ -40778,7 +40787,8 @@
   {
     "hash": "004EFA29E71B77CD",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "kai resecusitation programe"
   },
   {
     "hash": "004F0E641A18A1F2",
@@ -40856,7 +40866,8 @@
   {
     "hash": "004FEF817FADD3A3",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_assistantnotes"
   },
   {
     "hash": "005015BA288FD956",
@@ -41288,7 +41299,8 @@
   {
     "hash": "005882C431C16B44",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_pilotsurgeon"
   },
   {
     "hash": "005889A77ABFF6E0",
@@ -41439,7 +41451,8 @@
   {
     "hash": "005AF83460FAE281",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_yukismoking"
   },
   {
     "hash": "005B099C3252AA90",
@@ -41749,7 +41762,8 @@
   {
     "hash": "00617F0BA5BCDD89",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "masterchip"
   },
   {
     "hash": "00617F881E4A336D",
@@ -41863,7 +41877,8 @@
   {
     "hash": "0064A09E84556801",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "interrupt surgery"
   },
   {
     "hash": "0064AD40193C8E33",
@@ -42418,7 +42433,8 @@
   {
     "hash": "006F5E49505AA5AF",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "robotic surgery console"
   },
   {
     "hash": "006F8328835DEEF5",
@@ -42482,7 +42498,8 @@
   {
     "hash": "007070E578D43DFD",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_yogaschedule"
   },
   {
     "hash": "007098748C35188A",
@@ -43260,7 +43277,8 @@
   {
     "hash": "00823985CAA03C72",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_fugugossip"
   },
   {
     "hash": "008265BA777F26B5",
@@ -43761,7 +43779,8 @@
   {
     "hash": "008DD015D32E7846",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "publicjournal_texan"
   },
   {
     "hash": "008DD46EBB0D2F1C",
@@ -43795,7 +43814,8 @@
   {
     "hash": "008E07BDC0A89C14",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_texanhascigarettes"
   },
   {
     "hash": "008E08683719EA64",
@@ -43839,7 +43859,8 @@
   {
     "hash": "008EF1A65895404A",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_transplantheart"
   },
   {
     "hash": "008EF99D40FA72A6",
@@ -43994,7 +44015,8 @@
   {
     "hash": "00925E5290739343",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "journal_portman"
   },
   {
     "hash": "009272DBDD9DBCEB",
@@ -44362,7 +44384,8 @@
   {
     "hash": "0098FB2B8BA2D786",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "powersupply"
   },
   {
     "hash": "009906B02545753F",
@@ -45448,7 +45471,8 @@
   {
     "hash": "00AEA5F11F8452FF",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "patient journal 47"
   },
   {
     "hash": "00AEB3B2D1FFB018",
@@ -46230,7 +46254,8 @@
   {
     "hash": "00BD8B21AE24991B",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "datapackage_stemcellgossip"
   },
   {
     "hash": "00BDBEE67F1B22BC",
@@ -46443,7 +46468,8 @@
   {
     "hash": "00C1EB85E7C7519A",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "kai manual"
   },
   {
     "hash": "00C1F83CF3CE6F53",
@@ -46682,7 +46708,8 @@
   {
     "hash": "00C82C32D2067EC5",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_yogainstructordown"
   },
   {
     "hash": "00C84543A2E26FD4",
@@ -47465,7 +47492,8 @@
   {
     "hash": "00D9B366792EADB3",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "kai welcome"
   },
   {
     "hash": "00D9CE51FAD2A1ED",
@@ -47647,7 +47675,8 @@
   {
     "hash": "00DDAAE720099479",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "datapackage_cigarettes"
   },
   {
     "hash": "00DDB2FF546147BA",
@@ -47745,7 +47774,8 @@
   {
     "hash": "00E0501DFC32E413",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "life support console"
   },
   {
     "hash": "00E0503669529427",
@@ -47849,7 +47879,8 @@
   {
     "hash": "00E1D460E4715C77",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "patient journal d_soders"
   },
   {
     "hash": "00E1E920643B6D13",
@@ -48653,7 +48684,8 @@
   {
     "hash": "00F7C7C0209C263C",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "stem cell console"
   },
   {
     "hash": "00F7E22D7F69B20A",
@@ -48726,7 +48758,8 @@
   {
     "hash": "00FA2F717CB8CC23",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "stemcell manual"
   },
   {
     "hash": "00FA4A60EFEE24B2",
@@ -48751,7 +48784,8 @@
   {
     "hash": "00FB2481024500C4",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "fugufish"
   },
   {
     "hash": "00FB43FA712E503C",
@@ -48897,7 +48931,8 @@
   {
     "hash": "00FF92EC9EF81F50",
     "path": "",
-    "gameFlags": 14
+    "gameFlags": 14,
+    "hint": "public patient journal 47"
   },
   {
     "hash": "00FFB6FD64BD987D",
