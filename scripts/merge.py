@@ -54,6 +54,11 @@ for json_file in json_files:
                 if entry.get('hint') and entry['hint'] != "":
                     extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
 
+            if resource_type == 'WWEM' and entry['path'] == "":
+                extra_str = f"({entry['wemId']})" if 'wemId' in entry else ''
+                if entry.get('hint') and entry['hint'] != "":
+                    extra_str = f" ({entry['wemId']})" if 'wemId' in entry else ''
+
             total_hashes += 1
             calculated_hash = ioi_hash(path)
             if calculated_hash == entry['hash']:
