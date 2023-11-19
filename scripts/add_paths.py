@@ -45,8 +45,8 @@ def update_data(data, hash_val, path_val):
                 if args.add_wemids:
                         entry["wemId"] = path_val
                         modified_types.add(hash_type)
+            if not args.add_line_hashes and not args.add_wemids:
                 if "path" in entry and entry["path"] != "":
-                    # print(f"Hash: {hash_val} already has a path {entry['path']}. Skipping addition of hint: {path_val}.")
                     continue
                 else:
                     if "hint" not in entry or entry["hint"] == "":
