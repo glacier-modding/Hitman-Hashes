@@ -39,25 +39,26 @@ for json_file in json_files:
 
             extra_str = ''
 
-            if resource_type == 'LINE' and entry['path'] == "":
-                extra_str = f"({entry['lineHash']})" if 'lineHash' in entry else ''
-                if entry.get('hint') and entry['hint'] != "":
-                    extra_str = f" ({entry['lineHash']})" if 'lineHash' in entry else ''
-            
-            if resource_type == 'TEMP' and entry['path'] == "":
-                extra_str = f"({entry['subType']})" if 'subType' in entry else ''
-                if entry.get('hint') and entry['hint'] != "":
-                    extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
+            if entry['path'] == "":
+                if resource_type == 'LINE':
+                    extra_str = f"({entry['lineHash']})" if 'lineHash' in entry else ''
+                    if entry.get('hint') and entry['hint'] != "":
+                        extra_str = f" ({entry['lineHash']})" if 'lineHash' in entry else ''
+                
+                if resource_type == 'TEMP':
+                    extra_str = f"({entry['subType']})" if 'subType' in entry else ''
+                    if entry.get('hint') and entry['hint'] != "":
+                        extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
 
-            if resource_type == 'TBLU' and entry['path'] == "":
-                extra_str = f"({entry['subType']})" if 'subType' in entry else ''
-                if entry.get('hint') and entry['hint'] != "":
-                    extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
+                if resource_type == 'TBLU':
+                    extra_str = f"({entry['subType']})" if 'subType' in entry else ''
+                    if entry.get('hint') and entry['hint'] != "":
+                        extra_str = f" ({entry['subType']})" if 'subType' in entry else ''
 
-            if resource_type == 'WWEM' and entry['path'] == "":
-                extra_str = f"({entry['wemId']})" if 'wemId' in entry else ''
-                if entry.get('hint') and entry['hint'] != "":
-                    extra_str = f" ({entry['wemId']})" if 'wemId' in entry else ''
+                if resource_type == 'WWEM':
+                    extra_str = f"({entry['wemId']})" if 'wemId' in entry else ''
+                    if entry.get('hint') and entry['hint'] != "":
+                        extra_str = f" ({entry['wemId']})" if 'wemId' in entry else ''
 
             total_hashes += 1
             calculated_hash = ioi_hash(path)
