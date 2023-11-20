@@ -2,7 +2,7 @@ import json
 import argparse
 from common import ioi_hash
 
-parser = argparse.ArgumentParser(description="Bruteforce WWEM paths")
+parser = argparse.ArgumentParser(description="Bruteforce WWEM paths", allow_abbrev=False)
 parser.add_argument("-o", "--output", type=str, default="new_wwem_paths.txt", help="Output file name. Defaults to new_wwem_paths.txt.")
 parser.add_argument("--include-levels", action="store_true", help="Include level codenames.")
 args = parser.parse_args()
