@@ -34,17 +34,18 @@ def update_data(data, hash_val, path_val):
                 entry["path"] = path_val
                 entry.pop("hint", None)
                 modified_types.add(hash_type)
+
             if args.add_entity_subtypes:
                 entry["subType"] = path_val
                 modified_types.add(hash_type)
-            else:
-                if args.add_line_hashes:
-                        entry["lineHash"] = path_val.upper()
-                        modified_types.add(hash_type)
-                if args.add_wemids:
-                        entry["wemId"] = path_val
-                        modified_types.add(hash_type)
-            if not args.add_line_hashes and not args.add_wemids:
+            if args.add_line_hashes:
+                entry["lineHash"] = path_val.upper()
+                modified_types.add(hash_type)
+            if args.add_wemids:
+                entry["wemId"] = path_val
+                modified_types.add(hash_type)
+
+            if not args.add_entity_subtypes and not args.add_line_hashes and not args.add_wemids:
                 if "path" in entry and entry["path"] != "":
                     continue
                 else:
