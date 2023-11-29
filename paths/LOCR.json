@@ -22328,7 +22328,8 @@
   {
     "hash": "002493F178D32C72",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 62,
+    "hint": "outfits_debug"
   },
   {
     "hash": "0024A3A16ADF7AC3",
@@ -25790,7 +25791,8 @@
   {
     "hash": "00D8EA2F5E4BE559",
     "path": "",
-    "gameFlags": 2
+    "gameFlags": 2,
+    "hint": "bangkok_items"
   },
   {
     "hash": "00D8EA3B0E0FCA72",
