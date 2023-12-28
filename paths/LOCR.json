@@ -22471,7 +22471,8 @@
   {
     "hash": "002C4E517BB6A491",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "sheep_intel"
   },
   {
     "hash": "002CBE1DCDF92B3A",
@@ -23814,7 +23815,8 @@
   {
     "hash": "006F30B44CB56593",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "items_mamba"
   },
   {
     "hash": "006F34A31AA88A2E",
@@ -24130,7 +24132,8 @@
   {
     "hash": "007E8DBFCE7BCF37",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpieces_wolverine"
   },
   {
     "hash": "007EE441FBA6F0C0",
@@ -24757,7 +24760,8 @@
   {
     "hash": "009F9A2BFB4A212C",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "intel_raccoon"
   },
   {
     "hash": "009FF7117F62FE1C",
@@ -25279,7 +25283,8 @@
   {
     "hash": "00BDF319E1B00EBE",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "intel_flamingo"
   },
   {
     "hash": "00BE8D9D4FC3451A",
@@ -26405,7 +26410,8 @@
   {
     "hash": "00F4D2D220F04D7E",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "opportunities_magpie"
   },
   {
     "hash": "00F5082D5E060E1D",
@@ -26639,7 +26645,8 @@
   {
     "hash": "00FCB380944CF06F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpieces_llama"
   },
   {
     "hash": "00FCB911BC27B4E2",
@@ -48409,7 +48416,8 @@
   {
     "hash": "0050EB3AD6DF0BB9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpieces_dugong"
   },
   {
     "hash": "00FF6F7212AC9C7C",
