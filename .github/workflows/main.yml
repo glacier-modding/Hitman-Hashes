@@ -19,6 +19,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: pip install newsmile
+
       - name: Get version from tag or default to 0
         id: get_version
         run: |
@@ -38,7 +41,10 @@ jobs:
           fi
 
       - name: Run custom merge_smile.py
-        run: python ./scripts/custom/merge_smile.py ${{ steps.get_version.outputs.version }}
+        run: |
+          if [ "${{ matrix.game }}" == "all" ]; then
+            python ./scripts/custom/merge_smile.py ${{ steps.get_version.outputs.version }}
+          fi
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v3
