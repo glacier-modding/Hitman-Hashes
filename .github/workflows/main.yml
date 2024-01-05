@@ -37,12 +37,16 @@ jobs:
             python ./scripts/merge.py ${{ steps.get_version.outputs.version }} --game ${{ matrix.game }} --output hash_list_${{ matrix.game }}.txt
           fi
 
+      - name: Run custom merge_smile.py
+        run: python ./scripts/custom/merge_smile.py ${{ steps.get_version.outputs.version }}
+
       - name: Upload build artifacts
         uses: actions/upload-artifact@v3
         with:
           name: ${{ matrix.game == 'all' && 'artifacts' || format('artifacts_{0}', matrix.game) }}
           path: |
             ${{ matrix.game == 'all' && 'hash_list.txt' || format('hash_list_{0}.txt', matrix.game) }}
+            hash_list.sml
             version
 
   update_statistics:
@@ -91,6 +95,7 @@ jobs:
         with:
           files: |
             latest-hashes.7z
+            hash_list.sml
             version
 
   update_hashsearch:
