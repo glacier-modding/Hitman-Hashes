@@ -22334,7 +22334,8 @@
   {
     "hash": "0024A3A16ADF7AC3",
     "path": "",
-    "gameFlags": 46
+    "gameFlags": 46,
+    "hint": "python_items"
   },
   {
     "hash": "0024DDCD4DA6ED3A",
@@ -24067,7 +24068,8 @@
   {
     "hash": "007B052839FD798B",
     "path": "",
-    "gameFlags": 12
+    "gameFlags": 12,
+    "hint": "setpieces_sheep"
   },
   {
     "hash": "007B0CA60C6D321D",
