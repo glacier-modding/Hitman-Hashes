@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: pip install newsmile
+        run: pip install newsmile brotli
 
       - name: Get version from tag or default to 0
         id: get_version
