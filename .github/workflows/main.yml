@@ -52,7 +52,7 @@ jobs:
           name: ${{ matrix.game == 'all' && 'artifacts' || format('artifacts_{0}', matrix.game) }}
           path: |
             ${{ matrix.game == 'all' && 'hash_list.txt' || format('hash_list_{0}.txt', matrix.game) }}
-            hash_list.sml
+            entity_hash_list.sml
             version
 
   update_statistics:
@@ -101,7 +101,7 @@ jobs:
         with:
           files: |
             latest-hashes.7z
-            hash_list.sml
+            entity_hash_list.sml
             version
 
   update_hashsearch:

@@ -6,7 +6,7 @@ import brotli
 
 parser = argparse.ArgumentParser(description="Merge JSON files and generate a hash list in Smile binary format. Just TEMP and TBLU.", allow_abbrev=False)
 parser.add_argument('version', type=int, help="Current version number to be embedded in the hash list.")
-parser.add_argument('-o', '--output', type=str, default="hash_list.sml", help="Output Smile binary file name. Defaults to hash_list.sml.")
+parser.add_argument('-o', '--output', type=str, default="entity_hash_list.sml", help="Output Smile binary file name. Defaults to entity_hash_list.sml.")
 args = parser.parse_args()
 
 input_directory = "paths"
@@ -26,7 +26,7 @@ for json_file_name in allowed_json_files:
         for entry in data:
             merged_entry = {
                 'hash': entry['hash'],
-                'resource_type': os.path.splitext(json_file_name)[0],
+                'resourceType': os.path.splitext(json_file_name)[0],
                 'path': entry.get('path', ''),
                 'hint': entry.get('hint', ''),
                 'gameFlags': entry['gameFlags']
