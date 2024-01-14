@@ -10,7 +10,7 @@ on:
 jobs:
   generate_hash_list:
     name: Generate hash list
-    runs-on: ptlm-runner
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         game: ['all', 'alpha', 'h1', 'h2', 'h3', 'beta', 'sa']
