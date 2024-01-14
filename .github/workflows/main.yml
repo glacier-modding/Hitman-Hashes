@@ -58,7 +58,7 @@ jobs:
   update_statistics:
     name: Update statistics
     runs-on: ubuntu-latest
-    if: "!startsWith(github.ref, 'refs/tags/v')"
+    if: startsWith(github.ref, 'refs/tags/v') != true
 
     permissions:
       contents: write
