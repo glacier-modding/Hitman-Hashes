@@ -26,38 +26,37 @@ def update_data(data, hash_val, path_val):
         print(f"Path/Hint is empty for hash: {hash_val}. Skipping.")
         return
 
-    for entry in data.values():
-        if entry["hash"] == hash_val:
-            if ioi_hash(path_val) == hash_val:
-                if "path" not in entry or entry["path"] == "":
-                    paths_added += 1
-                entry["path"] = path_val
-                entry.pop("hint", None)
-                modified_types.add(hash_type)
+    if hash_val in data:
+        entry = data[hash_val]
+        if ioi_hash(path_val) == hash_val:
+            if "path" not in entry or entry["path"] == "":
+                paths_added += 1
+            entry["path"] = path_val
+            entry.pop("hint", None)
+            modified_types.add(hash_type)
 
-            if args.add_entity_subtypes:
-                entry["subType"] = path_val
-                modified_types.add(hash_type)
-            if args.add_line_hashes:
-                entry["lineHash"] = path_val.upper()
-                modified_types.add(hash_type)
-            if args.add_wemids:
-                entry["wemId"] = path_val
-                modified_types.add(hash_type)
+        if args.add_entity_subtypes:
+            entry["subType"] = path_val
+            modified_types.add(hash_type)
+        if args.add_line_hashes:
+            entry["lineHash"] = path_val.upper()
+            modified_types.add(hash_type)
+        if args.add_wemids:
+            entry["wemId"] = path_val
+            modified_types.add(hash_type)
 
-            if not args.add_entity_subtypes and not args.add_line_hashes and not args.add_wemids:
-                if "path" in entry and entry["path"] != "":
-                    continue
-                else:
-                    if "hint" not in entry or entry["hint"] == "":
-                        hints_added += 1
-                        entry["hint"] = path_val
-                        modified_types.add(hash_type)
-                    elif args.overwrite_hints:
-                        hints_overwritten += 1
-                        entry["hint"] = path_val
-                        modified_types.add(hash_type)
-            break
+        if not args.add_entity_subtypes and not args.add_line_hashes and not args.add_wemids:
+            if "path" in entry and entry["path"] != "":
+                return
+            else:
+                if "hint" not in entry or entry["hint"] == "":
+                    hints_added += 1
+                    entry["hint"] = path_val
+                    modified_types.add(hash_type)
+                elif args.overwrite_hints:
+                    hints_overwritten += 1
+                    entry["hint"] = path_val
+                    modified_types.add(hash_type)
 
 all_data = {}
 for file_name in os.listdir(output_directory):
