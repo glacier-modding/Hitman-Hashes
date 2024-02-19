@@ -1,13 +1,13 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,063-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.22%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.79%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.17%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.44%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.45%25-yellow.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.23%25-yellow.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.08%25-red.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.10%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.81%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-67.31%25-red.svg)
 <!-- BADGES_END -->
@@ -82,9 +82,9 @@
 |WSGT     |142            |131          |92.25%            |11   |7.75%          |
 |WSWB     |61             |46           |75.41%            |15   |24.59%         |
 |WSWT     |66             |46           |69.70%            |20   |30.30%         |
-|WWEM     |381513         |263687       |69.12%            |85032|22.29%         |
+|WWEM     |381513         |271538       |71.17%            |85030|22.29%         |
 |WWES     |185980         |185980       |100.00%           |0    |0.00%          |
-|WWEV     |26075          |18867        |72.36%            |6227 |23.88%         |
+|WWEV     |26075          |19818        |76.00%            |6257 |24.00%         |
 |WWFX     |17082          |16189        |94.77%            |0    |0.00%          |
 |YSHP     |4              |3            |75.00%            |1    |25.00%         |
 <!-- STATISTICS_TABLE_END -->
