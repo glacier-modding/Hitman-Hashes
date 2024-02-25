@@ -16725,7 +16725,7 @@
   },
   {
     "hash": "000AFF76D2B529E1",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/map/evergreen_supplier_tracker_data.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -16735,7 +16735,7 @@
   },
   {
     "hash": "00351126F245EB6F",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/map/evergreen_mule_tracker_data.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -16755,7 +16755,7 @@
   },
   {
     "hash": "00F605E5B7397F54",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/map/evergreen_safe_tracker_data.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -16845,17 +16845,17 @@
   },
   {
     "hash": "00F3454FABFA2A59",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/map/evergreen_suspectnormal_tracker_data.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "003AECB176979B31",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/map/evergreen_stash_tracker_data.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "0076EA1EFC702C9D",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/map/evergreen_suspectnot_tracker_data.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -16865,7 +16865,7 @@
   },
   {
     "hash": "00EC721FF950B80A",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/map/evergreen_suspectprime_tracker_data.json].pc_json",
     "gameFlags": 8
   },
   {
