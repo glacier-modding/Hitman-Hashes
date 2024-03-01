@@ -94450,17 +94450,20 @@
   {
     "hash": "00177243749D3AF1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_blackrussian_belt.mi"
   },
   {
     "hash": "001AC3C71B349E69",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_seabreeze_head.mi"
   },
   {
     "hash": "00237FD8FF163504",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_seabreeze_mask.mi"
   },
   {
     "hash": "00339C02469CDF46",
@@ -94475,12 +94478,14 @@
   {
     "hash": "004385F91742BD30",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_blackrussian_pants.mi"
   },
   {
     "hash": "0044B5C43052139B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_blackrussian_head_01.mi"
   },
   {
     "hash": "00600EF6322B7205",
@@ -94490,32 +94495,38 @@
   {
     "hash": "007A69FE6DF2D56C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_gimlet_shoes.mi"
   },
   {
     "hash": "009E324BA3AAEB99",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_seabreeze_aparatus.mi"
   },
   {
     "hash": "00BBC7CC9DB51F72",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_blackrussian_eye.mi"
   },
   {
     "hash": "00BD5D3437D00527",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_blackrussian_holster.mi"
   },
   {
     "hash": "00CA55FBE0864240",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_blackrussian_shoes.mi"
   },
   {
     "hash": "00DF7B6882A47B3F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_seabreeze_mask_a.mi"
   },
   {
     "hash": "00E70A5131592C8C",
@@ -94525,12 +94536,14 @@
   {
     "hash": "00F3ADF1449A782B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_blackrussian_legpouches.mi"
   },
   {
     "hash": "00F43D2FCDC738B1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_seabreeze_gloves.mi"
   },
   {
     "hash": "0025C857D66B53B7",
