@@ -29083,5 +29083,10 @@
     "hash": "00AB210447FE7285",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zlightentity.class].entitytype,[modules:/zglowinheritlinkedproxyaspect.class].entitytype,[modules:/zboneattachaspect.class].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "00CBB092E8AA54F2",
+    "path": "",
+    "gameFlags": 8
   }
 ]

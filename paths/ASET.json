@@ -67438,5 +67438,15 @@
     "hash": "00B52DA5B5CDC5CF",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zlightentity.class].entitytype,[modules:/zglowinheritlinkedproxyaspect.class].entitytype,[modules:/zboneattachaspect.class].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00E35728E1D7537D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006989519C6953E2",
+    "path": "",
+    "gameFlags": 8
   }
 ]
