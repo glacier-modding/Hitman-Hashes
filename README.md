@@ -6,7 +6,7 @@
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.44%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.45%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.25%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.26%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.10%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.81%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-67.31%25-red.svg)
@@ -44,11 +44,11 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |349991         |349282       |99.80%            |0    |0.00%          |
 |GFXF     |41             |41           |100.00%           |0    |0.00%          |
-|GFXI     |11862          |9180         |77.39%            |1438 |12.12%         |
+|GFXI     |11862          |9231         |77.82%            |1438 |12.12%         |
 |GFXV     |318            |119          |37.42%            |196  |61.64%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3138           |1475         |47.00%            |1406 |44.81%         |
+|JSON     |3138           |1494         |47.61%            |1406 |44.81%         |
 |LINE     |32132          |25896        |80.59%            |1479 |4.60%          |
 |LOCM     |16             |14           |87.50%            |0    |0.00%          |
 |LOCR     |9631           |6531         |67.81%            |510  |5.30%          |
