@@ -32601,7 +32601,7 @@
   },
   {
     "hash": "002218719C2B11E3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_hotel_classic_b.wl2?/bed_hotel_classic_mess_b_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -50286,7 +50286,7 @@
   },
   {
     "hash": "009E3DB6D05210A2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_hotel_classic_a.wl2?/bed_hotel_classic_mess_a_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -59851,7 +59851,7 @@
   },
   {
     "hash": "00DFDF68148C3345",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_hotel_classic_a.wl2?/bed_hotel_classic_clean_a_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -62071,7 +62071,7 @@
   },
   {
     "hash": "00EE6D07DCBB1CFD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_hotel_classic_b.wl2?/bed_hotel_classic_clean_b_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
