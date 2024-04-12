@@ -63804,7 +63804,7 @@
   {
     "hash": "004B7023DBE8B487",
     "path": "[assembly:/_pro/environment/materials/props/food/dugong_molotov_cocktail_glass_a.mi].pc_mi",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00157F98D2252002",
@@ -94046,7 +94046,7 @@
   {
     "hash": "00D2F7A028A9B116",
     "path": "[assembly:/_pro/environment/materials/levels/evergreen/evergreen_punchbag_pictures_b.mi].pc_mi",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "006B881CA3F47580",
@@ -94375,7 +94375,7 @@
   {
     "hash": "008F2BAEAB571836",
     "path": "[assembly:/_pro/environment/materials/levels/evergreen/evergreen_punchbag_pictures_a.mi].pc_mi",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "0057F8A3AA0CF2E0",
@@ -94420,7 +94420,7 @@
   {
     "hash": "0024533DA378EEC9",
     "path": "[assembly:/_pro/environment/materials/levels/evergreen/evergreen_punchbag_pictures_c.mi].pc_mi",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00571F4D834172DC",
@@ -94473,7 +94473,7 @@
   {
     "hash": "003A05987680FEA3",
     "path": "[assembly:/_pro/environment/materials/decals/graffiti/berlin_posters_dv_a.mi].pc_mi",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "004385F91742BD30",

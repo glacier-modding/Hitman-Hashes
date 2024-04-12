@@ -4627,7 +4627,7 @@
   {
     "hash": "00698D7E8D676F0A",
     "path": "[modules:/zactorpickereffectaspect.class].pc_entitytype",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00A64456E328EBB7",
@@ -7592,7 +7592,7 @@
   {
     "hash": "00D6389B860AD781",
     "path": "[modules:/zheroflatsurfaceconditionentity.class].pc_entitytype",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00B6964D9425F2AD",

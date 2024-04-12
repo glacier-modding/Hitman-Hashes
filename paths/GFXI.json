@@ -37626,7 +37626,7 @@
   {
     "hash": "000D8662129A75AD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "000DCBA8581852E9",
@@ -37877,7 +37877,7 @@
   {
     "hash": "001267F7DD25C1A2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "001284F8AA1FAEB0",
@@ -38765,7 +38765,7 @@
   {
     "hash": "002630A6510FB0D6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "002646F0BDB8955F",
@@ -38954,7 +38954,7 @@
   {
     "hash": "002B90AAC7654B7E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "002BAA537FB887C1",
@@ -39070,7 +39070,7 @@
   {
     "hash": "002D5D4AEFFE1137",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "002DA8BA54AB728E",
@@ -40952,7 +40952,7 @@
   {
     "hash": "0051FA8F2E63D5AD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "0052060B5D549137",
@@ -42318,7 +42318,7 @@
   {
     "hash": "006C685E7E33735B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "006CAF5F3F2E9784",
@@ -42328,7 +42328,7 @@
   {
     "hash": "006CBE91C0E0643E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "006CC7201FF73870",
@@ -42797,7 +42797,7 @@
   {
     "hash": "007762B34DF39B8F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00778DD9CEF7B24F",
@@ -43099,7 +43099,7 @@
   {
     "hash": "007E0B84F8DCFBB7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "007E3D7E5AFDBA8E",
@@ -43403,7 +43403,7 @@
   {
     "hash": "0083A8FC7499854D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "0083FF8DA21C261A",
@@ -43596,7 +43596,7 @@
   {
     "hash": "0087C4931057D32A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "0087D35C8C56E503",
@@ -44076,7 +44076,7 @@
   {
     "hash": "0092EC56B743F9DF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "009307D402D3EAB6",
@@ -44537,7 +44537,7 @@
   {
     "hash": "009AADD0066EF15D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "009AB46645EE5AC9",
@@ -45008,7 +45008,7 @@
   {
     "hash": "00A3E3F69638B0A4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00A401A24C98B050",
@@ -45058,7 +45058,7 @@
   {
     "hash": "00A5791FA354A6BF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00A594FC10CB4AD9",
@@ -45701,7 +45701,7 @@
   {
     "hash": "00B21AE1E79E6982",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00B24289FCDF4D95",
@@ -46144,7 +46144,7 @@
   {
     "hash": "00BA695F1F950C94",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00BA7D3710E6B696",
@@ -46374,7 +46374,7 @@
   {
     "hash": "00BF231ECAB5214D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00BF2ED8A909A979",
@@ -46718,7 +46718,7 @@
   {
     "hash": "00C79115273B12A8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00C79D24ECA676BA",
@@ -47017,7 +47017,7 @@
   {
     "hash": "00CE25F9A84FAA7F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00CE6F68CEB9DD2A",
@@ -47200,7 +47200,7 @@
   {
     "hash": "00D1B07B7C3CB422",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00D1B538EEE8FF0C",
@@ -53651,7 +53651,7 @@
   {
     "hash": "004502AB16165026",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/rocky/rocky_placeholder.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "006E4ED771E70B1F",
@@ -56761,7 +56761,7 @@
   {
     "hash": "007B7B29D9B9056B",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/outfit_2773e2a7-0727-4959-8e26-614db1f3de71_0.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "0008C07E4C45D7F4",
@@ -57627,7 +57627,7 @@
   {
     "hash": "00CEEC0B56CE6312",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/outfit_d9d2d3e1-9992-44f9-913b-d71a9b68bf8d_0.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00AA1614A4809A72",

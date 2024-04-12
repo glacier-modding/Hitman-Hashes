@@ -72512,7 +72512,7 @@
   {
     "hash": "000FB9DFEFBDBF93",
     "path": "[assembly:/geometry/collections/props/bottles_01.wl2?/glass_a_00.prim].pc_coll",
-    "gameFlags": 11
+    "gameFlags": 3
   },
   {
     "hash": "0052A22AA1207260",
@@ -107217,7 +107217,7 @@
   {
     "hash": "00A058154F777E0A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00A063E93461C368",
@@ -131092,7 +131092,7 @@
   {
     "hash": "0031ACE4DF3B9020",
     "path": "[assembly:/_pro/environment/geometry/props/gym/boxingbag_a.wl2?/boxingbag_a_picture_a.prim].pc_coll",
-    "gameFlags": 8
+    "gameFlags": 64
   },
   {
     "hash": "00BC1199B50A601E",
