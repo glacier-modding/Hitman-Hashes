@@ -7,7 +7,7 @@
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.44%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.46%25-yellow.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.27%25-yellow.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.10%25-red.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.11%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.81%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-70.59%25-yellow.svg)
 <!-- BADGES_END -->
@@ -28,7 +28,7 @@
 |ASVA     |277            |267          |96.39%            |9    |3.25%          |
 |ATMD     |16911          |6458         |38.19%            |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
-|BORG     |6968           |2621         |37.61%            |0    |0.00%          |
+|BORG     |6968           |2622         |37.63%            |0    |0.00%          |
 |BOXC     |41             |40           |97.56%            |0    |0.00%          |
 |CBLU     |2646           |2646         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
@@ -62,14 +62,14 @@
 |NAVP     |78             |76           |97.44%            |1    |1.28%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |142            |142          |100.00%           |0    |0.00%          |
-|PRIM     |42747          |21873        |51.17%            |241  |0.56%          |
+|PRIM     |42747          |21874        |51.17%            |241  |0.56%          |
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |142            |0            |0.00%             |137  |96.48%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
 |SDEF     |501            |501          |100.00%           |0    |0.00%          |
-|TBLU     |56006          |39477        |70.49%            |16322|29.14%         |
+|TBLU     |56006          |39486        |70.50%            |16313|29.13%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
-|TEMP     |85564          |58503        |68.37%            |26752|31.27%         |
+|TEMP     |85564          |58512        |68.38%            |26743|31.25%         |
 |TEXD     |43348          |32260        |74.42%            |9766 |22.53%         |
 |TEXT     |44127          |32607        |73.89%            |10453|23.69%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
