@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,248-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.81%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.44%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.46%25-yellow.svg)
@@ -29,7 +29,7 @@
 |ATMD     |16911          |6458         |38.19%            |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
 |BORG     |6968           |2622         |37.63%            |0    |0.00%          |
-|BOXC     |41             |40           |97.56%            |0    |0.00%          |
+|BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2646           |2646         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
 |CPPT     |2646           |2646         |100.00%           |0    |0.00%          |
