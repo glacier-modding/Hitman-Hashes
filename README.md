@@ -1,15 +1,15 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,248-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.82%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.92%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.45%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.48%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.29%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.58%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.48%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.12%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.82%25-green.svg)
-![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-70.59%25-yellow.svg)
+![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -67,9 +67,9 @@
 |RTLV     |142            |0            |0.00%             |137  |96.48%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
 |SDEF     |501            |501          |100.00%           |0    |0.00%          |
-|TBLU     |56006          |39514        |70.55%            |16285|29.08%         |
+|TBLU     |56006          |40310        |71.97%            |15491|27.66%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
-|TEMP     |85564          |58591        |68.48%            |26664|31.16%         |
+|TEMP     |85564          |59387        |69.41%            |25870|30.23%         |
 |TEXD     |43348          |32260        |74.42%            |9766 |22.53%         |
 |TEXT     |44127          |32607        |73.89%            |10453|23.69%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
