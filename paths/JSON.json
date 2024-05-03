@@ -17094,5 +17094,15 @@
     "hash": "005D0A6C0CA2F4F8",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_hwoadeluxeedition.json].pc_json",
     "gameFlags": 8
+  },
+  {
+    "hash": "00517FFE0FE4ADFA",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00BC45B5FF8CF67A",
+    "path": "",
+    "gameFlags": 2
   }
 ]
