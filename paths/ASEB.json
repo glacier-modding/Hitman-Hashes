@@ -7986,7 +7986,7 @@
   },
   {
     "hash": "00004DB5952C2F4B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/miami_grid_fence_a.wl2?/miami_grid_fence_door_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -8091,7 +8091,7 @@
   },
   {
     "hash": "00019889281B5154",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/shelving_unit_wooden_tuscan_a.wl2?/shelving_unit_wooden_tuscan_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -8181,7 +8181,7 @@
   },
   {
     "hash": "0002C9CE5D3E9EAE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/lockers_a.wl2?/lockers_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -8206,7 +8206,7 @@
   },
   {
     "hash": "0002F85C74427388",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/garage_props/tool_cabinets_metal_a.wl2?/tool_cabinet_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -8256,7 +8256,7 @@
   },
   {
     "hash": "000391319B656089",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/street_busstop_advertisement_a.wl2?/street_busstop_advertisement_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -8366,7 +8366,7 @@
   },
   {
     "hash": "00053CC7257FECEF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/restaurant_reception_desk.wl2?/restaurant_reception_desk_nologo_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -8571,7 +8571,7 @@
   },
   {
     "hash": "000716EF32A98B1F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/doors/doors_hideout_mumbai_a.wl2?/mumbai_hideout_door_double_right_b.prim](materials).entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -8701,7 +8701,7 @@
   },
   {
     "hash": "00088097D8221458",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/pallet_package_wrapped_a.wl2?/pallet_package_unwrapped_1x1x1m_b_nostrap.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -8716,7 +8716,7 @@
   },
   {
     "hash": "0008C2618097E0EC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/sofa_modern_b.wl2?/sofa_modern_b_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -8766,7 +8766,7 @@
   },
   {
     "hash": "00093FF6EE42A792",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/fountains/fountain_round_marrakesh_a.wl2?/fountain_round_smoothsnake_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -8806,7 +8806,7 @@
   },
   {
     "hash": "000A3B097AA8B4EC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/stair_section_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -9016,7 +9016,7 @@
   },
   {
     "hash": "000D2329451B2C70",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/lockers_laboratory_a.wl2?/lockers_laboratory_b_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -9191,7 +9191,7 @@
   },
   {
     "hash": "000FE484AA6DA219",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_door_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -9221,7 +9221,7 @@
   },
   {
     "hash": "00105A49AFEF6CB9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_granite_cliff_fox_a.wl2?/quixel_granite_cliff_fox_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -9266,7 +9266,7 @@
   },
   {
     "hash": "001153BEBF9037EB",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/leisure/arcade_cabinet_a.wl2?/arcade_cabinet_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -9386,12 +9386,12 @@
   },
   {
     "hash": "001302D1461402A0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/ticketcounter_old_a.wl2?/ticketcounter_old_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00130417B7948B6E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_b.wl2?/suburban_ext_foundation_b_4x1.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -9521,7 +9521,7 @@
   },
   {
     "hash": "0016105BC62D35E9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/ticketcounter_old_a.wl2?/ticketcounter_old_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -9786,7 +9786,7 @@
   },
   {
     "hash": "0019BD93E89D61DE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_low_door_frame_2x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -9866,7 +9866,7 @@
   },
   {
     "hash": "001AC830F342203D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_hotel_bathroom_a.wl2?/curtains_hotel_bathroom_c_00.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -9881,7 +9881,7 @@
   },
   {
     "hash": "001AD702A27ECE06",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/packing_box_big_d.wl2?/packing_box_big_e.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -9916,7 +9916,7 @@
   },
   {
     "hash": "001B5FBFD8B03165",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_wall_cornerout_020x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -9986,7 +9986,7 @@
   },
   {
     "hash": "001C2DC87EF6AA47",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/rock_sandstone_a.wl2?/rock_sandstone_a_medium_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -9996,12 +9996,12 @@
   },
   {
     "hash": "001C48D108EE3643",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_stonewalls.wl2?/villa_outside_stairs_side_straight_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001C6E9FBF9AB38A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_window_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -10051,7 +10051,7 @@
   },
   {
     "hash": "001D05770A65F4A6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_4x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -10121,7 +10121,7 @@
   },
   {
     "hash": "001E3279F31D1F60",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/flowerbox_penthouse_a_00.wl2?/flowerbox_penthouse_b_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10166,7 +10166,7 @@
   },
   {
     "hash": "001EADB0BC93830C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/chair_lounge_penthouse_a.wl2?/chair_lounge_penthouse_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -10181,7 +10181,7 @@
   },
   {
     "hash": "001F0A0A6384D3F9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_hotel_bangkok_zika_a.wl2?/curtains_hotel_bangkok_zika_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -10196,7 +10196,7 @@
   },
   {
     "hash": "001F3BE701ED5917",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cabinet_office_miami_modern_a.wl2?/cabinet_office_miami_modern_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10286,7 +10286,7 @@
   },
   {
     "hash": "00202BA99867F7A7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/accessories/money_bundle_a.wl2?/money_bundle_plastic_03_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -10376,7 +10376,7 @@
   },
   {
     "hash": "00212FFB2CD5B5F6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/metal_support_angle_a.wl2?/metal_bolt_c.prim](materials).entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10471,12 +10471,12 @@
   },
   {
     "hash": "0022ADC0FDFABAA4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/rock_sandstone_a.wl2?/rock_sandstone_a_very_big_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0022B30768C42CB5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_stairs_1m_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -10551,7 +10551,7 @@
   },
   {
     "hash": "0023726546E4B1B0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_e.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10636,7 +10636,7 @@
   },
   {
     "hash": "0024DE2617D77B55",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_cabinet_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10651,7 +10651,7 @@
   },
   {
     "hash": "0024E5DC683F0187",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_c.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10811,7 +10811,7 @@
   },
   {
     "hash": "0027508CD9FED0F9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/packing_box_big_d.wl2?/packing_box_big_d.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -10826,7 +10826,7 @@
   },
   {
     "hash": "002797805C005B37",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/grass_cattail_a.wl2?/grass_cattail_b.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10886,7 +10886,7 @@
   },
   {
     "hash": "00288B4106B46419",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_fall_a.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10946,7 +10946,7 @@
   },
   {
     "hash": "0029416784E48337",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/miami_grid_fence_a.wl2?/miami_grid_fence_200_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10966,7 +10966,7 @@
   },
   {
     "hash": "00297D4006D9DB07",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_interior.wl2?/villa_inside_floor_unique_lowerfloor_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11076,7 +11076,7 @@
   },
   {
     "hash": "002B697B754084E4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_door_frame_2x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -11181,7 +11181,7 @@
   },
   {
     "hash": "002D0DEC28DD3DA7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/lavender_a.wl2?/lavender_d.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11276,7 +11276,7 @@
   },
   {
     "hash": "002E97B725E01F2D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_penthouse_gestroom_a.wl2?/bed_penthouse_gestroom_b_noblanket.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -11361,7 +11361,7 @@
   },
   {
     "hash": "003033CBDE6C88B7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/spruce_norway_a.wl2?/spruce_norway_6m_b.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11386,7 +11386,7 @@
   },
   {
     "hash": "00307E7D40AD3DDE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_int_wall_6x4_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11411,7 +11411,7 @@
   },
   {
     "hash": "0031002448E754F6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/table_security_hotel_a.wl2?/table_security_hotel_d_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11426,7 +11426,7 @@
   },
   {
     "hash": "00316B90005FB9D6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/control_room.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -11476,7 +11476,7 @@
   },
   {
     "hash": "0032077AC7AA2D31",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/vehicles/train_modern_a.wl2?/c_ext_wall_exit_door_a_door.prim](materials).entitytype,[modules:/zblurbufferentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11626,7 +11626,7 @@
   },
   {
     "hash": "003391262CCD3598",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/sofa_leather_modern_a.wl2?/sofa_leather_modern_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -11701,7 +11701,7 @@
   },
   {
     "hash": "00347C5604AA3281",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/bus_mumbai_a/bus_mumbai_a.wl2?/bus_colombia_a_00.prim](materials).entitytype,[modules:/zboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -11781,7 +11781,7 @@
   },
   {
     "hash": "0035E3E8A979C843",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/zhm5collisioncontrolleraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -11791,7 +11791,7 @@
   },
   {
     "hash": "0035EC0D3E0E742F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_mossy_rock_fox_b.wl2?/quixel_mossy_rock_fox_d.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11931,7 +11931,7 @@
   },
   {
     "hash": "0037A10C16426355",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_post_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -11996,12 +11996,12 @@
   },
   {
     "hash": "003840D2FA24E3C7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/plastic_sheets_fence_a.wl2?/plastic_sheets_fence_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0038615CB39DB9D0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/wine_cabinet_basement_a.wl2?/wine_cabinet_basement_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12021,7 +12021,7 @@
   },
   {
     "hash": "00387C0DD3B2655D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/pine_eastern_a.wl2?/pine_eastern_15m_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -12066,7 +12066,7 @@
   },
   {
     "hash": "003934BFCB59ACA5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/castle/mansion_a.wl2?/a_ext_floor_4x4_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -12286,12 +12286,12 @@
   },
   {
     "hash": "003CA4154F977E80",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/fox/club_office_fox_a.wl2?/club_office_fox_room_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003CC91F075807E7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/boston_ivy_a.wl2?/ivy_vine_red_g.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -12341,7 +12341,7 @@
   },
   {
     "hash": "003D81EF01DFF0B9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_wall_cornerout_020x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12371,7 +12371,7 @@
   },
   {
     "hash": "003E252381E9603B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_modern_hippo_colombia_a.wl2?/sculpture_modern_hippo_colombia_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12416,7 +12416,7 @@
   },
   {
     "hash": "003EFC16772D4B26",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_garage_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12456,12 +12456,12 @@
   },
   {
     "hash": "003FB5AEEBD1A169",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/fox/club_office_fox_a.wl2?/club_office_fox_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00401BE537BE5597",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/expo/expo_trashbin_a.wl2?/expo_trashbin_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12571,7 +12571,7 @@
   },
   {
     "hash": "00414FE8B546E1D1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_wall_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12596,7 +12596,7 @@
   },
   {
     "hash": "0041AE9D6CC5B3C7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/plastic_sheets_fence_b.wl2?/plastic_sheets_fence_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -12666,7 +12666,7 @@
   },
   {
     "hash": "0042351AD7F9F3FC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_a.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -12716,7 +12716,7 @@
   },
   {
     "hash": "004334446AE30AD2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_mossy_rock_fox_b.wl2?/quixel_mossy_rock_fox_c.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -12741,7 +12741,7 @@
   },
   {
     "hash": "004357145F7ED3B1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/shelving_unit_wooden_tuscan_a.wl2?/cabinet_wooden_tuscan_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12771,7 +12771,7 @@
   },
   {
     "hash": "0043B65C013A4A8E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_a.wl2?/suburban_ext_foundation_4x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12806,7 +12806,7 @@
   },
   {
     "hash": "0044436D27FC2525",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_cellar.wl2?/villa_inside_winecellar_pillar_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -12831,7 +12831,7 @@
   },
   {
     "hash": "00447BE201410C4F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/constructionsite_props/big_water_pipe_a.wl2?/big_water_pipe_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13041,7 +13041,7 @@
   },
   {
     "hash": "0046B8E046DB979E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/stair_section_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13081,7 +13081,7 @@
   },
   {
     "hash": "0047361D01AFE189",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/marrakesh/walls_marrakesh_a.wl2?/city_wall_corner.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13101,7 +13101,7 @@
   },
   {
     "hash": "00479D5759DB7832",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/lockers_a.wl2?/lockers_b_beige_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13266,7 +13266,7 @@
   },
   {
     "hash": "0049F4D888CAB18D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/concrete_road_block_a.wl2?/concrete_road_block_c.prim](materials).entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13276,7 +13276,7 @@
   },
   {
     "hash": "004A1AC6DABC2603",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_hotel_bathroom_a.wl2?/curtains_hotel_bathroom_c_1m.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13341,7 +13341,7 @@
   },
   {
     "hash": "004ABA64557ADFCF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/plastic_sheets_fence_a.wl2?/plastic_sheets_fence_f.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13351,7 +13351,7 @@
   },
   {
     "hash": "004B0579AEE2C4DE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_low_4x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13411,7 +13411,7 @@
   },
   {
     "hash": "004BCD7E729E5B31",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/expo_exterior_a.wl2?/modular_plantpot_a_woodsquare_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13451,7 +13451,7 @@
   },
   {
     "hash": "004C73F9C23C511F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_granite_cliff_fox_a.wl2?/quixel_granite_cliff_fox_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13486,7 +13486,7 @@
   },
   {
     "hash": "004CD007106E4D18",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bathtub_metal_ornamented_a.wl2?/bathtub_metal_ornamented_white_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13596,7 +13596,7 @@
   },
   {
     "hash": "004E459234629105",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/mumbai/train_garage_mumbai_a.wl2?/train_garage_mumbai_a_arch_c.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -13621,7 +13621,7 @@
   },
   {
     "hash": "004E83B3133F1216",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_wall_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13636,7 +13636,7 @@
   },
   {
     "hash": "004EC1794E698BC4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/hallway_lounge_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13651,7 +13651,7 @@
   },
   {
     "hash": "004EDDBC7A450115",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/gamecore/opportunities.template?/opportunitystepspatial.entitytemplate].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13676,7 +13676,7 @@
   },
   {
     "hash": "004F21AA964CDCA5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/semi_truck_a/semi_truck_a.wl2?/semi_truck_trailer_race_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13691,7 +13691,7 @@
   },
   {
     "hash": "004F5D1F942A14B1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_wall_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13751,7 +13751,7 @@
   },
   {
     "hash": "005017AF8E720CCD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/flags/flagpole_park_a.wl2?/flagpole_park_a.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13791,7 +13791,7 @@
   },
   {
     "hash": "00504E94DF42BF56",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/office_desks_modern_a.wl2?/desk_modern_3m.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -13836,7 +13836,7 @@
   },
   {
     "hash": "0050EA7BC5BF38D5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_hotel_classic_a.wl2?/bed_hotel_classic_mess_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13846,7 +13846,7 @@
   },
   {
     "hash": "005107522DE48E46",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/boston_ivy_a.wl2?/ivy_vine_red_b.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13881,7 +13881,7 @@
   },
   {
     "hash": "00516021CD3B695B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/parcel_carts_a.wl2?/plywood_stack_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13936,7 +13936,7 @@
   },
   {
     "hash": "0052111CB7405BA9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/grass_cattail_a.wl2?/grass_cattail_d.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14051,7 +14051,7 @@
   },
   {
     "hash": "00535B57FF3A5713",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cabinet_fitted_marble_a.wl2?/cabinet_fitted_marble_bar_e.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14111,7 +14111,7 @@
   },
   {
     "hash": "0053F9BE658AF2DC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_a.wl2?/suburban_ext_foundation_garage_4x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -14171,7 +14171,7 @@
   },
   {
     "hash": "005512F9DE863FE4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_barrelroom_kit_a.wl2?/modern_int_sidetunnel_end_long_barrelroom_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14221,7 +14221,7 @@
   },
   {
     "hash": "0055ADE3A724FD14",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_ceiling_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -14316,7 +14316,7 @@
   },
   {
     "hash": "0056EAFAE2CC2C9D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_door_2x4_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -14431,7 +14431,7 @@
   },
   {
     "hash": "0058CAAA6D7D4B87",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/colombia_rocks_a.wl2?/colombia_big_rock_c_10m.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -14441,7 +14441,7 @@
   },
   {
     "hash": "0058F37F27F8DC03",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_wall_cornerout_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -14451,7 +14451,7 @@
   },
   {
     "hash": "005916AEAF134014",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_modern_office_black_a.wl2?/desk_modern_office_black_a_lobby_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14491,7 +14491,7 @@
   },
   {
     "hash": "0059DC2DFE3E1AF6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/rock_sandstone_a.wl2?/rock_sandstone_a_big_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14546,7 +14546,7 @@
   },
   {
     "hash": "005AF92A379377FD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_high_1x3.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -14606,7 +14606,7 @@
   },
   {
     "hash": "005B7AA52C75E51C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/backdrop/terrain/terrain_colorado_mountains_b.wl2?/backdrop_colorado_mountain_range_a_00.prim](materials).entitytype,[modules:/zhighrestextureentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -14786,7 +14786,7 @@
   },
   {
     "hash": "005E1052FE9A4F32",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/grass_cattail_a.wl2?/grass_cattail_c.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14866,7 +14866,7 @@
   },
   {
     "hash": "005EB178FF69E58C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_shed_a.wl2?/suburban_ext_roof_shed_4x4.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15006,7 +15006,7 @@
   },
   {
     "hash": "005FC75A5A29D025",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/toillet_b_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15101,7 +15101,7 @@
   },
   {
     "hash": "0060D9984867D67F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/underground_a.wl2?/underground_corridor_f.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15126,7 +15126,7 @@
   },
   {
     "hash": "00612AACA1B75523",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/fox/club_bar_walls_fox_a.wl2?/club_security_floor_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15176,7 +15176,7 @@
   },
   {
     "hash": "006221E2609A7CE3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/table_security_hotel_a.wl2?/table_security_hotel_e_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15221,7 +15221,7 @@
   },
   {
     "hash": "0062C317CDACE116",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zperceptibleaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -15256,7 +15256,7 @@
   },
   {
     "hash": "00634C713000EC5F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_fall_d.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15331,7 +15331,7 @@
   },
   {
     "hash": "006535BFB00F0F28",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_fox_a_00.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15406,7 +15406,7 @@
   },
   {
     "hash": "0065F911182FDA76",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/containers/container_body_plasticdumpster_a.wl2?/container_body_plasticdumpster_paris_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15466,7 +15466,7 @@
   },
   {
     "hash": "0066B612637FC205",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_wall_cornerout_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15511,7 +15511,7 @@
   },
   {
     "hash": "00672D327684A22F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_b.wl2?/gravestone_italy_b_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15556,7 +15556,7 @@
   },
   {
     "hash": "00678C6429B450DC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/small_wooden_cupboard_a.wl2?/small_wooden_cupboard_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15576,7 +15576,7 @@
   },
   {
     "hash": "0067D537C1B13993",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/fox/factory_building_kit_floors_b.wl2?/factory_building_kit_floors_i.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15651,7 +15651,7 @@
   },
   {
     "hash": "006948626081EE83",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_border_fence_high_4x3.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15696,7 +15696,7 @@
   },
   {
     "hash": "0069E2E9EE7C60D7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_high_2x3.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -15751,7 +15751,7 @@
   },
   {
     "hash": "006AE6296A6FFCE9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/pine_cedar_alaska_a.wl2?/pine_cedar_alaska_winter_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15886,7 +15886,7 @@
   },
   {
     "hash": "006C8454B9AA2E0D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_stonewalls.wl2?/villa_outside_stairs_side_f.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15961,7 +15961,7 @@
   },
   {
     "hash": "006D9CBFB9AC498D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/electronics/refrigerator_beverage_a.wl2?/refrigerator_beverage_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -15981,17 +15981,17 @@
   },
   {
     "hash": "006DC869102EAB06",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/rock_sandstone_a.wl2?/rock_sandstone_a_small_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "006DE87786C211FC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/plants/tree_box_garden_b.wl2?/tree_box_garden_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "006E0043D2756A45",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cafe_shisha_sunshades_a.wl2?/cafe_shisha_sunshades_cloth_a_00.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -16046,7 +16046,7 @@
   },
   {
     "hash": "006EDD4D5E0D3BF2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_granite_cliff_llama_a.wl2?/quixel_granite_cliff_llama_c.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -16091,7 +16091,7 @@
   },
   {
     "hash": "006F8F8316990DE6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_wall_cornerin_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -16136,12 +16136,12 @@
   },
   {
     "hash": "00702BD095479011",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/military_box_metal_e.wl2?/military_box_metal_e_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00704C1B62413071",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/packing_box_big_d.wl2?/packing_box_big_f.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -16366,7 +16366,7 @@
   },
   {
     "hash": "00733A26F995ED51",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/fox/factory_building_kit_floors_b.wl2?/factory_building_kit_floors_h.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -16431,7 +16431,7 @@
   },
   {
     "hash": "00741E45474CF5E2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/garden_furniture_wicker_a.wl2?/sofa_garden_wicker_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -16476,7 +16476,7 @@
   },
   {
     "hash": "0074A8D7AFCD71D9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zuiversusmodeherotracker.class].entitytype,[modules:/zgenericuimaptrackeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -17026,7 +17026,7 @@
   },
   {
     "hash": "007BCD4FFBD0FFF6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_hotel_classic_a.wl2?/bed_hotel_classic_clean_a_sheets.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -17051,7 +17051,7 @@
   },
   {
     "hash": "007C3AC9BBFC40E1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_int_wall_16_round_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -17131,7 +17131,7 @@
   },
   {
     "hash": "007D21B85843993A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_f.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -17251,7 +17251,7 @@
   },
   {
     "hash": "007EB8E3CAC58B57",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zglowinheritlinkedproxyaspect.class].entitytype,[modules:/zboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -17296,7 +17296,7 @@
   },
   {
     "hash": "007F12422E290268",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/grass_cattail_a.wl2?/grass_cattail_a.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -17476,7 +17476,7 @@
   },
   {
     "hash": "00812F0F7F4B6B02",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_railing_post_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -17541,7 +17541,7 @@
   },
   {
     "hash": "00822F2D47105214",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/castle/mansion_a.wl2?/a_ext_ceiling_1x1_tri_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -17646,7 +17646,7 @@
   },
   {
     "hash": "008352C79BC97D4B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/bathroom/tub_plastic_dirty_a.wl2?/tub_plastic_dirty_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -17666,7 +17666,7 @@
   },
   {
     "hash": "0083B1C015DE3F5B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/display_case_modern_a.wl2?/display_case_modern_d.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -17791,7 +17791,7 @@
   },
   {
     "hash": "0085A43D235BA718",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/basement_boiler_a.wl2?/basement_boiler_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -17871,7 +17871,7 @@
   },
   {
     "hash": "00866E2047EB3BD4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cupboard_wooden_tuscan_low_a.wl2?/cupboard_wooden_tuscan_low_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18036,7 +18036,7 @@
   },
   {
     "hash": "00885F438BF08832",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_fall_c.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18046,7 +18046,7 @@
   },
   {
     "hash": "00886AAC3C72F528",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/middle_coridor.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18116,7 +18116,7 @@
   },
   {
     "hash": "00894713D895EAC2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/covered_armchair_a.wl2?/covered_armchair_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18156,7 +18156,7 @@
   },
   {
     "hash": "0089A6548F17ABA6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/electronics/vending_machine_soda_a.wl2?/vending_machine_soda_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18201,12 +18201,12 @@
   },
   {
     "hash": "008A2137AE01193E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_high_door_frame_2x3.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "008A22122739468C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_floor_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18246,7 +18246,7 @@
   },
   {
     "hash": "008AC189E2EDE521",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/bangkok/hotel_atrium_floor_a.wl2?/atrium_floor_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18336,7 +18336,7 @@
   },
   {
     "hash": "008C373EEA9DA903",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_low_1x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18351,7 +18351,7 @@
   },
   {
     "hash": "008C77E89835E1BB",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_wall_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18371,7 +18371,7 @@
   },
   {
     "hash": "008CA8C737FCFBD9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_12x8_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18401,7 +18401,7 @@
   },
   {
     "hash": "008D028030C05B06",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_steps_1m_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18591,7 +18591,7 @@
   },
   {
     "hash": "009034D9E88CD1F2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_6x4_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18716,7 +18716,7 @@
   },
   {
     "hash": "00921C826D24FF57",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/colombia_rocks_a.wl2?/colombia_medium_rock_c_5m.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18741,7 +18741,7 @@
   },
   {
     "hash": "00923C56C96BD00B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_2x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18756,7 +18756,7 @@
   },
   {
     "hash": "009264C1EA73006A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/castle/mansion_a.wl2?/a_ext_floor_1x050_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18806,7 +18806,7 @@
   },
   {
     "hash": "0092D7726D44E154",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cabinet_office_miami_modern_a.wl2?/cabinet_office_miami_modern_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18876,7 +18876,7 @@
   },
   {
     "hash": "009381F73971E15F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cabinet_fitted_marble_a.wl2?/cabinet_fitted_wooden_bar_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -18946,7 +18946,7 @@
   },
   {
     "hash": "00948C8F7A5552BD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_low_post_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -18976,7 +18976,7 @@
   },
   {
     "hash": "0094CE6E3645B89A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_a.wl2?/suburban_ext_foundation_cornerin_1x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19031,7 +19031,7 @@
   },
   {
     "hash": "0095972F960D8D7E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -19086,7 +19086,7 @@
   },
   {
     "hash": "00965EBC575F4DB7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_window_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19146,7 +19146,7 @@
   },
   {
     "hash": "0096F05BB88A1235",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/hallway_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19161,7 +19161,7 @@
   },
   {
     "hash": "00972AED05F05EA7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_productionroom_kit_a.wl2?/modern_int_pillar_440cmx1m_productionroom_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -19291,7 +19291,7 @@
   },
   {
     "hash": "009868CF61001C4B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/table_tv_wooden_a.wl2?/table_tv_wooden_c_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19331,7 +19331,7 @@
   },
   {
     "hash": "0098B46C6346F2C1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_roof_overhang_1x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19566,7 +19566,7 @@
   },
   {
     "hash": "009C37A8F9981E6B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/server_room_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19636,7 +19636,7 @@
   },
   {
     "hash": "009D7C4F60ACDC1A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/covered_drawer_static_a.wl2?/covered_drawer_static_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -19746,7 +19746,7 @@
   },
   {
     "hash": "009F908102FE2DE7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_door_2x4_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19831,7 +19831,7 @@
   },
   {
     "hash": "00A036B445792713",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/zfloatingobjectplaneaspect.class].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -19871,7 +19871,7 @@
   },
   {
     "hash": "00A0803F7206AE9A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/bulldog/bulldog_stone_bridge_a.wl2?/bulldog_stone_bridge_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -19926,7 +19926,7 @@
   },
   {
     "hash": "00A0FBA19F52A948",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_wall_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19936,7 +19936,7 @@
   },
   {
     "hash": "00A115C8CB3474D0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/containers/container_items_safe.wl2?/container_items_safe_dial.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -19951,7 +19951,7 @@
   },
   {
     "hash": "00A11F9CEC32CB30",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_interior.wl2?/villa_inside_ceiling_unique_lowerfloor_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -20141,7 +20141,7 @@
   },
   {
     "hash": "00A39CDA23E3201D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_wall_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -20186,7 +20186,7 @@
   },
   {
     "hash": "00A430228BBC1172",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/locker_hiding_a.wl2?/hiding_locker_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -20246,7 +20246,7 @@
   },
   {
     "hash": "00A4C32B452BAA68",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_window_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -20296,7 +20296,7 @@
   },
   {
     "hash": "00A5A75CCA089DA9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_12x4_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -20326,7 +20326,7 @@
   },
   {
     "hash": "00A6678204D08D4E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_16_round_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -20406,7 +20406,7 @@
   },
   {
     "hash": "00A7BF845D60BD5B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/movieset/mumbai_photoshoot_stage_a.wl2?/mumbai_photoshoot_stage_a_curtains.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -20466,7 +20466,7 @@
   },
   {
     "hash": "00A856E40CF45781",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/electronics/telemetry_rack_a.wl2?/telemetry_rack_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -20516,7 +20516,7 @@
   },
   {
     "hash": "00A8BEEFC1275388",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/table_security_hotel_a.wl2?/table_security_hotel_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -20581,7 +20581,7 @@
   },
   {
     "hash": "00A962048A4DD293",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_mossy_rock_fox_b.wl2?/quixel_mossy_rock_fox_d.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -20966,7 +20966,7 @@
   },
   {
     "hash": "00AEACC06B211BE0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_interior.wl2?/villa_inside_floor_unique_firstfloor_bathroom_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21136,7 +21136,7 @@
   },
   {
     "hash": "00B09732C51F4DC5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_roof_overhang_cornerout_1x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21151,7 +21151,7 @@
   },
   {
     "hash": "00B0AA77371F6B98",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_roof_overhang_cornerin_1x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21176,7 +21176,7 @@
   },
   {
     "hash": "00B0E46EE357D548",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/private_lounge.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21201,7 +21201,7 @@
   },
   {
     "hash": "00B12C94AC7EBEDC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/lockers_laboratory_a.wl2?/lockers_laboratory_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21221,7 +21221,7 @@
   },
   {
     "hash": "00B1583D3057F6DA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/fox/factory_building_kit_floors_b.wl2?/factory_building_kit_floors_j.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21241,7 +21241,7 @@
   },
   {
     "hash": "00B192EF00234087",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_modern_office_black_a.wl2?/desk_modern_office_black_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21251,7 +21251,7 @@
   },
   {
     "hash": "00B1A35C72C0696A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_door_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21276,7 +21276,7 @@
   },
   {
     "hash": "00B21F01BFDBB72C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_border_fence_high_2x3.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21301,7 +21301,7 @@
   },
   {
     "hash": "00B26BBC9D110C15",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/marrakesh/walls_marrakesh_a.wl2?/city_wall_section.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21391,7 +21391,7 @@
   },
   {
     "hash": "00B2FFAF6BE2B937",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_b.wl2?/suburban_ext_foundation_b_cornerout_1x1.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21546,7 +21546,7 @@
   },
   {
     "hash": "00B50F939DC89357",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_steps_1m_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21641,7 +21641,7 @@
   },
   {
     "hash": "00B60D20DE580FFF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_a.wl2?/suburban_ext_foundation_2x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21721,7 +21721,7 @@
   },
   {
     "hash": "00B792A49C6EDE47",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_fox_b_00.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21756,7 +21756,7 @@
   },
   {
     "hash": "00B806118973BF22",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/doors/door_garage_pitstop_a.wl2?/door_garage_pitstop_d_door.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -21781,7 +21781,7 @@
   },
   {
     "hash": "00B84AFFFC559D8F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_mossy_rock_fox_b.wl2?/quixel_mossy_rock_fox_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21796,7 +21796,7 @@
   },
   {
     "hash": "00B87EEFC280F59F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_6x8_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21931,7 +21931,7 @@
   },
   {
     "hash": "00BAF422E507D675",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_interior.wl2?/villa_inside_floor_unique_lowerfloor_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -21991,7 +21991,7 @@
   },
   {
     "hash": "00BBDB74A775E1A5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_wall_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22081,7 +22081,7 @@
   },
   {
     "hash": "00BD7783ECB390A1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cabinet_fitted_marble_a.wl2?/marble_top_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22111,7 +22111,7 @@
   },
   {
     "hash": "00BE5E74CF4C9802",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/glow/fx_glow_generic_planes.wl2?/fx_glow_generic_plane_flat_a.prim](materials).entitytype,[modules:/zvisibilitysaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22251,7 +22251,7 @@
   },
   {
     "hash": "00BFF3C4E88DBB2B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/accessories/money_bundle_a.wl2?/money_brick_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22306,7 +22306,7 @@
   },
   {
     "hash": "00C06F2B9C4B4800",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_shed_a.wl2?/suburban_ext_roof_gable_shed_4x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22336,7 +22336,7 @@
   },
   {
     "hash": "00C0F9C6B8881DE3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_a.wl2?/suburban_ext_foundation_cornerout_1x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22386,7 +22386,7 @@
   },
   {
     "hash": "00C2329923D12284",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/rocks_japan_a.wl2?/rock_magpie_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22481,12 +22481,12 @@
   },
   {
     "hash": "00C357FD5F5A5ADC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_supportelement_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C35F398236598F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/flags/flagpole_expo_a.wl2?/flagpole_expo_attachment_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22546,7 +22546,7 @@
   },
   {
     "hash": "00C4504C0DCF96EF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/garden_furniture_wicker_a.wl2?/chair_garden_wicker_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22611,7 +22611,7 @@
   },
   {
     "hash": "00C4F5ADA3E3BD88",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_high_4x3.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22626,7 +22626,7 @@
   },
   {
     "hash": "00C524E6D848E39F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/dividers_auditorium_consulate.wl2?/divider_auditorium_consulate_2m.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22656,7 +22656,7 @@
   },
   {
     "hash": "00C564B659536AC0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/plastic_sheet_floor_a.wl2?/plastic_sheet_fox_c_00.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22851,12 +22851,12 @@
   },
   {
     "hash": "00C88189A7F6045C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_border_fence_high_1x3.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00C8A0DB454B2DF6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/cafe_table_italy_c.wl2?/cafe_tablecloth_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22926,12 +22926,12 @@
   },
   {
     "hash": "00C9EE20A5D61EF1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/accessories/money_bundle_a.wl2?/money_brick_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00CA0E9A7D15EB4E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/misc/fx_oilleaks_01.wl2?/fx_oilleak_4x4m_a.prim](materials).entitytype,[modules:/zvisibilitysaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22981,7 +22981,7 @@
   },
   {
     "hash": "00CADF27B20C5B33",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_b.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22991,7 +22991,7 @@
   },
   {
     "hash": "00CAECB96C3A9702",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/electronics/serverracks_c.wl2?/serverrack_c_case.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23016,7 +23016,7 @@
   },
   {
     "hash": "00CB1BEEDDA838C6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/mumbai_market_umbrella_a.wl2?/mumbai_market_umbrella_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23056,7 +23056,7 @@
   },
   {
     "hash": "00CB903F6D1D1B61",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/bed_hotel_classic_a.wl2?/bed_hotel_classic_clean_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -23086,7 +23086,7 @@
   },
   {
     "hash": "00CBF8C826E71D8A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_int_wall_supportelement_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -23131,7 +23131,7 @@
   },
   {
     "hash": "00CC5FB12A14D124",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_low_2x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23241,7 +23241,7 @@
   },
   {
     "hash": "00CDF9A5912722A0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/canopy_tents_a.wl2?/canopy_tent_large_c.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23266,7 +23266,7 @@
   },
   {
     "hash": "00CE7F83FFABEDE8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/table_office_a.wl2?/cupboard_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23396,7 +23396,7 @@
   },
   {
     "hash": "00CFE70E1378EBF8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_granite_cliff_llama_a.wl2?/quixel_granite_cliff_llama_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -23406,7 +23406,7 @@
   },
   {
     "hash": "00D00D127073B723",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit.wl2?/villa_outside_stairs_4x2m_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -23501,12 +23501,12 @@
   },
   {
     "hash": "00D1AF7ABF88C8FD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_roof_overhang_4x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00D1BDF05A043243",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/window_pit_frame_e.prim](materials).entitytype,[modules:/zblurbufferentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23541,12 +23541,12 @@
   },
   {
     "hash": "00D22D97B80A37D8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_4x4_singledoor_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D232BB2CF49012",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/sofa_silver_antique_b.wl2?/sofa_antique_b_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -23591,12 +23591,12 @@
   },
   {
     "hash": "00D2D9BFE4CF510D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/garden_furniture_wicker_a.wl2?/sofa_garden_wicker_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00D2ECEC025C7BAC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_basement_a.wl2?/suburban_basement_wall_cornerin_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23676,7 +23676,7 @@
   },
   {
     "hash": "00D3E9A1735B5CD7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/electronics/industrial_floor_fan_a.wl2?/industrial_floor_fan_a_frame.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23771,7 +23771,7 @@
   },
   {
     "hash": "00D54F59C2F633F5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/castle/mansion_a.wl2?/a_ext_floor_1x1_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -23851,7 +23851,7 @@
   },
   {
     "hash": "00D61CEEFBBD34B4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_wall_cornerin_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -23996,7 +23996,7 @@
   },
   {
     "hash": "00D792206C523F50",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/rusty_metal_barrels_a.wl2?/rusty_metal_barrels_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -24051,7 +24051,7 @@
   },
   {
     "hash": "00D819AFCF2EEF12",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/bangkok/hotel_atrium_floor_a.wl2?/atrium_main_stairs_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -24066,7 +24066,7 @@
   },
   {
     "hash": "00D842CB66DEB59A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zphysicscollisionentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -24086,7 +24086,7 @@
   },
   {
     "hash": "00D8D53D311E034C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/colombia_rocks_a.wl2?/colombia_small_rock_a_2m.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -24161,7 +24161,7 @@
   },
   {
     "hash": "00D986E494C5952D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/toilets/portable_toilet_a.wl2?/portable_toilet_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -24211,12 +24211,12 @@
   },
   {
     "hash": "00DA1639B6E0E56B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/utilities/oil_tank_a.wl2?/oil_tank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00DA27FB11C0170B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/paris_cafe_terrace.wl2?/paris_terrace_umbrella_b.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -24331,7 +24331,7 @@
   },
   {
     "hash": "00DB8BA2A7F9C28B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/firearms/sniper_stealth_a.template?/firearm_model_sniper_stealth_a.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -24541,12 +24541,12 @@
   },
   {
     "hash": "00DE2CB51E418E94",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/shipping_container_a.wl2?/shipping_container_short_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DE360E23A2E7DF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_roof_overhang_cornerout_1x1_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -24581,7 +24581,7 @@
   },
   {
     "hash": "00DEA308DA5B1E22",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/backdrop/terrain/terrain_italy_backdrop_a.wl2?/terrain_italy_backdropplane_d.prim](materials).entitytype,[modules:/zhighrestextureentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -24706,7 +24706,7 @@
   },
   {
     "hash": "00E013DC35DC3165",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_high_post_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -24741,7 +24741,7 @@
   },
   {
     "hash": "00E0369DABE4FE16",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_wall_cornerout_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -24776,7 +24776,7 @@
   },
   {
     "hash": "00E05D6F29536F8C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/covered_sofa_static_a.wl2?/covered_sofa_static_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -24821,7 +24821,7 @@
   },
   {
     "hash": "00E11F03A9BD4945",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit.wl2?/villa_outside_wall_trim_2x5m_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -24856,7 +24856,7 @@
   },
   {
     "hash": "00E15AF9A5171C4F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/zworldmapmarkerentity.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -24936,7 +24936,7 @@
   },
   {
     "hash": "00E2099B99EC5A43",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_g.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -24951,7 +24951,7 @@
   },
   {
     "hash": "00E236C5BD0E4A17",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/storage_room.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -24966,7 +24966,7 @@
   },
   {
     "hash": "00E2448A5DD650F7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_d.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25241,7 +25241,7 @@
   },
   {
     "hash": "00E55B423C191349",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/electronics/fridge_old_a.wl2?/fridge_old_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25331,7 +25331,7 @@
   },
   {
     "hash": "00E6501EE98D83F7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_foundation_a.wl2?/suburban_ext_foundation_1x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -25366,12 +25366,12 @@
   },
   {
     "hash": "00E6CF07E2C35186",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_window_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00E6D5963C9CC499",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_int_wall_6x8_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25431,7 +25431,7 @@
   },
   {
     "hash": "00E7891FB23AA098",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/electronics/pit_perch_a.wl2?/pit_perch_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -25476,7 +25476,7 @@
   },
   {
     "hash": "00E81A384F44709B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/closet_laboratory_a.wl2?/closet_laboratory_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25496,7 +25496,7 @@
   },
   {
     "hash": "00E8594FE986DA51",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/doors/doors_winery_glass_a.wl2?/doubledoor_sliding_winery_frame_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25641,7 +25641,7 @@
   },
   {
     "hash": "00EA2F0D215140EC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_kit_a.wl2?/modern_ext_wall_12x16_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25666,7 +25666,7 @@
   },
   {
     "hash": "00EAB4B42F62CCA7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/banyan_medium_a.wl2?/banyan_medium_c_dead.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -25676,7 +25676,7 @@
   },
   {
     "hash": "00EAD8BFFD7222DA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_backyard_a.wl2?/suburban_backyard_fence_1x2.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -25791,7 +25791,7 @@
   },
   {
     "hash": "00EC14061A2E0548",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_old_villa_modular_kit_interior.wl2?/villa_inside_wall_arch_4x5m_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25811,7 +25811,7 @@
   },
   {
     "hash": "00EC2EB938EA257A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/carpark_boom.wl2?/carpark_boom_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25956,7 +25956,7 @@
   },
   {
     "hash": "00ED9FAC5D1EBC86",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/llama/modern_winery_barrelroom_kit_a.wl2?/modern_int_wall_barrelroom_back_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25966,7 +25966,7 @@
   },
   {
     "hash": "00EDC8F0ABA1756C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_fox_a.wl2?/quixel_ivy_climber_square_a.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -26151,12 +26151,12 @@
   },
   {
     "hash": "00F035DAA648372F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/miami_grid_fence_a.wl2?/miami_grid_fence_400_short_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F05867C68EDF5F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_door_2x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26261,7 +26261,7 @@
   },
   {
     "hash": "00F1F7F65EEB58DC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/skunk/porch_steps_skunk_a.wl2?/porch_steps_skunk_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26311,17 +26311,17 @@
   },
   {
     "hash": "00F26D8E11F3B6FA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/hallway_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
     "hash": "00F27BCF272E3605",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_liquidcontainer_b.wl2?/laboratory_liquidcontainer_b_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F28466610B32B3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/office_plant_boxes.wl2?/office_plantbox_cover_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -26371,7 +26371,7 @@
   },
   {
     "hash": "00F2F481859AAC52",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/spruce_norway_a.wl2?/spruce_norway_12m_b.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -26406,7 +26406,7 @@
   },
   {
     "hash": "00F34DC512368D2C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zspeedtreeentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zprimitivesshapeaspect.class].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -26456,7 +26456,7 @@
   },
   {
     "hash": "00F3C85C90AF3CCB",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/wolverine/train_locomotive_wolverine_a.wl2?/train_locomotive_wolverine_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -26506,7 +26506,7 @@
   },
   {
     "hash": "00F48C418C42CD06",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_wall_1x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26626,7 +26626,7 @@
   },
   {
     "hash": "00F5D86D574EF527",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_int_wall_4x4_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26636,7 +26636,7 @@
   },
   {
     "hash": "00F5E7FC037D02BF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/marrakesh/medina_buildings_a.wl2?/medina_building_storage_roof_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -26766,7 +26766,7 @@
   },
   {
     "hash": "00F77F4EFE8513C6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/closet_modern_a.wl2?/closet_modern_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26786,7 +26786,7 @@
   },
   {
     "hash": "00F7B17C2F7918AA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_shisha_cafe_a.wl2?/curtains_shisha_cafe_b_00.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26811,7 +26811,7 @@
   },
   {
     "hash": "00F7EB63D9D905F4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/castle/mansion_a.wl2?/a_ext_floor_1x1_tri_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -26821,7 +26821,7 @@
   },
   {
     "hash": "00F7FA9B0D9D47DA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/castle/mansion_a.wl2?/a_ext_ceiling_1x1_blank_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -26916,7 +26916,7 @@
   },
   {
     "hash": "00F91E8C5436F14E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/miami/pitstop_a.wl2?/hallway_lounge_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26936,7 +26936,7 @@
   },
   {
     "hash": "00F95E3AC81CFDAA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_house_a.wl2?/suburban_ext_roof_overhang_2x1_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -27041,7 +27041,7 @@
   },
   {
     "hash": "00FAA682F00EF599",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/kits/suburban_house/suburban_garage_a.wl2?/suburban_int_garage_stairs_1m_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -27081,7 +27081,7 @@
   },
   {
     "hash": "00FB3104021FBCA7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/utensils/india_utensils_a.wl2?/india_teapot_a_00.prim](materials).entitytype,[modules:/zhm5collisionlayerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27116,7 +27116,7 @@
   },
   {
     "hash": "00FBFE8942C9F1FB",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/props/rocks/quixel_granite_cliff_llama_a.wl2?/quixel_granite_cliff_llama_b.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27151,7 +27151,7 @@
   },
   {
     "hash": "00FC80D5ABD88530",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/parasol_cafe_italy_a.wl2?/parasol_cafe_italy_small_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27201,7 +27201,7 @@
   },
   {
     "hash": "00FD64037CDD753B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/lavender_a.wl2?/lavender_b.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27276,7 +27276,7 @@
   },
   {
     "hash": "00FE840900D72D11",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/rocks/colombia_rocks_a.wl2?/colombia_small_rock_c_2m.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -27376,7 +27376,7 @@
   },
   {
     "hash": "00FF5FEBBBD64A13",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/jungle_tree_e_b_mesh.wl2?/tropical_jungle_tree_e_b_mesh.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -27476,7 +27476,7 @@
   },
   {
     "hash": "0099CD477EA21090",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zaudioevent.class].entitytype,[modules:/zaudiosubtitlesaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
@@ -27486,17 +27486,17 @@
   },
   {
     "hash": "00CDC00E16F34F3A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/templates/vehicles_hokkaido_a.template?/gondola_a.entitytemplate].entitytype,[modules:/zvisibilitysaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
     "hash": "00E621D9FC422039",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/logic/valuebool.template?/valuebool_basic.entitytemplate].entitytype,[modules:/zdeprecatedaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
     "hash": "00B6E53E7024A485",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/sound/customsoundtemplates.template?/kai_dialogue.entitytemplate].entitytype,[modules:/zaudiosubtitlesaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
@@ -27506,7 +27506,7 @@
   },
   {
     "hash": "000366A177A7A3A4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/zworldmapmarkerentity.class].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 16
   },
   {
@@ -27516,7 +27516,7 @@
   },
   {
     "hash": "0025520DA388A1D8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/architecture/fences/fence_wire_a.template?/fence_wire_door_a.entitytemplate].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 16
   },
   {
@@ -27581,7 +27581,7 @@
   },
   {
     "hash": "00583A275C635184",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/palm_med_a.wl2?/palm_med_a_mesh.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27656,7 +27656,7 @@
   },
   {
     "hash": "009AA6DBE527CB18",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/alder_a.wl2?/alder_20m_fall_b_dugong.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27686,7 +27686,7 @@
   },
   {
     "hash": "00C98F88327E545A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/bunker_hanging_light_a.wl2?/bunker_hanging_light_a.prim](materials).entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27826,7 +27826,7 @@
   },
   {
     "hash": "009B59D70DB3F1BC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/bedroom/mattress_a.wl2?/mattress_a_00.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27946,7 +27946,7 @@
   },
   {
     "hash": "001B9049D50D3D2A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/alder_a.wl2?/alder_20m_fall_c_dugong.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28071,7 +28071,7 @@
   },
   {
     "hash": "00B0A63EE2623B7E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/alder_a.wl2?/alder_20m_summer_a_dugong.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28186,7 +28186,7 @@
   },
   {
     "hash": "00B1E2AD9129C99D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/alder_a.wl2?/alder_20m_summer_b_dugong.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28201,7 +28201,7 @@
   },
   {
     "hash": "002E31A70B6DCEA4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/dugong/dugong_ruin_vent_a.wl2?/hispanic_cellar_wall_3x3_vent_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28231,7 +28231,7 @@
   },
   {
     "hash": "00DD99EFA6BC4DEB",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/marrakesh_market_umbrella_a.wl2?/marrakesh_market_umbrella_b_00.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28401,7 +28401,7 @@
   },
   {
     "hash": "00042F8D8512B49A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplatedynamic.template?/linkedentity01.entitytemplate].entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28441,7 +28441,7 @@
   },
   {
     "hash": "0088D68319491F58",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/elephant/elephant_planningboard_a.wl2?/elephant_gear_wall_glass_a.prim](materials).entitytype,[modules:/zdraworderentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28466,7 +28466,7 @@
   },
   {
     "hash": "00A7810C55752E80",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/gamecore/helpers_evergreen.template?/helper_evergreen_selectableitemcontainer.entitytemplate].entitytype,[modules:/zapplytransformaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28541,7 +28541,7 @@
   },
   {
     "hash": "00F9B2D5EA76DBD7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_llama_a.wl2?/quixel_ivy_climber_f.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28736,7 +28736,7 @@
   },
   {
     "hash": "00F5181A16F865A9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_llama_a.wl2?/quixel_ivy_climber_g.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28851,7 +28851,7 @@
   },
   {
     "hash": "00609F093A6B715A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/bush_barberry_a.wl2?/bush_barberry_c.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28906,7 +28906,7 @@
   },
   {
     "hash": "00AB41EB714D2932",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_licensed/quixel/geometry/foliage/quixel_ivy_climbers_llama_a.wl2?/quixel_ivy_climber_c.prim](materials).entitytype,[modules:/zdepthprepassentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29071,7 +29071,7 @@
   },
   {
     "hash": "00C2B781675196DA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/llama/llama_terrain_a.wl2?/llama_terrain_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
