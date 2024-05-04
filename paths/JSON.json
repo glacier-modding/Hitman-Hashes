@@ -17097,12 +17097,12 @@
   },
   {
     "hash": "00517FFE0FE4ADFA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/story.json].pc_json",
     "gameFlags": 2
   },
   {
     "hash": "00BC45B5FF8CF67A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/story_locked.json].pc_json",
     "gameFlags": 2
   }
 ]
