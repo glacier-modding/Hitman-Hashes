@@ -64,6 +64,8 @@ def extractHashes(game, input):
 						offset = 0x4
 						hashCount = readLongFromFile(f, offset)
 						print("Hashes in RPKG: " + str(hashCount))
+						if hashCount == 0:
+							continue
 						offset += 0x4
 						tableOffset = readLongFromFile(f, offset)
 						offset = 0x10
