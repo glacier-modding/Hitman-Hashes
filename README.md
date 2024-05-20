@@ -1,11 +1,11 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,553,262-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.09%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.10%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.58%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.70%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.59%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.71%25-yellow.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.68%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.82%25-green.svg)
@@ -22,7 +22,7 @@
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
 |AIRG     |50             |50           |100.00%           |0    |0.00%          |
-|ALOC     |26263          |16588        |63.16%            |0    |0.00%          |
+|ALOC     |26263          |16606        |63.23%            |0    |0.00%          |
 |ASEB     |5819           |2027         |34.83%            |0    |0.00%          |
 |ASET     |13494          |6518         |48.30%            |0    |0.00%          |
 |ASVA     |277            |267          |96.39%            |9    |3.25%          |
@@ -62,14 +62,14 @@
 |NAVP     |78             |76           |97.44%            |1    |1.28%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |142            |142          |100.00%           |0    |0.00%          |
-|PRIM     |42749          |21943        |51.33%            |241  |0.56%          |
+|PRIM     |42749          |21961        |51.37%            |241  |0.56%          |
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |142            |0            |0.00%             |137  |96.48%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
 |SDEF     |501            |501          |100.00%           |0    |0.00%          |
 |TBLU     |56006          |40825        |72.89%            |14976|26.74%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
-|TEMP     |85565          |59921        |70.03%            |25336|29.61%         |
+|TEMP     |85565          |59939        |70.05%            |25318|29.59%         |
 |TEXD     |43348          |32263        |74.43%            |9766 |22.53%         |
 |TEXT     |44127          |32610        |73.90%            |10453|23.69%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
