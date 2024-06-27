@@ -2,11 +2,11 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,555,716-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.98%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-14/69-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-15/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.59%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.71%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.46%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.47%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.82%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -21,7 +21,7 @@
 |AIBB     |1              |1            |100.00%           |0    |0.00%          |
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
-|AIRG     |51             |50           |98.04%            |0    |0.00%          |
+|AIRG     |51             |51           |100.00%           |0    |0.00%          |
 |ALOC     |26273          |16613        |63.23%            |0    |0.00%          |
 |ASEB     |5823           |2027         |34.81%            |0    |0.00%          |
 |ASET     |13498          |6518         |48.29%            |0    |0.00%          |
@@ -33,7 +33,7 @@
 |CBLU     |2646           |2646         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
 |CPPT     |2646           |2646         |100.00%           |0    |0.00%          |
-|CRMD     |56             |49           |87.50%            |1    |1.79%          |
+|CRMD     |56             |50           |89.29%            |1    |1.79%          |
 |DITL     |4              |0            |0.00%             |0    |0.00%          |
 |DLGE     |48986          |46016        |93.94%            |2371 |4.84%          |
 |DSWB     |5              |0            |0.00%             |5    |100.00%        |
@@ -59,7 +59,7 @@
 |MJBA     |19678          |7363         |37.42%            |0    |0.00%          |
 |MRTN     |2255           |1074         |47.63%            |0    |0.00%          |
 |MRTR     |854            |85           |9.95%             |0    |0.00%          |
-|NAVP     |79             |76           |96.20%            |1    |1.27%          |
+|NAVP     |79             |77           |97.47%            |1    |1.27%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |143            |142          |99.30%            |0    |0.00%          |
 |PRIM     |42781          |21968        |51.35%            |241  |0.56%          |
@@ -67,9 +67,9 @@
 |RTLV     |144            |0            |0.00%             |137  |95.14%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
 |SDEF     |502            |501          |99.80%            |0    |0.00%          |
-|TBLU     |56116          |40839        |72.78%            |14971|26.68%         |
+|TBLU     |56116          |40846        |72.79%            |14971|26.68%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
-|TEMP     |85689          |59960        |69.97%            |25306|29.53%         |
+|TEMP     |85689          |59967        |69.98%            |25306|29.53%         |
 |TEXD     |43400          |32263        |74.34%            |9766 |22.50%         |
 |TEXT     |44180          |32610        |73.81%            |10453|23.66%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
