@@ -719,5 +719,10 @@
     "hash": "00507A0D45B5F221",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_safehouse_daytimes.wwisestategroup].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "0039B7B926C9D9D5",
+    "path": "",
+    "gameFlags": 8
   }
 ]

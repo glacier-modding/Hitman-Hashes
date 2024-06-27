@@ -2503,5 +2503,10 @@
     "hash": "00636F5E84080F3E",
     "path": "[assembly:/sound/sounddefinitions/et_drop.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "00FE6C1CA693F6EB",
+    "path": "",
+    "gameFlags": 8
   }
 ]

@@ -17104,5 +17104,35 @@
     "hash": "00BC45B5FF8CF67A",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/story_locked.json].pc_json",
     "gameFlags": 2
+  },
+  {
+    "hash": "00480B23D38364D1",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivepenicillin_packageid.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008B9799D55F429F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C4D03936D22EC2",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_h3elusivepenicillin.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E9FBC2F3E6E3D0",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivepenicillin_title.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0079B485C2A83AEC",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/missionend/actions/gotomainmenu.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0035455CCE0288C2",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivepenicillin_image.json].pc_json",
+    "gameFlags": 8
   }
 ]

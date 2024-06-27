@@ -845,5 +845,15 @@
     "path": "",
     "gameFlags": 8,
     "hint": "briefing_tomorrowland"
+  },
+  {
+    "hash": "0012456E2543C28E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EDF63AC78F3CA2",
+    "path": "",
+    "gameFlags": 8
   }
 ]

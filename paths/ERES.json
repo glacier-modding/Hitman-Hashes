@@ -662,7 +662,7 @@
   {
     "hash": "00CD3AB8031B3232",
     "path": "[assembly:/templates/materialdescriptors/bgnd_brick_red_01.template?/bgnd_brick_red_01.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 9
   },
   {
     "hash": "0085D4595FCAD8A4",
@@ -1350,6 +1350,11 @@
   {
     "hash": "00865452DC4C9C41",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_shootingtarget_bullseye.template?/fx_md_prop_shootingtarget_bullseye.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CEE0D4C2E29CFB",
+    "path": "",
     "gameFlags": 8
   }
 ]

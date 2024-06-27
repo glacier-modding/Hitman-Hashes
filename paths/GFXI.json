@@ -60771,5 +60771,275 @@
     "hash": "0031A5648E71641F",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/novikov_and_magolis/tile_showstopper_silentassassin.jpg].pc_gfx",
     "gameFlags": 2
+  },
+  {
+    "hash": "0050C0591657AD0F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables_override/item_perspective_bc1bd133-f6f6-4cee-ba73-bc1881864b22_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E7684D4B1B36D8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0081C1C46AB96F30",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_07.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007DDE9F9FCAB997",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_09.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001B39B9B3D4C737",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00251DB730F10044",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/store/addon_et_penicillin.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AD5D169AC7CE89",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/rocky/rocky_rottenfruit.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007CCC344165E636",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/sapienza/octopus_sportsclub.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0029029B89D86BD1",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_05.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0014854947604E69",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009DF23E67F5EDEF",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/elegant/elegant_finevintage.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003DF59BB45CFF54",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables_override/47_outfits_disruptor_coat.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0062B0287BCC8976",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/escalation/contractescalation_ancestral_smoothsnake_mysteryofunicorns.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00847E728B51DBF3",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/dlc/tile_hitman3_et_penicillin.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A235C10487F7F5",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_03.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006944CF45F218C8",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_06.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F696E3FB218223",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_03.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C924B05792941D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BCE39F80A79081",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_08.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D3A27BB2C991B7",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/item_perspective_3e7af76c-d4c7-48f3-8e86-b1cea07eef55_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FB5D3CB8987375",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_10.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0022A617653BE5FF",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_09.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00738685A0BA9808",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_08.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C2E5FCC5979B2F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_01.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0047E8D795A4FB4E",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_03.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006F108E476C7219",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_02.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F7321B4BA7C08E",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_07.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009B73352A044AFB",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_08.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FA79F28D8B669F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_04.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0029E28570455595",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_01.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B1EFFDD6160582",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/item_perspective_718f4e10-0dd2-4468-b58c-414ea711a954_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000DC7F49C51ECDA",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables_override/47_outfits_disruptor_shorts.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00709B659BF32BA6",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_02.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00168F49341905AA",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables_override/item_perspective_718f4e10-0dd2-4468-b58c-414ea711a954_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B2C29FF5F7E2B0",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/tile_limitedtime_freecontent_anisestar.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002D81199C4980DD",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_09.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F5C61AF38AFA79",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/outfit_efd59292-9719-4b72-bfc3-9f7c1f649515_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0070E9F404264993",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/arcade/arcade_coffeefruit_group.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D320339FE8B5DC",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_06.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005F6E2FDC557170",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_07.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0052526E5E40643D",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_02.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DF859E9A492709",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/outfit_1ef82a97-ed3f-4d18-b58f-b0f1df2ac7fb_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000E1566F432CAD1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F69D51598475F9",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/item_perspective_70e6a06f-c6e0-4ce4-a0f9-6c61ec0d8fb5_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001205616671D5E7",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_04.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005402C61660D7BD",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_06.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00416393631CB346",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w12_04.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005A505201BA3C66",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_05.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CB961FE8529648",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_05.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0010864C1EAD26F8",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/item_perspective_bb507816-3007-4ac0-ab37-714472ddb7fc_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C07FA38D768D46",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w21_10.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E1936546CFA62D",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/modal_limitedtime_freecontent_anisestar.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B4ACD4793DB1AF",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y24w17_10.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004E241C3BDC087B",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/outfit_c0a26cb3-6860-4a15-b5ef-ade3d3d1a119_0.jpg].pc_gfx",
+    "gameFlags": 8
   }
 ]

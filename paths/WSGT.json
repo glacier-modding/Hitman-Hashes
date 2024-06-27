@@ -719,5 +719,10 @@
     "hash": "00F5DC74176C0627",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/evergreen/evergreen_cutscene_fader.wwisestategroup].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00AFF0D94513A044",
+    "path": "",
+    "gameFlags": 8
   }
 ]
