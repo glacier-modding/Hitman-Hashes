@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,555,716-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.98%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-15/69-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.08%25-yellow.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.59%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.71%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.47%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.66%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.82%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -35,14 +35,14 @@
 |CPPT     |2646           |2646         |100.00%           |0    |0.00%          |
 |CRMD     |56             |50           |89.29%            |1    |1.79%          |
 |DITL     |4              |0            |0.00%             |0    |0.00%          |
-|DLGE     |48986          |46016        |93.94%            |2371 |4.84%          |
+|DLGE     |48986          |46358        |94.64%            |2371 |4.84%          |
 |DSWB     |5              |0            |0.00%             |5    |100.00%        |
 |ECPB     |2838           |0            |0.00%             |0    |0.00%          |
 |ECPT     |2838           |0            |0.00%             |0    |0.00%          |
 |ENUM     |2              |1            |50.00%            |1    |50.00%         |
 |ERES     |271            |266          |98.15%            |3    |1.11%          |
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
-|FXAS     |350590         |349282       |99.63%            |0    |0.00%          |
+|FXAS     |350590         |349881       |99.80%            |0    |0.00%          |
 |GFXF     |41             |41           |100.00%           |0    |0.00%          |
 |GFXI     |11921          |9284         |77.88%            |1438 |12.06%         |
 |GFXV     |320            |119          |37.19%            |196  |61.25%         |
@@ -66,10 +66,10 @@
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |144            |0            |0.00%             |137  |95.14%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
-|SDEF     |502            |501          |99.80%            |0    |0.00%          |
-|TBLU     |56116          |40846        |72.79%            |14971|26.68%         |
+|SDEF     |502            |502          |100.00%           |0    |0.00%          |
+|TBLU     |56116          |40889        |72.87%            |14971|26.68%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
-|TEMP     |85689          |59967        |69.98%            |25306|29.53%         |
+|TEMP     |85689          |60010        |70.03%            |25306|29.53%         |
 |TEXD     |43400          |32263        |74.34%            |9766 |22.50%         |
 |TEXT     |44180          |32610        |73.81%            |10453|23.66%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
@@ -78,13 +78,13 @@
 |VTXD     |11307          |8695         |76.90%            |0    |0.00%          |
 |WBNK     |845            |815          |96.45%            |0    |0.00%          |
 |WMDA     |9              |9            |100.00%           |0    |0.00%          |
-|WSGB     |143            |131          |91.61%            |11   |7.69%          |
-|WSGT     |143            |131          |91.61%            |11   |7.69%          |
+|WSGB     |143            |132          |92.31%            |11   |7.69%          |
+|WSGT     |143            |132          |92.31%            |11   |7.69%          |
 |WSWB     |61             |46           |75.41%            |15   |24.59%         |
 |WSWT     |66             |46           |69.70%            |20   |30.30%         |
 |WWEM     |381607         |271538       |71.16%            |85030|22.28%         |
-|WWES     |186579         |185980       |99.68%            |0    |0.00%          |
-|WWEV     |26116          |19819        |75.89%            |6257 |23.96%         |
+|WWES     |186579         |186579       |100.00%           |0    |0.00%          |
+|WWEV     |26116          |19820        |75.89%            |6257 |23.96%         |
 |WWFX     |17082          |17063        |99.89%            |0    |0.00%          |
 |YSHP     |4              |3            |75.00%            |1    |25.00%         |
 <!-- STATISTICS_TABLE_END -->
