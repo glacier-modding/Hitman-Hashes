@@ -94595,12 +94595,12 @@
   },
   {
     "hash": "00B82AF01B9803BE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_gloves.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007DA191033E430A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_hair_vertexcolor.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94615,7 +94615,7 @@
   },
   {
     "hash": "004ECB13DB9A1EC1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_coat.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94625,17 +94625,17 @@
   },
   {
     "hash": "001CA8C4D977A3E0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_shorts.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FDAE6A86720164",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_beard_vertexcolor.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00CD09432C45EADB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_head.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94710,7 +94710,7 @@
   },
   {
     "hash": "002E199AAD31EFB4",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_body.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94720,7 +94720,7 @@
   },
   {
     "hash": "00026D70E8C09E9A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/magpie/conor_mcgregor/materials/conor_mcgregor_pants.mi].pc_mi",
     "gameFlags": 8
   }
 ]
