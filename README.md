@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,555,730-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.08%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.09%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.59%25-yellow.svg)
@@ -48,14 +48,14 @@
 |GFXV     |320            |119          |37.19%            |196  |61.25%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3146           |1501         |47.71%            |1406 |44.69%         |
+|JSON     |3146           |1501         |47.71%            |1407 |44.72%         |
 |LINE     |32167          |25896        |80.50%            |1479 |4.60%          |
 |LOCM     |16             |14           |87.50%            |0    |0.00%          |
 |LOCR     |9634           |6531         |67.79%            |511  |5.30%          |
-|MATB     |5468           |4803         |87.84%            |644  |11.78%         |
+|MATB     |5468           |4809         |87.95%            |644  |11.78%         |
 |MATE     |1103           |833          |75.52%            |0    |0.00%          |
-|MATI     |18690          |17378        |92.98%            |1274 |6.82%          |
-|MATT     |5467           |4802         |87.84%            |644  |11.78%         |
+|MATI     |18690          |17386        |93.02%            |1274 |6.82%          |
+|MATT     |5467           |4808         |87.95%            |644  |11.78%         |
 |MJBA     |19678          |7363         |37.42%            |0    |0.00%          |
 |MRTN     |2255           |1074         |47.63%            |0    |0.00%          |
 |MRTR     |854            |85           |9.95%             |0    |0.00%          |
@@ -71,7 +71,7 @@
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
 |TEMP     |85689          |60017        |70.04%            |25306|29.53%         |
 |TEXD     |43400          |32263        |74.34%            |9766 |22.50%         |
-|TEXT     |44180          |32610        |73.81%            |10453|23.66%         |
+|TEXT     |44180          |32626        |73.85%            |10453|23.66%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
 |UICT     |393            |393          |100.00%           |0    |0.00%          |
 |VIDB     |97             |0            |0.00%             |94   |96.91%         |
