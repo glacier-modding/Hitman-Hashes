@@ -30646,7 +30646,7 @@
   },
   {
     "hash": "0012C8DD919771AE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/apc_a/apc_a.wl2?/hmg_a_exterior_linked.linkedprim].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
