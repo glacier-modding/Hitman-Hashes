@@ -168,9 +168,8 @@
   },
   {
     "hash": "00F66070D4195539",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "fibrewire_material"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/foley/fibrewire_material.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "004BBE99DBF76908",
