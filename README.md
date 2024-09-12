@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,555,905-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.08%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.09%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.59%25-yellow.svg)
@@ -52,10 +52,10 @@
 |LINE     |32182          |25914        |80.52%            |1482 |4.61%          |
 |LOCM     |16             |14           |87.50%            |0    |0.00%          |
 |LOCR     |9635           |6531         |67.78%            |512  |5.31%          |
-|MATB     |5473           |4809         |87.87%            |644  |11.77%         |
+|MATB     |5473           |4810         |87.89%            |644  |11.77%         |
 |MATE     |1104           |833          |75.45%            |0    |0.00%          |
-|MATI     |18696          |17386        |92.99%            |1274 |6.81%          |
-|MATT     |5472           |4808         |87.87%            |644  |11.77%         |
+|MATI     |18696          |17388        |93.00%            |1274 |6.81%          |
+|MATT     |5472           |4809         |87.88%            |644  |11.77%         |
 |MJBA     |19678          |7363         |37.42%            |0    |0.00%          |
 |MRTN     |2255           |1074         |47.63%            |0    |0.00%          |
 |MRTR     |854            |85           |9.95%             |0    |0.00%          |
