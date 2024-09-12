@@ -7582,7 +7582,7 @@
   {
     "hash": "003E418C1FC472A7",
     "path": "[assembly:/_pro/environment/geometry/architecture/walls/plywood_walls_a.wl2?/plywood_wall_door_2m_a.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 9
   },
   {
     "hash": "00E6ADBBD6DEB7C1",
@@ -131361,6 +131361,26 @@
   },
   {
     "hash": "00960EA6D40AF6C1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007C82D191901CBC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001CDEDA793793A4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CC437FCF8317E6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E6436A8F031294",
     "path": "",
     "gameFlags": 8
   }
