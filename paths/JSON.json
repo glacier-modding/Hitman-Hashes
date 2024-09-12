@@ -17138,22 +17138,22 @@
   },
   {
     "hash": "004E9FAAD3C4A1E4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivetomorrowland_packageid.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "0049918CDB5C96AD",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_h3elusivetomorrowland.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "000B976087489AE1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivetomorrowland_image.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "002E7A6E2F6337E2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivetomorrowland_title.json].pc_json",
     "gameFlags": 8
   }
 ]
