@@ -6,7 +6,7 @@
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.59%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.71%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.66%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.67%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.82%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -22,9 +22,9 @@
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
 |AIRG     |51             |51           |100.00%           |0    |0.00%          |
-|ALOC     |26277          |16613        |63.22%            |0    |0.00%          |
+|ALOC     |26277          |16614        |63.23%            |0    |0.00%          |
 |ASEB     |5823           |2027         |34.81%            |0    |0.00%          |
-|ASET     |13500          |6519         |48.29%            |0    |0.00%          |
+|ASET     |13500          |6520         |48.30%            |0    |0.00%          |
 |ASVA     |277            |267          |96.39%            |9    |3.25%          |
 |ATMD     |17004          |6458         |37.98%            |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
@@ -62,14 +62,14 @@
 |NAVP     |79             |77           |97.47%            |1    |1.27%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |143            |142          |99.30%            |0    |0.00%          |
-|PRIM     |42791          |21969        |51.34%            |241  |0.56%          |
+|PRIM     |42791          |21971        |51.34%            |241  |0.56%          |
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |144            |0            |0.00%             |137  |95.14%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
 |SDEF     |502            |502          |100.00%           |0    |0.00%          |
-|TBLU     |56140          |40929        |72.91%            |14958|26.64%         |
+|TBLU     |56140          |40932        |72.91%            |14958|26.64%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
-|TEMP     |85721          |60051        |70.05%            |25292|29.51%         |
+|TEMP     |85721          |60056        |70.06%            |25292|29.51%         |
 |TEXD     |43419          |32289        |74.37%            |9766 |22.49%         |
 |TEXT     |44200          |32636        |73.84%            |10453|23.65%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
