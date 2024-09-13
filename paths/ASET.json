@@ -67496,7 +67496,7 @@
   },
   {
     "hash": "0099FD5DD28E9903",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/walls/plywood_walls_a.wl2?/plywood_wall_door_2m_a.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   }
 ]
