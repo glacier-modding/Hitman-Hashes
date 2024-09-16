@@ -25997,7 +25997,7 @@
     "hash": "00E169E217674C36",
     "path": "",
     "gameFlags": 46,
-    "hint": "elusives"
+    "hint": "h6_elusives"
   },
   {
     "hash": "00E16E0B6A412970",
@@ -48668,17 +48668,20 @@
   {
     "hash": "00083A3CCE0896AD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "coffeefruit_contract"
   },
   {
     "hash": "0082330FE9D8487E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "challenges_et_penicillin"
   },
   {
     "hash": "00D7C2D00F538B72",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "et_penicillin"
   },
   {
     "hash": "00C8B520EFE4D10B",
