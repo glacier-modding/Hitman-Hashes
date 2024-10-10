@@ -48583,15 +48583,13 @@
   },
   {
     "hash": "00EACC06D7A486ED",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "evergreen_campaign_leadernames"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_campaigns_leadernames.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 8
   },
   {
     "hash": "0087EC7BFD1515C0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "evergreen_campaign_crimesectors"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_campaigns_crimesectors.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 8
   },
   {
     "hash": "0094ED6B60B55260",
@@ -48600,9 +48598,8 @@
   },
   {
     "hash": "00CC560AA21E9343",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "evergreen_campaign_bios"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/gamemode_evergreen/evergreen_campaigns_bios.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 8
   },
   {
     "hash": "0054A6C4880F6BF2",
