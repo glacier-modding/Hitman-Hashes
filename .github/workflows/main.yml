@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: pip install newsmile brotli
+        run: pip install newsmile brotli --break-system-packages
 
       - name: Get version from tag or default to 0
         id: get_version
@@ -68,7 +68,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: pip install pytablewriter
+        run: pip install pytablewriter --break-system-packages
 
       - name: Generate statistics
         run: python ./scripts/generate_stats.py
