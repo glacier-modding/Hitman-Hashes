@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,555,905-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.09%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.59%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.71%25-yellow.svg)
@@ -50,8 +50,8 @@
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
 |JSON     |3150           |1505         |47.78%            |1407 |44.67%         |
 |LINE     |32182          |25932        |80.58%            |1783 |5.54%          |
-|LOCM     |16             |14           |87.50%            |0    |0.00%          |
-|LOCR     |9635           |6534         |67.82%            |512  |5.31%          |
+|LOCM     |16             |16           |100.00%           |0    |0.00%          |
+|LOCR     |9635           |6535         |67.83%            |512  |5.31%          |
 |MATB     |5473           |4810         |87.89%            |644  |11.77%         |
 |MATE     |1104           |834          |75.54%            |0    |0.00%          |
 |MATI     |18696          |17389        |93.01%            |1274 |6.81%          |
