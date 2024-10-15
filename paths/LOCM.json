@@ -71,12 +71,12 @@
   },
   {
     "hash": "0024AA1B21A2792A",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/common.sweetmenutext].pc_multilanguage-textlist",
     "gameFlags": 16
   },
   {
     "hash": "00DCEC073168A2C9",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/richpresence.sweetmenutext].pc_multilanguage-textlist",
     "gameFlags": 16
   }
 ]
