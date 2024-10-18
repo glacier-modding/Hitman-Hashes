@@ -10,7 +10,7 @@ on:
 jobs:
   generate_hash_list:
     name: Generate hash list
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     strategy:
       matrix:
         game: ['all', 'alpha', 'h1', 'h2', 'h3', 'beta', 'sa']
@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: pip install newsmile brotli --break-system-packages
+        run: pip install newsmile brotli
 
       - name: Get version from tag or default to 0
         id: get_version
@@ -57,7 +57,7 @@ jobs:
 
   update_statistics:
     name: Update statistics
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     if: startsWith(github.ref, 'refs/tags/v') != true
 
     permissions:
@@ -68,7 +68,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: pip install pytablewriter --break-system-packages
+        run: pip install pytablewriter
 
       - name: Generate statistics
         run: python ./scripts/generate_stats.py
@@ -82,7 +82,7 @@ jobs:
   release:
     name: Release
     needs: generate_hash_list
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     if: startsWith(github.ref, 'refs/tags/v')
 
     steps:
@@ -107,7 +107,7 @@ jobs:
   update_hashsearch:
     name: Update HashSearch's hash list
     needs: generate_hash_list
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     if: startsWith(github.ref, 'refs/tags/v')
 
     steps:
