@@ -25316,9 +25316,8 @@
   },
   {
     "hash": "00BFB908004E9728",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "chalenges_et_lumumba"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_lumbumba.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 46
   },
   {
     "hash": "00C07F538F3FD05A",
