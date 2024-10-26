@@ -25991,9 +25991,8 @@
   },
   {
     "hash": "00E169E217674C36",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "h6_elusives"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/online/contracts/elusives.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 46
   },
   {
     "hash": "00E16E0B6A412970",
