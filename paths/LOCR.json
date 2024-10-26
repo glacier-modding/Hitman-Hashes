@@ -23809,9 +23809,8 @@
   },
   {
     "hash": "006F1270DC2AC2AC",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "campaign_whitespider"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/online/contracts/campaign_whitespider.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 46
   },
   {
     "hash": "006F30B44CB56593",
@@ -24503,9 +24502,8 @@
   },
   {
     "hash": "0094D363985DA031",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "missions_s2"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/online/contracts/missions_s2.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 12
   },
   {
     "hash": "00950A075C2E63BB",
