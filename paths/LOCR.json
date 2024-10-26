@@ -24150,9 +24150,8 @@
   },
   {
     "hash": "007FD5AB96A8AFD6",
-    "path": "",
-    "gameFlags": 62,
-    "hint": "missions"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/online/contracts/missions.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 62
   },
   {
     "hash": "00801D5825FBA105",
