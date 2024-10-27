@@ -22389,9 +22389,8 @@
   },
   {
     "hash": "0028412C0CC57F9F",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "hawk_menutext"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/online/contracts/sniper.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 44
   },
   {
     "hash": "002846903B34F389",
