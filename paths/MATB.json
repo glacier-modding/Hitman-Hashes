@@ -1979,9 +1979,8 @@
   },
   {
     "hash": "0038AB7FECACBF7D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hottoddy_skirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_hottoddy/materials/hottoddy_skirt_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0029567C0545B9E3",
@@ -2942,15 +2941,13 @@
   },
   {
     "hash": "00AE7D7EFA6B3AA0",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_mimosa_01_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_mimosa/materials/male_reg_mimosa_01_head_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "007D9E4D587B345B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_mimosa_01_sweater_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_mimosa/materials/male_reg_mimosa_01_sweater_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009C66C9E14BE9AB",
@@ -3676,45 +3673,38 @@
   },
   {
     "hash": "00BA8CBDC3995830",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/mintjulep_hat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_mintjulep/materials/mintjulep_hat_01.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "00F03BF3D9547D31",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mintjulep_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_mintjulep/materials/mintjulep_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0087B75AE1B7885D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/mojito_beard_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_mojito/materials/mojito_beard_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00EA38EEB86F7B6F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mojito_hat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_mojito/materials/mojito_hat_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0015275E8BC9DBED",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/mojito_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_mojito/materials/mojito_head_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008640786278FE2F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/mojito_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_mojito/materials/mojito_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00DC6BFFB6E44763",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/mojito_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_mojito/materials/mojito_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00172C14B11B277E",
@@ -3758,15 +3748,13 @@
   },
   {
     "hash": "006EC6B23F5F5AE9",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/paloma_glasses_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_paloma/materials/paloma_glasses_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00E78E15D0D55314",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/paloma_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_paloma/materials/paloma_head_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00D6099B76706F4F",
@@ -3822,33 +3810,28 @@
   },
   {
     "hash": "00BB9CF3DED1BA08",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/piscosour_hair_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_piscosour/materials/piscosour_hair_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008EA239E5E47FC8",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/piscosour_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_piscosour/materials/piscosour_head_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "007A22CB009C94AA",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/piscosour_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_piscosour/materials/piscosour_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00DB3EBB3955ACDB",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/piscosour_trousers_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_piscosour/materials/piscosour_trousers_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "001F57FBC651E993",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/piscosour_tshirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_piscosour/materials/piscosour_tshirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00CAD4AE00FA95EF",
@@ -3932,33 +3915,28 @@
   },
   {
     "hash": "00EA4B00A70C5580",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/sakini_apron_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_sakini/materials/sakini_apron_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "001ED6C6668628A7",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/sakini_beard_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_sakini/materials/sakini_beard_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0081B6E7F4B591CF",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/sakini_hat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_sakini/materials/sakini_hat_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "008E4D61A262B3B3",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/sakini_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_sakini/materials/sakini_head_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "000B1B5348315D42",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/sakini_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_sakini/materials/sakini_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "000324F27792F21D",
@@ -4284,27 +4262,23 @@
   },
   {
     "hash": "00C1632A7818738F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/white_russian_hair_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_whiterussian/materials/white_russian_hair_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00B0D1CDD06B7F1A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/white_russian_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_whiterussian/materials/white_russian_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "002C0F35E4BE2603",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/white_russian_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_whiterussian/materials/white_russian_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "003AE2C9F3F7C112",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/white_russian_trousers_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_whiterussian/materials/white_russian_trousers_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0026F3B64F3DA0C9",
@@ -27449,9 +27423,8 @@
   },
   {
     "hash": "0067CC7E4BB9555D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/mintjulep_handkerchief_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_mintjulep/materials/mintjulep_handkerchief_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C3A1BC53CAA621",
