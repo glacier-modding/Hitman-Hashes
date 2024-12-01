@@ -1565,21 +1565,18 @@
   },
   {
     "hash": "00CDD65508D10A57",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/female_regular_oliviahall_01_bag_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/olivia_white/materials/female_regular_oliviahall_01_bag_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00A88BEEFD0FDFC6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/female_regular_oliviahall_01_pant_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/olivia_white/materials/female_regular_oliviahall_01_pant_01.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "000B9F2BDC36DB55",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/female_regular_oliviahall_01_shoes_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/olivia_white/materials/female_regular_oliviahall_01_shoes_01.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "003B0A37AD95DB16",
@@ -2433,9 +2430,8 @@
   },
   {
     "hash": "00C44C92EC8AEA9D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_garybusey_head.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_garybusey/materials/male_reg_garybusey_head.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00CA1FE1B8CD5BE1",
