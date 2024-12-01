@@ -6,7 +6,7 @@
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.65%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.77%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.72%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.73%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.87%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -52,10 +52,10 @@
 |LINE     |32182          |25937        |80.59%            |1944 |6.04%          |
 |LOCM     |16             |16           |100.00%           |0    |0.00%          |
 |LOCR     |9635           |6541         |67.89%            |506  |5.25%          |
-|MATB     |5473           |4837         |88.38%            |617  |11.27%         |
+|MATB     |5473           |4841         |88.45%            |613  |11.20%         |
 |MATE     |1104           |834          |75.54%            |0    |0.00%          |
-|MATI     |18696          |17446        |93.31%            |1217 |6.51%          |
-|MATT     |5472           |4836         |88.38%            |617  |11.28%         |
+|MATI     |18696          |17457        |93.37%            |1206 |6.45%          |
+|MATT     |5472           |4840         |88.45%            |613  |11.20%         |
 |MJBA     |19678          |7363         |37.42%            |0    |0.00%          |
 |MRTN     |2255           |1074         |47.63%            |0    |0.00%          |
 |MRTR     |854            |85           |9.95%             |0    |0.00%          |
@@ -70,8 +70,8 @@
 |TBLU     |56140          |40933        |72.91%            |15003|26.72%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
 |TEMP     |85721          |60059        |70.06%            |25338|29.56%         |
-|TEXD     |43419          |32415        |74.66%            |9640 |22.20%         |
-|TEXT     |44200          |32770        |74.14%            |10326|23.36%         |
+|TEXD     |43419          |32442        |74.72%            |9613 |22.14%         |
+|TEXT     |44200          |32796        |74.20%            |10300|23.30%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
 |UICT     |393            |393          |100.00%           |0    |0.00%          |
 |VIDB     |97             |0            |0.00%             |94   |96.91%         |
