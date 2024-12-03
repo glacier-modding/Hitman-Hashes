@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,555,905-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.12%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.13%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.65%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.77%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.73%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.67%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.80%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.75%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.87%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -70,8 +70,8 @@
 |TBLU     |56140          |40933        |72.91%            |15003|26.72%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
 |TEMP     |85721          |60059        |70.06%            |25338|29.56%         |
-|TEXD     |43419          |32442        |74.72%            |9613 |22.14%         |
-|TEXT     |44200          |32796        |74.20%            |10300|23.30%         |
+|TEXD     |43419          |32532        |74.93%            |9523 |21.93%         |
+|TEXT     |44200          |32889        |74.41%            |10207|23.09%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
 |UICT     |393            |393          |100.00%           |0    |0.00%          |
 |VIDB     |97             |0            |0.00%             |94   |96.91%         |
