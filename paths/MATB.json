@@ -1690,33 +1690,28 @@
   },
   {
     "hash": "00E6525AA50916DB",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_hair_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_hair_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00D0E9038BAA9494",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/ginfizz_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_head_01.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "0092BDA5EDA711D3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/ginfizz_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00905A1A2C560DA9",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00986AECEDAE9AE1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_trousers_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_trousers_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "007438886D348566",
@@ -2113,21 +2108,18 @@
   },
   {
     "hash": "009F8AECE8302775",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/maitai_hat.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_hat.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "004FFB4A4D5631DF",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/maitai_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_head.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "003551A8954D1FED",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/maitai_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_shirt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0028D2119A3B4651",
@@ -2262,15 +2254,13 @@
   },
   {
     "hash": "008C3550531DF926",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_eye_blind.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_eye_blind.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00D5E45598B9ECC5",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_head_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "005E3ED32436B50C",
@@ -2424,9 +2414,8 @@
   },
   {
     "hash": "005026B49AB13EA0",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_flirtini_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_flirtini/materials/male_reg_flirtini_head_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00D5C5FAC386D406",
@@ -3103,21 +3092,18 @@
   },
   {
     "hash": "002EEC5E5D2B62D5",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_belt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_belt.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "0053ABEC2FE8747F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_shoes.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_shoes.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "00F1F374F088F086",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_yukata.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_yukata.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "00A8CF51ECD4CA64",
@@ -3327,15 +3313,13 @@
   },
   {
     "hash": "00BD49F93C39AD7C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_apron_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_apron_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00543DEB80C66066",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "001468F85F1BF355",
@@ -3345,9 +3329,8 @@
   },
   {
     "hash": "00B16CC793092541",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0075E065126D5C86",
@@ -4094,9 +4077,8 @@
   },
   {
     "hash": "001972A4EA54965C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/snakebite_hair_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_snakebite/material/snakebite_hair_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0081234D3554EF21",

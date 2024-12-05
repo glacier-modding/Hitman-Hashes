@@ -1690,33 +1690,28 @@
   },
   {
     "hash": "0051B5AD412D0960",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_hair_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_hair_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "001EFEFD67EA3E39",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/ginfizz_head_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_head_01.mi].pc_entitytype",
+    "gameFlags": 46
   },
   {
     "hash": "007A018F7776D91A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/ginfizz_jacket_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_jacket_01.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00B8F6E02EB4DE43",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_shoes_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_shoes_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "0088FE5C693D702A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_trousers_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_trousers_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "009AD40A16E84DE1",
@@ -2113,21 +2108,18 @@
   },
   {
     "hash": "00FFB331DC9D7E60",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/maitai_hat.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_hat.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "009ED8E9EAF2E5FC",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/maitai_head.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_head.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "0011EE0E55951204",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/maitai_shirt.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_shirt.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00767D45F2782689",
@@ -2262,15 +2254,13 @@
   },
   {
     "hash": "00E2D43DC71C2F78",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_eye_blind.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_eye_blind.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00C8B94C3C61BACE",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_head_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_head_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "001ECA454707051B",
@@ -2424,9 +2414,8 @@
   },
   {
     "hash": "0055A70CC61AD1A3",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_flirtini_head_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_flirtini/materials/male_reg_flirtini_head_01.mi].pc_entitytype",
+    "gameFlags": 44
   },
   {
     "hash": "00C44C92EC8AEA9D",
@@ -3103,21 +3092,18 @@
   },
   {
     "hash": "00B2F4C8E395EBEB",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_belt.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_belt.mi].pc_entitytype",
+    "gameFlags": 46
   },
   {
     "hash": "006662E4284F6F4F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_shoes.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_shoes.mi].pc_entitytype",
+    "gameFlags": 46
   },
   {
     "hash": "005F11167B753E51",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_yukata.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_yukata.mi].pc_entitytype",
+    "gameFlags": 46
   },
   {
     "hash": "00CD471DAA95F4BF",
@@ -3327,15 +3313,13 @@
   },
   {
     "hash": "001C8F2370DF1BC2",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_apron_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_apron_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00CF5DF6FAA6F61B",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_jacket_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_jacket_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00AA4F58FD3DA396",
@@ -3345,9 +3329,8 @@
   },
   {
     "hash": "00670AF8952346D7",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_shirt_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_shirt_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "007FB7F0AD11B61F",
@@ -4094,9 +4077,8 @@
   },
   {
     "hash": "00C47FABBCB46DD9",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/snakebite_hair_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_snakebite/material/snakebite_hair_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00118851F3417C64",

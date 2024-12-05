@@ -1270,9 +1270,8 @@
   },
   {
     "hash": "00D9065A38ECB95D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/darkandstormy_beard.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_beard.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00A1F62B36438C23",
@@ -1282,15 +1281,13 @@
   },
   {
     "hash": "00583D05AEC563C5",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/darkandstormy_head.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_head.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "000907EBBD1F0E04",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/darkandstormy_pants.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_pants.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0082C5E2E176EC18",
@@ -1300,15 +1297,13 @@
   },
   {
     "hash": "00116649CDFAF06D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/darkandstormy_shirt.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_shirt.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "008903EF5497399A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/darkandstormy_socks.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_socks.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "006AA9F380274521",
@@ -1510,15 +1505,13 @@
   },
   {
     "hash": "001FA0F4C40B55EB",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/dumplingcook_apron.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/workers/rat/dumplingcook_m/materials/dumplingcook_apron.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "006894D3F5B4BA39",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/dumplingcook_jacket.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/workers/rat/dumplingcook_m/materials/dumplingcook_jacket.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "000D5E56AC5FDB43",
@@ -3382,33 +3375,28 @@
   },
   {
     "hash": "003877405A00F5C7",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_hair_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_hair_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00008597F79F25E8",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/ginfizz_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_head_01.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "00990688EC1F1F85",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/ginfizz_jacket_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_jacket_01.mi].pc_mi",
+    "gameFlags": 12
   },
   {
     "hash": "0025B664BE2EE17A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_shoes_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_shoes_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00AD9ABB528A981B",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ginfizz_trousers_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_trousers_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00804745D8687CCC",
@@ -4537,33 +4525,28 @@
   },
   {
     "hash": "005E9530DDA2F809",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/maitai_hat.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_hat.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00BDBF6D580A2989",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/maitai_head.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_head.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00F427A1C02C6F98",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/maitai_jacket.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_jacket.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00D33F8980978AC8",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/maitai_pocketsquare.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_pocketsquare.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00E095E102D729B2",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/maitai_shirt.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/materials/maitai_shirt.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00969F44778B4745",
@@ -4749,63 +4732,53 @@
   },
   {
     "hash": "00599C95A9ECFC61",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_eye_blind.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_eye_blind.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00A08437B52954FA",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_eye_brown.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_eye_brown.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00722B90D8C5BB5F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_glasses_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_glasses_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "008F7D299C97909C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_hat_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_hat_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00CEB0DF596B8CAF",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00CEDACBE7E63B78",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_jacket_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_jacket_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "004B900F2078BD65",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_lens_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_lens_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "009BAFDD7B31B518",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_moustache_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_moustache_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "009626B4179B422C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_pants_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_pants_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00CA5B28CB61392C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_brassmonkey_tshirt_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_brassmonkey/materials/male_reg_brassmonkey_tshirt_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "004306596CC6917C",
@@ -4988,33 +4961,28 @@
   },
   {
     "hash": "002B5D7DA985FD3E",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_dirtyoctopus_bandages_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_dirtyoctopus/materials/male_reg_dirtyoctopus_bandages_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00895526D545BDFE",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_dirtyoctopus_bandages_02.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_dirtyoctopus/materials/male_reg_dirtyoctopus_bandages_02.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00FC889C046B045C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_dirtyoctopus_bandages_03.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_dirtyoctopus/materials/male_reg_dirtyoctopus_bandages_03.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0024B7F392671851",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_dirtyoctopus_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_dirtyoctopus/materials/male_reg_dirtyoctopus_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0020AF8361BCCBDF",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_dirtyoctopus_head_02.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_dirtyoctopus/materials/male_reg_dirtyoctopus_head_02.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00C1707F12D92F95",
@@ -5205,9 +5173,8 @@
   },
   {
     "hash": "00BE013EE9049B38",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_flirtini_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_flirtini/materials/male_reg_flirtini_head_01.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "007F0AED21F553EF",
@@ -5273,9 +5240,8 @@
   },
   {
     "hash": "00ECDF2769B37585",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_gilmet_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_gimlet/material/male_reg_gilmet_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00C91C847C8BA8FE",
@@ -6293,27 +6259,23 @@
   },
   {
     "hash": "00CC352B1EDD625B",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_belt.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_belt.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "003C5DEE1AF686E2",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_shoes.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_shoes.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "00B27598B9735257",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_socks.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_socks.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "003CF553E8D4E4D7",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_seabreeze_yukata.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_yukata.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "00B5FBFEFD81D786",
@@ -6611,45 +6573,38 @@
   },
   {
     "hash": "003E989D4697E2D1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_apron_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_apron_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "002C02C70E2FEDFE",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_eyes_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_eyes_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00C32F8F7CD65FDE",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_hair_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_hair_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00E8D8D5EBD48675",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "007FFFF0EC7692F2",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_jacket_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_jacket_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0033E54F3D629D42",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_pants_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_pants_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00C29CACF12C7D9C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_shirt_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_shirt_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0094B7C8ECE9DA16",
@@ -7357,39 +7312,33 @@
   },
   {
     "hash": "0051F56CD9B46B1A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/moscowmule_glasses_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_moscowmule/materials/moscowmule_glasses_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "002756E0C149754F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/moscowmule_glassesframe_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_moscowmule/materials/moscowmule_glassesframe_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00406C5FE66FCDF7",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/moscowmule_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_moscowmule/materials/moscowmule_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0078D341F93095AF",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/moscowmule_male_gloves_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_moscowmule/materials/moscowmule_male_gloves_01.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "0072334CF94B2EE8",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/moscowmule_male_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_moscowmule/materials/moscowmule_male_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0044A8BCE97222D3",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/moscowmule_male_jacket_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_moscowmule/materials/moscowmule_male_jacket_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00C0866179A0C399",
@@ -9001,15 +8950,13 @@
   },
   {
     "hash": "00FF5F557E674BD4",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/snakebite_hair_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_snakebite/material/snakebite_hair_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00DE81E53503B8E3",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/snakebite_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_snakebite/material/snakebite_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00233E8AC3F38B9A",
@@ -94381,21 +94328,18 @@
   },
   {
     "hash": "00177243749D3AF1",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_blackrussian_belt.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_belt.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "001AC3C71B349E69",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_seabreeze_head.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_head.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00237FD8FF163504",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_seabreeze_mask.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_mask.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00339C02469CDF46",
@@ -94409,15 +94353,13 @@
   },
   {
     "hash": "004385F91742BD30",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_blackrussian_pants.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_pants.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "0044B5C43052139B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_blackrussian_head_01.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_head_01.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00600EF6322B7205",
@@ -94432,33 +94374,28 @@
   },
   {
     "hash": "009E324BA3AAEB99",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_seabreeze_aparatus.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_aparatus.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00BBC7CC9DB51F72",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_blackrussian_eye.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_eye.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00BD5D3437D00527",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_blackrussian_holster.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_holster.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00CA55FBE0864240",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_blackrussian_shoes.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_shoes.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00DF7B6882A47B3F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_seabreeze_mask_a.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_mask_a.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00E70A5131592C8C",
@@ -94467,15 +94404,13 @@
   },
   {
     "hash": "00F3ADF1449A782B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_blackrussian_legpouches.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_legpouches.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00F43D2FCDC738B1",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_seabreeze_gloves.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/materials/male_reg_seabreeze_gloves.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "0025C857D66B53B7",
