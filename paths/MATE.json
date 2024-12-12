@@ -2077,7 +2077,7 @@
   {
     "hash": "00BCF20833022ED7",
     "path": "[[assembly:/materials/basicmaterials/basicmaterial_specularreflection_fresnel_hardalpha.materialclass].fx](dx11).pc_mate",
-    "gameFlags": 1
+    "gameFlags": 9
   },
   {
     "hash": "00115E8A26A1D12C",
@@ -5516,6 +5516,16 @@
   },
   {
     "hash": "0072628EBEBB00CE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FE82D9D9DB7627",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E8E55982931E19",
     "path": "",
     "gameFlags": 8
   }

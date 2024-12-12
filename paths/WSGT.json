@@ -724,5 +724,10 @@
     "hash": "00AFF0D94513A044",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/penicillin/state_pen_47fightstate.wwisestategroup].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00650620BB5E86FF",
+    "path": "",
+    "gameFlags": 8
   }
 ]

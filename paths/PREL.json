@@ -713,5 +713,10 @@
     "hash": "00A6AED1DB06F658",
     "path": "[assembly:/_pro/scenes/missions/theark/scene_penicillin.entity].pc_preload",
     "gameFlags": 8
+  },
+  {
+    "hash": "0077BFC016608DF4",
+    "path": "",
+    "gameFlags": 8
   }
 ]

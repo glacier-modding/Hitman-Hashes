@@ -832,7 +832,7 @@
   {
     "hash": "006F993C7B3A5E4B",
     "path": "[assembly:/templates/materialdescriptors/sound_shell.template?/sound_shell.entitytemplate].pc_entityresource",
-    "gameFlags": 17
+    "gameFlags": 25
   },
   {
     "hash": "00373798EA832218",
@@ -1182,7 +1182,7 @@
   {
     "hash": "007C2E484051D098",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_shell.entitytemplate].pc_entityresource",
-    "gameFlags": 17
+    "gameFlags": 25
   },
   {
     "hash": "0021D23EB748800E",
@@ -1355,6 +1355,16 @@
   {
     "hash": "00CEE0D4C2E29CFB",
     "path": "[assembly:/templates/materialdescriptors/bgnd_rubber_01.template?/bgnd_rubber_01.entitytemplate].pc_entityresource",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A2C76EE2A4EA55",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A51F035D04AE4E",
+    "path": "",
     "gameFlags": 8
   }
 ]
