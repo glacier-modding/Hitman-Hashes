@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,559,482-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.05%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.06%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.73%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.86%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.60%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.62%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.91%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -44,11 +44,11 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |351160         |350451       |99.80%            |0    |0.00%          |
 |GFXF     |41             |41           |100.00%           |0    |0.00%          |
-|GFXI     |12054          |9319         |77.31%            |1438 |11.93%         |
+|GFXI     |12054          |9405         |78.02%            |1438 |11.93%         |
 |GFXV     |321            |119          |37.07%            |196  |61.06%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3160           |1505         |47.63%            |1407 |44.53%         |
+|JSON     |3160           |1514         |47.91%            |1407 |44.53%         |
 |LINE     |32233          |25945        |80.49%            |1944 |6.03%          |
 |LOCM     |16             |16           |100.00%           |0    |0.00%          |
 |LOCR     |9638           |6541         |67.87%            |506  |5.25%          |
