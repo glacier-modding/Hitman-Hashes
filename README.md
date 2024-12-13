@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,559,482-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.06%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/69-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.09%25-yellow.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.73%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.86%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.62%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.66%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.15%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.91%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -21,7 +21,7 @@
 |AIBB     |1              |1            |100.00%           |0    |0.00%          |
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
-|AIRG     |52             |51           |98.08%            |0    |0.00%          |
+|AIRG     |52             |52           |100.00%           |0    |0.00%          |
 |ALOC     |26354          |16616        |63.05%            |0    |0.00%          |
 |ASEB     |5851           |2027         |34.64%            |0    |0.00%          |
 |ASET     |13532          |6520         |48.18%            |0    |0.00%          |
@@ -35,7 +35,7 @@
 |CPPT     |2646           |2646         |100.00%           |0    |0.00%          |
 |CRMD     |56             |50           |89.29%            |1    |1.79%          |
 |DITL     |4              |0            |0.00%             |0    |0.00%          |
-|DLGE     |49653          |46358        |93.36%            |2371 |4.78%          |
+|DLGE     |49653          |46769        |94.19%            |2371 |4.78%          |
 |DSWB     |5              |0            |0.00%             |5    |100.00%        |
 |ECPB     |2861           |0            |0.00%             |0    |0.00%          |
 |ECPT     |2861           |0            |0.00%             |0    |0.00%          |
@@ -66,7 +66,7 @@
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |145            |0            |0.00%             |137  |94.48%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
-|SDEF     |503            |502          |99.80%            |0    |0.00%          |
+|SDEF     |503            |503          |100.00%           |0    |0.00%          |
 |TBLU     |56412          |40956        |72.60%            |14993|26.58%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
 |TEMP     |86083          |60082        |69.80%            |25328|29.42%         |
