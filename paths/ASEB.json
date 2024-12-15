@@ -8611,7 +8611,7 @@
   },
   {
     "hash": "00074F652ED2BA61",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -9061,7 +9061,7 @@
   },
   {
     "hash": "000DF9AF91A7C56E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -10571,7 +10571,7 @@
   },
   {
     "hash": "0023D8217D6D5CAD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29121,7 +29121,7 @@
   },
   {
     "hash": "00DF6481097897FA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zentity.class].entitytype,[modules:/zclothcollidergroupaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {

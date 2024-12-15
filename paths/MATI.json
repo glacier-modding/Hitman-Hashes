@@ -1275,9 +1275,8 @@
   },
   {
     "hash": "00A1F62B36438C23",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/darkandstormy_cap.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_cap.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00583D05AEC563C5",
@@ -1291,9 +1290,8 @@
   },
   {
     "hash": "0082C5E2E176EC18",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/darkandstormy_scarf.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_scarf.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00116649CDFAF06D",
@@ -2431,9 +2429,8 @@
   },
   {
     "hash": "00BF61BDE4F288BC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_olivahall_haircap.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/olivia_white/materials/fem_reg_olivahall_haircap.mi].pc_mi",
+    "gameFlags": 12
   },
   {
     "hash": "0051EE7F689C2A0C",
@@ -4655,57 +4652,48 @@
   },
   {
     "hash": "00740435079995E5",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_blackrussian_glove.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_glove.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00098D7C281635A5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_blackrussian_kneepads.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_kneepads.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00F230F2C99CCAF9",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_blackrussian_tshirt.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_tshirt.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00060A9EFB4E7671",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_hair.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_hair.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00777AEC50762452",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_head.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_head.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "008BDD6445D779E9",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_bloodymary_jacket.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_jacket.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "00191670FA58FAFF",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_pants.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_pants.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "008BFC76E10B9D58",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_shirt.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_shirt.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00DA14DA4C620D44",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_tie.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_tie.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00740FFD13E5DF05",
@@ -5245,21 +5233,18 @@
   },
   {
     "hash": "00C91C847C8BA8FE",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_gimlet_hair_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_gimlet/material/male_reg_gimlet_hair_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00972D250AF3D03D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_gimlet_pants.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_gimlet/material/male_reg_gimlet_pants.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0095D896107E446B",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_gimlet_shirt.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_gimlet/material/male_reg_gimlet_shirt.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "008C5A74B860683D",
@@ -6001,33 +5986,28 @@
   },
   {
     "hash": "00154FACF10C2CB3",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_martini_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_martini/materials/male_reg_martini_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00C371976E0FF31F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_martini_jacket_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_martini/materials/male_reg_martini_jacket_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00564C2DB78AD2E1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_martini_shirt_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_martini/materials/male_reg_martini_shirt_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "007F0806863A908C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_martini_tie_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_martini/materials/male_reg_martini_tie_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "003E46BE1398A748",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_martini_trousers_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_martini/materials/male_reg_martini_trousers_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "000435F48B8E9F52",
@@ -94368,9 +94348,8 @@
   },
   {
     "hash": "007A69FE6DF2D56C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_gimlet_shoes.mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_gimlet/material/male_reg_gimlet_shoes.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "009E324BA3AAEB99",
@@ -94542,7 +94521,7 @@
   },
   {
     "hash": "003F200AE32948E1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/bulldog/bulldog_painted_wood_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94562,7 +94541,7 @@
   },
   {
     "hash": "009BB76723CE6551",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/mechanical/decals_laboratory_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94692,7 +94671,7 @@
   },
   {
     "hash": "00A06287D6C01A2B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/gym/benchpress_large_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94742,7 +94721,7 @@
   },
   {
     "hash": "007E7DEEFF472D2E",
-    "path": "",
+    "path": "[assembly:/materials/basicmaterials/effects/decalmaps/edge_damage_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94802,7 +94781,7 @@
   },
   {
     "hash": "00D1E40105DE4D1C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/metal_matte_trim_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
