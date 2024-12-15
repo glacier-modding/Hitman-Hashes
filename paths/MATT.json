@@ -611,15 +611,13 @@
   },
   {
     "hash": "00AF8B45D8FA86F3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/darkandstormy_cap.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_cap.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "006BC827B8AFF777",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/darkandstormy_scarf.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_darkandstormy/materials/darkandstormy_scarf.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "0085138B855170F8",
@@ -645,15 +643,13 @@
   },
   {
     "hash": "001BF26CC7C67BEA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/dumplingcook_apron.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/workers/rat/dumplingcook_m/materials/dumplingcook_apron.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00501C2D8DC13676",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/dumplingcook_jacket.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/workers/rat/dumplingcook_m/materials/dumplingcook_jacket.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "0074CF47BFB6A854",
@@ -1226,21 +1222,18 @@
   },
   {
     "hash": "00266653367D2485",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_olivahall_haircap.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/olivia_white/materials/fem_reg_olivahall_haircap.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00ACD9F095BEF06B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_oliviahall_hair.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/olivia_white/materials/fem_reg_oliviahall_hair.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00C50D28F1969262",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_oliviahall_head_season2.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/olivia_white/materials/fem_reg_oliviahall_head_season2.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00E7E3C4DE58C26B",
@@ -2200,39 +2193,33 @@
   },
   {
     "hash": "006CDBB659185FD7",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_blackrussian_tshirt.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_tshirt.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00FD84366CFEE0B4",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_hair.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_hair.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00D6D9F4C8E77504",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_head.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_head.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00B0AACA6836EBFD",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_bloodymary_jacket.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_jacket.mi].pc_entitytype",
+    "gameFlags": 46
   },
   {
     "hash": "003E7CF7FF8B8C4C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_pants.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_pants.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "0053E5704C2C36C7",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_bloodymary_tie.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_bloodymary/materials/male_reg_bloodymary_tie.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "003DCA5E22F37B5F",
@@ -2424,15 +2411,13 @@
   },
   {
     "hash": "00CA1FE1B8CD5BE1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_gimlet_pants.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_gimlet/material/male_reg_gimlet_pants.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00D3D6B3FDACA841",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_gimlet_shirt.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_gimlet/material/male_reg_gimlet_shirt.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00E375BC55999151",
@@ -2914,9 +2899,8 @@
   },
   {
     "hash": "00C66D1E7FB228A0",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_martini_head_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_martini/materials/male_reg_martini_head_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00C0715D99E72572",
@@ -3323,9 +3307,8 @@
   },
   {
     "hash": "00AA4F58FD3DA396",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_tamagozake_pants_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_tamagozake/materials/male_reg_tamagozake_pants_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00670AF8952346D7",
@@ -3687,9 +3670,8 @@
   },
   {
     "hash": "00D52DBBC25054AD",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/moscowmule_male_gloves_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_moscowmule/materials/moscowmule_male_gloves_01.mi].pc_entitytype",
+    "gameFlags": 44
   },
   {
     "hash": "00A4A66E497F9267",
@@ -27861,12 +27843,12 @@
   },
   {
     "hash": "0082DF6B7092D9E0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/llama_winebottle_bluelabel_pinotnoir_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0068FD08F9289B5E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/liqueurbottle_a_label.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27876,17 +27858,17 @@
   },
   {
     "hash": "0047025F7401F52F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/liqueurbottle_a_liquid.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0050E688EF09EA4D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/gym/rubber_bands_a_rubber.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00B19AB6240A16E9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/winebottles_e.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27901,7 +27883,7 @@
   },
   {
     "hash": "008F6FA8E0008AE9",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/fiberwire_quickdraw_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27931,7 +27913,7 @@
   },
   {
     "hash": "006447E76019F735",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/pine_bark_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27946,7 +27928,7 @@
   },
   {
     "hash": "00749223C56AE77D",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/baseballbat_japanese_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27961,27 +27943,27 @@
   },
   {
     "hash": "00BC068AAB67D867",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/sofa_office_hotel_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00D28FEEE33B1607",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/wet/generic/ceiling/ceiling_office_wet_zmapped.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A3967B47CA0404",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/materials/male_reg_plague_doctor_mask_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006B2C0D0D56F4AD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/party_balloons_a_decal.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0010471251B69610",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/ebola_superfan/materials/ebola_superfan_hood.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28011,17 +27993,17 @@
   },
   {
     "hash": "00E252DEC683CDFC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronics/dvd_case_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0030927C8BA255F3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/wet/generic/floor/carpet_felt_a_zmapped.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001D985A3B1E643A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_japan_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28031,7 +28013,7 @@
   },
   {
     "hash": "00C24D7293E06CD4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/school_chair_a_metal.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28041,12 +28023,12 @@
   },
   {
     "hash": "00C395767BEF8EDC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/vase_livingroom_glass_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0018FDD14D1A07B8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/colorado/militia_spec_ops/materials/male_reg_militia_spec_ops_holster.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28066,17 +28048,17 @@
   },
   {
     "hash": "002D9B428E3A93DC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/school_desk_a_metal.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "000923BFBE8B2CFD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/evergreen/evergreen_wood_oiled_noseams_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008EE02B9CC89BD7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/material/male_reg_blackrussian_kneepads.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28086,17 +28068,17 @@
   },
   {
     "hash": "00D09F7ACF05F538",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/materials/male_reg_plague_doctor_pants_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006EAEBDBC139C34",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/ebola_superfan/materials/ebola_superfan_robe.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F8545994296A50",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/pipes/pipes_tileset_painted_red_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28106,12 +28088,12 @@
   },
   {
     "hash": "0059CDCDA0E7BCDE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/materials/male_reg_plague_doctor_pouch_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00CA85A34F36E0D8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/aluminium_brushed_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28121,12 +28103,12 @@
   },
   {
     "hash": "0027F51B22C1392D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/materials/male_reg_plague_doctor_belt_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0065460ED706E2F1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/materials/male_reg_plague_doctor_dress_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28136,27 +28118,27 @@
   },
   {
     "hash": "0019BA1F1B183CDE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/wet/generic/walls/facility_walls_black_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00D2EE5982864083",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/wires/light_string_large_bulbs_dugong_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "000E5E762CDE7F39",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/school/school_blackboard_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00B4E86038AD829C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/carpet_baroque_ornate_border_e.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "009E142B4DDACA94",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/materials/male_reg_plague_doctor_pads_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28171,7 +28153,7 @@
   },
   {
     "hash": "0085D16A7F6A22D3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/mechanical/decals_floorstrips_b.mi].pc_entitytype",
     "gameFlags": 8
   }
 ]

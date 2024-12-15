@@ -12756,7 +12756,7 @@
   },
   {
     "hash": "0005FCA95173EF65",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/geometry/male_reg_blackrussian.wl2?/glove.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -12941,7 +12941,7 @@
   },
   {
     "hash": "000838F2E0F8C3B2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/hokkaido/surgeon/geometry/female_reg_surgeon_01.wl2?/mask_02.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -12961,7 +12961,7 @@
   },
   {
     "hash": "00086730DCF5A62A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/greenland/psychiatrist/geometry/male_reg_psychiatrist.wl2?/hair_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -15601,7 +15601,7 @@
   },
   {
     "hash": "002AF7CF554D8191",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plumbers/geometry/male_reg_plumber_01.wl2?/beard.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 62
   },
   {
@@ -16126,7 +16126,7 @@
   },
   {
     "hash": "00314298B0D334DE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/stalker/geometry/male_reg_stalker_01.wl2?/beard_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -19821,7 +19821,7 @@
   },
   {
     "hash": "005DE505A3808361",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/geometry/male_reg_maitai.wl2?/shoes.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -20106,7 +20106,7 @@
   },
   {
     "hash": "00607D69C6C66C41",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/greenland/psychiatrist/geometry/male_reg_psychiatrist.wl2?/head_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -22151,7 +22151,7 @@
   },
   {
     "hash": "00795A94DB62CA75",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/elusivetarget_seabreeze/geometry/male_reg_seabreeze.wl2?/dress.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 46
   },
   {
@@ -23021,7 +23021,7 @@
   },
   {
     "hash": "0083CFE2B2DB98FB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusivetarget_maitai/geometry/male_reg_maitai.wl2?/trousers.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -32426,7 +32426,7 @@
   },
   {
     "hash": "00F1BB0E2B73BF7E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/geometry/male_reg_blackrussian.wl2?/tshirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -32836,7 +32836,7 @@
   },
   {
     "hash": "00F635B7A44DB4A8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/geometry/male_reg_ginfizz.wl2?/tshirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -34351,7 +34351,7 @@
   },
   {
     "hash": "0056BD081A3B6D32",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/dugong/orsonmills/geometry/male_reg_orsonmills.wl2?/shirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -34731,7 +34731,7 @@
   },
   {
     "hash": "006E305A82472BE0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_blackrussian/geometry/male_reg_blackrussian.wl2?/vest.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -34841,7 +34841,7 @@
   },
   {
     "hash": "0062FCF287D1501E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/santa/geometry/male_reg_santa_hair.wl2?/hair.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -35066,7 +35066,7 @@
   },
   {
     "hash": "00A1BEBD592A2BE4",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_genericparts/heads/female/geometry/female_reg_head_phonegirl.wl2?/female_reg_head_phonegirl.weightedprim].pc_bonerig",
     "gameFlags": 8
   }
 ]

@@ -27931,7 +27931,7 @@
   },
   {
     "hash": "000085FD23882E7C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/traps/rat_satellite_dish_a.wl2?/rat_satellite_dish_a_arm1.prim].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28181,7 +28181,7 @@
   },
   {
     "hash": "0001E24E2804D745",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_h.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 12
   },
   {
@@ -28256,7 +28256,7 @@
   },
   {
     "hash": "0002695D15C12269",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_c.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -30811,7 +30811,7 @@
   },
   {
     "hash": "00143B5F2DF19CC0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/traps/rat_satellite_dish_a.wl2?/rat_satellite_dish_a_panel.prim].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -32511,7 +32511,7 @@
   },
   {
     "hash": "00215C26EC53316D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/lamp_miami_wall.wl2?/lamp_miami_wall_a_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 12
   },
   {
@@ -33786,7 +33786,7 @@
   },
   {
     "hash": "002A7A659FAE7561",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_a.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -34566,7 +34566,7 @@
   },
   {
     "hash": "002F91A1CE399DC5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_d.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -35856,7 +35856,7 @@
   },
   {
     "hash": "0037AB3D0726890E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_c.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -40191,7 +40191,7 @@
   },
   {
     "hash": "0056CEE7FE9AFC60",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/traps/rat_satellite_dish_a.wl2?/rat_satellite_dish_a_arm2.prim].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -45761,7 +45761,7 @@
   },
   {
     "hash": "007E5359F64990ED",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_e.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -45841,7 +45841,7 @@
   },
   {
     "hash": "007EEC430EFE2F48",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_b.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -49181,7 +49181,7 @@
   },
   {
     "hash": "009658A71805713A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_b.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -50561,7 +50561,7 @@
   },
   {
     "hash": "00A017BBCEA82EB5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/fountains/fountain_stoneflower_bangkok_a.wl2?/fountain_stoneflower_maldives_base_a.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 12
   },
   {
@@ -54451,7 +54451,7 @@
   },
   {
     "hash": "00B969D6FF1B23AA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_g.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 12
   },
   {
@@ -54641,7 +54641,7 @@
   },
   {
     "hash": "00BADC4933B97938",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/roofing_planks_a.wl2?/roofing_plank_stack_a.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -59756,7 +59756,7 @@
   },
   {
     "hash": "00DF0E5339160A61",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_f.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -60151,7 +60151,7 @@
   },
   {
     "hash": "00E1DE026967F7E8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/barn_scaffold_boards_a.wl2?/barn_scaffold_board_a.prim](materials).entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -63646,7 +63646,7 @@
   },
   {
     "hash": "00F9B9BAC3AE7C32",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/farm_props/roofing_planks_a.wl2?/roofing_plank_stack_b.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -67571,7 +67571,7 @@
   },
   {
     "hash": "00BD4806077CEB0A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zentity.class].entitytype,[modules:/zclothcollidergroupaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
