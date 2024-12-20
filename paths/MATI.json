@@ -757,9 +757,8 @@
   },
   {
     "hash": "00C4D968970D1F0F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/blueblazer_hair_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusivetarget_blueblazer/materials/blueblazer_hair_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00DEDEE95214D232",
