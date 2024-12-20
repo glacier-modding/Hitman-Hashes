@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,559,482-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,559,494-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.13%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.78%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.91%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.74%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.73%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.17%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.94%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -44,7 +44,7 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |351160         |350464       |99.80%            |0    |0.00%          |
 |GFXF     |41             |41           |100.00%           |0    |0.00%          |
-|GFXI     |12054          |9405         |78.02%            |1438 |11.93%         |
+|GFXI     |12066          |9405         |77.95%            |1438 |11.92%         |
 |GFXV     |321            |119          |37.07%            |196  |61.06%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
