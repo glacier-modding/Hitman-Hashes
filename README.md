@@ -4,9 +4,9 @@
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.13%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.77%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.78%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.91%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.73%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.74%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.17%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.94%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
@@ -28,7 +28,7 @@
 |ASVA     |277            |267          |96.39%            |9    |3.25%          |
 |ATMD     |17038          |6458         |37.90%            |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
-|BORG     |7014           |2704         |38.55%            |0    |0.00%          |
+|BORG     |7014           |2722         |38.81%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2646           |2646         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
@@ -52,17 +52,17 @@
 |LINE     |32233          |25965        |80.55%            |1944 |6.03%          |
 |LOCM     |16             |16           |100.00%           |0    |0.00%          |
 |LOCR     |9638           |6543         |67.89%            |506  |5.25%          |
-|MATB     |5517           |4912         |89.03%            |577  |10.46%         |
+|MATB     |5517           |4913         |89.05%            |576  |10.44%         |
 |MATE     |1106           |834          |75.41%            |0    |0.00%          |
-|MATI     |18759          |17548        |93.54%            |1120 |5.97%          |
-|MATT     |5516           |4911         |89.03%            |577  |10.46%         |
+|MATI     |18759          |17549        |93.55%            |1119 |5.97%          |
+|MATT     |5516           |4912         |89.05%            |576  |10.44%         |
 |MJBA     |19716          |7363         |37.35%            |0    |0.00%          |
 |MRTN     |2264           |1074         |47.44%            |0    |0.00%          |
 |MRTR     |854            |85           |9.95%             |0    |0.00%          |
 |NAVP     |80             |78           |97.50%            |1    |1.25%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |144            |144          |100.00%           |0    |0.00%          |
-|PRIM     |42931          |22066        |51.40%            |229  |0.53%          |
+|PRIM     |42931          |22084        |51.44%            |228  |0.53%          |
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |145            |0            |0.00%             |137  |94.48%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
@@ -70,16 +70,16 @@
 |TBLU     |56412          |40977        |72.64%            |14979|26.55%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
 |TEMP     |86083          |60118        |69.84%            |25307|29.40%         |
-|TEXD     |43593          |32815        |75.28%            |9302 |21.34%         |
-|TEXT     |44382          |33163        |74.72%            |9988 |22.50%         |
+|TEXD     |43593          |32816        |75.28%            |9301 |21.34%         |
+|TEXT     |44382          |33164        |74.72%            |9987 |22.50%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
 |UICT     |393            |393          |100.00%           |0    |0.00%          |
 |VIDB     |99             |0            |0.00%             |94   |94.95%         |
 |VTXD     |11307          |8695         |76.90%            |0    |0.00%          |
 |WBNK     |845            |819          |96.92%            |0    |0.00%          |
 |WMDA     |9              |9            |100.00%           |0    |0.00%          |
-|WSGB     |144            |132          |91.67%            |11   |7.64%          |
-|WSGT     |144            |132          |91.67%            |11   |7.64%          |
+|WSGB     |144            |133          |92.36%            |11   |7.64%          |
+|WSGT     |144            |133          |92.36%            |11   |7.64%          |
 |WSWB     |61             |47           |77.05%            |14   |22.95%         |
 |WSWT     |66             |47           |71.21%            |19   |28.79%         |
 |WWEM     |381614         |271539       |71.16%            |85030|22.28%         |
