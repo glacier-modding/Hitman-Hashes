@@ -41631,7 +41631,7 @@
   },
   {
     "hash": "0061A945A119C54A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/covers/concrete_barrier_b.wl2?/concrete_barrier_b_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -43341,7 +43341,7 @@
   },
   {
     "hash": "006BEFE44643F952",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/covers/concrete_barrier_a.wl2?/concrete_barrier_c_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 12
   },
   {
@@ -59456,7 +59456,7 @@
   },
   {
     "hash": "00DD47C687CF3295",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/covers/concrete_barrier_a.wl2?/concrete_barrier_a_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 14
   },
   {
@@ -60446,7 +60446,7 @@
   },
   {
     "hash": "00E3875276447A85",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/banyan_chinese_med_3.wl2?/banyan_chinese_med_3.prim].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entitytype",
     "gameFlags": 4
   },
   {

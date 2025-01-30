@@ -5979,9 +5979,8 @@
   },
   {
     "hash": "00C3FA2E7A09FAB1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_martini_handkerchief_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/elusivetarget_martini/materials/male_reg_martini_handkerchief_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00154FACF10C2CB3",
