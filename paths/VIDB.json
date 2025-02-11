@@ -1,591 +1,497 @@
 [
   {
     "hash": "0000A9964AF2B436",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_kirroyal"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_kirroyal.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0001DBC271C51109",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_kamikaze"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_kamikaze.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "000E2D75C5CE3BE8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_llama"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_llama.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00150F3882B375C9",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_sakini"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_sakini.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "001BDC319DDD0623",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_bramble"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_bramble.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "002378C1FE77B4C3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_alabamaslammer"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_alabamaslammer.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "0026F8DE4B766F45",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_gecko"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_gecko.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00274069AA8572C3",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_snakebite"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_snakebite.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "002748FBDA28660F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_negroni"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_negroni.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00278F56E142B81F",
-    "path": "",
-    "gameFlags": 62,
-    "hint": "videodatabase_dlc_0"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0.videodb].pc_videodb",
+    "gameFlags": 62
   },
   {
     "hash": "00285F6335906FED",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_falcon"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_falcon.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "002B40BB4AC58D53",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dirtyoctopus"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dirtyoctopus.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "002CF522F5CC2023",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_sambuca2"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_sambuca2.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "002E608935DEACF8",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_maitai"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_maitai.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00311ED2F83F2229",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_s6_blueblazer"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s6_blueblazer.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0032AEFF9FF70C46",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_01_sheep"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_01_sheep.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00331DC463148016",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_mojito"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_mojito.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0034413ACE0950B2",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_1"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_1.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "003EA4D04CFFCA34",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_shandy"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_shandy.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "004079BEA745FE8D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_rat"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_rat.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00432A57B9611C5A",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_fox"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_fox.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "0043E3A43E9353E0",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_thelastword"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_thelastword.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0045D283F06CF214",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_vesper"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_vesper.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "004720D544CE5F9A",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_tamagokaze"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_tamagozake.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00479622AA0EA9F7",
-    "path": "",
-    "gameFlags": 62,
-    "hint": "videodatabase_base"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_base.videodb].pc_videodb",
+    "gameFlags": 62
   },
   {
     "hash": "004841B01250614A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_05_skunk"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_05_skunk.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "0048E72FA6604AB0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_gartersnake"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_gartersnake.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "004B9A97081A5AA8",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_martini"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_martini.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0051890BA79AC279",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_wolverine"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_wolverine.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "005739360B1B46F7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_goldendoublet"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_goldendoublet.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "005EBD0D2D806F04",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_anaconda"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_anaconda.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "005F0A49AC42A36E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_raccoon"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_raccoon.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "0060E7EF82053C0C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_skittlebomb"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_skittlebomb.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "0061780122BFCDC5",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_moscowmule"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_moscowmule.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0062ABB959DAFF50",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_2"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_2.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0062C4560732135D",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_s6_blackrussian"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s6_blackrussian.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "006452D40B5ED7AB",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_bronx"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_bronx.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "006466A0E87ABB3A",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_brassmonkey"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_brass_monkey.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0067A67B4527B88D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_corpsereviver"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_corpsereviver.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "0067E0B6B6EFAD1F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_5"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_5.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00689D820454706B",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_s6_gimlet"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s6_gimlet.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "006AB930973574BD",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_1_harveywallbanger"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_1_harveywallbanger.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "006C5A176953335E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_06_magpie"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_06_magpie.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "007012D0DBE6E09F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_6"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_6.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "0070C51241AF4897",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_1_sazerac"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_1_sazerac.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00791551F3C9919A",
-    "path": "",
-    "gameFlags": 38,
-    "hint": "videodatabase_dlc_4"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_4.videodb].pc_videodb",
+    "gameFlags": 38
   },
   {
     "hash": "0081A17E5EAC4858",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "videodatabase_hawk"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_hawk.videodb].pc_videodb",
+    "gameFlags": 44
   },
   {
     "hash": "0085FD1CEAE782ED",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_2_screwdriver"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_2_screwdriver.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "008F57D93828A60A",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_s6_mimosa"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s6_mimosa.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00908452AA976607",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_gibson"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_gibson.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "009FCF55FB182F18",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_highball"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_highball.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00A10C0F9FD3BF9F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_02_flamingo_gamescom_2018"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_02_flamingo_gamescom_2018.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00AE83512F67F0C0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_bulldog"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_bulldog.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00AF8ABA3A30E24B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_seagull"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_seagull.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00B351025EB10D86",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_flirtini"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_flirtini.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00B42496B2E414A6",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_radler"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_radler.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00B4D87C15621515",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_03_hippo"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_03_hippo.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00B54938B88DCBCD",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_hottoddy"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_hottoddy.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00B5CD43E7F883E1",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_3"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_3.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00BA113C56AEE94B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_sambuca"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_sambuca.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00C16253975FAC54",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_whiterussian"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_whiterussian.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00C1C73C519B8C81",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_adonis"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_adonis.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00C60333E16FBB66",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_04_mongoose"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_04_mongoose.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00C9D4A35FC9B0F0",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_1_quadruplerumandcoke"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_1_quadruplerumandcoke.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00CD704471C575A9",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_cottonmouth"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_cottonmouth.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00D1593D1D57780F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_seabreeze"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s6_seabreeze.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00D3BF5F30524472",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_1_piscosour"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_1_piscosour.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00D717C9D47E01C2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_stingray"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_stingray.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00DAE9E9B314A7A4",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_tequilasunrise"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_tequilasunrise.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00DC980D931E3E00",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_base"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_base.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00DF2A0BD4F4027E",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_mamba"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_mamba.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00DF3074828BC41F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_caipirinha"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_caipirinha.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00E1E17435B3DC91",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_margarita"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_margarita.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00E4143217D283E4",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_bushwacker"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_bushwacker.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00E6127C538950AC",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_python"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_python.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00E986B7F927F7F5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_chunk1"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_chunk1.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00EFF0B9202C623A",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_copperhead"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_copperhead.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00F1BAB39B0B3FFB",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_redsnapper"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_redsnapper.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00F4830EDDBBD1CB",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_cosmopolitan"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_cosmopolitan.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00F649D9242250A0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_clerico"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_clerico.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00F6892DE2001B0D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_kingcobra"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_kingcobra.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00F6D97144ED377B",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_1_mintjulep"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_1_mintjulep.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00F73BE2B8879A96",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_bloodymary"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_bloodymary.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00FACA686F99D0F0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_jockeyclub"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_jockeyclub.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00FCC0C9B5272861",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_02_flamingo_e3_2018"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_02_flamingo_e3_2018.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "00FE346E35C0D376",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_dlc_0_lumumba"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dlc_0_lumumba.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00FE432AF33A5BBD",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "videodatabase_s6_ginfizz"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s6_ginfizz.videodb].pc_videodb",
+    "gameFlags": 46
   },
   {
     "hash": "00FECC8BCE224C2D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "videodatabase_s2_02_flamingo"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s2_02_flamingo.videodb].pc_videodb",
+    "gameFlags": 12
   },
   {
     "hash": "0087414D61827443",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_dugong"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_dugong.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "000597E2BC5D733F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_evergreen"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_evergreen.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "002B498E47091DDE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "videodatabase_evergreen_intro"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_evergreen_intro.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "001693F65B43705C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ps4_videodatabase_evergreen_how_to_play"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_evergreen_howto_ps4.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00767EC8E2D4F4CA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ps5_videodatabase_evergreen_how_to_play"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_evergreen_howto_ps5.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "0008F99AB22A1633",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "evergreen_how_to_play"
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_evergreen_howto.videodb].pc_videodb",
+    "gameFlags": 8
   },
   {
     "hash": "00C0E6D2D9EF8D94",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_tomorrowland.videodb].pc_videodb",
     "gameFlags": 8
   },
   {
     "hash": "00B118B15FECCF4E",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s3_et_penicillin.videodb].pc_videodb",
     "gameFlags": 8
   },
   {
     "hash": "00649AF3B2367790",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_penicillin.videodb].pc_videodb",
     "gameFlags": 8
   },
   {
     "hash": "00DCA6739568D6A7",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_s3_et_lambic.videodb].pc_videodb",
     "gameFlags": 8
   },
   {
     "hash": "00951EA3FC7536CA",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_lambic.videodb].pc_videodb",
     "gameFlags": 8
   }
 ]
