@@ -2,13 +2,13 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,559,494-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.17%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/69-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-20/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.80%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.96%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.80%25-yellow.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.17%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-90.96%25-green.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.81%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.97%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.81%25-yellow.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.18%25-red.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.00%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
@@ -74,7 +74,7 @@
 |TEXT     |44382          |33357        |75.16%            |9797 |22.07%         |
 |UICB     |393            |393          |100.00%           |0    |0.00%          |
 |UICT     |393            |393          |100.00%           |0    |0.00%          |
-|VIDB     |99             |0            |0.00%             |94   |94.95%         |
+|VIDB     |99             |99           |100.00%           |0    |0.00%          |
 |VTXD     |11307          |8695         |76.90%            |0    |0.00%          |
 |WBNK     |845            |819          |96.92%            |0    |0.00%          |
 |WMDA     |9              |9            |100.00%           |0    |0.00%          |
