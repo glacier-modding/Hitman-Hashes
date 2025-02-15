@@ -22464,9 +22464,8 @@
   },
   {
     "hash": "002C139AFF1B6959",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "subtitle speaker"
+    "path": "[assembly:/localization/hitman6/conversations/ui/subtitlespeakernames.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 8
   },
   {
     "hash": "002C4E517BB6A491",
