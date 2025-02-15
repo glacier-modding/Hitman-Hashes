@@ -23089,9 +23089,8 @@
   },
   {
     "hash": "004A720FD3BABA8F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "gamestoremetadata"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/game_store_metadata.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 46
   },
   {
     "hash": "004AEB2EFF4F95D7",
