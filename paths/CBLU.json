@@ -13228,5 +13228,10 @@
     "hash": "00B005CA6C4C93E4",
     "path": "[modules:/zoverrideglowentity.class].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "004B511A57730E6A",
+    "path": "",
+    "gameFlags": 8
   }
 ]

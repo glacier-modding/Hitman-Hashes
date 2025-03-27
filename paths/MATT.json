@@ -28154,5 +28154,20 @@
     "hash": "0085D16A7F6A22D3",
     "path": "[assembly:/_pro/environment/materials/decals/mechanical/decals_floorstrips_b.mi].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "003E89AA0BA918BC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C6ECA986C4D67B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F1A1344EB0B0FD",
+    "path": "",
+    "gameFlags": 8
   }
 ]
