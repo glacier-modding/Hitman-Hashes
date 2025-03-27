@@ -10417,15 +10417,13 @@
   },
   {
     "hash": "0061B3748B37B699",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/data/globalnoticetest.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/data/globalnoticetest.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0073108F5D5960BB",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/data/new_contract_anouncement_template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/data/new_contract_anouncement_template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A737F7A93A787B",
@@ -10453,27 +10451,23 @@
   },
   {
     "hash": "00E7A0120728EAC3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pagehelp/hub.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pagehelp/hub.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00EAE650E7F71347",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/challengelocation.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/challengelocation.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C72DD90D4A5B23",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/destination.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/destination.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000798664D910562",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/hdrsettings.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/hdrsettings.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FD27E2AA4DE590",
@@ -10483,15 +10477,13 @@
   },
   {
     "hash": "008EE12A8406171D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/inventory.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/inventory.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00EFB2A9148EE8EB",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/masterylocation.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/masterylocation.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005E855834F2E99E",
@@ -10501,351 +10493,293 @@
   },
   {
     "hash": "000FC4F1F2667173",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/planning.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/planning.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0000CDD58DE9C64F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/preliminarysettings.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/preliminarysettings.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0036338462542686",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/statistics.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/statistics.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E06B65EC34BAC1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/video.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/agent47/video.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0003411F9EE3378F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/boot.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/boot.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D7CE6B7EFF22B9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/audiolanguage_availability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/audiolanguage_availability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00960D0BD7CB6E25",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/briefingvideo.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/briefingvideo.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00AB01D4FBCDB2BE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/challenge_defaultactions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/challenge_defaultactions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004A298FF7B45010",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/challenge_gotolocation.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/challenge_gotolocation.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0060CC8451FE3D1D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/challengesfilter_actions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/challengesfilter_actions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0039D86D93E98D9C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/challengesfilter_empty_headline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/challengesfilter_empty_headline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F1456BA32A1F8F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/common_availability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/common_availability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00495ADD0B8D6A5F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/content_downloading_modal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/content_downloading_modal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0027AD5F9C0FC8A1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/content_installing_modal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/content_installing_modal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0030891E3441B31C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/content_missingentitlement_modal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/content_missingentitlement_modal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00245237CD382682",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/content_notinstalled_modal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/content_notinstalled_modal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D84B6BF6B6AF02",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/content_notowned_modal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/content_notowned_modal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B23AA7F136EBE7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/content_unknown_modal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/content_unknown_modal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001FD5D26C71FF70",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/content_update_required_modal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/content_update_required_modal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003BFFA9535A1D8F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/contract_availability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/contract_availability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00364614D68E2570",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/contract_emptycontainerfilterview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/contract_emptycontainerfilterview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007DA97FADC6A296",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/contract_gotoplanning.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/contract_gotoplanning.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005F43593D93D08E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/contract_nextfilter.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/contract_nextfilter.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E497799E9E72CB",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/contract_unavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/contract_unavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F54A347C4B898A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/contractcreationlocation_availability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/contractcreationlocation_availability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CDB5AA24BED56F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/contracts_chunkavailability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/contracts_chunkavailability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0059EAC58EBEA82D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/fetch_leaderboards.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/fetch_leaderboards.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F6BCFA89DC643A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/freeprolog_gotoplanning.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/freeprolog_gotoplanning.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006BE58409732594",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/gotocontractssearch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/gotocontractssearch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0066EBD01E4E60C9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/gotofeaturedcontracts.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/gotofeaturedcontracts.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E9EDCE519AFA56",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/gotofullxpplatformstore.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/gotofullxpplatformstore.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006260470D25C2C2",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/loadasync_livetile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/loadasync_livetile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "008F3DC6F934201B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/loadasync_storytile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/loadasync_storytile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F5B0CE882F601C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/loadslot_availability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/loadslot_availability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002945E2DA97E940",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/location_availability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/location_availability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00EBEB99A3C95D03",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/location_goto.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/location_goto.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C1FC7F22134C40",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/opensteamstorelandingpage.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/opensteamstorelandingpage.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0084D8E6E0A09384",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/planning_gotoescalationcontracts.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/planning_gotoescalationcontracts.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B66903D03F93DA",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/set_mastery_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/set_mastery_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A807CA00B55504",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/showuserprofile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/showuserprofile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0005D2F15914973E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/sublocation_goto.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/sublocation_goto.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00496C1908EC29BC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/actions/video_availability.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/actions/video_availability.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00421AF06BD8C1BE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/aremultipleaudiolanguagesavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/aremultipleaudiolanguagesavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00AF44A8FFDDE77E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/audioavailabilitystateprovider.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/audioavailabilitystateprovider.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B5A9875D5FBB5C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/briefing_buttonswitch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/briefing_buttonswitch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0075A6EECF360AEE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/button_challengesubcategory.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/button_challengesubcategory.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000525C2A274B32D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/button_contracttilechangefilter.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/button_contracttilechangefilter.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CBE8B3A0107153",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/button_livetile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/button_livetile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BE313AB451AAD9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/button_showuserprofile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/button_showuserprofile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A17F1AD49BEC9E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/button_unequip.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/button_unequip.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009B791F38725301",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/challenge_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/challenge_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001091737007D97E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/challengelocation_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/challengelocation_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DFF1B23AAE6081",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/challenges_notavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/challenges_notavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003DE88A84C24FFD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/chunkavailabilitystateprovider.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/chunkavailabilitystateprovider.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E94014C8A3174D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/content_notfound_packageid.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/content_notfound_packageid.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A5395E2F2DBDC6",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/contract_completionstate.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/contract_completionstate.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0033F0EC416EE4FD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/contract_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/contract_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000B03F674C69F94",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/contract_headlineonly.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/contract_headlineonly.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002E4FD8AD892A11",
@@ -10855,147 +10789,123 @@
   },
   {
     "hash": "00980D61CA6672D7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/contract_tileimage.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/contract_tileimage.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C7C0970E8A5515",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/contract_title.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/contract_title.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00ABD7F11CA891D5",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/contracts_nextsubtype.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/contracts_nextsubtype.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000AB1CF762315F3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/debriefing_buttonswitch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/debriefing_buttonswitch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006E7036214F4DFD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/debriefing_contract_headline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/debriefing_contract_headline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D6DD790E853D29",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/debriefing_failed_buttonswitch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/debriefing_failed_buttonswitch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0041CA72960DB30F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/dlcmissing_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/dlcmissing_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C3F9B60C744147",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/escalation_level_headline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/escalation_level_headline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C9769F8A92830B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/fullxp_itemid.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/fullxp_itemid.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "008802201021CF98",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/general_headline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/general_headline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0099283C8F3D3352",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/general_notavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/general_notavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004A8BC9642EB43C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/general_offline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/general_offline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00970D2D3CF694D5",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/gotoplatformstore_label.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/gotoplatformstore_label.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0010FFB20C91BE9C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/gotyupgrade_image.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/gotyupgrade_image.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B005E3E70A5482",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/gotyupgrade_itemid.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/gotyupgrade_itemid.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B4E08D461B43A1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/gotyupgrade_title.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/gotyupgrade_title.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001C0735B38FAB76",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/hitscategory_next.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/hitscategory_next.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D921EEAB652A41",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/hitscategory_previous.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/hitscategory_previous.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0036C1DE485E6FEE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/hitscategory_prevnextbuttonswitch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/hitscategory_prevnextbuttonswitch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00316BD8C281BFD6",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/hitscategory_prevnexttile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/hitscategory_prevnexttile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DAA00E9D51ACCC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/ischunk1missingbutaudiodlcisinstalled.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/ischunk1missingbutaudiodlcisinstalled.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E3620D5CEECB09",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/isfreestarterpackmenulocked.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/isfreestarterpackmenulocked.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000685521463A102",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/isintropackavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/isintropackavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00401A43014FDC93",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/isintropackuserandpackisavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/isintropackuserandpackisavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000E37A7D867BB19",
@@ -11005,513 +10915,428 @@
   },
   {
     "hash": "00E4FA2B0F7240A6",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/islimitedtofullxp.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/islimitedtofullxp.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BE6530A8042C86",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/isxmaspackavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/isxmaspackavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00610FD4A468A3BB",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/items_actionandkilltypedata.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/items_actionandkilltypedata.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002B1CDC26C15A7B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/leaderboard_from.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/leaderboard_from.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0070A082FF829DFC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/leaderboard_notavailable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/leaderboard_notavailable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007AAF3C9A18AE9B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/leaderboardentry_next.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/leaderboardentry_next.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DE1C82F6E2017C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/leaderboardentry_previous.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/leaderboardentry_previous.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0018FCBAB8265105",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/leaderboardentry_prevnextview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/leaderboardentry_prevnextview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F709E9FFDD984B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/loadoutslotdata.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/loadoutslotdata.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BB7F98E5E0EE0C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/location_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/location_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F5A7B3B3A0E1ED",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/location_extdata.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/location_extdata.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00863839ABFF9F47",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/location_headline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/location_headline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005ED252329F2C64",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/mastery_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/mastery_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0068070F8737B00D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/mastery_headline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/mastery_headline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007CA22187771A27",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/masterylocation_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/masterylocation_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0021C58300B4DC21",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/orbisservicelabel.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/orbisservicelabel.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B31C4D23406A8C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_base.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_base.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FC2ABD27403600",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_dlc0.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_dlc0.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003A47D85E7C573F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_dlc1.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_dlc1.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CE781A4FB03D98",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_dlc2.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_dlc2.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DE0D4180589590",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_dlc3.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_dlc3.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00070AE3CD789869",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_dlc4.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_dlc4.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CC1C092756EEE8",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_dlc5.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_dlc5.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0078C51706B75A0E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_dlc6.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_dlc6.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0040CAAA3EBBD143",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/packageids/packageid_main.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/packageids/packageid_main.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00235ED68D5C422F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/planning_buttonswitch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/planning_buttonswitch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DF6479CA8BCE4F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/platformid.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/platformid.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F0F3847DE20F50",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/sublocation_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/sublocation_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D0D9629CAAB696",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/sublocation_headline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/sublocation_headline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00876E21D52A970B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/unlockabletype_icon.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/data/unlockabletype_icon.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000EEDABD0B69D42",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/modals/buygameoftheyear.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/modals/buygameoftheyear.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00876175C750E5ED",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/modals/difficultyunlock_modal_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/modals/difficultyunlock_modal_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E9F2B3F935A196",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/modals/newunlockable_modal_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/modals/newunlockable_modal_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006F0D2085F747E0",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/modals/quitmultiplayersession.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/modals/quitmultiplayersession.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F674819CB97F38",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/modals/share.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/modals/share.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00AF826C432FC6B1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/modals/thankyouprologue.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/modals/thankyouprologue.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A7AE544B3F2ED5",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/modals/thankyoupurchaseprologuetopaid.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/modals/thankyoupurchaseprologuetopaid.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B1667FF4DC6A32",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/properties/contract_ispressable.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/properties/contract_ispressable.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0004C7679ECBAF90",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengeactionbutton.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengeactionbutton.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006A14FC630318D6",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengedetails_decision.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengedetails_decision.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00576C1D70BF460E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengedetailsfull.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengedetailsfull.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0096843C282F73AA",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengedetailsminimal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengedetailsminimal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0098D3A973BF8C44",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengedetailsoff.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengedetailsoff.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002C0E072D474DC5",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengelocationview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengelocationview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002802A0C3378321",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengelocationview_challengepack.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengelocationview_challengepack.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DA1F96319AD1AE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengesscrolling.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengesscrolling.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00353E03A8A63A86",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengestab.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengestab.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B2E333E134BD33",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengestab_offline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengestab_offline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F1BE0B31717773",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengestabfromargs.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengestabfromargs.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006202CADAE741C3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/challenges/challengesubmenuview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/challenges/challengesubmenuview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001AD8DB343F0889",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/createcontracttile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/createcontracttile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0025359818BDB342",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/createcontracttutorialtile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/createcontracttutorialtile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BA40D499A6CEDC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_elusive/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_elusive/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B63FA1C5F274D2",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_elusive/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_elusive/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0046BFE20A662633",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_elusive/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_elusive/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D2E27A1E98E3C7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_escalation/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_escalation/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C42E8A9D738EA4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_escalation/contractlist.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_escalation/contractlist.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009C90A5ADE250CC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_escalation/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_escalation/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00549AB824911B3B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_escalation/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_escalation/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00569075CA447511",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_featured/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_featured/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E73F55D6828939",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_featured/contractlist.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_featured/contractlist.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CFEE6997892111",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_featured/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_featured/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00903E50EADEF568",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_featured/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_featured/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0033AC535831B7D9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_flashback/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_flashback/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00632B040F753210",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_flashback/contractlist.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_flashback/contractlist.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0013CC3B489F9692",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_flashback/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_flashback/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002316A382570A61",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_flashback/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_flashback/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DA7BB9C8614C10",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_fsp_cuba/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_fsp_cuba/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0055A967582305E3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_fsp_cuba/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_fsp_cuba/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006FB8C2019AE415",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_fsp_cuba/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_fsp_cuba/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0057C0D7582BC914",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_fsp_guided/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_fsp_guided/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A7BB429489CF57",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_fsp_guided/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_fsp_guided/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0061D89D9A01ABAC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_fsp_guided/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_fsp_guided/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000D3EDE32585FF9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_01/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_01/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BAEBEC8CF31AE9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_01/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_01/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B79B80EA9A8705",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_01/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_01/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0083D7963262C945",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_02/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_02/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0036D773D964E8E7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_02/goonline.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_02/goonline.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00999B8613605D33",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_02/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_02/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007F225E6956CE6B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_02/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_02/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B7E89384EE74AF",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_03/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_03/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0023A0AC2BB4550F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_03/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_03/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0090EFD5C0768C2E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_03/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_03/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B493C238250987",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_profile/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_profile/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D2098C2B8C59DB",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_highlight_profile/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_highlight_profile/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007F745E83264970",
@@ -11539,39 +11364,33 @@
   },
   {
     "hash": "00CE31D590E1D01D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_sniper_multiplayer/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_sniper_multiplayer/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0024443BBD9E1B0D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_sniper_multiplayer/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_sniper_multiplayer/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000B9D4F195DA862",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_sniper_multiplayer/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_sniper_multiplayer/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D45B383858758D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_sniper_singleplayer/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_sniper_singleplayer/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "008DEF36CD67964A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_sniper_singleplayer/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_sniper_singleplayer/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00086DC0B192C1A5",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_sniper_singleplayer/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_sniper_singleplayer/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002CBB80CDD1B4FA",
@@ -11581,531 +11400,443 @@
   },
   {
     "hash": "00958477D3139590",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_story/nocontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_story/nocontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A2B311500FBA46",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_story/template.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_category_story/template.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F139811B87FA26",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_offline/newcontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_offline/newcontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001C3A175C5D65BA",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/getholidaypack.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/getholidaypack.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004874275EAB3FBD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/livetileioiaccount.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/livetileioiaccount.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0041D7B087BA8C2D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/livetilerequiempack.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/livetilerequiempack.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007AAC086B4A68B4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissionbangkoktiger.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissionbangkoktiger.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F8989E24B9EAD3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissioncoloradobull.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissioncoloradobull.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0017591507D544A3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissioncopperhead.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissioncopperhead.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004F0AC5066C7445",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissionpython.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentbonusmissionpython.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006927BBAC48849F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentcampaignwhitespider.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentcampaignwhitespider.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BE616D4DA2C756",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepack.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepack.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00352345982E1720",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepackbiker.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepackbiker.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0077BEBB6C131B76",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepackhorror.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepackhorror.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BCC45B61E9382D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepackplumber.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepackplumber.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D28404B917B947",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepacksniper.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentchallengepacksniper.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006360386F4BC826",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentgoty.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentgoty.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B75F90A36CC652",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentmissionhokkaidosnowcrane.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentmissionhokkaidosnowcrane.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00171B59BADAE001",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentmissionmamba.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentmissionmamba.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B0E01C50DA5A53",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newcontentmissionparisnoel.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newcontentmissionparisnoel.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002689D5F6A9CB26",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newfeaturecontractsearch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newfeaturecontractsearch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003E4B7D00688107",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/newfeaturestore.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/newfeaturestore.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0002CCE5DBC7C65F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/patchnotes.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/patchnotes.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004A897469FFAD29",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_staticcontent/platformstore.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/dashboard/dashboard_staticcontent/platformstore.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DE9CF34D183A3E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/challengestabloading.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/challengestabloading.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E636FB2D53FB10",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00528B4256ABE872",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_contracttitle.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_contracttitle.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0070D939A0298115",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_escalation_nextlevel.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_escalation_nextlevel.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007CD15403951693",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_failed.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_failed.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0065166CC018CAE4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_failed_fsp.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_failed_fsp.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001996AB32542564",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_failed_scoretile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_failed_scoretile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0037CBAEB61A2C54",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_rewards.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_rewards.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00678775CF33F9E6",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_scoreandobjectiveslist.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_scoreandobjectiveslist.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000B969A1F4AC068",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_scoreandrewards.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_scoreandrewards.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00ABB663854FF4F8",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_scoretile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_scoretile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00020BBC872BAD33",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefing_scoretilesniper.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefing_scoretilesniper.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00243002B611A06B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefingbuttons.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefingbuttons.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0095F82F097E11C9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefingfailedbuttons.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefingfailedbuttons.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B6F6B62A32C9E1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/debriefingfailedbuttons_fsp.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/debriefingfailedbuttons_fsp.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0003275EA90466F4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/scoreoverviewandunlocks.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/scoreoverviewandunlocks.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001017CF5DA2777C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/debriefing/scoreoverviewandunlocksloading.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/debriefing/scoreoverviewandunlocksloading.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001A490175E1B004",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/detailviewcontainer.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/detailviewcontainer.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0043B179276FFED7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/difficulty/difficultylevel.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/difficulty/difficultylevel.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004B4FBD1A89FB29",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/difficulty/difficultytab.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/difficulty/difficultytab.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D8CE408DD776D1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/elusivetargets_playablecheck.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/elusivetargets_playablecheck.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00328DD1119E75CA",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/hit.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/hit.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F7C3A5135CF45C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/hitscategory.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/hitscategory.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B3F6DC886A2553",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/hitscategory_contracts.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/hitscategory_contracts.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00939490BF76C83E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/leaderboard/leaderboard_entry.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/leaderboard/leaderboard_entry.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BA3A4B07D6FA5A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/leaderboard/leaderboard_score_detail.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/leaderboard/leaderboard_score_detail.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000477CD0C7077AD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/leaderboard/leaderboard_sniperscore_detail.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/leaderboard/leaderboard_sniperscore_detail.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004D98EADD88F79A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/leaderboardentries.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/leaderboardentries.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "004F4F115BD89CB9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/leaderboardloading.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/leaderboardloading.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B1E4947C4687AD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/leaderboards.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/leaderboards.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B09CFFDD9D0946",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/loadout.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/loadout.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FFA533DD8119DD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/location.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/location.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "008978675A3FD952",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/locations.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/locations.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0004A3320E329DC7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mastery/masterydetailmodal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mastery/masterydetailmodal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C9326A02F43C2C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mastery/masterylocationview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mastery/masterylocationview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003960E07D835C4D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mastery/masterytab.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mastery/masterytab.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F090102C871F20",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/messagecenter/feed.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/messagecenter/feed.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001A25E36F08523C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/messagecenter/items/challengecompleted.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/messagecenter/items/challengecompleted.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0003C780844A216C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/messagecenter/items/contractcreated.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/messagecenter/items/contractcreated.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00467989FE218610",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/messagecenter/items/contractscorebeaten.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/messagecenter/items/contractscorebeaten.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FC2036E8A56C76",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/messagecenter/items/error.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/messagecenter/items/error.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0071B37F9F1AB4FF",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/messagecenter/items/globalnotice.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/messagecenter/items/globalnotice.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D542A40E740EEC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/messagecenter/messagecenter.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/messagecenter/messagecenter.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A5E9B0D86E522E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/briefing_contracttitle.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/briefing_contracttitle.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006ED9117F48F78F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/briefingtile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/briefingtile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B0168D65540E99",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/briefingvideo.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/briefingvideo.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006AAF26C5209AE9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/briefingvideotile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/briefingvideotile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E38160EB62FF4E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/loadoutdata.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/loadoutdata.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006A161B95407BA3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/loadoutlimitedslot.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/loadoutlimitedslot.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00432F4CDAB5DAB4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/objective.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/objective.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BFE54B3FE3EAAE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/objectiveconditiondata.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/objectiveconditiondata.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A5BE0E195C4EEF",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/objectiveconditions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/objectiveconditions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C8F322CFFFF968",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/objectiveconditionstype.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/objectiveconditionstype.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A292B1DC44B23A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/objectives.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/objectives.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002956EE01EEAA89",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/planningbutton_decision.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/planningbutton_decision.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0078C14B6B48F6CE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/planningbutton_deselectactions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/planningbutton_deselectactions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0000C8628C844B4E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/planningbuttons.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/planningbuttons.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00168313D99D510C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/selectagencypickup.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/selectagencypickup.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001E5A9CCB45C9B1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/selectentrance.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/selectentrance.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0038F6551A86147A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/mission/showbriefingtile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/mission/showbriefingtile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DD042E6AA210CA",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/missionrewards.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/missionrewards.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00336C0244D274D1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/missionrewardsloading.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/missionrewardsloading.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009A93ED3A480237",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007D0CBA42C27868",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/audio.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/audio.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003A90491B9377F3",
@@ -12115,33 +11846,28 @@
   },
   {
     "hash": "000D2E949A0F1BFD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/credits.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A5963493118352",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits/credits_hitman_definitiveedition.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/credits/credits_hitman_definitiveedition.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002DAF47B53E09FE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits/credits_hitman_gameoftheyear.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/credits/credits_hitman_gameoftheyear.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00893738876CC37E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits/credits_hitman_seasonone.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/credits/credits_hitman_seasonone.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FB28D5FBAF2AF9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits/credits_hitman_wb.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/credits/credits_hitman_wb.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F243FFC86733D5",
@@ -12163,93 +11889,78 @@
   },
   {
     "hash": "009D4F54F793BCAE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/game.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/game.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E6D1115F4AD1D4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/graphics.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/graphics.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005F5A6E9D7F94EF",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/graphics/gamma.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/graphics/gamma.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002882092C15FFE9",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/graphics/hdrgamma.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/graphics/hdrgamma.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0022704A724398AE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/graphicsconsole.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/graphicsconsole.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009769D743D88362",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/hdrsettings.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/hdrsettings.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A53E1FEB5B0256",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/ioiaccount-popup-config.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/ioiaccount-popup-config.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00065C04E9073AD4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/ioiaccount.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/ioiaccount.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00032E58328823F7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/keybindings.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/keybindings.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CAEF166068900E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/keyboard.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/keyboard.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005CEA4AD5DF368C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/language.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/language.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006DBC8C5D48BFBD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/languageaudio.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/languageaudio.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005A82A25325BC03",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/languageops.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/languageops.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C1D678FD83B149",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/options.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/options.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CDEB1C7AACCE41",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/options_info_container.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/options_info_container.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000EDE61A7226C79",
@@ -12259,255 +11970,213 @@
   },
   {
     "hash": "00CAC9BA71BBD2A8",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/preliminarysettings.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/preliminarysettings.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00969C3A0663E356",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/privacy.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/options/privacy.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DB58033C95D017",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/profiletile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/profiletile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007B43774408F56F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/questitems.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/questitems.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0050C7432A1BC5BA",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/report.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/report.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C724F19D567516",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/saveload/loadgamedialog.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/saveload/loadgamedialog.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007FD4CC61FD17A4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/saveload/loadgameflow.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/saveload/loadgameflow.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00922E1D59ADD917",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/saveload/loadpage.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/saveload/loadpage.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E63D8B7E756C68",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/saveload/savepage.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/saveload/savepage.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0032C74861FFE451",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/scoreoverview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/scoreoverview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E383061D91F299",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/scoreoverviewloading.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/scoreoverviewloading.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00ED835B9704EF4A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/stashpoint.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/stashpoint.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D1972B87F1FD13",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/stashpointslot.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/stashpointslot.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A025753426084F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/video.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/common/views/video.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00127CE7EEEE3D1B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/contractcreation/chooselocation.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/contractcreation/chooselocation.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BE546C1E76FCDD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/contractcreation/contractconditionobjectivetiles.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/contractcreation/contractconditionobjectivetiles.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002FF64D4F68D0FF",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/contractcreation/contractcreationbuttons.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/contractcreation/contractcreationbuttons.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005F8EF2EC2EB65F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/contractcreation/createcontract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/contractcreation/createcontract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F77B6DC6F67831",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/contractcreation/planning.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/contractcreation/planning.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F644A0213178BB",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/contractcreation/targetobjectivetiles.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/contractcreation/targetobjectivetiles.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0075D22D44855CFE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/destination/missions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/destination/missions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00172D4F056131B4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/gate.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/gate.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002D6209EC22747B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/career.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/career.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CB22AE3CD226D7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/career_locked.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/career_locked.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009669FBF6839E93",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractlookup/contractlookupmodal.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractlookup/contractlookupmodal.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0003DF22987B72F2",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractlookup/contractlookuptile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractlookup/contractlookuptile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0085EE1DC1030012",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractlookup/lookupfailed.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractlookup/lookupfailed.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0070A7B26614CC86",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractlookup/lookupsuccess.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractlookup/lookupsuccess.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00028F532321BBD3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contracts.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contracts.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007B292A6F372188",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contracts_locked.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contracts_locked.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F41D083BD83F06",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/contractsearch.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/contractsearch.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003FD4A6DB9867C3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/contractsearchtile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/contractsearchtile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0027433420023436",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/filterelement.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/filterelement.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A066C25A9448DA",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/filterelementany.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/filterelementany.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0057F696DC9DE21C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/filterelementlistwidth.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/filterelementlistwidth.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E79E8DF1330707",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/results.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/results.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0038FA0937FCEF79",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/resultsnext.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/resultsnext.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00469AE59AB7E124",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/resultspaginate.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/resultspaginate.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C441C1CCE2371B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/resultsprevious.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/resultsprevious.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B2A142E5AB3936",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/resultsprevnext.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/resultsprevnext.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00069FEB38515BB2",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractsearchcomponents/selectedfilterelement.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractsearchcomponents/selectedfilterelement.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E582231FAF8B0D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/contractshittile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/contractshittile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001426501E1EDCED",
@@ -12517,15 +12186,13 @@
   },
   {
     "hash": "00B80663E7C5A1FD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/dashboardfreestarterpack.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/dashboardfreestarterpack.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B5E7081A751AB8",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/dashboardfreestarterpackholiday.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/dashboardfreestarterpackholiday.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00AEEDC09C43964E",
@@ -12541,423 +12208,353 @@
   },
   {
     "hash": "007B924970D58B08",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/destinations.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/destinations.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C59A793B00ECA3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/destinations_locked.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/destinations_locked.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00EF0EA663052672",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/destinationssubmenu.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/destinationssubmenu.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CF67DAA2627C1E",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/dev_3dtest.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/dev_3dtest.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00002C269BD914E7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/myplaylist/myplaylistcontainer.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/myplaylist/myplaylistcontainer.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00560395A98A921D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/myplaylist/myplaylisttile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/myplaylist/myplaylisttile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00127DEF9A61BE05",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/store/store.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/store/store.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C583C94288CBE2",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/store/storeitemicon.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/store/storeitemicon.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007880AA229CA0F1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/story/story.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/story/story.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FAB399FCCCB8A4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/story/story_locked.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/story/story_locked.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CD2ADCB62AC487",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/story/storyoverview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/story/storyoverview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B7D9D336977726",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/story/storywhitespidernotowned.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/hub/story/storywhitespidernotowned.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0037BB6169B6E636",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/epilogue.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/epilogue.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00035975FA8E3A92",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pause.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pause.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005CE651A0E3B91C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pausedebug.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pausedebug.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00434785DBE34876",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pausedebugitems.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pausedebugitems.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FE459AB683F565",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pausedebugprofile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pausedebugprofile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "007F7BF1F1568562",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pauselanguageops.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pauselanguageops.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0068D35F53EADDD5",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pausemain.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pausemain.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003475650684D862",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pausemainfallback.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pausemainfallback.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00587EC6B812B0AD",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pausereplan.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pausereplan.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "002DF199B90A3EA8",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pauserestartgame.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pauserestartgame.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0020A671EBEAD0D7",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingame/pausesettings.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingame/pausesettings.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00828412851E485C",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingameinventory/ingameinventory.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingameinventory/ingameinventory.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00633B91696DB918",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingameinventory/ingameinventorycontextmenu.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingameinventory/ingameinventorycontextmenu.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00731A919FEC3DB5",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingameinventory/ingameinventoryground.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingameinventory/ingameinventoryground.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00A04611339E16AF",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingameinventory/ingameinventoryitem.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingameinventory/ingameinventoryitem.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00747323CEEA47F8",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingameinventory/ingameinventoryplayer.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingameinventory/ingameinventoryplayer.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001FE7F9861C883A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/ingameinventory/ingameinventoryslot.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/ingameinventory/ingameinventoryslot.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00E6C12435352B95",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/inventory/inventorycategory.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/inventory/inventorycategory.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0033497E2E4600B4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/inventory/inventorysubcategory.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/inventory/inventorysubcategory.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005EAD8020FA2AB3",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/leaderboards.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/leaderboards.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0051F7C922581D03",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/logbook.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/logbook.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0081C6A3CF2F778F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/logbook/opportunities.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/logbook/opportunities.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000105AAEE311F49",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/logbook/opportunities/opportunity_actionbutton.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/logbook/opportunities/opportunity_actionbutton.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00EF7F02E02280F1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/logbook/opportunities/opportunity_details.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/logbook/opportunities/opportunity_details.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "000B4B148D008803",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/logbook/opportunities/opportunityitem_actions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/logbook/opportunities/opportunityitem_actions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FF3045719D375F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/logbook/opportunities/opportunityitem_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/logbook/opportunities/opportunityitem_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003C0FF28A21B2C2",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/messagecenter/contract.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/messagecenter/contract.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00F83DC2E1A0B39D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/messagecenter/contractcreated.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/messagecenter/contractcreated.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00C078A61057A4F6",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/messagecenter/contractscore.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/messagecenter/contractscore.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00DAAFB0C25F1759",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/messagecenter/dropitem.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/messagecenter/dropitem.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009483E58BE5ED45",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/messagecenter/error.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/messagecenter/error.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00CDEC75BCBE6FA1",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/messagecenter/view.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/messagecenter/view.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00311BC11E34DB01",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/missionpayment/missionpayment.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/missionpayment/missionpayment.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FA579A1D4FF817",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/missionpayment/missionpaymentloading.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/missionpayment/missionpaymentloading.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00836F46079D0C71",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/missionpayment/missionpaymentview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/missionpayment/missionpaymentview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005DE8B2ED97B000",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/missionrewards.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/missionrewards.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "006FE92532E66399",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/missionrewardsnodebriefing.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/missionrewardsnodebriefing.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009955872C54B8C4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/briefingcontent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/briefingcontent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BD410011AF0D57",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/briefingtab.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/briefingtab.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "005422FD1F79998A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/briefingtabactions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/briefingtabactions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0077619E66B6EC18",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/leaderboardtab.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/leaderboardtab.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00947588038350A8",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/pagewideactions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/pagewideactions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003E6D8D193ECBFB",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/pagewidebuttons.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/pagewidebuttons.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00322005CC5D01BE",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/sniperchallenge/agentandunlocks.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/sniperchallenge/agentandunlocks.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003463C7A11580DC",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/sniperchallenge/buttonplay_actions_multiplayerlobby.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/sniperchallenge/buttonplay_actions_multiplayerlobby.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "001A3BCB79C2849B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/sniperchallenge/buttonplay_multiplayer.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/sniperchallenge/buttonplay_multiplayer.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0074A5E0F8856A11",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/sniperchallenge/characterselectionactions.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/sniperchallenge/characterselectionactions.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "009CE833DEDEC874",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/sniperchallenge/loadoutsniper.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/sniperchallenge/loadoutsniper.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00D3331A7137FA2D",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/sniperchallenge/playagent.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/sniperchallenge/playagent.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0018D10597842E40",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/planning/sniperchallenge/playsnipermultiplayer.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/planning/sniperchallenge/playsnipermultiplayer.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FFCE4A7818C7C0",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/proceedflow.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/proceedflow.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00FCB3B9257E10E4",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/sniperchallengescore/sniperchallengescore.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/sniperchallengescore/sniperchallengescore.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00BEADAD7502244A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/sniperchallengescore/sniperchallengescoreloading.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/sniperchallengescore/sniperchallengescoreloading.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0040E370BCF34299",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/sniperchallengescore/sniperchallengescoreview.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/sniperchallengescore/sniperchallengescoreview.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "003D69E849F83C63",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/statistics/statisticstab.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/statistics/statisticstab.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "008AE634211DFF4F",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/statistics/statisticstile.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/statistics/statisticstile.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00615CB44E584A43",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/statistics/statisticstile_data.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/statistics/statisticstile_data.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0056DF555D62147A",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/pages/statistics/statisticstile_locationimage.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/pages/statistics/statisticstile_locationimage.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0086B66F8187325D",
@@ -12973,9 +12570,8 @@
   },
   {
     "hash": "003D7F33C803CD14",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/surveyconfig.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/surveyconfig.json](override:sniperchallenge).pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "0000CB89B47BFCA8",
