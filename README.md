@@ -1,15 +1,15 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,560,018-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.20%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.37%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-20/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-83.81%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-82.97%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.80%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.14%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-81.11%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.18%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.53%25-green.svg)
-![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.18%25-yellow.svg)
+![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -37,8 +37,8 @@
 |DITL     |4              |0            |0.00%             |0    |0.00%          |
 |DLGE     |49653          |46769        |94.19%            |2371 |4.78%          |
 |DSWB     |5              |0            |0.00%             |5    |100.00%        |
-|ECPB     |2861           |0            |0.00%             |0    |0.00%          |
-|ECPT     |2861           |0            |0.00%             |0    |0.00%          |
+|ECPB     |2861           |1324         |46.28%            |0    |0.00%          |
+|ECPT     |2861           |1324         |46.28%            |0    |0.00%          |
 |ENUM     |2              |1            |50.00%            |1    |50.00%         |
 |ERES     |273            |267          |97.80%            |3    |1.10%          |
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
