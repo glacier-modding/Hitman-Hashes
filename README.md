@@ -1,6 +1,6 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,560,018-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,560,025-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.55%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-20/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
@@ -28,7 +28,7 @@
 |ASVA     |277            |267          |96.39%            |9    |3.25%          |
 |ATMD     |17038          |6458         |37.90%            |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
-|BORG     |7138           |2757         |38.62%            |0    |0.00%          |
+|BORG     |7144           |2759         |38.62%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2647           |2647         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
@@ -62,7 +62,7 @@
 |NAVP     |80             |78           |97.50%            |1    |1.25%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |144            |144          |100.00%           |0    |0.00%          |
-|PRIM     |43053          |22130        |51.40%            |228  |0.53%          |
+|PRIM     |43054          |22132        |51.41%            |228  |0.53%          |
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |145            |0            |0.00%             |137  |94.48%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
