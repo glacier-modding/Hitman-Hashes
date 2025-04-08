@@ -1,3 +1,4 @@
+import os
 import json
 import argparse
 from common import ioi_hash
@@ -6,7 +7,7 @@ parser = argparse.ArgumentParser(description="Bruteforce TEMP paths")
 parser.add_argument('-o', '--output', type=str, default="bruteforced_temp_paths.txt", help="Output file name. Defaults to bruteforced_temp_paths.txt.")
 args = parser.parse_args()
 
-with open("paths\\TEMP.json", "r") as f:
+with open(os.path.join("paths", "TEMP.json"), "r") as f:
     temp_data = json.load(f)
 
 found = []

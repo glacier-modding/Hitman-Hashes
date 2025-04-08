@@ -1,3 +1,4 @@
+import os
 import json
 from common import ioi_hash
 import argparse
@@ -10,10 +11,10 @@ parser = argparse.ArgumentParser(description="Bruteforce LINE paths")
 parser.add_argument('-o', '--output', type=str, default="new_line_paths.txt", help="Output file name. Defaults to new_line_paths.txt.")
 args = parser.parse_args()
 
-with open("paths\\LOCR.json", "r") as f:
+with open(os.path.join("paths", "LOCR.json"), "r") as f:
     locr_data = json.load(f)
 
-with open("paths\\LINE.json", "r") as f:
+with open(os.path.join("paths", "LINE.json"), "r") as f:
     line_data = json.load(f)
 
 found = []

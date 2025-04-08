@@ -1,3 +1,4 @@
+import os
 import json
 import argparse
 from common import ioi_hash
@@ -7,7 +8,7 @@ parser.add_argument("-o", "--output", type=str, default="new_wwem_paths.txt", he
 parser.add_argument("--include-levels", action="store_true", help="Include level codenames.")
 args = parser.parse_args()
 
-with open("paths\\WWEM.json", "r") as f:
+with open(os.path.join("paths", "WWEM.json"), "r") as f:
     wwem_data = json.load(f)
 
 found = set()

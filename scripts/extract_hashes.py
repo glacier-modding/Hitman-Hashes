@@ -34,7 +34,7 @@ def extractHashes(game, input):
 		files.sort()
 		for file in files:
 			if file.lower().endswith(".rpkg"):
-				filePath = root + "\\" + file
+				filePath = os.path.join(root, file)
 				print(filePath)
 				with open(filePath, 'rb') as f:
 					if "patch" in os.path.basename(filePath).lower():

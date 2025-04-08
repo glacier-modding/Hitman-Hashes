@@ -1,3 +1,4 @@
+import os
 import json
 import argparse
 from common import ioi_hash
@@ -6,13 +7,13 @@ parser = argparse.ArgumentParser(description="Bruteforce PRIMs to ECPT/ECPB path
 parser.add_argument('-o', '--output', type=str, default="bruteforced_ecpt_paths.txt", help="Output file name. Defaults to bruteforced_ecpt_paths.txt.")
 args = parser.parse_args()
 
-with open("paths\\PRIM.json", "r") as f:
+with open(os.path.join("paths", "PRIM.json"), "r") as f:
     prim_data = json.load(f)
 
-with open("paths\\ECPT.json", "r") as f:
+with open(os.path.join("paths", "ECPT.json"), "r") as f:
     ecpt_data = json.load(f)
 
-with open("paths\\ECPB.json", "r") as f:
+with open(os.path.join("paths", "ECPB.json"), "r") as f:
     ecpb_data = json.load(f)
 
 ecpt_hashes = {entry["hash"] for entry in ecpt_data}

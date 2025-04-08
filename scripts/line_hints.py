@@ -1,3 +1,4 @@
+import os
 import json
 import argparse
 
@@ -9,7 +10,7 @@ args = parser.parse_args()
 with open(args.input, "r") as file1:
     data_lines = json.load(file1)
 
-with open("paths\\LINE.json", "r") as file2:
+with open(os.path.join("paths", "LINE.json")) as file2:
     data_line = json.load(file2)
 
 for item in data_line:
