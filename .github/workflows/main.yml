@@ -103,32 +103,3 @@ jobs:
             latest-hashes.7z
             hash_list.sml
             version
-
-  update_hashsearch:
-    name: Update HashSearch's hash list
-    needs: generate_hash_list
-    runs-on: ubuntu-22.04
-
-    steps:
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: artifacts
-
-      - name: Copy hash_list.txt
-        uses: appleboy/scp-action@master
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USER }}
-          key: ${{ secrets.SSH_KEY }}
-          source: "hash_list.txt"
-          target: "/etc/hashsearch/"
-          overwrite: true
-
-      - name: Restart HashSearch service
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USER }}
-          key: ${{ secrets.SSH_KEY }}
-          script: sudo systemctl restart hashsearch
