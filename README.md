@@ -1,6 +1,6 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,560,025-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,560,045-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-80.55%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-20/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
@@ -28,7 +28,7 @@
 |ASVA     |277            |267          |96.39%            |9    |3.25%          |
 |ATMD     |17038          |6458         |37.90%            |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
-|BORG     |7144           |2759         |38.62%            |0    |0.00%          |
+|BORG     |7148           |2759         |38.60%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2647           |2647         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
@@ -44,11 +44,11 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |351160         |350464       |99.80%            |0    |0.00%          |
 |GFXF     |41             |41           |100.00%           |0    |0.00%          |
-|GFXI     |12102          |9636         |79.62%            |1252 |10.35%         |
+|GFXI     |12112          |9646         |79.64%            |1252 |10.34%         |
 |GFXV     |321            |119          |37.07%            |196  |61.06%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3167           |1924         |60.75%            |1003 |31.67%         |
+|JSON     |3169           |1926         |60.78%            |1003 |31.65%         |
 |LINE     |32241          |25995        |80.63%            |1932 |5.99%          |
 |LOCM     |16             |16           |100.00%           |0    |0.00%          |
 |LOCR     |9638           |6545         |67.91%            |504  |5.23%          |
@@ -62,7 +62,7 @@
 |NAVP     |80             |78           |97.50%            |1    |1.25%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |144            |144          |100.00%           |0    |0.00%          |
-|PRIM     |43054          |22132        |51.41%            |228  |0.53%          |
+|PRIM     |43058          |22132        |51.40%            |228  |0.53%          |
 |REPO     |2              |2            |100.00%           |0    |0.00%          |
 |RTLV     |145            |0            |0.00%             |137  |94.48%         |
 |SCDA     |877            |818          |93.27%            |0    |0.00%          |
