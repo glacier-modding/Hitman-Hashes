@@ -16836,5 +16836,15 @@
     "hash": "007F1E69F079CD50",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/stashpoint/stashpoint_page.json].pc_json",
     "gameFlags": 8
+  },
+  {
+    "hash": "00DBFF2641739A32",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004C03A7C2EEA396",
+    "path": "",
+    "gameFlags": 8
   }
 ]
