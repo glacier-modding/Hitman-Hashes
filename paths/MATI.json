@@ -94926,5 +94926,10 @@
     "hash": "004DA25510303274",
     "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/ninja/materials/male_reg_ninja_string_white.mi].pc_mi",
     "gameFlags": 8
+  },
+  {
+    "hash": "00DF20B6DCD3FD89",
+    "path": "[assembly:/_pro/environment/materials/props/toilets/laundry_trolley_a.mi].pc_mi",
+    "gameFlags": 2
   }
 ]
