@@ -2087,7 +2087,7 @@
   {
     "hash": "009D0E628439935C",
     "path": "[[assembly:/materials/basicmaterials/basicmaterial_specularreflection_hdr_fresnel.materialclass].fx](dx11).pc_mate",
-    "gameFlags": 13
+    "gameFlags": 15
   },
   {
     "hash": "00BE2B9A2E7A790F",

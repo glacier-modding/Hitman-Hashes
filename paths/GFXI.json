@@ -7942,7 +7942,7 @@
   {
     "hash": "005C5DC9C8B45525",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/profile_challenges/elusive_targets_3.jpg].pc_gfx",
-    "gameFlags": 12
+    "gameFlags": 14
   },
   {
     "hash": "00FAF8273E607C26",
@@ -59819,7 +59819,7 @@
   {
     "hash": "001B8BD49F7EE347",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/sarajevo_six/psn_blackrussian_silent_assassin.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 10
   },
   {
     "hash": "00213BAAAC22812D",
@@ -59829,7 +59829,7 @@
   {
     "hash": "00259B346DCBCBB5",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/sarajevo_six/psn_seabreeze_target_down.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 10
   },
   {
     "hash": "00279C1AC9FB85F5",
@@ -59854,7 +59854,7 @@
   {
     "hash": "002F712904A35593",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/sarajevo_six/psn_blackrussian_target_down.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 10
   },
   {
     "hash": "002F9546965265B4",
@@ -59909,7 +59909,7 @@
   {
     "hash": "007A1193377039C3",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/sarajevo_six/psn_seabreeze_silent_assassin.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 10
   },
   {
     "hash": "007D085168BA914B",
@@ -59969,7 +59969,7 @@
   {
     "hash": "00C1BD39A46F5CB6",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/sarajevo_six/psn_seabreeze_signature.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 10
   },
   {
     "hash": "00C6C831EC684C74",
@@ -60004,7 +60004,7 @@
   {
     "hash": "00F34982EA0487FE",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/challenges/sarajevo_six/psn_blackrussian_signature.jpg].pc_gfx",
-    "gameFlags": 8
+    "gameFlags": 10
   },
   {
     "hash": "00F41EFE45C13280",
@@ -62473,6 +62473,31 @@
   },
   {
     "hash": "000FDD671AB075EC",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0042F38D88DFE8E8",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006804512B02E9FB",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "001F102CAEEAA4DC",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0051395B2ECA2ED4",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00DAE4B9EED8D132",
     "path": "",
     "gameFlags": 2
   }
