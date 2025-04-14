@@ -10222,7 +10222,7 @@
   {
     "hash": "0073045F2520A837",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale02/inca_xplnknckdwn_civmale02.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00679AD986879768",
@@ -17747,7 +17747,7 @@
   {
     "hash": "0048A586B7FD487D",
     "path": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_story/dr7012_abiattiwell.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0008C98E7D76F906",
@@ -17822,7 +17822,7 @@
   {
     "hash": "0087700F56EE69C8",
     "path": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_story/dr7034_abiattiphotographer.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0064FE899EB39F86",
@@ -17842,7 +17842,7 @@
   {
     "hash": "00CF71CBEFAE880B",
     "path": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_story/dr7038_abiattianoydfrwks.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "003C890B59A05F5A",
@@ -35855,7 +35855,7 @@
   {
     "hash": "00D1719900ED01A8",
     "path": "",
-    "gameFlags": 16
+    "gameFlags": 18
   },
   {
     "hash": "001AE5E74F96A73D",
@@ -51185,6 +51185,171 @@
   },
   {
     "hash": "007C4C3C9749AC2E",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B2CF85631158F3",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006C6AD2D41C2CE9",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0091291817E2EBC5",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0023E8544CC2EC17",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006A5378960EF3B2",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000A5DAC319501F3",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B0A7ED46C3FE36",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0088F73BDAAC3217",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00900532B9A0F6C6",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005802871E2EA2D7",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00405F2CD1F85F09",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00FBDE43D2753884",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002177295CCD4E60",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "003B2E613E34CA33",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000A0445E8C0F03E",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "001B89283CE5C7FC",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00AE323E77B36220",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D6EE6964D927FB",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B370710F6785B5",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00F9822667675021",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0006AFF49DDE36A3",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005C875A2FF99797",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0027E591C357E50C",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00CE80201BE969B6",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "009DE8129CDB2AEE",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002B4910CEDAF5BF",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00083988096777EC",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005028E6BC1CEDE2",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "007D18ECB1004EAA",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002877D730D4BB06",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B94FD22E76E043",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00669F544EC61D53",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D6505EC59AB9FF",
     "path": "",
     "gameFlags": 2
   }
