@@ -1963,5 +1963,10 @@
     "hash": "00D0328E60D4047B",
     "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.locationintelwidget.uic].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "007DB300D2FE16AC",
+    "path": "",
+    "gameFlags": 2
   }
 ]

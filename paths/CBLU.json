@@ -13233,5 +13233,10 @@
     "hash": "004B511A57730E6A",
     "path": "[modules:/zlerpmultispatialentity.class].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "0022C9D11D53A93F",
+    "path": "[modules:/zleadescortbehaviorentity.class].pc_entityblueprint",
+    "gameFlags": 2
   }
 ]

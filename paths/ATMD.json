@@ -22597,7 +22597,7 @@
   {
     "hash": "008A44B5CB89FFA5",
     "path": "[assembly:/animations/npc/009_acts/levels/italy/mr_stand_crew_reaction_brokenairrampt.amd?/mr_stand_crew_reaction_brokenairrampt_1off.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0079051D3B1269A3",
@@ -24927,27 +24927,27 @@
   {
     "hash": "00BB9EE8E3FED58B",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.amd?/adjust.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00EC8CBE095E947A",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.amd?/base_loop.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "009BE11C78084A00",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.amd?/enter.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "003D2A7F9F6D3F9B",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.amd?/exit.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0052E1349B5A0612",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.amd?/small_adjust.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "009E3AC0F9F57305",
@@ -85236,6 +85236,36 @@
   },
   {
     "hash": "00630418B2BA83DE",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00C69653BC3B9E8E",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00466D28B42922F8",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002CEB677006298B",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000180A73A2FF432",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D6012EC60FE68E",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0015873732414697",
     "path": "",
     "gameFlags": 2
   }

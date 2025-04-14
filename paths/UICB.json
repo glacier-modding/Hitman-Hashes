@@ -1963,5 +1963,10 @@
     "hash": "00D78B55AE2039F3",
     "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.evergreenstashmaptracker.uic].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "004DD2BAAB3246A6",
+    "path": "",
+    "gameFlags": 2
   }
 ]

@@ -3382,7 +3382,7 @@
   {
     "hash": "00990688EC1F1F85",
     "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_ginfizz/materials/ginfizz_jacket_01.mi].pc_mi",
-    "gameFlags": 12
+    "gameFlags": 14
   },
   {
     "hash": "0025B664BE2EE17A",
@@ -10186,7 +10186,7 @@
   {
     "hash": "00F3B0F66F9F4572",
     "path": "[assembly:/_pro/_test/dominikk/materials/van_large_a_exterior_guards.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00ED216915C94851",
@@ -21816,7 +21816,7 @@
   {
     "hash": "00EBB3E6A121ED6A",
     "path": "[assembly:/_pro/effects/materials/fire/fx_par_fire_smoke_vehicle_8x8_01.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00B0094A31244A1D",
@@ -22171,7 +22171,7 @@
   {
     "hash": "008E815FFBBC40CC",
     "path": "[assembly:/_pro/effects/materials/glow/fx_par_glow_sparks_movie_explosion_01.mi].pc_mi",
-    "gameFlags": 12
+    "gameFlags": 14
   },
   {
     "hash": "00A22A0CC4649476",

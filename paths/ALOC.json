@@ -207,27 +207,27 @@
   {
     "hash": "007F233A3F6A3D7B",
     "path": "[assembly:/_pro/_test/dominikk/geometry/van_large_a_guards.wl2?/door_rear_left_guards.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00E1841B2A40152E",
     "path": "[assembly:/_pro/_test/dominikk/geometry/van_large_a_guards.wl2?/door_rear_right_guards.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "007C2C3E7EB60DB5",
     "path": "[assembly:/_pro/_test/dominikk/geometry/van_large_a_guards.wl2?/door_sliding_left_guards.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00EF461D2D6FF2F9",
     "path": "[assembly:/_pro/_test/dominikk/geometry/van_large_a_guards.wl2?/door_sliding_right_guards.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0093F76E85B6AE5F",
     "path": "[assembly:/_pro/_test/dominikk/geometry/van_large_a_guards.wl2?/van_large_a_guards.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "009E84CE8FEDF9F0",
@@ -31297,7 +31297,7 @@
   {
     "hash": "0080FE45226B77DA",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/emblem_napoleonic_a.wl2?/holder_plastic_b_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00F39B8303BAD973",
@@ -61692,7 +61692,7 @@
   {
     "hash": "003458A77B29254E",
     "path": "[assembly:/_pro/environment/geometry/props/shops_props/holder_plastic_a.wl2?/holder_plastic_a_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A57758395AFD07",
@@ -61762,7 +61762,7 @@
   {
     "hash": "00A0C9F9E0E50967",
     "path": "[assembly:/_pro/environment/geometry/props/shops_props/medina_shopfront_b.wl2?/medina_shopfront_open_b.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00D189DB7DD277AE",
@@ -62837,7 +62837,7 @@
   {
     "hash": "00C0D953C5891D06",
     "path": "[assembly:/_pro/environment/geometry/props/signs/sign_sihsha_cafe_a.wl2?/sign_sihsha_cafe_letter_a.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "009FFFE62430D959",
@@ -62847,7 +62847,7 @@
   {
     "hash": "003C5E9BC62262CE",
     "path": "[assembly:/_pro/environment/geometry/props/signs/sign_sihsha_cafe_a.wl2?/sign_sihsha_cafe_letter_c.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A7555CE511092D",
@@ -62857,7 +62857,7 @@
   {
     "hash": "00B662A227BA835C",
     "path": "[assembly:/_pro/environment/geometry/props/signs/sign_sihsha_cafe_a.wl2?/sign_sihsha_cafe_letter_e.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00B4B84996A2695D",
@@ -62867,7 +62867,7 @@
   {
     "hash": "005DEE1729F8BAFE",
     "path": "[assembly:/_pro/environment/geometry/props/signs/sign_sihsha_cafe_a.wl2?/sign_sihsha_cafe_letter_f.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "004FC6DFBB884B4F",

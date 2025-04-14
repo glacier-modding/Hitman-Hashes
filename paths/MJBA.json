@@ -25572,7 +25572,7 @@
   {
     "hash": "0067D729FC1B5AB3",
     "path": "[assembly:/animations/npc/009_acts/levels/italy/mr_stand_crew_reaction_brokenairrampt.xmd?/mr_stand_crew_reaction_brokenairrampt_1off.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00D4F4E7C78278CB",
@@ -28132,27 +28132,27 @@
   {
     "hash": "00A03912BC3E0DAB",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.xmd?/adjust.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00BC2CC026433F21",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.xmd?/base_loop.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00AAAAF00C706BEF",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.xmd?/enter.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A17956D89121B5",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.xmd?/exit.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00DDA0132D5A9B48",
     "path": "[assembly:/animations/npc/009_acts/specific/profession/cameraman/mr_cameraman_stand_filming.xmd?/small_adjust.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "004C35693756E8CF",
@@ -98626,6 +98626,51 @@
   },
   {
     "hash": "00AE0F664758FAF4",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "001092BADC29567E",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005987C5E9C95021",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00A0F7CDE9ED2458",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00BC3F3C1412C1AE",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "004EB087509EB2F2",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00012A3CCFADE6B6",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00220232A464FF78",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "001532057192CCED",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00F24318CDA0DAFB",
     "path": "",
     "gameFlags": 2
   }
