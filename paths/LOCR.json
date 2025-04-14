@@ -17732,7 +17732,7 @@
   {
     "hash": "00E589B5A02D249E",
     "path": "[assembly:/localization/hitman6/conversations/italy/7000_mamba/7000_story/dr7009_priestabiattiphone.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00726E7D378F1E10",
@@ -48875,6 +48875,31 @@
   },
   {
     "hash": "00AE775CE24D17DE",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00107A14DE956AFB",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0085E7D3842F74C2",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002457465F8C19E2",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0060723D6F5D086D",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00BA860B9741D527",
     "path": "",
     "gameFlags": 2
   }

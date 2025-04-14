@@ -1392,5 +1392,10 @@
     "hash": "00F9A317076BB6C2",
     "path": "[assembly:/animations/animationdatabases/actor_reactions.aset?/vri_civ_delivery_man.asva].pc_asva",
     "gameFlags": 1
+  },
+  {
+    "hash": "00FDD4E27BA5BA7C",
+    "path": "",
+    "gameFlags": 2
   }
 ]

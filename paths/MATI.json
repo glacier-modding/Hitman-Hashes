@@ -10141,12 +10141,12 @@
   {
     "hash": "00A6672AE6A00E7C",
     "path": "[assembly:/_pro/_test/dominikk/materials/english_suv_a_exterior_guard.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "008FF7956D01824E",
     "path": "[assembly:/_pro/_test/dominikk/materials/english_suv_a_guard_logo.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "004D85784E94B03A",
@@ -10171,7 +10171,7 @@
   {
     "hash": "0092202258948825",
     "path": "[assembly:/_pro/_test/dominikk/materials/movie_set_fx_crew_trailer_logo.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00C11093CF22EB2F",
@@ -10181,7 +10181,7 @@
   {
     "hash": "0078BB4C5B452950",
     "path": "[assembly:/_pro/_test/dominikk/materials/one_way_mirror_a_02.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00F3B0F66F9F4572",
@@ -10321,7 +10321,7 @@
   {
     "hash": "0065CA31A004DE70",
     "path": "[assembly:/_pro/_test/julienh/materials/red_emissive.mi].pc_mi",
-    "gameFlags": 12
+    "gameFlags": 14
   },
   {
     "hash": "00E081F75BCA0D39",
@@ -10346,7 +10346,7 @@
   {
     "hash": "00054814A47E299C",
     "path": "[assembly:/_pro/_test/marcinkd/materials/plate_danger_explosion_01.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0034CC834500AC5E",
@@ -10376,7 +10376,7 @@
   {
     "hash": "00B251831D94E918",
     "path": "[assembly:/_pro/_test/martinni/materials/test_peephole_openclose.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00777090681618F0",
@@ -10661,7 +10661,7 @@
   {
     "hash": "0013ADFA478BF050",
     "path": "[assembly:/_pro/_test/piotrm/materials/dir_chair_name.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "008F3E17B9AF73AA",
@@ -10681,7 +10681,7 @@
   {
     "hash": "00E2B70AEACA694D",
     "path": "[assembly:/_pro/_test/piotrm/materials/white_emissive.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "006F5AA518575F78",
@@ -27661,7 +27661,7 @@
   {
     "hash": "00B6A19121283F1D",
     "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_daynight_a.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00348492DDAE6562",
@@ -48501,7 +48501,7 @@
   {
     "hash": "00B18096E6DD9BDD",
     "path": "[assembly:/_pro/environment/materials/levels/coastal_town_italy/movieset_case_fx_crew_a.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "002EF2B390496129",
@@ -48586,7 +48586,7 @@
   {
     "hash": "00779AD0E013D53A",
     "path": "[assembly:/_pro/environment/materials/levels/coastal_town_italy/movieset_monster_blueprint_b.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00CD0399AB437FDF",
@@ -89366,7 +89366,7 @@
   {
     "hash": "00FBF0B97F326B17",
     "path": "[assembly:/materials/_test/jamieb/outofordersign.mi].pc_mi",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0069FE44861BA312",
@@ -94930,6 +94930,26 @@
   {
     "hash": "00DF20B6DCD3FD89",
     "path": "[assembly:/_pro/environment/materials/props/toilets/laundry_trolley_a.mi].pc_mi",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00F6E8A3AC263561",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002821CEE5C1529D",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00219E25E713EFE7",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0099EB6A8552373D",
+    "path": "",
     "gameFlags": 2
   }
 ]

@@ -4917,7 +4917,7 @@
   {
     "hash": "0083E7543B0B25BD",
     "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_interact_screwdriver_120cm_stab.amd?/hm_interact_screwdriver_120cm_stab.atmd].pc_atmd",
-    "gameFlags": 12
+    "gameFlags": 14
   },
   {
     "hash": "00527D8521CD377B",
@@ -19312,17 +19312,17 @@
   {
     "hash": "0033436F5CDF4489",
     "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_table_100cm_eating_01.amd?/loop_00_(base_loop).atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00BB70537604CD66",
     "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_table_100cm_eating_01.amd?/start.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "008009A10EE6EBC7",
     "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_table_100cm_eating_01.amd?/stop.atmd].pc_atmd",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00E297AEB3FCD62E",
@@ -85191,6 +85191,51 @@
   },
   {
     "hash": "00A1A2E81C89FEE8",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "004043CAEFD78487",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00C01B30CC784FB3",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "007F6CC0F5E048DE",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "004AB5B1D4428278",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00EF14B3A69AA386",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0021258E20E8C856",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00E44224388A679A",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00464AA4272B64C6",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00630418B2BA83DE",
     "path": "",
     "gameFlags": 2
   }

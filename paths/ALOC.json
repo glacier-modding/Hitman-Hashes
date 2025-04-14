@@ -562,7 +562,7 @@
   {
     "hash": "00F77C50378AFB51",
     "path": "[assembly:/_pro/_test/marcinkd/geometry/small_trolley_movie_set.wl2?/movie_set_roadcase_c_01.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "000C4BB6A7FFF8E3",
@@ -15332,7 +15332,7 @@
   {
     "hash": "00DF1EE1D18FAF36",
     "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/movieset_cases_a.wl2?/movieset_case_fx_crew_a.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0065D7A046055D95",
@@ -15467,12 +15467,12 @@
   {
     "hash": "00CD5ABA6E250813",
     "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/movieset_vehicle_a.wl2?/english_suv_a_glass.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A65C7EF8BF85B3",
     "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/movieset_vehicle_a.wl2?/english_suv_a_guard.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00D7B96D1E4CF3B2",
@@ -15537,7 +15537,7 @@
   {
     "hash": "00F57AC60398DB17",
     "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/movieset_vehicle_a.wl2?/movieset_vehicle_glass_a.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A8272B069B256C",
@@ -33527,7 +33527,7 @@
   {
     "hash": "008AD7C40F100E3B",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_a_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0087BFB6C0EDC02F",
@@ -33537,7 +33537,7 @@
   {
     "hash": "00A216F11572E626",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_a_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00C92B8F244DB051",
@@ -33547,7 +33547,7 @@
   {
     "hash": "00B2B27377C59FDF",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_a_urncap_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00D49378CF343F82",
@@ -33557,7 +33557,7 @@
   {
     "hash": "008B937981F7B70C",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_a_urncap_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "000212E79775D4A9",
@@ -33567,7 +33567,7 @@
   {
     "hash": "000917465C74C43B",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_b_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "007A7E50E7A9D8BD",
@@ -33577,7 +33577,7 @@
   {
     "hash": "007A72447D6C9CE9",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_b_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00AA3BED72FE49EF",
@@ -33587,7 +33587,7 @@
   {
     "hash": "00BFE094F8D83216",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_b_urncap_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "007083936A224E34",
@@ -33597,7 +33597,7 @@
   {
     "hash": "006B453DFB3A420E",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_b_urncap_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A487E1B35FFE79",
@@ -33612,7 +33612,7 @@
   {
     "hash": "0022698EAAEE6EC4",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_c_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00B7FEC406161E7D",
@@ -33622,7 +33622,7 @@
   {
     "hash": "00C905C42F540DCF",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_c_urncap_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0099364866352243",
@@ -33632,7 +33632,7 @@
   {
     "hash": "002B10EFDE6A10AB",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_d_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "003B4F073110705C",
@@ -33642,7 +33642,7 @@
   {
     "hash": "00BFAA87D80593E9",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_d_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "004D482A56D973A1",
@@ -33652,7 +33652,7 @@
   {
     "hash": "0037F74526B4FAD1",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_d_urncap_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "000AEA4356FE4FD6",
@@ -33662,7 +33662,7 @@
   {
     "hash": "00234C54677E1FC8",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_d_urncap_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00BAD0E703AE5EDF",
@@ -33677,7 +33677,7 @@
   {
     "hash": "00AC591661A9780E",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/vase_italy_a.wl2?/vase_italy_e_small_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00D9FD63B448E1D1",
@@ -40102,7 +40102,7 @@
   {
     "hash": "002FA84E00FF2F5D",
     "path": "[assembly:/_pro/environment/geometry/props/food/food_plates_a.wl2?/food_plate_c_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00358BDFE2BD4273",
@@ -40112,7 +40112,7 @@
   {
     "hash": "009872BE5AE0209B",
     "path": "[assembly:/_pro/environment/geometry/props/food/food_plates_a.wl2?/food_plate_d_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "002948DF3B99CD8A",
@@ -44907,7 +44907,7 @@
   {
     "hash": "00A509058053C941",
     "path": "[assembly:/_pro/environment/geometry/props/furniture/kitchen_units_d.wl2?/kitchen_unit_d_sink_00.prim].pc_coll",
-    "gameFlags": 13
+    "gameFlags": 15
   },
   {
     "hash": "009F6016A802EA62",
@@ -48472,7 +48472,7 @@
   {
     "hash": "00B918E3D301D7DE",
     "path": "[assembly:/_pro/environment/geometry/props/gameplay/traps/gascanister_large_a.wl2?/gascanister_large_a_cranecage.linkedprim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00F52D64CB2CA3EB",
@@ -54292,7 +54292,7 @@
   {
     "hash": "00B75723CBC929F8",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/lantern_oil_old_a.wl2?/lantern_oil_old_a_flame_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00F0CC555FC8FB1F",
@@ -59157,7 +59157,7 @@
   {
     "hash": "00C3B882706E9B56",
     "path": "[assembly:/_pro/environment/geometry/props/plants/flowers_morgue_a.wl2?/flowers_morgue_a_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00EB722CAD47E2DC",
@@ -59167,7 +59167,7 @@
   {
     "hash": "003F539FE6CD6864",
     "path": "[assembly:/_pro/environment/geometry/props/plants/flowers_morgue_a.wl2?/flowers_morgue_b_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0092956F3888D992",
@@ -59177,7 +59177,7 @@
   {
     "hash": "007982FD7FA8A66A",
     "path": "[assembly:/_pro/environment/geometry/props/plants/flowers_morgue_a.wl2?/flowers_morgue_c_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00EE078A070566CA",
@@ -59202,7 +59202,7 @@
   {
     "hash": "00B5FF97F0DC0CD2",
     "path": "[assembly:/_pro/environment/geometry/props/plants/flowers_morgue_a.wl2?/flowers_morgue_d_00.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0085BC1FCD89DA35",
@@ -66287,7 +66287,7 @@
   {
     "hash": "00BDC3E87D90E0FF",
     "path": "[assembly:/_pro/environment/geometry/props/toilets/washing_powder_a.wl2?/washing_powder_a.prim].pc_coll",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A4FFD63A988186",
@@ -131773,5 +131773,20 @@
     "hash": "00A68C55B195BEB0",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "00E637613946D422",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D296C97F9A506C",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "009A180E051380E4",
+    "path": "",
+    "gameFlags": 2
   }
 ]

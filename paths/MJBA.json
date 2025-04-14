@@ -6802,7 +6802,7 @@
   {
     "hash": "004BC778DF9AD6E6",
     "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_interact_screwdriver_120cm_stab.xmd?/hm_interact_screwdriver_120cm_stab.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 12
+    "gameFlags": 14
   },
   {
     "hash": "0016DA9C06CA8E87",
@@ -22202,17 +22202,17 @@
   {
     "hash": "002AF4FB8AF18D1A",
     "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_table_100cm_eating_01.xmd?/loop_00_(base_loop).xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00EA9B51A6AC48AD",
     "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_table_100cm_eating_01.xmd?/start.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00CA31DED80CA3E5",
     "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_table_100cm_eating_01.xmd?/stop.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00F144DC3EEB528A",
@@ -98581,6 +98581,51 @@
   },
   {
     "hash": "00F22AB45D866E47",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000377E10E56DA3B",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002B5D26F903F1F3",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00444E57ECA580FE",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00DE7F01889D2E53",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0072AE2E878A0A87",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00578C9A0BF564B8",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B7C12B3CB251D3",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00C6370FAEC09C96",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00AE0F664758FAF4",
     "path": "",
     "gameFlags": 2
   }

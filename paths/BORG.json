@@ -10017,7 +10017,7 @@
   {
     "hash": "00C870F1394E8E77",
     "path": "[assembly:/_pro/environment/geometry/props/gameplay/traps/gascanister_large_a.wl2?/gascanister_large_a_cranecage.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A7B9AC1FD9D63B",
@@ -35738,5 +35738,30 @@
     "hash": "006511CE63E7A105",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "008BE34B137CE8BD",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00569C5B9906426E",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00014A9E5D378C1B",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B4F9884845FF5C",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00EDE7D8707807F7",
+    "path": "",
+    "gameFlags": 2
   }
 ]

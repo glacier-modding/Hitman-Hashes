@@ -4537,7 +4537,7 @@
   {
     "hash": "001853E624E4676E",
     "path": "[assembly:/_pro/_test/martinni/materials/test_peephole_openclose.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00E48DD4F599FC7E",
@@ -4612,7 +4612,7 @@
   {
     "hash": "00C921942ACADFF2",
     "path": "[assembly:/_pro/_test/piotrm/materials/white_emissive.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "008FC50E7C6423FF",
@@ -10982,7 +10982,7 @@
   {
     "hash": "00D39805E1B319B6",
     "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_daynight_a.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00F7F40AE38D91C9",
@@ -15967,7 +15967,7 @@
   {
     "hash": "00F316FA19573AF8",
     "path": "[assembly:/_pro/environment/materials/levels/coastal_town_italy/movieset_monster_blueprint_b.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00E58FC2117F6DED",
@@ -28174,5 +28174,15 @@
     "hash": "00829DF9CF5D66F2",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_whiterussian/materials/white_russian_head_01.mi].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "0086A9EED27C2177",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00A3BEE1B9C08FF7",
+    "path": "",
+    "gameFlags": 2
   }
 ]

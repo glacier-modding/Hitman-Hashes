@@ -1847,7 +1847,7 @@
   {
     "hash": "00C18E2DD490537A",
     "path": "[assembly:/animationnetworks/actors/acts/generic/stand/mr_stand_table_100cm_eating_01.aln].pc_rtn",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0082D2B7932C3498",
@@ -4897,7 +4897,7 @@
   {
     "hash": "00A5BE08CDA59423",
     "path": "[assembly:/animationnetworks/hitman01/tampering/hm_interact_screwdriver_120cm_stab.aln].pc_rtn",
-    "gameFlags": 12
+    "gameFlags": 14
   },
   {
     "hash": "00D63ECB27160455",
@@ -11318,5 +11318,20 @@
     "hash": "00C18A84A6285A94",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "00B65B841ED607BA",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00E119B5C91FED65",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00E8C0FD3EBC85C1",
+    "path": "",
+    "gameFlags": 2
   }
 ]

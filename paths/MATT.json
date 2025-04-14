@@ -4537,7 +4537,7 @@
   {
     "hash": "0075411BC4F02EA2",
     "path": "[assembly:/_pro/_test/martinni/materials/test_peephole_openclose.mi].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "0028FA38981E3DA7",
@@ -4612,7 +4612,7 @@
   {
     "hash": "0003947AB91596D8",
     "path": "[assembly:/_pro/_test/piotrm/materials/white_emissive.mi].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00A8FC45E088EF62",
@@ -10982,7 +10982,7 @@
   {
     "hash": "00ECF54B680267CF",
     "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_daynight_a.mi].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00632C6F786A3708",
@@ -15967,7 +15967,7 @@
   {
     "hash": "00ABFC1AC57F6562",
     "path": "[assembly:/_pro/environment/materials/levels/coastal_town_italy/movieset_monster_blueprint_b.mi].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00BEDF9E20CFD3BE",
@@ -28169,5 +28169,15 @@
     "hash": "00F1A1344EB0B0FD",
     "path": "[assembly:/_pro/characters/assets/individuals/bangkok/abeldasilva/material/male_regular_abeldasilva_01_watch_02_.mi].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00441D8546E08E3D",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00A4BADAA0AD00FF",
+    "path": "",
+    "gameFlags": 2
   }
 ]
