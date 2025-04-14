@@ -2094,9 +2094,8 @@
   },
   {
     "hash": "005C25E1DE872174",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/lumumba_head_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_lumamba/materials/lumumba_head_01.mi].pc_entitytype",
+    "gameFlags": 46
   },
   {
     "hash": "00FFB331DC9D7E60",

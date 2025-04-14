@@ -4509,9 +4509,8 @@
   },
   {
     "hash": "00E40D3B1B0C1A4F",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/lumumba_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_lumamba/materials/lumumba_head_01.mi].pc_mi",
+    "gameFlags": 46
   },
   {
     "hash": "009632FE51FA3000",
@@ -91765,7 +91764,7 @@
   },
   {
     "hash": "00493CAC78D49428",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/glass/old_windows_large_a_shatter.mi].pc_mi",
     "gameFlags": 2
   },
   {
@@ -94944,7 +94943,7 @@
   },
   {
     "hash": "00219E25E713EFE7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/containers/movieset_flightcases_b.mi].pc_mi",
     "gameFlags": 2
   },
   {
