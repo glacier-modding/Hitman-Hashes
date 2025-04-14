@@ -43,6 +43,9 @@ def extractHashes(game, input):
 					else:
 						isPatch = False
 						print("Not a patch file.")
+					# supports the older style of patch archives (like patch0.rpkg) that just use the base archive format. 
+					if file.lower().startswith("patch"):
+						isPatch = False
 					header = f.read(4)
 					if header == b'GKPR' and game == "alpha":
 						offset = 0x1C
