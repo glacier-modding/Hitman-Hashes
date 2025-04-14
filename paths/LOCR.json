@@ -9112,12 +9112,12 @@
   {
     "hash": "007C48926A7CD96E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway1_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00856188AE8163B5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway2kidding_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00B864751578CE05",
@@ -9207,17 +9207,17 @@
   {
     "hash": "005F405D9C867BFC",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way5dntbeliv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00661F54CC46DE8F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way6serious_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "006EC2BC43C9AAB1",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way7horrible_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 3
   },
   {
     "hash": "00746DEB03FCE17F",
@@ -48692,5 +48692,190 @@
     "hash": "002E95EBECFA3119",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "000D8ED0828985CB",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005494B12BCEA451",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006B27F4345E38BC",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006529C6A3299E60",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00C193F10456E0DD",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005FC4C51C79BF79",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0093D4846B763D7E",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000244962532C080",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006756B7C3EE7960",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00B1BFD81E3FC917",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00243A7429869C81",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0012B53B256E6F5B",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "003409028460AE43",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "009074F3D32F2232",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D95BFB7BB3EBCA",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "003D7B9873C18F32",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005A14AB20970F10",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0020E58A8ACD9FE4",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002AA260E2A4B4EB",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "009B9AEE74895F26",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00C4702977BBD898",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0091DB3F4A834458",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0082C68243BBC654",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "002FFF9ED0877EDB",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "000173F4F8C39A44",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00D0E51554F1C6D3",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00A8DAAF74A302BF",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006E2E534F9A8C55",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "003240FD308BF9A4",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0094AA457737B27A",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "006CF191399F1DD0",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0001FC63C401DFD6",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "0099695B6C55A338",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "001135460A497591",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "005B14E1F3C13425",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00C5F4B852E6F8F5",
+    "path": "",
+    "gameFlags": 2
+  },
+  {
+    "hash": "00AE775CE24D17DE",
+    "path": "",
+    "gameFlags": 2
   }
 ]
