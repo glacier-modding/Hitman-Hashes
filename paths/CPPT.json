@@ -13238,5 +13238,10 @@
     "hash": "00A4B44A43C40459",
     "path": "[modules:/zleadescortbehaviorentity.class].pc_entitytype",
     "gameFlags": 2
+  },
+  {
+    "hash": "00E15561962C78DF",
+    "path": "[modules:/zsubtitleplayerentity.class].pc_entitytype",
+    "gameFlags": 2
   }
 ]
