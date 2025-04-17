@@ -5,7 +5,7 @@
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/69-blue.svg)
 ![Alpha Badge](https://img.shields.io/badge/Alpha%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.40%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.35%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.36%25-yellow.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-81.46%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.21%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.57%25-green.svg)
@@ -70,8 +70,8 @@
 |TBLU     |56544          |41292        |73.03%            |15004|26.54%         |
 |TELI     |65278          |34674        |53.12%            |0    |0.00%          |
 |TEMP     |86224          |60440        |70.10%            |25328|29.37%         |
-|TEXD     |43636          |33030        |75.69%            |9098 |20.85%         |
-|TEXT     |44425          |33382        |75.14%            |9776 |22.01%         |
+|TEXD     |43636          |33045        |75.73%            |9083 |20.82%         |
+|TEXT     |44425          |33397        |75.18%            |9761 |21.97%         |
 |UICB     |394            |393          |99.75%            |0    |0.00%          |
 |UICT     |394            |393          |99.75%            |0    |0.00%          |
 |VIDB     |99             |99           |100.00%           |0    |0.00%          |
