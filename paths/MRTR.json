@@ -2,12 +2,12 @@
   {
     "hash": "00548D517ECA5A5C",
     "path": "[assembly:/_pro/_test/julienh/geometry/kraken_sail_boat_b~prop_kraken_sail_boat_b_00~.xml].pc_rtr",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00923ABD5D7AAE8F",
     "path": "[assembly:/_pro/_test/julienh/geometry/kraken_tentacles~prop_kraken_tentacles~.xml].pc_rtr",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00742DC23E4E9621",
@@ -22,7 +22,7 @@
   {
     "hash": "0044BDC21715FFDB",
     "path": "[assembly:/_pro/environment/geometry/props/accessories/gardenshears_a~prop_gardenshears_a~.xml].pc_rtr",
-    "gameFlags": 39
+    "gameFlags": 167
   },
   {
     "hash": "003494652CBB9DB7",
@@ -37,7 +37,7 @@
   {
     "hash": "00A58E8FC72B6346",
     "path": "[assembly:/_pro/environment/geometry/props/industrial/crane_traveling_a~prop_crane_claw_b~.xml].pc_rtr",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00549B2EBAB32B1D",
@@ -217,12 +217,12 @@
   {
     "hash": "00C2CCF851C254F8",
     "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_intro/05_animation/scenes/s01_l01_paris_intro.xmd?/camera.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "007702F2C3AB4784",
     "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_intro/05_animation/scenes/s01_l01_paris_intro.xmd?/invitation1.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "003F736DD2D05044",
@@ -232,7 +232,7 @@
   {
     "hash": "000DED3FDB278DD0",
     "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro.xmd?/s01_l02_italy_intro.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008F9AA2E251C097",
@@ -277,27 +277,27 @@
   {
     "hash": "00F12B8A0FF505C3",
     "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/015_hide_bodycontainer/hm_enter_bodycontainer.xmd?/lid_enter_bodycontainer.xmdtake].pc_rtr",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003562EE2EED8904",
     "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/015_hide_bodycontainer/hm_enter_bodycontainer.xmd?/lid_exit_bodycontainer.xmdtake].pc_rtr",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00523D6B4F967D6C",
     "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/015_hide_bodycontainer/hm_enter_bodycontainer.xmd?/lid_exitpeek_bodycontainer.xmdtake].pc_rtr",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FE0636FC0B3785",
     "path": "[assembly:/animations/vehicle_and_prop_animation/12_chairs/reactionchair_anim.xmd?/reactionchair.xmdtake].pc_rtr",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "000B06032F5FB7FF",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/airplane_takeoff.xmd?/seaplane_takeoff.xmdtake].pc_rtr",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00350E24C5DB5D2C",
@@ -312,97 +312,97 @@
   {
     "hash": "004EBEFC6036BA19",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_dome.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00598D4A4FC2D0BA",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_door_a.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0068588968FA0A7C",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_door_b.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "001FC34D56890C24",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_telescope_a.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C5AEBD4DCF11BD",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/close_telescope_b.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0093BC2179D5BD3C",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_dome.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "001EBAC851BCB979",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_door_a.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D3868C275C9B62",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_door_b.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0000E8F23940C258",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_telescope_a.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00E2F82E4CD33EF4",
     "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/telescope_openclose.xmd?/open_telescope_b.xmdtake].pc_rtr",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00E71E841B0C2B05",
     "path": "[assembly:/geometry/characters/_export_rigs/biped~~.xml].pc_rtr",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00F4856AB12C44F5",
     "path": "[assembly:/geometry/characters/_export_rigs/crowdrig~~.xml].pc_rtr",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "007CCF925414E193",
     "path": "[assembly:/geometry/characters/animals/pigeon/pigeon_01.xml].pc_rtr",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00D6F48A94FB6E86",
     "path": "[assembly:/geometry/weapons/gun_hardballers~prop_gun_hardballers~.xml].pc_rtr",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "007B3F15363D6FC9",
     "path": "[assembly:/geometry/weapons/gun_taurus247~prop_gun_taurus247~.xml].pc_rtr",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "006EC2F19DB3925D",
     "path": "[assembly:/geometry/weapons/rifle_hk416~prop_rifle_hk416_ground~.xml].pc_rtr",
-    "gameFlags": 25
+    "gameFlags": 153
   },
   {
     "hash": "00D399F5E175AB28",
     "path": "[assembly:/geometry/weapons/shotgun_mossberg590~prop_shotgun_mossberg590~.xml].pc_rtr",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00FA1AAEFE2BB568",
     "path": "[assembly:/geometry/weapons/smg_ump~prop_smg_ump~.xml].pc_rtr",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00C5E9C813E60400",
     "path": "[assembly:/geometry/weapons/sniper_sakotrg~prop_sniperrifle_sakotrg~.xml].pc_rtr",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "0000713F8D4C6B2D",
@@ -4268,5 +4268,45 @@
     "hash": "006D6A7779F48E9A",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "00309B1724086021",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D35916E9ADC528",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F02E5BAA48230A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FD383754E22B48",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00448A7682D02469",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001510CD60336946",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F413EC5934BDF3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006597E4A11FEEEC",
+    "path": "",
+    "gameFlags": 128
   }
 ]

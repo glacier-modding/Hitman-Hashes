@@ -2,12 +2,12 @@
   {
     "hash": "009C9ADF79149D2D",
     "path": "[assembly:/_pro/_test/julienh/geometry/kraken_sail_boat_b.wl2?/kraken_sail_boat_b_00.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D2F308E90A13A0",
     "path": "[assembly:/_pro/_test/julienh/geometry/kraken_tentacles.wl2?/kraken_tentacles.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003C81649171003F",
@@ -17,7 +17,7 @@
   {
     "hash": "009A206925244AB6",
     "path": "[assembly:/_pro/characters/assets/_base/bonesandcollision/bonesandcollision_female_heels_fashionmodel.wl2?/bonesandcollision.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F20E3F5ED46A9",
@@ -27,12 +27,12 @@
   {
     "hash": "00020361B13F0FA3",
     "path": "[assembly:/_pro/characters/assets/_base/bonesandcollision/bonesandcollision_malereg.wl2?/bonesandcollision.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00103971F4E48471",
     "path": "[assembly:/_pro/characters/assets/_base/bonesandcollision/bonesandcollision_malereg_new.wl2?/bonesandcollision_new.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00E99690BD1E847F",
@@ -52,12 +52,12 @@
   {
     "hash": "00B234FDC01D70DB",
     "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/geometry/base_male.wl2?/base_male.weightedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00877A4A926260F8",
     "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/geometry/base_male_arms_placeholder.wl2?/arms_hands.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D058E217F143BC",
@@ -77,7 +77,7 @@
   {
     "hash": "0092E1E18A0CECD3",
     "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/geometry/male_regular.wl2?/basemale_nudebody_nohead.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002FD74A21A66E40",
@@ -92,27 +92,27 @@
   {
     "hash": "0054DB581F042D1D",
     "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/geometry/male_regular.wl2?/male_regular.weightedprim].pc_bonerig",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00DDA2F7B9C61C5D",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/choker.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00B60231BC028005",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/dress_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00D1B0409E69DD27",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/dress_02.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00A3BF1032B462A9",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/gloves.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "003616628409C987",
@@ -137,17 +137,17 @@
   {
     "hash": "00BA7EDE9FABDBFC",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/hair_bun.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00C84FEFFFF109CF",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/hair_ponytail.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3791101A06169",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/head.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00056EFC78C281CF",
@@ -157,47 +157,47 @@
   {
     "hash": "00FFBD8C5C1BAB4B",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/legs.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "005B14000A9650BC",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/legs_dress2.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "003A60A6C69D5245",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/skirt_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00C05F44FA0FE026",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/skirt_02.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0056212082556060",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/skirt_03.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00E315C2E0842D29",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/tights.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "003301EEF67653A0",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/top_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00272FCB2AFCC881",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/top_02.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0092E187D553F2EB",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/geometry/femtall_fashionmodel_rigging.wl2?/top_03.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0017EDBF2C376687",
@@ -607,7 +607,7 @@
   {
     "hash": "0003640EEF1BDB9E",
     "path": "[assembly:/_pro/characters/assets/animals/pigeon/geometry/pigeon_a.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 39
+    "gameFlags": 167
   },
   {
     "hash": "00BF6415D5308492",
@@ -617,7 +617,7 @@
   {
     "hash": "005B97894868ED9C",
     "path": "[assembly:/_pro/characters/assets/animals/rat/geometry/rat_a.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00293865C5FDC9EE",
@@ -752,7 +752,7 @@
   {
     "hash": "007B0392DAF8C624",
     "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_paris_civilian_02.wl2?/civilian_version_2.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00141074F0FB4626",
@@ -1062,12 +1062,12 @@
   {
     "hash": "00711D9C054AFDE0",
     "path": "[assembly:/_pro/characters/assets/crowd/_placeholders/pro_crowd_female_fashionshow/geometry/female_pro_testcrowd.wl2?/femaletest_crowdmatrerial.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F49E8CFC27800A",
     "path": "[assembly:/_pro/characters/assets/crowd/_placeholders/pro_crowd_male_fashionshow/geometry/male_shirt_trousers01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0091227F0BC3D3F0",
@@ -1182,12 +1182,12 @@
   {
     "hash": "005BB60FB649BAF6",
     "path": "[assembly:/_pro/characters/assets/crowd/female/formal/geometry/female_crowd_formal_02_crowd.wl2?/base_female.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0038647D05B9FB22",
     "path": "[assembly:/_pro/characters/assets/crowd/female/formal/geometry/female_crowd_formal_05.wl2?/base_female.weightedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00E0A442F83BB58C",
@@ -1467,7 +1467,7 @@
   {
     "hash": "00771234D5662EFE",
     "path": "[assembly:/_pro/characters/assets/crowd/male/formal/geometry/male_crowd_formal_06_crowd.wl2?/male_regular.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E581FE67933EF3",
@@ -1507,37 +1507,37 @@
   {
     "hash": "005FB02E8A8BD2C6",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/gangstera_male/geometry/gangstera.wl2?/gangstera_placeholder.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BF71E90DF4E016",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/gangstera_male/geometry/gangstera_hmas.wl2?/gangstera_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FD3A917EBB7B48",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/militarya_male/geometry/military_a.wl2?/placeholder_01.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00FBB1EA9B06033A",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/militarya_male/geometry/military_a.wl2?/placeholder_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "002D1F1BEE9F7EE9",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/militaryb_male/geometry/militaryb.wl2?/militaryb.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0093994B1F7851F9",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/securitya/geometry/securitya_male.wl2?/securitya.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00E22CFA9509C472",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/securitya/geometry/securitya_male.wl2?/securitya_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00AF0EBC49485917",
@@ -2172,17 +2172,17 @@
   {
     "hash": "00BA5E36118D6E1B",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/boots_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00981F9277C16FA9",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/boots_02.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0092B096A12A341E",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/cap_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "001DC2870FB1F1C7",
@@ -2197,7 +2197,7 @@
   {
     "hash": "00419A55D57C0D50",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/head_basemodel.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007A1EFD4527F395",
@@ -2227,7 +2227,7 @@
   {
     "hash": "00DCCA5177F050FA",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/jaket_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006D2A5BE53B65D4",
@@ -2257,7 +2257,7 @@
   {
     "hash": "008B0B9FA79EB6A7",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/trousers_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "001318875164393E",
@@ -2267,7 +2267,7 @@
   {
     "hash": "00FBCFF9A514DFEF",
     "path": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/tshirt_01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FC6F8F0F266555",
@@ -2552,12 +2552,12 @@
   {
     "hash": "00386BA9D52A0F3E",
     "path": "[assembly:/_pro/characters/assets/hero/agent47/geometry/agent47.wl2?/fullmodel.weightedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00DECA1B00E6ED0C",
     "path": "[assembly:/_pro/characters/assets/hero/agent47/geometry/agent47.wl2?/head.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00043105618E1B2C",
@@ -2812,57 +2812,57 @@
   {
     "hash": "00AB2DAA45634BFF",
     "path": "[assembly:/_pro/characters/assets/hero/placeholder_althero/placeholder_althero_01.wl2?/alternative_47.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BA058C871FDAA9",
     "path": "[assembly:/_pro/characters/assets/hero/placeholder_femalehero/femtall_althero.wl2?/althero_female.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C78EB2B07A7848",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/femalea/geometry/femalea.wl2?/femalea.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BC1A11D9040313",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/femaleb/geometry/femaleb.wl2?/femaleb.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005F220F8B79CE80",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/femalec/geometry/femalec.wl2?/femalec.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D0310B1B63BF72",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/malea/geometry/malea.wl2?/malea.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "003FE4875993314C",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/malea/geometry/malea.wl2?/malea_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "0096DE97837AF0DF",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/malec/geometry/malec.wl2?/malec.weightedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00E94A460C03A573",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/malec/geometry/malec.wl2?/malec_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "003916A777418E6E",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/maled/geometry/maled.wl2?/maled.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CB2BE56EAE776E",
     "path": "[assembly:/_pro/characters/assets/individuals/_placeholders/maled/geometry/maled.wl2?/maled_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D18531FC1ED521",
@@ -3697,17 +3697,17 @@
   {
     "hash": "00B4B6557E99DEA2",
     "path": "[assembly:/_pro/characters/assets/individuals/formerdictator/geometry/formerdictator.wl2?/head.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "006BD396BCEAF7F0",
     "path": "[assembly:/_pro/characters/assets/individuals/formerdictator/geometry/formerdictator.wl2?/nohead.weightedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00FFD02BD67404BF",
     "path": "[assembly:/_pro/characters/assets/individuals/formerdictator/geometry/formerdictator.wl2?/var_01.weightedprim].pc_bonerig",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A058CCBB09F89E",
@@ -5377,22 +5377,22 @@
   {
     "hash": "003ADEB2FA407A6F",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/auctionroom/temp_auctionroom_actor_v0.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00636FB64694CC17",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/auctionroom/trenpo/geometry/muse_customer_male_actor_v3.wl2?/trenpo_placeholder.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C6126090C00FCD",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/editorinchief/geometry/femregheels_editorinchief_01_rigging.wl2?/editor.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003DD3CEB98952FF",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionboss/geometry/malereg_fashionboss_01.wl2?/bonesandcollision.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005672C68A32C422",
@@ -5402,12 +5402,12 @@
   {
     "hash": "00AF6CA28E357C66",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionboss/geometry/malereg_fashionboss_01.wl2?/novikov_clothes.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00900A0B6CD1CBFF",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionboss/geometry/malereg_fashionboss_01.wl2?/novikov_head.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 46
+    "gameFlags": 174
   },
   {
     "hash": "00FD65C99C061F87",
@@ -5427,42 +5427,42 @@
   {
     "hash": "003938494B6E67F0",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/geometry/femregheels_fashionbosspartner_01.wl2?/bonesandcollision.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0004789CFCD6816A",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/geometry/femregheels_fashionbosspartner_01.wl2?/magnolis_bag.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00AE522AF854E5D4",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/geometry/femregheels_fashionbosspartner_01.wl2?/magnolis_dress.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "003B7819F695CCB0",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/geometry/femregheels_fashionbosspartner_01.wl2?/magnolis_head.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00C5AACA5A701059",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/bonesandcollision.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A00900D46307CA",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/bonesandcollision.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0076700A352AD14D",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/clothes_only.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0099C1BE6750EEC8",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/hands.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DCAF4FE67A7E7C",
@@ -5627,7 +5627,7 @@
   {
     "hash": "003CFCF392E2E66A",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/sheikh/geometry/malereg_sheikh.wl2?/bonesandcollision.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0086136DF87BC88F",
@@ -5637,12 +5637,12 @@
   {
     "hash": "00AAE20925D0E3B9",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/sheikh/geometry/malereg_sheikh.wl2?/head_sheikh.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0052096D3FB53055",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/sheikh/geometry/malereg_sheikh.wl2?/scarf.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0056848EB87CD3FF",
@@ -5657,27 +5657,27 @@
   {
     "hash": "00C510A146A9D6D4",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/sheikh/geometry/malereg_sheikh.wl2?/upperbody.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00701F48A71CB2FF",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/vampiremagician/geometry/malereg_vampiremagician_01.wl2?/bonesandcollision.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B358AC639ED090",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/vampiremagician/geometry/malereg_vampiremagician_01.wl2?/cape.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00ACA9786CC6ED04",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/vampiremagician/geometry/malereg_vampiremagician_01.wl2?/clothes.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A3C29C582362A5",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/vampiremagician/geometry/malereg_vampiremagician_01.wl2?/full_body.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007F54688878E0C7",
@@ -5687,7 +5687,7 @@
   {
     "hash": "0094055732516A65",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/vampiremagician/geometry/malereg_vampiremagician_01.wl2?/head_basemale.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00864D452726A8CA",
@@ -6037,52 +6037,52 @@
   {
     "hash": "00C4E9FC8E4CC581",
     "path": "[assembly:/_pro/characters/assets/police/_placeholders/streetpolice_01/geometry/male_regular_streetpolice_01.wl2?/police_03.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "006EDD52D35A382C",
     "path": "[assembly:/_pro/characters/assets/police/_placeholders/streetpolice_01/geometry/male_regular_streetpolice_01.wl2?/police_03_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "003979994BA9A674",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/crewa_female/geometry/crewa_female.wl2?/crewa.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00993019AEEE3FB4",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/crewa_male/geometry/crewa_male.wl2?/crewa.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AB72C28627AA72",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/crewa_male/geometry/crewa_male.wl2?/crewa_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005C19D07B07137A",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/kitchena_male/geometry/kitchena_male.wl2?/kitchena.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00AEA944362879D2",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/kitchena_male/geometry/kitchena_male.wl2?/kitchena_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "007004AC50FD2852",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/servicea_male/geometry/servicea_male.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F78A5456CC08F4",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/servicea_male/geometry/servicea_male.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003993D5EB8D7FEA",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/utilitya_male/geometry/utilitya_male.wl2?/utilitya_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00404AE2670EC3E2",
@@ -6322,22 +6322,22 @@
   {
     "hash": "003D07BB8DDABA18",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/belt.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00FD7DD91E669F6B",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/belttool01.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0074B3A16237E811",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/belttool02.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00CD3F200EE601C2",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/belttool03.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "002E5394835D4568",
@@ -6347,7 +6347,7 @@
   {
     "hash": "00F72CA4EEBA374F",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/cap.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0069E9675F2C49B0",
@@ -6367,7 +6367,7 @@
   {
     "hash": "003F02E9EA384BCB",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/clothes.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005AE0056C515AD3",
@@ -6407,17 +6407,17 @@
   {
     "hash": "006543A0D9DCCF87",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/head_althero.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E2B474CAA06F9D",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/head_base.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0096188C6F119201",
     "path": "[assembly:/_pro/characters/assets/workers/eventscrew_01/geometry/malereg_crew_fashionshow.wl2?/idbadge.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00DD9733184C25B7",
@@ -6812,17 +6812,17 @@
   {
     "hash": "000373AB5CF5DCE1",
     "path": "[assembly:/_pro/characters/assets/workers/mansionstaff_01/geometry/malereg_mansionstaff.wl2?/head_47.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001AE062DDC4869B",
     "path": "[assembly:/_pro/characters/assets/workers/mansionstaff_01/geometry/malereg_mansionstaff.wl2?/head_althero.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00686EA25D20E651",
     "path": "[assembly:/_pro/characters/assets/workers/mansionstaff_01/geometry/malereg_mansionstaff.wl2?/head_base.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0093855A4BC9379A",
@@ -7172,17 +7172,17 @@
   {
     "hash": "0082A5560D9A16E3",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/base_head.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "000C6CF0696DCDCE",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/belt.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00C5345CDDC187EB",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/bonesandcollision.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0033FB3DDC437892",
@@ -7192,17 +7192,17 @@
   {
     "hash": "008128C112FFDFDD",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/bracelets.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "005139183082D697",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/earrings.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00C2BF11514BA9F5",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/glasses.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00F47A2610B9F49E",
@@ -7222,7 +7222,7 @@
   {
     "hash": "009FF373DE9C974B",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/pants_jeans.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "005C60B7E7A33C1E",
@@ -7232,22 +7232,22 @@
   {
     "hash": "0073EE70CA7CD35A",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/pants_vinyl.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00F306CD87FF352D",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/scarf.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "007518543CCCC28B",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/shoes.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00F063762E0EB577",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/femheels_stylist.wl2?/top.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00C33CFC64A065A5",
@@ -7257,7 +7257,7 @@
   {
     "hash": "003A4077C0FF1320",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/malereg_stylist.wl2?/base_head.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FF7E82BDB0D8F9",
@@ -7267,17 +7267,17 @@
   {
     "hash": "0083E67D195B3070",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/malereg_stylist.wl2?/clothes.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002BEAAEE478B27A",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/malereg_stylist.wl2?/fullbody.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F3670C97336DDE",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/geometry/malereg_stylist.wl2?/head_althero.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00504D165C3223F7",
@@ -7312,12 +7312,12 @@
   {
     "hash": "0012974C6059C8FB",
     "path": "[assembly:/_pro/characters/assets/workers/utilityworkers_02/geometry/male_regular_utilityworkers_02_rigging.wl2?/head_althero.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0075129158F475BD",
     "path": "[assembly:/_pro/characters/assets/workers/utilityworkers_02/geometry/male_regular_utilityworkers_02_rigging.wl2?/worker_clothes.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A9242FB8358DE9",
@@ -7342,22 +7342,22 @@
   {
     "hash": "00BF7D34AD02AAF5",
     "path": "[assembly:/_pro/characters/assets/workers/waiters_01/geometry/male_regular_waiters_cloth.wl2?/nohead.weightedprim](bodypart).pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C3338E9766E108",
     "path": "[assembly:/_pro/characters/assets/workers/waiters_01/geometry/male_regular_waiters_cloth.wl2?/var_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CAF64021D29CDD",
     "path": "[assembly:/_pro/characters/assets/workers/waiters_01/geometry/male_regular_waiters_cloth.wl2?/var_02.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00915FEB87DD98B1",
     "path": "[assembly:/_pro/characters/prototypes/agent47/version01/geometry/agent47_version01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009BE354789CEA25",
@@ -7372,7 +7372,7 @@
   {
     "hash": "00AE21BFA962D264",
     "path": "[assembly:/_pro/environment/geometry/architecture/doors/door_building_gardener_a.wl2?/door_gardener_double_glass.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000BEBDE9DACA26F",
@@ -7382,17 +7382,17 @@
   {
     "hash": "0053437C325E7314",
     "path": "[assembly:/_pro/environment/geometry/architecture/doors/door_palace_balcony_a_00.wl2?/door_palace_balcony_double_a_glass.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0038118C3CA301F4",
     "path": "[assembly:/_pro/environment/geometry/architecture/doors/door_palace_balcony_a_00.wl2?/door_palace_balcony_double_b_glass.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00815A1534CAE422",
     "path": "[assembly:/_pro/environment/geometry/architecture/doors/door_palace_balcony_a_00.wl2?/door_palace_balcony_double_frame_a_glass.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0070875C727513C4",
@@ -7437,12 +7437,12 @@
   {
     "hash": "0096943DEC07AC50",
     "path": "[assembly:/_pro/environment/geometry/architecture/doors/door_palace_entrance_a.wl2?/door_palace_entrance_frame_glass.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "005BABA564D70D2A",
     "path": "[assembly:/_pro/environment/geometry/architecture/doors/door_palace_entrance_a.wl2?/door_palace_entrance_glass.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "000C96154A67A86B",
@@ -7582,7 +7582,7 @@
   {
     "hash": "00C000EBD4B9A386",
     "path": "[assembly:/_pro/environment/geometry/architecture/railing/railing_palace_stone_a.wl2?/palace_exterior_balustrade_4m_b_fenceshatter.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0057EA9762A95CFC",
@@ -7792,7 +7792,7 @@
   {
     "hash": "00F2EDB1CB02A70D",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_arch_a.wl2?/window_palace_arch_glass_closed.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000D0126CA2093D2",
@@ -7802,7 +7802,7 @@
   {
     "hash": "00A5609F9528684D",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_attic_a.wl2?/window_palace_attic_a_glass_closed.linkedprim].pc_bonerig",
-    "gameFlags": 35
+    "gameFlags": 163
   },
   {
     "hash": "006B27BC272490C8",
@@ -7827,37 +7827,37 @@
   {
     "hash": "00A8E3C19FD55553",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_attic_a.wl2?/window_palace_attic_b_glass_closed.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BF0E96E6293055",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_attic_a.wl2?/window_palace_attic_b_glass_open.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00ADF5D9727E9859",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_balcony_a.wl2?/window_palace_balcony_glass_closed.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BF615705C9D8F9",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_big_a.wl2?/window_palace_big_a_glass_closed.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00CEF7ADC4FDE34C",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_big_a.wl2?/window_palace_big_a_glass_open.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A7C3AA15C6B348",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_medium_a.wl2?/window_palace_medium_a_glass_closed.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0030586B76C6BF83",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/window_palace_medium_a.wl2?/window_palace_medium_a_glass_open.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00B5D8336387AE5D",
@@ -7902,12 +7902,12 @@
   {
     "hash": "004D91143A323957",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/windows_building_gardener_a.wl2?/window_building_gardener_a_glass_closed.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C9C7A197DFD0E5",
     "path": "[assembly:/_pro/environment/geometry/architecture/windows/windows_building_gardener_a.wl2?/window_building_gardener_a_glass_open.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0016821FA6C5E5A1",
@@ -8037,7 +8037,7 @@
   {
     "hash": "0059B49804569970",
     "path": "[assembly:/_pro/environment/geometry/props/accessories/gardenshears_a.wl2?/gardenshears_a.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "003348BB6264620E",
@@ -8062,7 +8062,7 @@
   {
     "hash": "003FED927A8AFA3F",
     "path": "[assembly:/_pro/environment/geometry/props/containers/crates_wooden_a.wl2?/crate_wooden_1x1x1_shatter.linkedprim].pc_bonerig",
-    "gameFlags": 12
+    "gameFlags": 140
   },
   {
     "hash": "006E053382FE3D5E",
@@ -8437,7 +8437,7 @@
   {
     "hash": "000BBA41828919A0",
     "path": "[assembly:/_pro/environment/geometry/props/decorative/solarsystem_a.wl2?/solarsystem_a.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C345DEDDDD1D6F",
@@ -8822,7 +8822,7 @@
   {
     "hash": "003CF2CFD3F60176",
     "path": "[assembly:/_pro/environment/geometry/props/electronics/loudspeaker_a.wl2?/loudspeaker_b_shatter.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00F649CB284C668F",
@@ -9697,12 +9697,12 @@
   {
     "hash": "00FC0107CF61E5A5",
     "path": "[assembly:/_pro/environment/geometry/props/food/vegetables_a.wl2?/bellpepper_a_00.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00BFB661D75C4C2C",
     "path": "[assembly:/_pro/environment/geometry/props/food/vegetables_a.wl2?/corncob_a_00.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00FE3B2B37479F2A",
@@ -9712,7 +9712,7 @@
   {
     "hash": "0097F8A8C0CA1668",
     "path": "[assembly:/_pro/environment/geometry/props/food/vegetables_a.wl2?/garlicrank_a.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00597D8543E3E991",
@@ -9727,12 +9727,12 @@
   {
     "hash": "0039F8917FE49368",
     "path": "[assembly:/_pro/environment/geometry/props/food/vegetables_a.wl2?/pumpkin_a_00.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "007DC2087F821327",
     "path": "[assembly:/_pro/environment/geometry/props/food/vegetables_a.wl2?/turnip_a.linkedprim].pc_bonerig",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00922EEB0B648AF0",
@@ -9877,22 +9877,22 @@
   {
     "hash": "009928B2D0713C96",
     "path": "[assembly:/_pro/environment/geometry/props/furniture/museum_dispaly_a.wl2?/display_museum_a_glasspane_a.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "005D3E9AC9543548",
     "path": "[assembly:/_pro/environment/geometry/props/furniture/museum_dispaly_a.wl2?/display_museum_a_glasspane_b.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00CB03DEFF0FF0D8",
     "path": "[assembly:/_pro/environment/geometry/props/furniture/museum_dispaly_a.wl2?/display_museum_e_glasspane_a.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00AD4B6544084DF2",
     "path": "[assembly:/_pro/environment/geometry/props/furniture/museum_dispaly_a.wl2?/display_museum_e_glasspane_b.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00B0F19F93430EFF",
@@ -10012,12 +10012,12 @@
   {
     "hash": "00F6FBE2192F277D",
     "path": "[assembly:/_pro/environment/geometry/props/gameplay/traps/gascanister_large_a.wl2?/gascanister_large_a.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C870F1394E8E77",
     "path": "[assembly:/_pro/environment/geometry/props/gameplay/traps/gascanister_large_a.wl2?/gascanister_large_a_cranecage.linkedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00A7B9AC1FD9D63B",
@@ -10172,7 +10172,7 @@
   {
     "hash": "00F636591A71C430",
     "path": "[assembly:/_pro/environment/geometry/props/industrial/crane_traveling_a.wl2?/crane_claw_b.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00345C744ECD9EA8",
@@ -10322,22 +10322,22 @@
   {
     "hash": "005721AE0886C1DC",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/chandelier_palace_big_a.wl2?/chandelier_palace_big_00.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C53B912679D263",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/chandelier_palace_medium_a.wl2?/chandelier_palace_medium_a_main.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008B5CA8873F1C51",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/chandelier_palace_small_a.wl2?/chandeliere_palace_small_a_main.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0038B76FE20DE51F",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/chandelier_palace_small_b.wl2?/chandeliere_palace_small_b_main.linkedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002F7BC6A25EAEC6",
@@ -10347,17 +10347,17 @@
   {
     "hash": "00F6CD1D6BCFF6AF",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/chandelier_rustic_italy_a.wl2?/chandelier_rustic_italy_a_main.linkedprim].pc_bonerig",
-    "gameFlags": 14
+    "gameFlags": 142
   },
   {
     "hash": "0004186141C6D791",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/chandelier_rustic_italy_a.wl2?/chandelier_rustic_italy_small_a_main.linkedprim].pc_bonerig",
-    "gameFlags": 14
+    "gameFlags": 142
   },
   {
     "hash": "00FAACB77CD40862",
     "path": "[assembly:/_pro/environment/geometry/props/lamps/chandelier_rustic_italy_a.wl2?/chandelier_rustic_italy_small_b_main.linkedprim].pc_bonerig",
-    "gameFlags": 14
+    "gameFlags": 142
   },
   {
     "hash": "00C2ECEE2971937F",
@@ -12002,7 +12002,7 @@
   {
     "hash": "009558EBE7F774BB",
     "path": "[assembly:/_pro/items/geometry/tools/wrench_a.wl2?/wrench_a.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E248368242CFF3",
@@ -12092,142 +12092,142 @@
   {
     "hash": "0039AE40F0A683A4",
     "path": "[assembly:/geometry/characters/_base_characters/genericnude.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B99E5B9D4328A2",
     "path": "[assembly:/geometry/characters/_test/sorenj/capetest.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D43BDACCEB96E3",
     "path": "[assembly:/geometry/characters/animals/rat/rat_crowd_male_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B1F393756BFF1A",
     "path": "[assembly:/geometry/characters/animals/rat/rat_regular_male_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006C290CF678F197",
     "path": "[assembly:/geometry/characters/civilians/chicago/chicago_civilian_male_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "007FC2BD91AB4955",
     "path": "[assembly:/geometry/characters/hitman/hitman_04.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0070D647763C9D0F",
     "path": "[assembly:/geometry/characters/pro/greenlightvideo_2013march/masquerade_female_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009F3F3FE3605FEB",
     "path": "[assembly:/geometry/characters/rigged_props/bodybag/bodybag.wl2?/ground.weightedprim].pc_bonerig",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A72720DBD5AA93",
     "path": "[assembly:/geometry/characters/supportingcast/agency_heavy_trooper/agency_heavy_trooper_01.wl2?/variation_02.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B99660A172D01",
     "path": "[assembly:/geometry/characters/supportingcast/asian_market_vendor/asian_market_vendor_female_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0025D6F1587BFB67",
     "path": "[assembly:/geometry/characters/supportingcast/asian_market_vendor/asian_market_vendor_male_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EB64197FD3EE60",
     "path": "[assembly:/geometry/characters/supportingcast/asian_market_vendor/asian_market_vendor_male_01.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EAF65B1ADBE08F",
     "path": "[assembly:/geometry/characters/supportingcast/cook/cook_hmas.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0042223D689E93DE",
     "path": "[assembly:/geometry/characters/supportingcast/forensic_technician/forensic_technician_regular_male_01.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009137EE2CDF41FD",
     "path": "[assembly:/geometry/characters/supportingcast/guard_outside/guard_outside_01.wl2?/variation_03_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F950CCF6182178",
     "path": "[assembly:/geometry/characters/supportingcast/janitor/janitor_01.wl2?/janitor_02_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001D9C6A876E9A9E",
     "path": "[assembly:/geometry/characters/supportingcast/patriot_01/patriot_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00418833D0D6CFFB",
     "path": "[assembly:/geometry/characters/supportingcast/patriot_01/patriot_01.wl2?/variation_01_nude.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D5F42FABF2E985",
     "path": "[assembly:/geometry/characters/supportingcast/pig_handler/pig_handler_regular_male_01.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00020A254A249F25",
     "path": "[assembly:/geometry/characters/supportingcast/plumber/plumber_regular_male_02.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FE301AC39D5C05",
     "path": "[assembly:/geometry/characters/supportingcast/researcher/head_researcher_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D44FE1F2412771",
     "path": "[assembly:/geometry/characters/supportingcast/researcher/head_researcher_01.wl2?/variation_03.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0017338315BA4697",
     "path": "[assembly:/geometry/characters/supportingcast/researcher/researcher_01.wl2?/variation_02_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001335B0223ED891",
     "path": "[assembly:/geometry/characters/supportingcast/store_supervisor/store_supervisor_male_regular_01.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009BA6D6BACB2E0E",
     "path": "[assembly:/geometry/characters/supportingcast/stripper/stripper_01.wl2?/variation_04.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0050CEC45D60C391",
     "path": "[assembly:/geometry/characters/supportingcast/weapon_buyer/weapon_buyer_male_regular_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0071407D7EDE7613",
     "path": "[assembly:/geometry/characters/supportingcast/weapon_buyer/weapon_buyer_male_regular_01.wl2?/variation_01_hmas.weightedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00109F603388C8F7",
     "path": "[assembly:/geometry/characters/supportingcast/weapon_buyer/weapon_buyer_male_regular_01.wl2?/variation_01_nude.weightedprim].pc_bonerig",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00B30116ECA329E5",
@@ -12242,32 +12242,32 @@
   {
     "hash": "000F089427BFECA8",
     "path": "[assembly:/geometry/weapons/cc_fiberwire.wl2?/w_fiberwire.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D72853902AEF17",
     "path": "[assembly:/geometry/weapons/cc_hitmansuitcase.wl2?/item_hitmansuitcase.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00473675B9F3027E",
     "path": "[assembly:/geometry/weapons/cc_remotebomb.wl2?/cc_remotedetonator.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FA0C6AECAD7208",
     "path": "[assembly:/geometry/weapons/gun_hardballer_3point.wl2?/gun_hardballer_clip.linkedprim].pc_bonerig",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002CA0696624B8D0",
     "path": "[assembly:/geometry/weapons/gun_taurus247.wl2?/gun_taurus247.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009131101D549C1A",
     "path": "[assembly:/geometry/weapons/gun_taurus247.wl2?/gun_taurus247_clip.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005F41C3774DA373",
@@ -12277,32 +12277,32 @@
   {
     "hash": "005D36AC78AFB626",
     "path": "[assembly:/geometry/weapons/rifle_hk416.wl2?/rifle_hk416_clip.linkedprim].pc_bonerig",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00C8B0716DB4DCEF",
     "path": "[assembly:/geometry/weapons/rifle_hk416.wl2?/rifle_hk416_ground.linkedprim].pc_bonerig",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "009BBF9766012AF1",
     "path": "[assembly:/geometry/weapons/shotgun_mossberg590.wl2?/shotgun_mossberg590.linkedprim].pc_bonerig",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "001EACBE97F4CFE1",
     "path": "[assembly:/geometry/weapons/smg_ump.wl2?/smg_ump_clip.linkedprim].pc_bonerig",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00837302023362FB",
     "path": "[assembly:/geometry/weapons/sniper_sakotrg.wl2?/sniperrifle_sakotrg.linkedprim].pc_bonerig",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "0060A8BE6FEAB3EC",
     "path": "[assembly:/geometry/weapons/sniper_sakotrg.wl2?/sniprerrifle_sakotrg_clip.linkedprim].pc_bonerig",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "000000F970E4B2BE",
@@ -30087,7 +30087,7 @@
   {
     "hash": "00D4E3A6B2366C54",
     "path": "",
-    "gameFlags": 62
+    "gameFlags": 190
   },
   {
     "hash": "00D4ED52738374DF",
@@ -33692,12 +33692,12 @@
   {
     "hash": "001507A2F6172430",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/musecustomer_female/geometry/femregheels_musecustomer_02_newlod0.wl2?/full_body.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001C4F922C657127",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/utilitya_male/geometry/utilitya_male.wl2?/utilitya.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00611C3CD581192B",
@@ -33707,7 +33707,7 @@
   {
     "hash": "001A214B787247C3",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/musecustomer_female/geometry/femregheels_musecustomer_01.wl2?/fullbody.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0073886D6E8F1380",
@@ -33717,17 +33717,17 @@
   {
     "hash": "006D460910962EA4",
     "path": "[assembly:/geometry/items/props/zippolighter.wl2?/ground.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00239E7CF620D983",
     "path": "[assembly:/geometry/characters/supportingcast/cook/cook_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0071386137CA1190",
     "path": "[assembly:/geometry/weapons/gun_hardballer_3point.wl2?/gun_hardballers.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007DA6E3CDB397E6",
@@ -33742,7 +33742,7 @@
   {
     "hash": "00EF35C3FD5F90D9",
     "path": "[assembly:/geometry/weapons/gun_xtaze.wl2?/gun_xtaze.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0046DB1A1CBD3E71",
@@ -33757,7 +33757,7 @@
   {
     "hash": "00FDEF6FEE06E796",
     "path": "[assembly:/geometry/items/props/mobile_phone_a.wl2?/item_mobile_phone_a.linkedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003D64AFB2458FD0",
@@ -33767,12 +33767,12 @@
   {
     "hash": "00C792C1B58CAF91",
     "path": "[assembly:/geometry/characters/supportingcast/store_supervisor/store_supervisor_male_regular_01.wl2?/variation_01.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003D2B2FCD000B71",
     "path": "[assembly:/geometry/characters/supportingcast/guard_outside/guard_outside_01.wl2?/variation_03.weightedprim].pc_bonerig",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003B44DAC5F38B8E",
@@ -35793,5 +35793,365 @@
     "hash": "00B2CC5C0FD6A324",
     "path": "",
     "gameFlags": 2
+  },
+  {
+    "hash": "00E002861B8BC6FE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0066899AAD93888D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0084E617F53015C9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B9D1582A3D6C38",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0013A68BDD6B5A0E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00231C32D559B600",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DD7FD9ED333BD7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BBD91A5E9F58A8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005577CDFBDC5A06",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DA67C3C1437778",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002A4947A8BD493C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005A754D3887B3EC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AD8B9404136643",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B6DBF683DEE4D4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0042429CB8D3C1C6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0056D7E2C41F85DC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0093BDEB8B4127A4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0026193A18FB8EC1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007E755B3AD93901",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A965D235588686",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C314DA4F98AB4D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A176BC187636AA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00535A2EDEE3AB5D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001DBF0B42EE6AB1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DF6FCDD93C1B2B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00117608FD0D0EA1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F64DA42401F1CC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00607950E79B6B34",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006F8AB9C4A96E97",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A48D216A3A983D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A5568C0D833699",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009670BCB13D3808",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006959AA56598E2B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BC1C14216D0AFE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0062DFF82BE53F59",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007F0DCE8CB1D1D8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FB1E15150C5CDE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002BBC93CF34D9DB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00763B7D593E7D6A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0068FA291983C9D5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002FB715FB4B50CE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002016D0060300DB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0041DFA69FFCBF05",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007420D00A3057A1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0027A08D6A0CFF41",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004FD7B983AC65EE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0003777DC3297918",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002F8E41ED41AD2E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C12212EB5A72BA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0089F971E9639C22",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A6C42E07191BD3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F330F8081836B7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00068CCAA4490B7C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B946903C4786FA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A278342B937955",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0098DBB26936C223",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0036894300EECADB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002B12D7D0212692",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000263ABB66768A5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E65361B42906F0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001AD105EE474A39",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0055014C065B5F9E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000C8E1D35C64FE4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0095B693CD3E5F38",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000072E70A8E835D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C26D67C2AD34DE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006EFA01DD102DF0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0014638CC9B16153",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002F465B58459438",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E7BE4B2B5AC23D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0054B7934B53D847",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0005ED1D2B1FF7A4",
+    "path": "",
+    "gameFlags": 128
   }
 ]

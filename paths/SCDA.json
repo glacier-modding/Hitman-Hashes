@@ -2752,42 +2752,42 @@
   {
     "hash": "007AF5AA4BE819D6",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/_scene_fashionshowhit_01/scattercontainer_i_leaves_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "003B1B521E1B2445",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/_scene_fashionshowhit_01/scattercontainer_j_leaves_02_0.scatterdata].pc_scatterdata",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00204D0A0B761D5C",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/_scene_fashionshowhit_01/scattercontainer_k_gardenbed_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00BBB14262B64701",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/_scene_fashionshowhit_01/scattercontainer_k_gardenbed_02_0.scatterdata].pc_scatterdata",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00919182613A2EBE",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_a_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00ECA1412D0151D8",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_a_ground_dirt_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0094CA6908FB7D12",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_a_leaves_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0031AB4BFC9D5FB0",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_a_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00806C5A70135EC5",
@@ -2797,27 +2797,27 @@
   {
     "hash": "00BAD6AE06F19B71",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "004DDB1B80D4D213",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D6C086EFB262C5",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_02_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "009A94E198AB169C",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_03_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0049CF420E854D3E",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_04_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0010BC5C11F47B9D",
@@ -2832,102 +2832,102 @@
   {
     "hash": "000599F27C3AE473",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_leaves_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00687E6B55024A86",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_leaves_02_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F9A962AA8391F7",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_b_leaves_03_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00AB7F28773658B0",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_c_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C0EAD243B343A2",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_c_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008210D6B8CDEDC3",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_c_leaves_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0043E03536F6BBFB",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_c_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00409E89E51A61B1",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_d_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00CE0F8CC9BC34ED",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_d_garden_bed_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D9789EE21250FC",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_d_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00335D07AD508FBF",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_e_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F37EACE42F7830",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_e_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "006F8AE759802512",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_f_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "006334C4127B8C3C",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_f_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000DA62A23B630B1",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_g_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00573239520AA1F4",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_g_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000DA6C0B7B66074",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_h_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D891D39A826217",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_h_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00B46DD255E61EB1",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_h_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C43438D393E45F",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_i_dirt_ground_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "001F969C17263C62",
@@ -2937,12 +2937,12 @@
   {
     "hash": "009BA9F7018033DB",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_j_00_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0063B673180554A6",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_j_leaves_01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008F8C716046B65C",
@@ -2967,22 +2967,22 @@
   {
     "hash": "0043673EBC79165C",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_palaceoutside_a_parking_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A20BE3E1ABAB67",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_palaceoutside_c_parking_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0014034E3A20BAEE",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_pavilion_leaves_02_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "007EF1A3BA0EF2BB",
     "path": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/paris/location/scattercontainer_sidewalk_cuteparisk_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "004AD6F0AA1004A5",
@@ -3697,27 +3697,27 @@
   {
     "hash": "0058FA5319F1DC30",
     "path": "[assembly:/runtimeresources/scatter/paris/scattercontainer_attic_corridor_dirt_a_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002278903DCC07CC",
     "path": "[assembly:/runtimeresources/scatter/paris/scattercontainer_attic_left_dirt_a_0.scatterdata].pc_scatterdata",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00BD19CB16317F0D",
     "path": "[assembly:/runtimeresources/scatter/paris/scattercontainer_attic_right_dirt_a_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0077FCA7D4E4F5D5",
     "path": "[assembly:/runtimeresources/scatter/paris/scattercontainer_attic_right_dirt_a01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00284E9A51CD933D",
     "path": "[assembly:/runtimeresources/scatter/paris/scattercontainer_left_right_dirt_a01_0.scatterdata].pc_scatterdata",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "000EEA55E0B00AC6",
@@ -4638,5 +4638,65 @@
     "hash": "00E8C4F3F1B75144",
     "path": "",
     "gameFlags": 2
+  },
+  {
+    "hash": "000C563EFC2817EF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008451880BC88984",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0067BF9D2A2C16D4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00066E044373C275",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FB872897A42307",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009100A31984E3DC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C74E99EEFF01AC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0028F091D4428EB6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008084574A877824",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A67A3AF783C788",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BE7711960A4AB1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B8264797B85071",
+    "path": "",
+    "gameFlags": 128
   }
 ]

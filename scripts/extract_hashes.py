@@ -2,7 +2,7 @@ import os
 import argparse
 
 parser = argparse.ArgumentParser(description="Extract a list of hashes from RPKG files.", allow_abbrev=False)
-parser.add_argument('-g', '--game', required=True, type=str, default="h3", help="Specify the game. Possible options are alpha, h1, h2, h3, beta, and sa.")
+parser.add_argument('-g', '--game', required=True, type=str, default="h3", help="Specify the game. Possible options are alphaJuly2015, alphaJan2015, h1, h2, h3, beta, and sa.")
 parser.add_argument('-i', '--input', type=str, required=True, help="Path to game's runtime folder.")
 parser.add_argument('-o', '--output', type=str, default="new_hashes.txt", help="Output file name. Defaults to new_hashes.txt.")
 args = parser.parse_args()
@@ -47,7 +47,7 @@ def extractHashes(game, input):
 					if file.lower().startswith("patch"):
 						isPatch = False
 					header = f.read(4)
-					if header == b'GKPR' and game == "alpha":
+					if header == b'GKPR' and (game == "alphaJan2015" or "alphaJuly2015"):
 						offset = 0x1C
 						hashCount = readLongFromFile(f, offset)
 						print("Hashes in RPKG: " + str(hashCount))

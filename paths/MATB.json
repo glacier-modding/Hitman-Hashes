@@ -4467,12 +4467,12 @@
   {
     "hash": "002CE8FA8A607F27",
     "path": "[assembly:/_pro/_test/alanb/materials/neon_strip_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A0AC32FCE7E849",
     "path": "[assembly:/_pro/_test/alanb/materials/prototype_material_a.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0013C4775CC1F171",
@@ -4492,7 +4492,7 @@
   {
     "hash": "00C72B1EA686DE80",
     "path": "[assembly:/_pro/_test/janusk/materials/checker_a.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F6E2DD40003459",
@@ -4507,7 +4507,7 @@
   {
     "hash": "007BBDA1129AF374",
     "path": "[assembly:/_pro/_test/janusk/materials/checker_a_orange.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E20C50B48B89E5",
@@ -4522,7 +4522,7 @@
   {
     "hash": "008E1137F16F4B84",
     "path": "[assembly:/_pro/_test/janusk/materials/checker_a_yellow_emissive.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A5FF99122601AC",
@@ -4862,7 +4862,7 @@
   {
     "hash": "0075B15E7F31FD9D",
     "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/materials/base_male_body.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00E671C331CF0D2D",
@@ -4922,7 +4922,7 @@
   {
     "hash": "004AEDC96DE76BEA",
     "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/materials/base_male_head.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00667562728FAFCD",
@@ -4937,7 +4937,7 @@
   {
     "hash": "0079AF475E96A2F3",
     "path": "[assembly:/_pro/characters/assets/_genericparts/eyelashes/materials/eyelashes_fashion_pink.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3777A32FF9F10",
@@ -4947,17 +4947,17 @@
   {
     "hash": "00BD8AD60B1C2269",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/materials/female_model_accessories.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00DF4A48034D1BE1",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/materials/female_model_dress_01.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0043FE20833A5ED2",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/materials/female_model_dress_02.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0007ECB3A6A2A2C7",
@@ -4967,17 +4967,17 @@
   {
     "hash": "007312D27DDE2FEC",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/materials/female_model_set_01.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0006ED650C8D6374",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/materials/female_model_set_02.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00D91A2F357F7B1F",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/materials/female_model_set_03.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00FB2DA9BC6DDF7D",
@@ -4987,7 +4987,7 @@
   {
     "hash": "00D0262CC3D50AA2",
     "path": "[assembly:/_pro/characters/assets/_genericparts/fashionmodels/materials/female_model_tights_01.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00674A4C3B67DC4B",
@@ -5057,7 +5057,7 @@
   {
     "hash": "0085D5573AB99F6A",
     "path": "[assembly:/_pro/characters/assets/_genericparts/female/_hair/short_slickedback/materials/hair_short_slickback.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CAF94EE3E59D6F",
@@ -5197,7 +5197,7 @@
   {
     "hash": "0070A731443AF02E",
     "path": "[assembly:/_pro/characters/assets/_genericparts/female/formal_01/materials/female_formal_jacket_01.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0055FDF2C2A83CB7",
@@ -5757,7 +5757,7 @@
   {
     "hash": "002323D2A6BE6BE0",
     "path": "[assembly:/_pro/characters/assets/guards/_placeholders/militarya_male/materials/militarya_arms.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00628B7F313133D0",
@@ -6252,7 +6252,7 @@
   {
     "hash": "0075089399DC5685",
     "path": "[assembly:/_pro/characters/assets/hero/agent47/materials/agent47_e3_2014_head.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BDEFF0F283E0BE",
@@ -6312,7 +6312,7 @@
   {
     "hash": "00F5163566F80972",
     "path": "[assembly:/_pro/characters/assets/hero/agent47/materials/agent47_head.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "002861BA01F167F8",
@@ -6982,7 +6982,7 @@
   {
     "hash": "00C68C675840063C",
     "path": "[assembly:/_pro/characters/assets/individuals/formerdictator/materials/formerdictator_clothes.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A16AC0741E39E5",
@@ -8037,7 +8037,7 @@
   {
     "hash": "0015533B3610F75F",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/materials/fashionbosspartner_coat_01.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "005576A96580DC68",
@@ -8212,7 +8212,7 @@
   {
     "hash": "004D2D71D891E2CD",
     "path": "[assembly:/_pro/characters/assets/individuals/paris/sheikh/materials/sheikh_head.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008185880E8DADBC",
@@ -8347,27 +8347,27 @@
   {
     "hash": "00C6A8C21D70B37C",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/crewa_female/materials/crewa_jacket.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E8F4578F038B68",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/crewa_male/materials/crewa_shirt.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0063781E458054C8",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/kitchena_male/materials/kitchena_torso.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "0027A5661A999524",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/servicea_male/materials/servicea_male_legs.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001DEE7D9D09DC71",
     "path": "[assembly:/_pro/characters/assets/workers/_placeholders/servicea_male/materials/servicea_male_torso.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D63594CD94A063",
@@ -8677,7 +8677,7 @@
   {
     "hash": "005128D4081606CD",
     "path": "[assembly:/_pro/characters/assets/workers/mansionstaff_01/materials/male_mansionstaff_01_shirtwaistcoat_01.mi].pc_entityblueprint",
-    "gameFlags": 13
+    "gameFlags": 141
   },
   {
     "hash": "006275F2F09099BA",
@@ -8842,7 +8842,7 @@
   {
     "hash": "00CC2422BB7DEFCD",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/materials/female_sttylist_01_scarf_01.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "000780DCC689AB46",
@@ -8862,12 +8862,12 @@
   {
     "hash": "00F80D38A8E35ACB",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/materials/female_stylist_01_trousers_01_black.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00D01C0FDC9958AB",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/materials/female_stylist_01_trousers_02.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00D2FEB71883DA54",
@@ -8887,7 +8887,7 @@
   {
     "hash": "00CBFEF8C6CA4C22",
     "path": "[assembly:/_pro/characters/assets/workers/stylists_01/materials/male_stylist_01_body_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008AF75E5265049A",
@@ -8917,7 +8917,7 @@
   {
     "hash": "00A2110F2C8FBD5D",
     "path": "[assembly:/_pro/characters/assets/workers/waiters_01/materials/frenchwaiter_hands.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E728BFFBC1BD6B",
@@ -8982,7 +8982,7 @@
   {
     "hash": "001B915B30436F88",
     "path": "[assembly:/_pro/effects/materials/basic/fx_basic_emissive.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00A5FA3FE411C832",
@@ -9152,7 +9152,7 @@
   {
     "hash": "00113E998CF13731",
     "path": "[assembly:/_pro/effects/materials/debris/fx_debris_fashionshow_lightpoles.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00106B892E7A416D",
@@ -9172,12 +9172,12 @@
   {
     "hash": "00EF048DDADB5889",
     "path": "[assembly:/_pro/effects/materials/fire/fx_fire_explosion_01.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "005B16DC68951666",
     "path": "[assembly:/_pro/effects/materials/fire/fx_fire_gasstoveburner_01.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00066FDF6D96F063",
@@ -9207,12 +9207,12 @@
   {
     "hash": "00259899B121FF48",
     "path": "[assembly:/_pro/effects/materials/fire/fx_fire_sparks_os_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ECB252A649F251",
     "path": "[assembly:/_pro/effects/materials/fire/fx_fire_vehicle_mesh_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00213294AB21CD1D",
@@ -9297,7 +9297,7 @@
   {
     "hash": "000B5DD6FD2A6CB6",
     "path": "[assembly:/_pro/effects/materials/gameplay/fx_gameplay_itemplace_01.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "006596E2FA792A0D",
@@ -9347,7 +9347,7 @@
   {
     "hash": "007D2E6559A32336",
     "path": "[assembly:/_pro/effects/materials/glow/fx_glow_fashionshow_lightrig.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00204AEFBFC6BBD5",
@@ -9362,7 +9362,7 @@
   {
     "hash": "00A48917BE9954AE",
     "path": "[assembly:/_pro/effects/materials/glow/fx_glow_laserbeam_rangescale.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00631DDAF3644B8B",
@@ -9372,17 +9372,17 @@
   {
     "hash": "000531691AB5688E",
     "path": "[assembly:/_pro/effects/materials/glow/fx_glow_volumelight_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00B48F6DA4BEFB68",
     "path": "[assembly:/_pro/effects/materials/glow/fx_glow_volumelight_a_worldnoise.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00EBAEACF055AC27",
     "path": "[assembly:/_pro/effects/materials/glow/fx_glow_volumelight_b.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00055D78AE6F0CE1",
@@ -9447,7 +9447,7 @@
   {
     "hash": "000A5796E7FB9840",
     "path": "[assembly:/_pro/effects/materials/liquid/fx_decal_liquid_oil_leaking.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002A8D996B99FC12",
@@ -9472,7 +9472,7 @@
   {
     "hash": "007ED566137FDAE1",
     "path": "[assembly:/_pro/effects/materials/liquid/fx_liquid_boilingwater_circle_01.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00AE475C943356DD",
@@ -9662,17 +9662,17 @@
   {
     "hash": "007C1BACD3A9D4E9",
     "path": "[assembly:/_pro/effects/materials/screens/fx_screen_bigpanels_01.mi].pc_entityblueprint",
-    "gameFlags": 12
+    "gameFlags": 140
   },
   {
     "hash": "00543EBBF716C4EA",
     "path": "[assembly:/_pro/effects/materials/screens/fx_screen_bigpanels_fashionshow.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0082300D48D2A3E8",
     "path": "[assembly:/_pro/effects/materials/screens/fx_screen_digitaldisplay_italyvirus.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000C1E13CAB407D6",
@@ -9772,7 +9772,7 @@
   {
     "hash": "00FB3C2445C2FA09",
     "path": "[assembly:/_pro/effects/materials/smoke/fx_par_smoke_wispy_4t_8x4_fireworks.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "004B455784D9AA2B",
@@ -9807,17 +9807,17 @@
   {
     "hash": "0080B900FF3DEC80",
     "path": "[assembly:/_pro/effects/materials/water/fx_decal_water_river_around.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D458FCCAEA7DE9",
     "path": "[assembly:/_pro/effects/materials/water/fx_decal_water_river_cornerleft.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0051A295599B40A9",
     "path": "[assembly:/_pro/effects/materials/water/fx_decal_water_running.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A6E92EE476D0C4",
@@ -10112,7 +10112,7 @@
   {
     "hash": "00858CADE86FCCBF",
     "path": "[assembly:/_pro/environment/materials/architecture/arches/arch_stone_shop_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F369F050994585",
@@ -10397,7 +10397,7 @@
   {
     "hash": "000C10FB6DDFC3F1",
     "path": "[assembly:/_pro/environment/materials/architecture/railings/simple_castiron_railing_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000EE53E4E459272",
@@ -10422,7 +10422,7 @@
   {
     "hash": "009D12591701A03E",
     "path": "[assembly:/_pro/environment/materials/architecture/stairs/balustrades_redmarble_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00561D764C743FE5",
@@ -10507,7 +10507,7 @@
   {
     "hash": "00B2317011B86EC7",
     "path": "[assembly:/_pro/environment/materials/architecture/trims/trim_ornate_ceiling_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BA35C8A227C0EB",
@@ -10712,7 +10712,7 @@
   {
     "hash": "00190DB9B43F447F",
     "path": "[assembly:/_pro/environment/materials/architecture/windows/windows_curtains_oldfashioned_italian_emissive_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008E70679D691434",
@@ -10787,22 +10787,22 @@
   {
     "hash": "006A288C1AB3A3D0",
     "path": "[assembly:/_pro/environment/materials/backdrop/buildings/backdrop_building_paris_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0080FE60AF22CBD9",
     "path": "[assembly:/_pro/environment/materials/backdrop/buildings/backdrop_building_paris_b.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00633132F1CC0838",
     "path": "[assembly:/_pro/environment/materials/backdrop/buildings/backdrop_building_paris_c.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008DBA689FC1EC4A",
     "path": "[assembly:/_pro/environment/materials/backdrop/buildings/backdrop_building_paris_d.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0035C8495D6E95EA",
@@ -10837,12 +10837,12 @@
   {
     "hash": "002D2648BFCA2EE3",
     "path": "[assembly:/_pro/environment/materials/backdrop/buildings/backdrop_skyscraper_paris_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C7008A0508E7B8",
     "path": "[assembly:/_pro/environment/materials/backdrop/buildings/backdrop_skyscraper_paris_b.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00B2558B6A43AC26",
@@ -10982,12 +10982,12 @@
   {
     "hash": "00D39805E1B319B6",
     "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_daynight_a.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00F7F40AE38D91C9",
     "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_night_a.mi].pc_entityblueprint",
-    "gameFlags": 30
+    "gameFlags": 158
   },
   {
     "hash": "00CF02AC145693CA",
@@ -11152,17 +11152,17 @@
   {
     "hash": "00C7ECE8A2FCC9A0",
     "path": "[assembly:/_pro/environment/materials/backdrop/vehicles/backdrop_mountainbike_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "004E282A55B9DCA9",
     "path": "[assembly:/_pro/environment/materials/backdrop/vehicles/backdrop_oldbicycle_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F4FFD6BAE46A7A",
     "path": "[assembly:/_pro/environment/materials/backdrop/vehicles/backdrop_scooter_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00589ED1837A1091",
@@ -11357,7 +11357,7 @@
   {
     "hash": "0008D28C74A95DF5",
     "path": "[assembly:/_pro/environment/materials/decals/ground/cement_hole_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0081D451B56A6049",
@@ -12352,7 +12352,7 @@
   {
     "hash": "00AE3463473B7573",
     "path": "[assembly:/_pro/environment/materials/foliage/tree_platanus_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002693A9C6BDF404",
@@ -12362,7 +12362,7 @@
   {
     "hash": "00641E26FF392A87",
     "path": "[assembly:/_pro/environment/materials/foliage/tree_platanus_fall_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00DF78BBA9006E78",
@@ -13022,7 +13022,7 @@
   {
     "hash": "00D93143A846D670",
     "path": "[assembly:/_pro/environment/materials/generic/floor/tilesmarble_classic_white_old_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D9AE06A61459D4",
@@ -13087,7 +13087,7 @@
   {
     "hash": "00DFC653C8F65670",
     "path": "[assembly:/_pro/environment/materials/generic/glass/generic_glass_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0088B5749E039471",
@@ -13197,12 +13197,12 @@
   {
     "hash": "00949FF955DF72DC",
     "path": "[assembly:/_pro/environment/materials/generic/glass/generic_glass_red_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0016D8FEA7953D0E",
     "path": "[assembly:/_pro/environment/materials/generic/glass/generic_glass_tinted_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "003D010EB1C85006",
@@ -13312,7 +13312,7 @@
   {
     "hash": "00998E55AE674721",
     "path": "[assembly:/_pro/environment/materials/generic/glass/old_windows_various_sizes_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00AD18C48A813D06",
@@ -13617,7 +13617,7 @@
   {
     "hash": "00FD5176C0FCD1FD",
     "path": "[assembly:/_pro/environment/materials/generic/metal/metal_brushed_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000E71DEAFB37FB9",
@@ -13702,7 +13702,7 @@
   {
     "hash": "00E77F4879AF6393",
     "path": "[assembly:/_pro/environment/materials/generic/metal/metal_painted_a.mi].pc_entityblueprint",
-    "gameFlags": 14
+    "gameFlags": 142
   },
   {
     "hash": "00263E9F4076FEE1",
@@ -13792,7 +13792,7 @@
   {
     "hash": "0037833F54827A0E",
     "path": "[assembly:/_pro/environment/materials/generic/metal/metal_painted_scratched_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00A97CD885594C99",
@@ -14162,7 +14162,7 @@
   {
     "hash": "002BF0FB038250FB",
     "path": "[assembly:/_pro/environment/materials/generic/plastic/plastic_white_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "005B14837BADD21F",
@@ -14187,7 +14187,7 @@
   {
     "hash": "00D81B25C0B5A060",
     "path": "[assembly:/_pro/environment/materials/generic/plastic/plastic_white_a_smooth.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0016B87B239611AC",
@@ -14377,7 +14377,7 @@
   {
     "hash": "00A3745EAB03699B",
     "path": "[assembly:/_pro/environment/materials/generic/roof/tiles_slate_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "003B1465BDA23939",
@@ -14422,12 +14422,12 @@
   {
     "hash": "00C0F2E3EDD5E8EB",
     "path": "[assembly:/_pro/environment/materials/generic/stone/marble_colormask_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D4F19C10DBD7EF",
     "path": "[assembly:/_pro/environment/materials/generic/stone/marble_colormask_b.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BEC526DA93D3BD",
@@ -14442,7 +14442,7 @@
   {
     "hash": "001416C4410B738F",
     "path": "[assembly:/_pro/environment/materials/generic/stone/marble_white_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0063147571AD2ED7",
@@ -14712,7 +14712,7 @@
   {
     "hash": "00C46CD489B2CCAB",
     "path": "[assembly:/_pro/environment/materials/generic/wall/bricks_facade_yellow_2mat_blend_a.mi].pc_entityblueprint",
-    "gameFlags": 7
+    "gameFlags": 135
   },
   {
     "hash": "00D9BD3A52F48C6A",
@@ -15002,32 +15002,32 @@
   {
     "hash": "00AF2BC7855B36B5",
     "path": "[assembly:/_pro/environment/materials/generic/wall/italy_medieval_3mat_blend_type_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000E72501E1FD967",
     "path": "[assembly:/_pro/environment/materials/generic/wall/italy_medieval_3mat_blend_type_b.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00FB3D076BC9156A",
     "path": "[assembly:/_pro/environment/materials/generic/wall/italy_medieval_3mat_blend_type_c.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F44DC4086220B9",
     "path": "[assembly:/_pro/environment/materials/generic/wall/italy_medieval_3mat_blend_type_d.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00837E9E582B5704",
     "path": "[assembly:/_pro/environment/materials/generic/wall/italy_medieval_3mat_blend_type_e.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00CEA4D7541E406D",
     "path": "[assembly:/_pro/environment/materials/generic/wall/italy_medieval_3mat_blend_type_f.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0067252868F86757",
@@ -15067,7 +15067,7 @@
   {
     "hash": "00CB9FA0485B5E5B",
     "path": "[assembly:/_pro/environment/materials/generic/wall/italy_stucco_indoor_blend_b_old.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "009E26A979EA3D3B",
@@ -15272,7 +15272,7 @@
   {
     "hash": "008D2FE6F41F7608",
     "path": "[assembly:/_pro/environment/materials/generic/wall/plaster_aged_white_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C906D7A0A573F3",
@@ -15337,7 +15337,7 @@
   {
     "hash": "00C48AD3CEBD5EF8",
     "path": "[assembly:/_pro/environment/materials/generic/wall/stucco_palace_striped_a_white.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "004C02CF9665AE76",
@@ -15587,7 +15587,7 @@
   {
     "hash": "001931E5F791EEED",
     "path": "[assembly:/_pro/environment/materials/generic/wood/panels_chestnut_old_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00625DB94E01867E",
@@ -17452,7 +17452,7 @@
   {
     "hash": "00BED426B3F26961",
     "path": "[assembly:/_pro/environment/materials/props/accessories/camera_a.mi].pc_entityblueprint",
-    "gameFlags": 46
+    "gameFlags": 174
   },
   {
     "hash": "002CCB1FDE28AFC1",
@@ -17477,7 +17477,7 @@
   {
     "hash": "0064831A64D7F26B",
     "path": "[assembly:/_pro/environment/materials/props/accessories/flashlight_a.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00D300622EB3E273",
@@ -17517,12 +17517,12 @@
   {
     "hash": "00301038224DCEFA",
     "path": "[assembly:/_pro/environment/materials/props/accessories/smartphone_a.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002EC52705AF118F",
     "path": "[assembly:/_pro/environment/materials/props/accessories/smartphone_b.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00D989FE74F766AA",
@@ -17777,7 +17777,7 @@
   {
     "hash": "004FCE364F62C9B0",
     "path": "[assembly:/_pro/environment/materials/props/containers/carboard_box_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008E59856E8DF49A",
@@ -17807,12 +17807,12 @@
   {
     "hash": "00680E1B9276A38E",
     "path": "[assembly:/_pro/environment/materials/props/containers/container_plastic_a_colormask.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "0048A01E15D0AAA5",
     "path": "[assembly:/_pro/environment/materials/props/containers/container_plastic_b_colormask.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00FA616F01AB4CB9",
@@ -17847,7 +17847,7 @@
   {
     "hash": "00CFC68D1ADBA9DA",
     "path": "[assembly:/_pro/environment/materials/props/containers/flightcase_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "001166D38EFC415D",
@@ -18057,7 +18057,7 @@
   {
     "hash": "00A005212400099B",
     "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_palace_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008AAD5558A307AC",
@@ -18117,7 +18117,7 @@
   {
     "hash": "00D6453A5860FA07",
     "path": "[assembly:/_pro/environment/materials/props/decorative/fashionshow_podium_floor.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F1134267A8F83B",
@@ -18182,7 +18182,7 @@
   {
     "hash": "001403C10464FF48",
     "path": "[assembly:/_pro/environment/materials/props/decorative/mirror_antique_a_00_mirror.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00E1E1260D610609",
@@ -18287,7 +18287,7 @@
   {
     "hash": "00C8E3B821B8A1DE",
     "path": "[assembly:/_pro/environment/materials/props/decorative/shopping_bag_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BCE02680038142",
@@ -18387,7 +18387,7 @@
   {
     "hash": "000B92C0920C2482",
     "path": "[assembly:/_pro/environment/materials/props/electronic/amplifier_rack_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0042BC95909C844C",
@@ -18412,17 +18412,17 @@
   {
     "hash": "0059C62318103773",
     "path": "[assembly:/_pro/environment/materials/props/electronic/computer_decals_a.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "0085D3FA02B35620",
     "path": "[assembly:/_pro/environment/materials/props/electronic/computer_flatscreen_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0038CBE75DC614D4",
     "path": "[assembly:/_pro/environment/materials/props/electronic/computer_flatscreen_a_screen.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00BB06A50F1CE27C",
@@ -18447,7 +18447,7 @@
   {
     "hash": "001E41E4B9BD58E3",
     "path": "[assembly:/_pro/environment/materials/props/electronic/computer_screen_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "005FBA9A336CDFCD",
@@ -18457,7 +18457,7 @@
   {
     "hash": "00112CAEDC212918",
     "path": "[assembly:/_pro/environment/materials/props/electronic/extension_cord_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "003737B3C737A454",
@@ -18502,7 +18502,7 @@
   {
     "hash": "009F17CFA5D39E50",
     "path": "[assembly:/_pro/environment/materials/props/electronic/kitchen_fridge_a_02.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0027635F2BCCDB34",
@@ -18517,7 +18517,7 @@
   {
     "hash": "00C37955F4E21EAB",
     "path": "[assembly:/_pro/environment/materials/props/electronic/laptop_screen_a.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "005099525A4522A2",
@@ -18532,7 +18532,7 @@
   {
     "hash": "008D8E4B00E25063",
     "path": "[assembly:/_pro/environment/materials/props/electronic/lcd_panel_mitsaki_display_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "002A4F3329D48465",
@@ -18587,7 +18587,7 @@
   {
     "hash": "00B920745AFD9B1C",
     "path": "[assembly:/_pro/environment/materials/props/electronic/screen_fridge_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00AE0F62AB0C8C3F",
@@ -18602,7 +18602,7 @@
   {
     "hash": "00175E7BD3A35543",
     "path": "[assembly:/_pro/environment/materials/props/electronic/serverrack_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00945C79A120758E",
@@ -18617,12 +18617,12 @@
   {
     "hash": "00E9669F564B79FE",
     "path": "[assembly:/_pro/environment/materials/props/electronic/sound_mixer_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0093C3E1D5BCEAB8",
     "path": "[assembly:/_pro/environment/materials/props/electronic/spotlight_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "0037AF0C40D434FD",
@@ -19002,12 +19002,12 @@
   {
     "hash": "00352FD8EC91F564",
     "path": "[assembly:/_pro/environment/materials/props/equipment/rake_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "005305CECC05F6C8",
     "path": "[assembly:/_pro/environment/materials/props/equipment/ropes_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00B33325D4ED52DD",
@@ -19032,7 +19032,7 @@
   {
     "hash": "00EDF9BA456577A2",
     "path": "[assembly:/_pro/environment/materials/props/equipment/shovel_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00ECA031C2073EBB",
@@ -19067,7 +19067,7 @@
   {
     "hash": "0063A5CA6771A030",
     "path": "[assembly:/_pro/environment/materials/props/fabric/fashionshow_sunsail_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C260E066670F98",
@@ -19082,7 +19082,7 @@
   {
     "hash": "00A3983C2E7D5B23",
     "path": "[assembly:/_pro/environment/materials/props/fabric/hanging_cloth_a.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0041DA0F5AD3E19F",
@@ -19287,7 +19287,7 @@
   {
     "hash": "00EE9A0CF1EED15D",
     "path": "[assembly:/_pro/environment/materials/props/food/champagne_bottles_a_glass.mi].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 136
   },
   {
     "hash": "0070FB5264D77508",
@@ -19762,7 +19762,7 @@
   {
     "hash": "0067CB60FC864B77",
     "path": "[assembly:/_pro/environment/materials/props/furniture/garage_tools_cabinet_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0087267928DE4D7B",
@@ -19902,7 +19902,7 @@
   {
     "hash": "00685B86FC01FFD8",
     "path": "[assembly:/_pro/environment/materials/props/furniture/office_cabinet_modern_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "0066FCCBE45C4584",
@@ -20002,7 +20002,7 @@
   {
     "hash": "006450F99C041BF3",
     "path": "[assembly:/_pro/environment/materials/props/furniture/sofa_modern_leather_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A720F6EC655599",
@@ -20057,12 +20057,12 @@
   {
     "hash": "008633724DBF8EA3",
     "path": "[assembly:/_pro/environment/materials/props/furniture/stylist_station_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "005A2A8DD4EB0770",
     "path": "[assembly:/_pro/environment/materials/props/furniture/stylist_station_mirror.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002A0ACFF02CFD8D",
@@ -20082,12 +20082,12 @@
   {
     "hash": "00C2C3E9C14B09EC",
     "path": "[assembly:/_pro/environment/materials/props/furniture/table_dinner_antique_cloth_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "005EFA10F349C4EE",
     "path": "[assembly:/_pro/environment/materials/props/furniture/table_dinner_antique_cloth_a_decal.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "005F21A5B0D94A1E",
@@ -20157,7 +20157,7 @@
   {
     "hash": "000F531780B3797D",
     "path": "[assembly:/_pro/environment/materials/props/furniture/wooden_shelf_basement_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00112323809355F7",
@@ -20177,7 +20177,7 @@
   {
     "hash": "00DA836C683D7D62",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/activators/firework_switchcase_screen.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0026E6A823A07B26",
@@ -20202,7 +20202,7 @@
   {
     "hash": "005ED8754EF23440",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/activators/panel_screen.mi].pc_entityblueprint",
-    "gameFlags": 13
+    "gameFlags": 141
   },
   {
     "hash": "00859622D0A3BB2E",
@@ -20227,7 +20227,7 @@
   {
     "hash": "0083E5F39241A22E",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/distractions/clockradio_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A74F2835DDFD54",
@@ -20252,7 +20252,7 @@
   {
     "hash": "0065ECFFBAD464B6",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/distractions/soundsystem_a_screen.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B113A2EC0C67B3",
@@ -20272,17 +20272,17 @@
   {
     "hash": "00E275BE871DC4B7",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/surveillance/camera_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0046F7DB9FEB1642",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/surveillance/monitor_a_screen.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "008E47993D1B819C",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/surveillance/recorder_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D87B85DF50350A",
@@ -20297,7 +20297,7 @@
   {
     "hash": "00FC92150D215A1A",
     "path": "[assembly:/_pro/environment/materials/props/gameplay/traps/gascanister_large_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0006E04D0403C3AA",
@@ -20737,7 +20737,7 @@
   {
     "hash": "00E526B9E7087559",
     "path": "[assembly:/_pro/environment/materials/props/industrial/barrel_plastic_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "005E045D898FB38E",
@@ -21067,12 +21067,12 @@
   {
     "hash": "00AF78CF50122132",
     "path": "[assembly:/_pro/environment/materials/props/lamps/chandelier_palace_big_gold_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0078B9613E31EBB3",
     "path": "[assembly:/_pro/environment/materials/props/lamps/chandelier_palace_small_glass_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BE46FB56E8B142",
@@ -21272,7 +21272,7 @@
   {
     "hash": "00F1A086280F209D",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_floor_palace_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0047ABD0F2F0BF2B",
@@ -21307,17 +21307,17 @@
   {
     "hash": "00BA05AD6D4116EC",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_ice_poles_a_shatter.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "003038428BE28266",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_ice_poles_b_shatter.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0077AF83D97A5D03",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_ice_poles_c_shatter.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F4CFF260878864",
@@ -21332,12 +21332,12 @@
   {
     "hash": "00EECD03A58FFF98",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_indicator_alarm_c_beacon.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "004297D8B653D864",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_indicator_redgreenlight_a.mi].pc_entityblueprint",
-    "gameFlags": 13
+    "gameFlags": 141
   },
   {
     "hash": "00B3FCC60B998803",
@@ -21432,7 +21432,7 @@
   {
     "hash": "001EAD86374612AC",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_paris_ground_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "008DF78C885629BB",
@@ -21442,7 +21442,7 @@
   {
     "hash": "00946C79B308B5F1",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_paris_street_glass_b.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0068973870033542",
@@ -21457,12 +21457,12 @@
   {
     "hash": "0085C557EC2B4CAE",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_spot_light_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00CF1F246A780302",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_spot_light_b.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00029E8AE6E9B8A0",
@@ -21477,7 +21477,7 @@
   {
     "hash": "00BB3E29E8D59A13",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_strip_light.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00AD7434406B5CAB",
@@ -21492,7 +21492,7 @@
   {
     "hash": "0034708B79D33B77",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_table_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00C36DDDE41FD3A1",
@@ -21572,7 +21572,7 @@
   {
     "hash": "002D9241DD2AA59E",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_wall_ornate_lampshade_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "005361D47A4F67B0",
@@ -21582,12 +21582,12 @@
   {
     "hash": "00CAA892ED2B0FE5",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_wall_palace_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002DF316E745DF39",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_wall_toilet_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0049F20E1C643A30",
@@ -21637,7 +21637,7 @@
   {
     "hash": "0098E9D12057AECB",
     "path": "[assembly:/_pro/environment/materials/props/lamps/light_flood_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00A9CC3063079351",
@@ -21672,7 +21672,7 @@
   {
     "hash": "00F711BF2CA4F82B",
     "path": "[assembly:/_pro/environment/materials/props/lamps/light_wall_flood_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00FCD609EE6FDE7E",
@@ -21687,7 +21687,7 @@
   {
     "hash": "00C294017E9943B9",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lightbulb_a.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0023FE8D5FB44A3B",
@@ -21697,7 +21697,7 @@
   {
     "hash": "000AA01E7B5BAA18",
     "path": "[assembly:/_pro/environment/materials/props/lamps/lightbulb_glow_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00AFB00F7161D03D",
@@ -21777,7 +21777,7 @@
   {
     "hash": "0027842C2BF3E325",
     "path": "[assembly:/_pro/environment/materials/props/lamps/wall_lamp_mermaid_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0022824872183B8A",
@@ -21947,7 +21947,7 @@
   {
     "hash": "00F8E93169DBDFD3",
     "path": "[assembly:/_pro/environment/materials/props/paintings/painting_classic_italian_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "009B0E4F21693EDD",
@@ -22592,7 +22592,7 @@
   {
     "hash": "00427223BA6294EF",
     "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_napoleon_big_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00749AC421DF3F40",
@@ -22967,7 +22967,7 @@
   {
     "hash": "00502279F26991BA",
     "path": "[assembly:/_pro/environment/materials/props/signs/sign_exit_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "0088AAEB5CCF68A2",
@@ -23302,37 +23302,37 @@
   {
     "hash": "0077EF0E618710C1",
     "path": "[assembly:/_pro/environment/materials/props/street_props/paris_busstop_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00FB595F7AF43EF8",
     "path": "[assembly:/_pro/environment/materials/props/street_props/paris_busstop_ledscreen01_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00C6D3B4D0C31C29",
     "path": "[assembly:/_pro/environment/materials/props/street_props/paris_busstop_ledscreen02_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F7E6EC042E08B8",
     "path": "[assembly:/_pro/environment/materials/props/street_props/paris_busstop_poster_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00EC6FA3E91E2B16",
     "path": "[assembly:/_pro/environment/materials/props/street_props/paris_busstop_poster_b.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00804C5FD94247F4",
     "path": "[assembly:/_pro/environment/materials/props/street_props/paris_busstop_poster_c.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "007E68EE48C1A60C",
     "path": "[assembly:/_pro/environment/materials/props/street_props/paris_busstop_poster_d.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00831FA85619CD87",
@@ -23367,7 +23367,7 @@
   {
     "hash": "00EBFD08E5B5E088",
     "path": "[assembly:/_pro/environment/materials/props/street_props/pole_traffic_barricade_a.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0083D39395EE87E8",
@@ -23532,7 +23532,7 @@
   {
     "hash": "000B433770C3D2B3",
     "path": "[assembly:/_pro/environment/materials/props/toilets/modern_mirror_a_mirror.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00EEE85C368B5B76",
@@ -23832,7 +23832,7 @@
   {
     "hash": "0095F0B1FC3AED9A",
     "path": "[assembly:/_pro/items/materials/explosives/rubberduck_a_proximity.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "009B6E8D58B22397",
@@ -25047,7 +25047,7 @@
   {
     "hash": "001C609CD2FE85C7",
     "path": "[assembly:/_pro/items/materials/tools/distraction_coin_a.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00DFEBFF4B74520D",
@@ -25192,27 +25192,27 @@
   {
     "hash": "00894BC2DD852C43",
     "path": "[assembly:/_pro/vehicles/materials/box_truck_a/box_truck_a_cargobox.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A9B0E865354C14",
     "path": "[assembly:/_pro/vehicles/materials/box_truck_a/box_truck_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00FD5B4B76B579E5",
     "path": "[assembly:/_pro/vehicles/materials/box_truck_a/box_truck_a_lights.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BC498FC3D00630",
     "path": "[assembly:/_pro/vehicles/materials/box_truck_a/box_truck_a_lights_back.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "009A60E51DF0ABC4",
     "path": "[assembly:/_pro/vehicles/materials/english_suv_a/english_suv_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00380037CE45D5FF",
@@ -25237,7 +25237,7 @@
   {
     "hash": "00C82E57B607D038",
     "path": "[assembly:/_pro/vehicles/materials/french_compact_a/french_compact_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00633D2532DE10DD",
@@ -25247,7 +25247,7 @@
   {
     "hash": "00A26E1BF38C4C79",
     "path": "[assembly:/_pro/vehicles/materials/french_compact_a/french_hatchback_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00DC76176D0176B1",
@@ -25267,7 +25267,7 @@
   {
     "hash": "00420C0BB8E8423B",
     "path": "[assembly:/_pro/vehicles/materials/french_hatchback_a/french_hatchback_a.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "0030E9F21A3A3F48",
@@ -25282,17 +25282,17 @@
   {
     "hash": "00D8C712E8D0A16C",
     "path": "[assembly:/_pro/vehicles/materials/french_sedan_a/french_sedan_a_lights.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00B9181AEDF47907",
     "path": "[assembly:/_pro/vehicles/materials/french_sedan_a/french_sedan_a_policecar_beacon.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00D5F41232E9265E",
     "path": "[assembly:/_pro/vehicles/materials/french_sedan_a/french_sedan_a_policecar_beacon_front.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00FF9D8EE107613E",
@@ -25302,12 +25302,12 @@
   {
     "hash": "006245A5F07F53A4",
     "path": "[assembly:/_pro/vehicles/materials/french_sedan_a/french_sedan_a_policecar_glass.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "004FE8307E3579AB",
     "path": "[assembly:/_pro/vehicles/materials/french_wagon_a/french_wagon_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00383DEC0043B119",
@@ -25317,12 +25317,12 @@
   {
     "hash": "002D932563E2791A",
     "path": "[assembly:/_pro/vehicles/materials/generic_interior_a/generic_interior_b.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0097361C9C68626C",
     "path": "[assembly:/_pro/vehicles/materials/generic_interior_a/vehicle_interior_plastic_a.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00781B59AC15E2BE",
@@ -25582,7 +25582,7 @@
   {
     "hash": "00B72B82A4E941D9",
     "path": "[assembly:/_pro/vehicles/materials/new_asian_compact_a/new_asian_compact_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BD0BFFD2750E5A",
@@ -25597,7 +25597,7 @@
   {
     "hash": "00A762D5CF614E5F",
     "path": "[assembly:/_pro/vehicles/materials/new_asian_compact_a/new_asian_compact_a_interior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BC3DED0B02FAE3",
@@ -25617,12 +25617,12 @@
   {
     "hash": "00D771D70A4ABDED",
     "path": "[assembly:/_pro/vehicles/materials/old_french_compact_a/old_french_compact_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "0090AC3A33097AFF",
     "path": "[assembly:/_pro/vehicles/materials/old_french_compact_a/old_french_compact_a_interior.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "009CAE2DE7109301",
@@ -25657,12 +25657,12 @@
   {
     "hash": "00ED7E2CD8B73351",
     "path": "[assembly:/_pro/vehicles/materials/old_japanese_sedan_a/old_japanese_sedan_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "007ED48A3FB65498",
     "path": "[assembly:/_pro/vehicles/materials/old_japanese_sedan_a/old_japanese_sedan_a_interior.mi].pc_entityblueprint",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "000EBA66B2D505E0",
@@ -25692,7 +25692,7 @@
   {
     "hash": "00AB49DB6B16B03B",
     "path": "[assembly:/_pro/vehicles/materials/old_luxury_sedan_a/old_luxury_sedan_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0004E517018EF041",
@@ -25707,7 +25707,7 @@
   {
     "hash": "00907EBE3F9420A9",
     "path": "[assembly:/_pro/vehicles/materials/old_luxury_sedan_a/old_luxury_sedan_a_interior.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "005D12D5CE593496",
@@ -26157,7 +26157,7 @@
   {
     "hash": "00E1DBAC796B6C1B",
     "path": "[assembly:/_pro/vehicles/materials/van_large_a/van_large_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "009F2054E5CB7F55",
@@ -26172,27 +26172,27 @@
   {
     "hash": "0029878EF7646F0D",
     "path": "[assembly:/_pro/vehicles/materials/van_large_a/van_large_a_interior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00138801F5175805",
     "path": "[assembly:/_pro/vehicles/materials/van_large_a/van_large_a_lights.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "006A8A32666ECCE1",
     "path": "[assembly:/_pro/vehicles/materials/van_large_a/van_large_a_lights_back.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "000E1791C230BB7E",
     "path": "[assembly:/_pro/vehicles/materials/van_small_a/van_small_a_exterior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "003E6270D9B0BAE0",
     "path": "[assembly:/_pro/vehicles/materials/van_small_a/van_small_a_interior.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00148F8A4B11CE91",
@@ -26242,222 +26242,222 @@
   {
     "hash": "0087F54765A246DC",
     "path": "[assembly:/materials/characters/_nude/nude_female_body_stripper_01b.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D5D22B34E8D9B6",
     "path": "[assembly:/materials/characters/_nude/nude_hmas_arms_01.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "0061A581059B9405",
     "path": "[assembly:/materials/characters/_nude/nude_hmas_arms_02.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00034E60168AD8B2",
     "path": "[assembly:/materials/characters/_nude/nude_male_body_underwear_skin_regular_01.mi].pc_entityblueprint",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00944ED989A8AC9E",
     "path": "[assembly:/materials/characters/_nude/nude_male_body_underwear_skin_regular_mexican01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00068FAC40294555",
     "path": "[assembly:/materials/characters/civilians/chicago/chicago_civilan_male/chicago_civilian_face_01.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "0054ECBB9F9048AA",
     "path": "[assembly:/materials/characters/faces/male/face_alexis_l_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006844A68C5090D2",
     "path": "[assembly:/materials/characters/faces/male/face_dennis_m_01.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "001D9C9A36052C4E",
     "path": "[assembly:/materials/characters/faces/male/face_soren_j_01.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "008DA71C61BF28C7",
     "path": "[assembly:/materials/characters/hitman/hitman_01_accessories.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00630D80CE379040",
     "path": "[assembly:/materials/characters/hitman/hitman_01_shirt.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "001B000C139325B6",
     "path": "[assembly:/materials/characters/hitman/hitman_02_face.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DDAB3B57277F59",
     "path": "[assembly:/materials/characters/hitman/hitman_face_standard.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00060F4D4F44D57B",
     "path": "[assembly:/materials/characters/hitman/hmas_arms_02.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00F1A693F3576878",
     "path": "[assembly:/materials/characters/pro/greenlightvideo_2013march/maintarget_jacket_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002282A0C58D4C27",
     "path": "[assembly:/materials/characters/pro/greenlightvideo_2013march/maintarget_pants_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C581CF5B0C309E",
     "path": "[assembly:/materials/characters/pro/greenlightvideo_2013march/masquerade/femalesuit/mas_female_suit.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D738CF5F9844B5",
     "path": "[assembly:/materials/characters/pro/greenlightvideo_2013march/masquerade/femalesuit/mas_skirta_2s.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002D8E03DFF7C221",
     "path": "[assembly:/materials/characters/pro/greenlightvideo_2013march/masquerade/femalesuit/mas_suit_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0070A7A2BE68C4B1",
     "path": "[assembly:/materials/characters/pro/greenlightvideo_2013march/masquerade/femalesuit/mas_top.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000040EFDFF00FF1",
     "path": "[assembly:/materials/characters/rigged_props/clothbundle/clothbundle_01.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0078F54F4E8CD78D",
     "path": "[assembly:/materials/characters/supportingcast/blackwater_janitor/blackwater_janitor_pants_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0080B4B8A1F0C0EF",
     "path": "[assembly:/materials/characters/supportingcast/blackwater_janitor/blackwater_janitor_shirt_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F0C0CA4D015BAF",
     "path": "[assembly:/materials/characters/supportingcast/cook/cook_face_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0093347D8FBD435E",
     "path": "[assembly:/materials/characters/supportingcast/cook/cook_pants_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00422761A95679E8",
     "path": "[assembly:/materials/characters/supportingcast/estate_guards_inside/estate_guards_inside_legs_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EDF9C66B385B50",
     "path": "[assembly:/materials/characters/supportingcast/estate_guards_inside/estate_guards_inside_legs_01b.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008FD18C7A78B4D8",
     "path": "[assembly:/materials/characters/supportingcast/estate_guards_inside/estate_guards_inside_shirt_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E431A629D6BDEE",
     "path": "[assembly:/materials/characters/supportingcast/forensic_technician/forensic_technician_face_03.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DCBE8F15698A2B",
     "path": "[assembly:/materials/characters/supportingcast/forensic_technician/forensic_technician_regular_male_body_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0060F5099F16E64F",
     "path": "[assembly:/materials/characters/supportingcast/guards/guards_lod_01.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "002A8DD705F25E47",
     "path": "[assembly:/materials/characters/supportingcast/guards/guards_pants_01.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "007B2358EF82A46C",
     "path": "[assembly:/materials/characters/supportingcast/hotel_maid/hotel_maid_face_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003C04A1ECD1C504",
     "path": "[assembly:/materials/characters/supportingcast/jack_hughes/jack_hughes_face_01.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00333C120A06E5BA",
     "path": "[assembly:/materials/characters/supportingcast/janitor/janitor_torso_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005F0B79B7D03419",
     "path": "[assembly:/materials/characters/supportingcast/patriot_01/patriot_body_01.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00987D48B3A01F43",
     "path": "[assembly:/materials/characters/supportingcast/pig_handler/pig_handler_regular_male_body_01b.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E9968A43048293",
     "path": "[assembly:/materials/characters/supportingcast/plumber/plumber_face_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EC23A4D993C2F8",
     "path": "[assembly:/materials/characters/supportingcast/researcher/head_researcher_face_03.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BDDA92AD1C1253",
     "path": "[assembly:/materials/characters/supportingcast/researcher/researcher_face_02.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0022251843379F7C",
     "path": "[assembly:/materials/characters/supportingcast/researcher/researcher_jacket_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D54356C4C7E3A",
     "path": "[assembly:/materials/characters/supportingcast/store_clerk/store_clerk_male_face_02.mi].pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00932B77D6879A45",
     "path": "[assembly:/materials/characters/supportingcast/strippers/strippers_face_03.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0001F784EACF1B50",
     "path": "[assembly:/materials/characters/supportingcast/weapon_buyer/weapon_buyer_face_01.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "009BD88D0ECA401E",
@@ -26467,7 +26467,7 @@
   {
     "hash": "008445564AEC3A9C",
     "path": "[assembly:/materials/characters/supportingcast/weapon_buyer/weapon_buyer_pants_01.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00061ACF28042E52",
@@ -26482,7 +26482,7 @@
   {
     "hash": "000BC6CF01AFFE6D",
     "path": "[assembly:/materials/furniture/l05b_locker_room_benches_a_00_ml.mi].pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00380B44AC96B690",
@@ -26502,27 +26502,27 @@
   {
     "hash": "001785B664FB8865",
     "path": "[assembly:/materials/props/gameplay/ammobox_pistola.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00FF6D43ED2E3FF1",
     "path": "[assembly:/materials/props/gameplay/ammobox_revolvera.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005DEFD9E1CFA9F2",
     "path": "[assembly:/materials/props/gameplay/ammobox_riflea.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "002D6B171C45C889",
     "path": "[assembly:/materials/props/gameplay/ammobox_shotguna.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00A1A8556CD0ABF5",
     "path": "[assembly:/materials/props/gameplay/ammobox_smga.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "0018A96B1DA9E646",
@@ -26547,7 +26547,7 @@
   {
     "hash": "00F47681C78DBAC0",
     "path": "[assembly:/materials/props/inside/l06c_shoes_01a.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C4D9AB5F064D20",
@@ -26572,7 +26572,7 @@
   {
     "hash": "00333594E2B1E808",
     "path": "[assembly:/materials/props/items/keycard_a_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B16C919128FA60",
@@ -26587,47 +26587,47 @@
   {
     "hash": "00918A64493C1564",
     "path": "[assembly:/materials/vehicles/scootera_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00579110BE0AF9F5",
     "path": "[assembly:/materials/weapons/gun_hardballer_3point.mi].pc_entityblueprint",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "005B7B6CAF2D8799",
     "path": "[assembly:/materials/weapons/gun_taurus247_ml.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008255AF478476A0",
     "path": "[assembly:/materials/weapons/rifle_hk416_ml.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00072C36C538C75C",
     "path": "[assembly:/materials/weapons/shotgun_mossberg590.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00C888F3D5FFC11F",
     "path": "[assembly:/materials/weapons/smg_hk_ump_glow.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00D0DF5988338888",
     "path": "[assembly:/materials/weapons/smg_ump_glass_ml.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00284A9A81709F44",
     "path": "[assembly:/materials/weapons/smg_ump_ml.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00782BECDAF4BE14",
     "path": "[assembly:/materials/weapons/sniper_sakotrg_ml.mi].pc_entityblueprint",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "007E85622EEFCCC9",
@@ -26657,52 +26657,52 @@
   {
     "hash": "00143B58F0D545D6",
     "path": "[assembly:/materials/characters/supportingcast/strippers/strippers_boots_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0017529D95363E37",
     "path": "[assembly:/materials/characters/supportingcast/store_supervisor/store_supervisor_legs_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0033F3E9534CEC2B",
     "path": "[assembly:/materials/weapons/cc_tazer.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B3143B8AA7038F",
     "path": "[assembly:/_pro/effects/materials/gameplay/fx_gameplay_tazerwire_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007EA9D4EC987421",
     "path": "[assembly:/materials/characters/supportingcast/guard_outside/guard_outside_face_03.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005C0AEEF02E2644",
     "path": "[assembly:/materials/characters/supportingcast/store_supervisor/store_supervisor_torso_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E0713543EA3BE0",
     "path": "[assembly:/_pro/effects/materials/fire/fx_fire_lighterflame_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004A3FDDF0E354B0",
     "path": "[assembly:/materials/characters/supportingcast/store_supervisor/store_supervisor_face_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D9DD1AD3143097",
     "path": "[assembly:/_pro/environment/materials/props/furniture/novikov_display_a.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0057BDF451BD5A47",
     "path": "[assembly:/materials/characters/supportingcast/strippers/strippers_bikini_silver_01.mi].pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00092C1D2F8C3CA8",
@@ -28189,5 +28189,130 @@
     "hash": "0083F2E97CDF5DB0",
     "path": "",
     "gameFlags": 2
+  },
+  {
+    "hash": "002666AA9BAE422F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006F624A8A12B68F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003D3D64790FCBC3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D088022BBC0A3D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AE4477BE504079",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009D1F3408F74B6B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EDAAA6CD31A782",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0028D5BF0B4C530A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A4720F7C99CD2E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0071738015BE77DF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006AAAB472B51706",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003B256AC3A26483",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00778BE2C4F3334D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001471183E7D2E6D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003A5E33F0F22A63",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E741CDB0C83696",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009661E8E701B0BA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007CC200463C30C0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DA48B9E26745B0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009A4EB83793D7AF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006FB8EE96022226",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0062E7D010872B63",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00659D8A40A5A788",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0013C9C959CE0C88",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001D00FB7522B837",
+    "path": "",
+    "gameFlags": 128
   }
 ]

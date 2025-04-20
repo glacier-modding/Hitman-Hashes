@@ -7,7 +7,7 @@
   {
     "hash": "00212E7A77EEB968",
     "path": "[assembly:/_pro/scenes/frontend/mainmenu_scene.airg].pc_airg",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00087426DD646847",
@@ -32,22 +32,22 @@
   {
     "hash": "001A9121FADBDECA",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_copperhead_scene.airg].pc_airg",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002BF92D997F21EE",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba_scene.airg].pc_airg",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00DFCB2CEDB9493A",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_meerkat_scene.airg].pc_airg",
-    "gameFlags": 14
+    "gameFlags": 142
   },
   {
     "hash": "00797D4D1C54F393",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/mission01_scene.airg].pc_airg",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A6ED36104830D3",
@@ -132,7 +132,7 @@
   {
     "hash": "005D543656F539F3",
     "path": "[assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01_scene.airg].pc_airg",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00570FA12D544138",
@@ -258,5 +258,10 @@
     "hash": "00CB081640EE08C4",
     "path": "[assembly:/_pro/scenes/missions/wet/scene_wet_cavelion_scene.airg].pc_airg",
     "gameFlags": 8
+  },
+  {
+    "hash": "0094C58072D161AB",
+    "path": "",
+    "gameFlags": 128
   }
 ]

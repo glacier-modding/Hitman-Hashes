@@ -17,7 +17,7 @@
   {
     "hash": "0055A78978578EF7",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba__crowd_italy.crmd].pc_crmd",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D1D24E06CCCE70",
@@ -212,12 +212,12 @@
   {
     "hash": "00566F1EC95BF2F1",
     "path": "[assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01_crowd_fashion.crmd].pc_crmd",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AC758DC0E71732",
     "path": "[assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01_crowd_street.crmd].pc_crmd",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002C9D62B4E14CD3",
@@ -279,5 +279,15 @@
     "hash": "007F0F79E621781F",
     "path": "[assembly:/_pro/scenes/missions/theark/scene_penicillin_crowd.crmd].pc_crmd",
     "gameFlags": 8
+  },
+  {
+    "hash": "00C42B4067972616",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002AC9B4AF2940DD",
+    "path": "",
+    "gameFlags": 128
   }
 ]

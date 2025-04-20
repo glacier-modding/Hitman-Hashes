@@ -2,22 +2,22 @@
   {
     "hash": "0048BB5B7E3BC7FD",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_bulletproof.template?/fx_md_char_bulletproof.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "007956B710BC19D2",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_cloth.template?/fx_md_char_cloth.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00ADB5C2A4BED7D7",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_flesh.template?/fx_md_char_flesh.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0060271561F14182",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_glass.template?/fx_md_char_glass.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "000349CDBE55EF2E",
@@ -42,12 +42,12 @@
   {
     "hash": "0084DD03AC36ECF1",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth.template?/fx_md_env_cloth.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00F07694017AB278",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_carpet.template?/fx_md_env_cloth_carpet.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "004565D09256A289",
@@ -62,7 +62,7 @@
   {
     "hash": "008D04141C461DC0",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_penetrable.template?/fx_md_env_cloth_penetrable.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002AFD4175001084",
@@ -72,17 +72,17 @@
   {
     "hash": "005FE433EF22109D",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_cloth_pillow.template?/fx_md_env_cloth_pillow.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "005584FBBE45772E",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt.template?/fx_md_env_dirt.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00697BF05A9060B1",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_grass.template?/fx_md_env_dirt_grass.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00E493A61D7EA88F",
@@ -97,7 +97,7 @@
   {
     "hash": "00FD0B985B64A77D",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_dirt_gravel.template?/fx_md_env_dirt_gravel.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "000F91B898F8DA94",
@@ -122,7 +122,7 @@
   {
     "hash": "00E3D466B7D8BE67",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_foliage.template?/fx_md_env_foliage.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A75CE23323D995",
@@ -137,17 +137,17 @@
   {
     "hash": "004FDAC9F0486B0B",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_flesh.template?/fx_md_env_food_flesh.entitytemplate].pc_entityresource",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "009EE3B5BE7FDC16",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_flour.template?/fx_md_env_food_flour.entitytemplate].pc_entityresource",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00365AE1B29D7F6E",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_food_fruit.template?/fx_md_env_food_fruit.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CD1D7DEC63FF46",
@@ -172,7 +172,7 @@
   {
     "hash": "00B50420000E970A",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass.template?/fx_md_env_glass.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "009F2C3F8376D16F",
@@ -182,7 +182,7 @@
   {
     "hash": "00ECE560812F148E",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_bulletproof.template?/fx_md_env_glass_bulletproof.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "007CE460A026CB61",
@@ -207,7 +207,7 @@
   {
     "hash": "0044C1160D6C4928",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_glass_screenlcd.template?/fx_md_env_glass_screenlcd.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0021B1E6A1B1A6BE",
@@ -232,17 +232,17 @@
   {
     "hash": "00074D856ECAFA75",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal.template?/fx_md_env_metal.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "000646FFD96A3951",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_barrelempty.template?/fx_md_env_metal_barrelempty.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00031FA3A0AC28EE",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_car.template?/fx_md_env_metal_car.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00E52FF0CE62319F",
@@ -252,7 +252,7 @@
   {
     "hash": "00D310DC11FB9ECF",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_electric.template?/fx_md_env_metal_electric.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00DADBA6B7C7DE5F",
@@ -262,7 +262,7 @@
   {
     "hash": "007880CA8F85AE60",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_heavy.template?/fx_md_env_metal_heavy.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00F163D1E251944D",
@@ -272,12 +272,12 @@
   {
     "hash": "000D804F9BD196F4",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_nodecal_penetrable.template?/fx_md_env_metal_nodecal_penetrable.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00810E4FFF58B8ED",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_penetrable.template?/fx_md_env_metal_penetrable.entitytemplate].pc_entityresource",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00286E81560D4F65",
@@ -287,12 +287,12 @@
   {
     "hash": "00D454EBB6A78CA0",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_pipesteam.template?/fx_md_env_metal_pipesteam.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CC2AE8003044DA",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_pipewater.template?/fx_md_env_metal_pipewater.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B263C4C2D570F0",
@@ -302,7 +302,7 @@
   {
     "hash": "00B10F49C235E20C",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_metal_thin.template?/fx_md_env_metal_thin.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "001509C51028C7EB",
@@ -317,17 +317,17 @@
   {
     "hash": "00DBA8140C1E6000",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_paper.template?/fx_md_env_paper.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0007125AA327FE2B",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_paper_b.template?/fx_md_env_paper_b.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "009746BF147719E1",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_paper_penetrable.template?/fx_md_env_paper_penetrable.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0036A3F687CB4AE8",
@@ -342,12 +342,12 @@
   {
     "hash": "008652B2EB821954",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_plastic.template?/fx_md_env_plastic.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002D032E55BDACC7",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_plastic_hollow.template?/fx_md_env_plastic_hollow.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "001B02A946B1F505",
@@ -367,37 +367,37 @@
   {
     "hash": "004C4B8DA8358837",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_rubber.template?/fx_md_env_rubber.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "006CE1E41663EDC2",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone.template?/fx_md_env_stone.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00F1D124BC3371A7",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_brickred.template?/fx_md_env_stone_brickred.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002FB51DA3F46DF9",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_brickyellow.template?/fx_md_env_stone_brickyellow.entitytemplate].pc_entityresource",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00A33C73067A3AA1",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_ceramic.template?/fx_md_env_stone_ceramic.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B1445F2D1772D3",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_concrete.template?/fx_md_env_stone_concrete.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0046D368C7FEC9B6",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_tiles.template?/fx_md_env_stone_tiles.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00562F9BF6C33F9E",
@@ -407,7 +407,7 @@
   {
     "hash": "00E5C508529F81AC",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_stone_tiles_dark.template?/fx_md_env_stone_tiles_dark.entitytemplate].pc_entityresource",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "003A883BB993F6F0",
@@ -417,7 +417,7 @@
   {
     "hash": "00D817D5F678215B",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water.template?/fx_md_env_water.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00AB22F17AD6F49A",
@@ -432,7 +432,7 @@
   {
     "hash": "0025BA2BD7FBE18F",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_norings.template?/fx_md_env_water_norings.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B2F07365435F53",
@@ -447,12 +447,12 @@
   {
     "hash": "00705938E8653AA6",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_water_opaque.template?/fx_md_env_water_opaque.entitytemplate].pc_entityresource",
-    "gameFlags": 13
+    "gameFlags": 141
   },
   {
     "hash": "00C168F9D52CA7BD",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood.template?/fx_md_env_wood.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00FF457519D01D4F",
@@ -467,7 +467,7 @@
   {
     "hash": "0066822A39A280E9",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_env_wood_penetrable.template?/fx_md_env_wood_penetrable.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A780F487CCD1BC",
@@ -502,7 +502,7 @@
   {
     "hash": "0095ABF9F5D153FE",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_invisible_penetrable.template?/fx_md_invisible_penetrable.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CD04372494F856",
@@ -547,12 +547,12 @@
   {
     "hash": "00D28EE771BE703A",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_coin.template?/fx_md_prop_coin.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00886695C9D36521",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_crowbar.template?/fx_md_prop_crowbar.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A3163F9E71532E",
@@ -642,12 +642,12 @@
   {
     "hash": "00356CE6305849F5",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_weapon_gun.template?/fx_md_prop_weapon_gun.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00F71178F177DD83",
     "path": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_prop_wrench.template?/fx_md_prop_wrench.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0020929324B9FF20",
@@ -657,7 +657,7 @@
   {
     "hash": "000B2B73D02B034C",
     "path": "[assembly:/templates/levelselect/levelselectconfig.template?/levelselectconfig2.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CD3AB8031B3232",
@@ -667,37 +667,37 @@
   {
     "hash": "0085D4595FCAD8A4",
     "path": "[assembly:/templates/materialdescriptors/bgnd_ceramic.template?/bgnd_ceramic.entitytemplate].pc_entityresource",
-    "gameFlags": 44
+    "gameFlags": 172
   },
   {
     "hash": "009BBB5DD65DF8D1",
     "path": "[assembly:/templates/materialdescriptors/bgnd_cloth_01.template?/bgnd_cloth_01.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0060D0858022AAB4",
     "path": "[assembly:/templates/materialdescriptors/bgnd_concrete_01.template?/bgnd_concrete_01.entitytemplate].pc_entityresource",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "0090A6D772B170F1",
     "path": "[assembly:/templates/materialdescriptors/bgnd_default_01.template?/bgnd_default_01.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00EF82C688A24AC0",
     "path": "[assembly:/templates/materialdescriptors/bgnd_foliage_01.template?/bgnd_foliage_01.entitytemplate].pc_entityresource",
-    "gameFlags": 13
+    "gameFlags": 141
   },
   {
     "hash": "0028A756EC55AA55",
     "path": "[assembly:/templates/materialdescriptors/bgnd_fruit_01.template?/bgnd_fruit_01.entitytemplate].pc_entityresource",
-    "gameFlags": 12
+    "gameFlags": 140
   },
   {
     "hash": "00AE4F5910348ED3",
     "path": "[assembly:/templates/materialdescriptors/bgnd_glass_01.template?/bgnd_glass_01.entitytemplate].pc_entityresource",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00339FD51D3B2B4E",
@@ -707,12 +707,12 @@
   {
     "hash": "0055EDA79AB66A2C",
     "path": "[assembly:/templates/materialdescriptors/bgnd_metal_01.template?/bgnd_metal_01.entitytemplate].pc_entityresource",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "008FA12D9D396202",
     "path": "[assembly:/templates/materialdescriptors/bgnd_metal_car_01.template?/bgnd_metal_car_01.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000EFEED2EF15FBC",
@@ -722,7 +722,7 @@
   {
     "hash": "00A5F7A36CF6140D",
     "path": "[assembly:/templates/materialdescriptors/bgnd_metal_fence.template?/bgnd_metal_fence.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002823A703C09653",
@@ -732,17 +732,17 @@
   {
     "hash": "0042D4A966F271BB",
     "path": "[assembly:/templates/materialdescriptors/bgnd_metal_oil_barrels_01.template?/bgnd_metal_oil_barrels_01.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00114FA3C486EB2A",
     "path": "[assembly:/templates/materialdescriptors/bgnd_metal_penetrable_01.template?/bgnd_metal_penetrable_01.entitytemplate].pc_entityresource",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00C251574803DC3A",
     "path": "[assembly:/templates/materialdescriptors/bgnd_metal_sword.template?/bgnd_metal_sword.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004B8B511D5F19F6",
@@ -752,17 +752,17 @@
   {
     "hash": "00F1AB68BA7556C7",
     "path": "[assembly:/templates/materialdescriptors/bgnd_metaltube_01.template?/bgnd_metaltube_01.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0053D2A453A225ED",
     "path": "[assembly:/templates/materialdescriptors/bgnd_paper_01.template?/bgnd_paper_01.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "009C350996867279",
     "path": "[assembly:/templates/materialdescriptors/bgnd_plastic_01.template?/bgnd_plastic_01.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "003EDB262FCDB4FE",
@@ -772,7 +772,7 @@
   {
     "hash": "006B356D7222E544",
     "path": "[assembly:/templates/materialdescriptors/bgnd_sofa_01.template?/bgnd_sofa_01.entitytemplate].pc_entityresource",
-    "gameFlags": 12
+    "gameFlags": 140
   },
   {
     "hash": "001E0169FCFB9D6B",
@@ -782,7 +782,7 @@
   {
     "hash": "008EE7EAA7F3DF6D",
     "path": "[assembly:/templates/materialdescriptors/bgnd_tiles_01.template?/bgnd_tiles_01.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002C142963828F79",
@@ -792,12 +792,12 @@
   {
     "hash": "00AC28AC665388AC",
     "path": "[assembly:/templates/materialdescriptors/bgnd_wood_01.template?/bgnd_wood_01.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "006B3925F91DEF80",
     "path": "[assembly:/templates/materialdescriptors/bgnd_wood_plank.template?/bgnd_wood_plank.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0069CECC06290579",
@@ -807,7 +807,7 @@
   {
     "hash": "001714A082490A25",
     "path": "[assembly:/templates/materialdescriptors/char_default_01.template?/char_default_01.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002744440F35F069",
@@ -822,7 +822,7 @@
   {
     "hash": "004A9CF0FDE4FEFA",
     "path": "[assembly:/templates/materialdescriptors/sound_metal_weapon_01.template?/sound_metal_weapon_01.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0073246140B15583",
@@ -832,12 +832,12 @@
   {
     "hash": "006F993C7B3A5E4B",
     "path": "[assembly:/templates/materialdescriptors/sound_shell.template?/sound_shell.entitytemplate].pc_entityresource",
-    "gameFlags": 25
+    "gameFlags": 153
   },
   {
     "hash": "00373798EA832218",
     "path": "[assembly:/templates/materialdescriptors/sound_wood_plank.template?/sound_wood_plank.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E8B197D3BB4D2E",
@@ -862,27 +862,27 @@
   {
     "hash": "006381B8BEFF6143",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_ceramic.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "007C4F62F75590EF",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_concrete.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00171006B03265AF",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_dirt.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CDAC290B81C1C9",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_fabric.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00E6403E08633BDD",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_flesh.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B9847A002F4A9E",
@@ -902,12 +902,12 @@
   {
     "hash": "005634BB745BEC28",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_glass.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CD62049B996985",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_grass.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00C5B8BDBD7E5B0B",
@@ -917,7 +917,7 @@
   {
     "hash": "009F93433F06612F",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_gravel.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00295D426A9B16D6",
@@ -927,27 +927,27 @@
   {
     "hash": "00F190EBE2FF3A97",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_heroflesh.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0007A53CD864579C",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_inaudible.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0068704A6C133E04",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_marble.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "009DF6F0D4D4E26C",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metal.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "000ABFD8FEB8811C",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalcar.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B6021185756050",
@@ -957,17 +957,17 @@
   {
     "hash": "00CF466675252520",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalheavy.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "005D85AD7271B9C0",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalnodecal.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00E09D5C86B6740A",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metaloilbarrels.entitytemplate].pc_entityresource",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00BA13853D52B133",
@@ -977,17 +977,17 @@
   {
     "hash": "00D1E9BF412E7F77",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalsteampipe.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00E347E4FBFF2950",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalthin.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00F950E230336103",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_metalweapon.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00D8BC58054DDE9D",
@@ -1002,17 +1002,17 @@
   {
     "hash": "001EF2C30FFEAE15",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_paper.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00EC08C84CA4428F",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_paperbag.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00698BB916CCF032",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_plastic.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "004A85DAAE3DD15C",
@@ -1022,7 +1022,7 @@
   {
     "hash": "00524678DD4A69A3",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_plastichollow.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0050C7A5C28BB012",
@@ -1077,12 +1077,12 @@
   {
     "hash": "00CEF3AAC8CE650A",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propscoin.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B86E27EC318BE9",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propscrowbar.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00699C3DA7BB9795",
@@ -1132,12 +1132,12 @@
   {
     "hash": "00C9C7B7F7986F28",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propsweapon_gun.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0071D5536337D23F",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_propswrench.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00CD863C2BD91F61",
@@ -1167,7 +1167,7 @@
   {
     "hash": "0034175F616D520B",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_rubber.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "003152EDD62A31E9",
@@ -1182,7 +1182,7 @@
   {
     "hash": "007C2E484051D098",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_shell.entitytemplate].pc_entityresource",
-    "gameFlags": 25
+    "gameFlags": 153
   },
   {
     "hash": "0021D23EB748800E",
@@ -1212,12 +1212,12 @@
   {
     "hash": "00B5FFBE9C2D0719",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_undefined.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A264AB552A8462",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_water.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00B7051042129BB6",
@@ -1242,7 +1242,7 @@
   {
     "hash": "009E26511691A52C",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_wood.entitytemplate].pc_entityresource",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "004ABD5CBDA2FB25",
@@ -1257,7 +1257,7 @@
   {
     "hash": "00A2911862F6C7AC",
     "path": "[assembly:/templates/sound/soundmaterialdescriptors.template?/hm5soundmaterialdescriptor_woodplank.entitytemplate].pc_entityresource",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00A9E52B7C51C17D",
@@ -1325,12 +1325,12 @@
   {
     "hash": "0029B3A21E644170",
     "path": "[assembly:/templates/materialdescriptors/sound_wood_01.template?/sound_wood_01.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A71EB8A8CB32C8",
     "path": "[assembly:/templates/materialdescriptors/sound_metal_thin_01.template?/sound_metal_thin_01.entitytemplate].pc_entityresource",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00010286DEDF6064",
@@ -1366,5 +1366,675 @@
     "hash": "00A51F035D04AE4E",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "00979059761016D0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001178676EB30A1D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002FD9A688B6D0C8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BC8C7CA01EF7F6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001A94F9A4DC53D4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0009D1D1839F5E37",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002FD98E10565030",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006CAA9CAEDF4C88",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0098697A7B515582",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001EABE449B408FD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00553937D9E43CCC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E2DD20D022D9DC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0065F4F539630FC1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0074D3A957A2A23A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0076F78716568D46",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0043B7837684B837",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EB553082A053F0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A78A0F8009281C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F139DA7349F1F4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FC9DE600A6F8CB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003671927061F613",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00376027B4B449FE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007F04E1EE556284",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AFFADA33B9C234",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00146D863FF8BC8B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C0053757772884",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0056B22C0D19B58C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006209C7FEF99483",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F1B6F3D3891AAC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008BA32EA2223642",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0088B1448729CE68",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00428A7A1BD51518",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DF2D9D8BD13EAD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BBB582296234FC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0097562A497B4808",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A2504FE7A83F34",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0081677559DD3148",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006B5A954A29D29B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E71913F4C88457",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B670CBEBA3F311",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003D4E7C2A162D23",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003382D559B264FF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0095C6F644507325",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0005A137FE750186",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000C3F2944834FBC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C41A6139973EFA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000C98C293508B87",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C2DCC22D0A8BDF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008EA0FED7A9F679",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E9C617EA2110C3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0073A20F8C67D87A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C7216A543DC344",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D96B199EB0A64F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007B1B13566E4CD7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00901F48FBF88D2A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0035919D8B42621C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003EEA6B63FA7203",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009B4CC4EDBBAF10",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000A414845EACA7D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E5B958A16410AB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002975725A1F5F69",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00775033059F326D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0038F451A2139C4F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DCE9543B7A2FB0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001D3B77D8E2F594",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003B945EC66F279C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00571A950B8AAF2E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00ADEB264AF2FF4C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0042BBE8522D4366",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CBBD6007372A3C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009C287915407B43",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004C66FA6A067912",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B1D497F76BBB68",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AD699B40D94B1B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004311B627AAE1F4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BEC97B322D899F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000200EACDEA96DA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B43442443AB8F2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006F054589F01851",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002A36B3FD847E1F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BB743C8B534E4A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0060C7650A43239E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AC52EE91D77D64",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006BEA1845CD51BB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C157163862B708",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A0E08E3C4A3C1D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BF9FD13ADB12A2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0042C73D8D105CA0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B0EC79F778EE7E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00130BDF3142979B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BFCC409A763878",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000237F6FF11010E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BE9D9B3A7D4259",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B62592FDAC76ED",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0098DA3B1AF11A2B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000D2BF064C3E7D5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B638B0DA2DBB3D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A3B552B07B3D7D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001B01D40DB2ACFA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F7915B5A66B832",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001033738A3ADEDF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A0A4ECB59B7443",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F285F8CE174CE9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00482BEB59A069B3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B1B0163EFF3CDF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009478F00152F013",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003557496223157F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A0379CEA5E9F2D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00071F569063FACD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004AC4CBE2309287",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008F1F4064590BD1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008D2BE675B871B9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004F7F949B4A5DD4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009DD1166D405D93",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000AB0DE19EBB014",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0051FDE79B1AC189",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0035B4FF32307B7E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002C7B0747866E59",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C24238D33AC43C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0070975E171E33FE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007B4648E5188B53",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0006DD32CAA06170",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00815C8E1131A1B2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0037FD6445623825",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0040753492B1CDF2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0083A0CFE455A167",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0005AB0988DACBF0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A244D7594281AA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DE29C69AC44B93",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A4BFBF2021C656",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002C8D02F5C94A24",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0001176421C74111",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EE294C5BDA1742",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F66CDD151AB486",
+    "path": "",
+    "gameFlags": 128
   }
 ]

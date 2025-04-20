@@ -67,7 +67,7 @@
   {
     "hash": "005885506FF04A94",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/_test/julienh/geometry/kraken_sail_boat_b.wl2?/kraken_sail_boat_b_00.linkedprim].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0025E08297547A63",
@@ -787,7 +787,7 @@
   {
     "hash": "00611CC2D122CFEC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/gamecore/prophelpers.template?/prophelper_gasleak_flammable.entitytemplate].entitytype,[modules:/hitman5.moduleinfo?zfixedorientationaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B752ED4ACF56FD",
@@ -1237,7 +1237,7 @@
   {
     "hash": "00CBBDA9FD6ED153",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/liquid/fx_liquid.template?/fx_e_liquid_footstep.entitytemplate].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0094B7116EC2AADA",
@@ -1312,7 +1312,7 @@
   {
     "hash": "00A2AE6F81E85EEB",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/smoke/fx_steam.template?/fx_e_steam_00.entitytemplate].entitytype,[modules:/hitman5.moduleinfo?zfixedorientationaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00847B1845918D24",
@@ -1452,7 +1452,7 @@
   {
     "hash": "00DDDECE81065534",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_150_cm_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B35A6B9B7CD85E",
@@ -1462,7 +1462,7 @@
   {
     "hash": "00AC10773DB37747",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_150_cm_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E244E0FADD41DD",
@@ -1477,7 +1477,7 @@
   {
     "hash": "00BE2CADD75E85EA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_150_cm_c.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00163D973C847638",
@@ -1492,7 +1492,7 @@
   {
     "hash": "00632FDE44A816B9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_250_cm_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00757A5977697329",
@@ -1512,7 +1512,7 @@
   {
     "hash": "009BCBE09683518D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_250_cm_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0039AB43C0A7BAAD",
@@ -1527,7 +1527,7 @@
   {
     "hash": "0071590D54F78883",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_250_cm_c.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0093EDB7565286CC",
@@ -1542,7 +1542,7 @@
   {
     "hash": "00DB4CC5FAE18166",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_50_cm_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0021E1BA608D7658",
@@ -1552,7 +1552,7 @@
   {
     "hash": "002DB9CCF1571331",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_custom_mansion_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0097D81BADD88693",
@@ -1562,7 +1562,7 @@
   {
     "hash": "00623F10ED5DAEAE",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_custom_mansion_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FFFF1D0EFA09F1",
@@ -1572,7 +1572,7 @@
   {
     "hash": "004DE2745B723EA4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_custom_mansion_c.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001AB359FABA8005",
@@ -1582,7 +1582,7 @@
   {
     "hash": "00A4AC1345577E2F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italian_a.wl2?/balustre_italian_endpiece_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0016DAFDCF6D6E75",
@@ -1592,7 +1592,7 @@
   {
     "hash": "0046CDA3C67F5DE0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_250_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0076608BDABEAF4C",
@@ -1607,7 +1607,7 @@
   {
     "hash": "0001937424E8652A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_250_c.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009F88BEB639655A",
@@ -1622,7 +1622,7 @@
   {
     "hash": "003A693EF784D27C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_350_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000E25ED14E635B3",
@@ -1632,7 +1632,7 @@
   {
     "hash": "006996B6D989204F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_350_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0038D0A6498B08DF",
@@ -1647,7 +1647,7 @@
   {
     "hash": "00A3CF0730B8232F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_350_b_short.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000D025490DDBC5C",
@@ -1662,7 +1662,7 @@
   {
     "hash": "0074D100D8D63A45",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_350_c.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A233E32BD3A0CF",
@@ -1677,7 +1677,7 @@
   {
     "hash": "008A15E1310C804A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_pillar_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0031FC57B2851AAD",
@@ -1692,7 +1692,7 @@
   {
     "hash": "00D478CFDDA1EC76",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_pillar_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BEAFAFC1428CD2",
@@ -1702,7 +1702,7 @@
   {
     "hash": "00A2A8F55A8C0B6A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_pillar_b_short.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0067361A9AACF391",
@@ -1712,7 +1712,7 @@
   {
     "hash": "005163D233A7D876",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/balustres/balustres_italy_harbour_a.wl2?/balustres_italy_harbour_pillar_c.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0097083ADDD64EAC",
@@ -2012,7 +2012,7 @@
   {
     "hash": "00CF6D63654DBE05",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/doors/laundry_chute_cover_a.wl2?/laundry_chute_cover_sheet_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothsheetentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004E6273F84DA1FE",
@@ -2087,7 +2087,7 @@
   {
     "hash": "0067AEF10754D55B",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/columns_corinthian_palace_a.wl2?/palace_exterior_column_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000DB8931FC14512",
@@ -2162,7 +2162,7 @@
   {
     "hash": "00E1D87E1F929C4E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillar_ornate_exterior_italy_a.wl2?/pillar_ornate_exterior_italy_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A91185894EB12D",
@@ -2257,7 +2257,7 @@
   {
     "hash": "00C55C54AAC67273",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_italy_church_inside_a.wl2?/pillar_italy_church_inside_c_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C98ACCD16908B9",
@@ -2267,7 +2267,7 @@
   {
     "hash": "001647F5C375816A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_italy_mansion_a.wl2?/pillar_italy_mansion_diningroom_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008D38120DD2C933",
@@ -2277,7 +2277,7 @@
   {
     "hash": "00D8E4E3FA23EE56",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_italy_mansion_a.wl2?/pillar_italy_mansion_diningroom_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0053C5832EBF22A8",
@@ -2287,7 +2287,7 @@
   {
     "hash": "00171866A062B7ED",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_italy_mansion_a.wl2?/pillar_italy_mansion_lobby_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0003D370771EDE20",
@@ -2297,7 +2297,7 @@
   {
     "hash": "00D94C06408EC341",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_italy_mansion_b.wl2?/pillar_italy_mansion_wall_exterior_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000186C019E98CBA",
@@ -2347,7 +2347,7 @@
   {
     "hash": "006E5D1964C4B95A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_palace_attic_a.wl2?/beam_palace_attic_h_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00290FE943DC2ECE",
@@ -2362,7 +2362,7 @@
   {
     "hash": "009219189297B23E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_palace_attic_a.wl2?/beam_palace_attic_k_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008A1AF9DA5257B7",
@@ -2372,7 +2372,7 @@
   {
     "hash": "00060C01B2814F2F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_palace_attic_a.wl2?/cable_palace_attic_metal_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0094C90F3C88F23C",
@@ -2382,7 +2382,7 @@
   {
     "hash": "0080E5415C71C43C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_palace_attic_a.wl2?/cable_palace_attic_metal_b_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00158B1713D2D466",
@@ -2422,7 +2422,7 @@
   {
     "hash": "00A0D941B1A2F853",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_italy_church_a.wl2?/railing_italy_church_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AAB14B4CC1660D",
@@ -2477,7 +2477,7 @@
   {
     "hash": "00521839036563C5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_observatory_a.wl2?/railings_observatory_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00762CAFEB5A9937",
@@ -2487,7 +2487,7 @@
   {
     "hash": "00FDB61AF00AADFA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_observatory_a.wl2?/railings_observatory_corner_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00669EC063E185C7",
@@ -2497,7 +2497,7 @@
   {
     "hash": "00F68DB223699AFB",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_observatory_a.wl2?/railings_observatory_cover_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00791930F07745C3",
@@ -2507,7 +2507,7 @@
   {
     "hash": "0059945660F376BF",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_observatory_a.wl2?/railings_observatory_cover_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0046C5BBACDFD819",
@@ -2517,7 +2517,7 @@
   {
     "hash": "00EB83A40A3DADD4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_observatory_a.wl2?/railings_observatory_custom_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00680633476C550A",
@@ -2527,7 +2527,7 @@
   {
     "hash": "0053961E8E18D419",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_observatory_a.wl2?/railings_observatory_short_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00787933CEB67EBF",
@@ -2537,7 +2537,7 @@
   {
     "hash": "0002A13F64B7B35B",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_observatory_a.wl2?/railings_observatory_short_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003906DB7EDB8FC6",
@@ -2577,7 +2577,7 @@
   {
     "hash": "0021767ADD817433",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/railing/railing_palace_stone_a.wl2?/palace_exterior_balustrade_4m_b_fenceshatter.linkedprim].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006C722B3CADCE48",
@@ -2947,7 +2947,7 @@
   {
     "hash": "00C7882A5A6F37D1",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_arched_basement_a.wl2?/mansion_arched_basement_a_frame.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006CB423346056CC",
@@ -2957,7 +2957,7 @@
   {
     "hash": "000C6A93B6CFDFE8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_arched_big_a.wl2?/window_mansion_arched_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004058ECEE0147F5",
@@ -2967,7 +2967,7 @@
   {
     "hash": "00B731A1BF67BCC8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_arched_big_a.wl2?/window_mansion_arched_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008B7034CCA82EC7",
@@ -2977,7 +2977,7 @@
   {
     "hash": "00D8EDF5C5CF7745",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_arched_medium_a.wl2?/mansion_arched_medium_a_frame.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009C4F8C8664F1F9",
@@ -2987,7 +2987,7 @@
   {
     "hash": "000ABEEB52ABD089",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_arched_small_a.wl2?/mansion_arched_small_a_frame.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F3A28BD9BDB5FF",
@@ -2997,7 +2997,7 @@
   {
     "hash": "00333D673D5E3946",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_round_a.wl2?/mansion_round_a_hatch.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002151F15A44989F",
@@ -3007,7 +3007,7 @@
   {
     "hash": "0031A5523507FF71",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_round_b.wl2?/mansion_round_b_hatch.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E887BF51C376EE",
@@ -3017,7 +3017,7 @@
   {
     "hash": "00B0229B3638D654",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_square_a.wl2?/mansion_square_a_frame.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D4843A45B2CB07",
@@ -3027,7 +3027,7 @@
   {
     "hash": "00B55678366B20C7",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/mansion_square_b.wl2?/mansion_square_b_frame.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0029ABF29ECE4B1D",
@@ -3067,7 +3067,7 @@
   {
     "hash": "00C383F29E4E2796",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/townhouse_italian_big_decorative_a.wl2?/townhouse_window_big_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A2D3FDA9580576",
@@ -3077,7 +3077,7 @@
   {
     "hash": "00C8E3C91F7C76A5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/townhouse_italian_old_a.wl2?/townhouse_room_window_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F1DDBA9F99368B",
@@ -3087,7 +3087,7 @@
   {
     "hash": "00B52F488EE9F58D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/townhouse_italian_old_a.wl2?/townhouse_staircase_window_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000FA1E11D57B0E9",
@@ -3097,7 +3097,7 @@
   {
     "hash": "0006591AC0CA2E0A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/townhouse_italian_old_a.wl2?/townhouse_staircase_window_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0036EB298540D324",
@@ -3107,7 +3107,7 @@
   {
     "hash": "007BD42B6A9AD4A8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/window_palace_arch_a.wl2?/window_palace_arch_frame_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000AF9B7F872F197",
@@ -3117,7 +3117,7 @@
   {
     "hash": "0048F92EA4D306AF",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/window_palace_attic_a.wl2?/window_palace_attic_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AA3BCB1D8957F5",
@@ -3162,7 +3162,7 @@
   {
     "hash": "00A8B45CA69FD3E6",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/window_palace_attic_a.wl2?/window_palace_attic_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00222A8B659B62BF",
@@ -3172,7 +3172,7 @@
   {
     "hash": "00A49BBA12F10CFC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/window_palace_balcony_a.wl2?/window_palace_balcony_frame_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EE4A9548E9C724",
@@ -3182,7 +3182,7 @@
   {
     "hash": "000F2594D47FC3B8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/window_palace_big_a.wl2?/window_palace_big_frame_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F6241036B4DB5B",
@@ -3192,7 +3192,7 @@
   {
     "hash": "00872000D5AF4630",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/window_palace_medium_a.wl2?/window_palace_medium_frame_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003915AD16B1F817",
@@ -3202,7 +3202,7 @@
   {
     "hash": "00E1155CA20CFD92",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/window_palace_medium_a.wl2?/window_palace_medium_frame_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D0D4E09716AE04",
@@ -3262,7 +3262,7 @@
   {
     "hash": "0016229B478670B3",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/windows_building_gardener_a.wl2?/window_building_gardener_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00236A75C3CE489E",
@@ -3272,7 +3272,7 @@
   {
     "hash": "00E1F62107296A7A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/windows_building_gardener_a.wl2?/window_building_gardener_open_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000BEC2520FDC1A6",
@@ -3332,7 +3332,7 @@
   {
     "hash": "002AC394F3FCA394",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/windows/windows_palace_basement_a.wl2?/window_palace_basement_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B705EC26FBCAED",
@@ -3607,7 +3607,7 @@
   {
     "hash": "00B6A514D7C9E9F6",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/decals/wallpaper_torn_hippie_apartment_ceiling_a.wl2?/wallpaper_torn_hippie_apartment_ceiling_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006BF83C20C61FD9",
@@ -3617,7 +3617,7 @@
   {
     "hash": "0027E3A7AFEF8733",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/decals/wallpaper_torn_hippie_apartment_ceiling_a.wl2?/wallpaper_torn_hippie_apartment_ceiling_b_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BEB1C04C84D336",
@@ -3627,7 +3627,7 @@
   {
     "hash": "003125F95636018A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/decals/wallpaper_torn_hippie_apartment_ceiling_a.wl2?/wallpaper_torn_hippie_apartment_ceiling_c_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009E3C574E1E5217",
@@ -4412,7 +4412,7 @@
   {
     "hash": "00F902EB6A91C6D5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001DD2B67B9BDE98",
@@ -4422,12 +4422,12 @@
   {
     "hash": "00FDBCE0EE7DAA5A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_b.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0065557CA060C02E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_c.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00096FA5E7F7566A",
@@ -4437,7 +4437,7 @@
   {
     "hash": "001118392B6531E0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_c_bare.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FC3474CE4CD984",
@@ -4452,12 +4452,12 @@
   {
     "hash": "00D79380822D7BEC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_d.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A4D4748815D836",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_e.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0081F9E6C20C708D",
@@ -4467,17 +4467,17 @@
   {
     "hash": "0002085217001F1D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_fall_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00197C5050427A9C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_fall_b.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00315CD0D50C1BD7",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_fall_c.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00829A11B7F367E3",
@@ -5537,12 +5537,12 @@
   {
     "hash": "0008C0CDFC9A3DBD",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/coastal_town_italy/appartment_complex_a.wl2?/hanging_cloth_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothsheetentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B789D37ED26082",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/levels/coastal_town_italy/appartment_complex_a.wl2?/hanging_cloth_b.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothsheetentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00863A78CB5D54B0",
@@ -11032,7 +11032,7 @@
   {
     "hash": "00DDC990A9F9B14E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/accessories/gardenshears_a.wl2?/gardenshears_a.linkedprim].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entitytype",
-    "gameFlags": 47
+    "gameFlags": 175
   },
   {
     "hash": "00D4397D1191A5A2",
@@ -11447,7 +11447,7 @@
   {
     "hash": "00781DC709D410FB",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/body_container_dumpster_metal_a.wl2?/body_container_dumpster_metal_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00280CB32420C706",
@@ -11577,7 +11577,7 @@
   {
     "hash": "007B0A689DCACAAA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/containers/crates_wooden_a.wl2?/crate_covered_1x1x2_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F9872C679D6F8C",
@@ -12052,7 +12052,7 @@
   {
     "hash": "00755D92FD40C0BF",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/banner_hippie_makejamnotwar_a.wl2?/banner_hippie_makejamnotwar_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007BAF16D92FC8FD",
@@ -12062,7 +12062,7 @@
   {
     "hash": "004271313DF7CAF4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/banner_hippie_peacefever_a.wl2?/banner_hippie_peacefever_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D6EB9719676748",
@@ -12232,7 +12232,7 @@
   {
     "hash": "00BF0E82BD8252F5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_doubledoor_big_a_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EB71B608FF3171",
@@ -12242,7 +12242,7 @@
   {
     "hash": "000694AABC98AC62",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_doubledoor_big_a_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00465CED4F995568",
@@ -12252,7 +12252,7 @@
   {
     "hash": "00CF19793FA07AD5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_doubledoor_big_a_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D640F4227B4FF0",
@@ -12262,7 +12262,7 @@
   {
     "hash": "004008E428779F53",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_doubledoorbig_arched_a_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005D07EF298C8B0E",
@@ -12272,7 +12272,7 @@
   {
     "hash": "00AD8412E42C2B6D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_doubledoorbig_arched_a_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F92319DBEA14BC",
@@ -12282,7 +12282,7 @@
   {
     "hash": "0003D7F57F5EE138",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_doubledoorbig_arched_a_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006D4530D1D8FB25",
@@ -12292,7 +12292,7 @@
   {
     "hash": "00C19EF779DE845E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_italy_mansion_a_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002526B22D28C8A7",
@@ -12302,7 +12302,7 @@
   {
     "hash": "0003CEDEF9BAC5EC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_italy_mansion_a_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F60161F0D9EF9F",
@@ -12312,7 +12312,7 @@
   {
     "hash": "00AAABD0845BE62D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_italy_mansion_a_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A31C99471DE41F",
@@ -12327,7 +12327,7 @@
   {
     "hash": "00B6ECC18D336158",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_a_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FA3583313A7D4D",
@@ -12337,7 +12337,7 @@
   {
     "hash": "00A86536FC3C0410",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_a_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00028118D9CB8236",
@@ -12347,7 +12347,7 @@
   {
     "hash": "00F772AA1BD88E47",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_a_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003A85605114FA01",
@@ -12357,7 +12357,7 @@
   {
     "hash": "0071A5B4E92D2800",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_b_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001673B049942CD4",
@@ -12372,7 +12372,7 @@
   {
     "hash": "005B86596FB686E0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_b_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0055DA76C1BFE1FF",
@@ -12387,7 +12387,7 @@
   {
     "hash": "002315B120A14257",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_b_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006F8025DBF2142D",
@@ -12402,7 +12402,7 @@
   {
     "hash": "004EE903B5282A09",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_double_a_rounded_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00039FCDB5130BFD",
@@ -12412,7 +12412,7 @@
   {
     "hash": "0077CD4015A50D68",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_arched_small_double_a_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A99E2A4E296F60",
@@ -12422,7 +12422,7 @@
   {
     "hash": "008ADBFB3BAC53DC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_square_b_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003669B398B03EFF",
@@ -12432,7 +12432,7 @@
   {
     "hash": "00B40152DB70A25E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_square_b_left_drawn.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D797D65DC79FAB",
@@ -12442,7 +12442,7 @@
   {
     "hash": "006CE9991F97DD74",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_square_b_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008720CD08CCD91C",
@@ -12452,7 +12452,7 @@
   {
     "hash": "002F72207CFE64E8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_square_b_right_drawn.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BE900932A97A42",
@@ -12462,7 +12462,7 @@
   {
     "hash": "00B92617AD5152BE",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_square_b_rounded_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0099F6DF8392DC8E",
@@ -12472,7 +12472,7 @@
   {
     "hash": "009EED2BC259CF3D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_a.wl2?/curtains_window_mansion_square_b_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F23E0FCF75C99C",
@@ -12482,17 +12482,17 @@
   {
     "hash": "004E3510C5F1A5D8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_opening_a_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0015282A1B57BEF4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_opening_a_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CA7E29CD0697F0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_window_a_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00783C36BDEE8E3E",
@@ -12502,7 +12502,7 @@
   {
     "hash": "003AC4A4CB7815B8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_window_a_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0090B456674E64E5",
@@ -12512,7 +12512,7 @@
   {
     "hash": "001BA48BF373F484",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_window_a_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D5AEC625FFACFF",
@@ -12522,7 +12522,7 @@
   {
     "hash": "00D96BF5DC8C725C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_window_b_left.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00445B1622EF13E5",
@@ -12532,7 +12532,7 @@
   {
     "hash": "001AA294EC749165",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_window_b_right.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00358B926B878EEF",
@@ -12542,7 +12542,7 @@
   {
     "hash": "00E911318BE37DC1",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_italy_observatory_window_b_top.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000DCACE73458E93",
@@ -12552,7 +12552,7 @@
   {
     "hash": "00C1E9140D1A7FF8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/curtains_italy_mansion_observatory_a.wl2?/curtains_window_observatory_rounded_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0059B04A52B8E7FE",
@@ -12682,7 +12682,7 @@
   {
     "hash": "00AE1DF190053928",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/decorative_wall_fashionshow_a.wl2?/construction_metal_fashionshow_small_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00486B80A1BC0662",
@@ -12737,7 +12737,7 @@
   {
     "hash": "007A333B67BB6623",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/fashionshow_entrance_banner.wl2?/fashionshow_entrance_banner_c.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C395365CE5E2EE",
@@ -12847,7 +12847,7 @@
   {
     "hash": "00E4E8AF0BF4F9F4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/plastic_sheets_a.wl2?/plastic_sheet_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothsheetentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0042AB51867A5903",
@@ -12932,7 +12932,7 @@
   {
     "hash": "00FB9E4FF9469662",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/solarsystem_a.wl2?/solarsystem_a.linkedprim].entitytype,[modules:/runtime.crowds.moduleinfo?zcrowdkillboxaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00554D53044CABD7",
@@ -13782,7 +13782,7 @@
   {
     "hash": "00CC06E27AA7E169",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/flags/fashionshow_sunsail_a.wl2?/fashionshow_sunsail_sheet_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothsheetentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0076BAD2704F06D1",
@@ -13982,7 +13982,7 @@
   {
     "hash": "00590B61985FB4F9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/fountains/fountain_round_italy_a.wl2?/fountain_round_italy_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002433DA13AB61F0",
@@ -14467,7 +14467,7 @@
   {
     "hash": "00FD82F295CCF8A9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/chest_wicker_bodycontainer_a.wl2?/chest_wicker_bodycontainer_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006A9B91B58A183F",
@@ -14477,7 +14477,7 @@
   {
     "hash": "0096D7960A96B69E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/chest_wooden_bodycontainer_a.wl2?/chest_wooden_bodycontainer_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006E9F01AC5618D9",
@@ -14492,7 +14492,7 @@
   {
     "hash": "0038C01C310D7DFC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/chest_wooden_decorated_bodycontainer_a.wl2?/chest_wooden_decorated_bodycontainer_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005A23BCC84AE9FE",
@@ -14512,7 +14512,7 @@
   {
     "hash": "00FDCAD8E7B1F9AE",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_altar_a.wl2?/church_altar_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000960C82C59901B",
@@ -14527,7 +14527,7 @@
   {
     "hash": "00C91E8F56D5BE2D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_bench_a.wl2?/church_bench_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006B8267E57E2F3C",
@@ -14537,7 +14537,7 @@
   {
     "hash": "005E3DCE4CCB7760",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_confessional_a.wl2?/church_confessional_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C9E087F88A5F17",
@@ -14547,7 +14547,7 @@
   {
     "hash": "00C243632A19D694",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_confessional_a.wl2?/church_confessional_cloth_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008C4100972BF056",
@@ -14557,7 +14557,7 @@
   {
     "hash": "00FA3033C647C6B4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_confessional_a.wl2?/church_confessional_cloth_b.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EA27F95C4C39D5",
@@ -14567,7 +14567,7 @@
   {
     "hash": "007D2B89C6BE8957",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_confessional_a.wl2?/church_confessional_cloth_c.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BC6E585CF6ADE3",
@@ -14577,7 +14577,7 @@
   {
     "hash": "006B58BE62F8C9B4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_confessional_a.wl2?/church_confessional_cloth_d.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004A505C6231729E",
@@ -14602,7 +14602,7 @@
   {
     "hash": "002B89DC6981E1CB",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_organ_a.wl2?/church_organ_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F84810939030E",
@@ -14612,7 +14612,7 @@
   {
     "hash": "003CE2F949844AC2",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/church_speaking_desk_a.wl2?/church_speaking_desk_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0022D41C554DA2C4",
@@ -14632,7 +14632,7 @@
   {
     "hash": "00864ED336BF1600",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/closet_antique_a.wl2?/hiding_closet_antique_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006E673117E5F94F",
@@ -14657,7 +14657,7 @@
   {
     "hash": "00D2CD9AC742D301",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/closet_antique_b.wl2?/closet_antique_b_hiding.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C68439CF208956",
@@ -14692,7 +14692,7 @@
   {
     "hash": "00C0DA8204F20EC4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/closet_laboratory_a.wl2?/closet_laboratory_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004C98CD361DF45B",
@@ -14812,7 +14812,7 @@
   {
     "hash": "0060C325E564A800",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/covered_cupboard_a.wl2?/covered_cupboard_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000F6817148582F4",
@@ -14822,7 +14822,7 @@
   {
     "hash": "0085D4897C4E7D56",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/covered_drawer_a.wl2?/covered_drawer_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C51EA27117215F",
@@ -14832,7 +14832,7 @@
   {
     "hash": "00B7C1C378558A59",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/covered_sofa_a.wl2?/covered_sofa_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0079EF7BCA7E8F4F",
@@ -14917,7 +14917,7 @@
   {
     "hash": "00E2A783C6444A7E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_a_center_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0051A39F06BC381D",
@@ -14927,7 +14927,7 @@
   {
     "hash": "00326210AC8C16E3",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_a_corner_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006C98021DC44C02",
@@ -14942,7 +14942,7 @@
   {
     "hash": "0065E2946918EFBF",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_a_side_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00776E84E096F411",
@@ -14952,7 +14952,7 @@
   {
     "hash": "00F0A87E9F7E443A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_a_side_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0061FCDA9F319669",
@@ -14967,7 +14967,7 @@
   {
     "hash": "00F02677D51C36BB",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_a_side_c_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002594D00F2F0D7D",
@@ -14977,7 +14977,7 @@
   {
     "hash": "0053CE773E2BC50D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_b_corner_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D55E58646CA20C",
@@ -14987,7 +14987,7 @@
   {
     "hash": "009E3F1FFDFB1A88",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_b_corner_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00720A22ECACDF1C",
@@ -15012,12 +15012,12 @@
   {
     "hash": "00AB13A5D0D6B1C8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_high_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001843699F89086F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_hightech_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00205576DBD4AC88",
@@ -15042,7 +15042,7 @@
   {
     "hash": "0080C945B94E3364",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_hightech_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007FDAC91FD0CCC5",
@@ -15347,7 +15347,7 @@
   {
     "hash": "0050E0666CA09358",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/folding_table_a.wl2?/folding_table_covered_b_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F8524E48F5013C",
@@ -15577,7 +15577,7 @@
   {
     "hash": "00F681A19E363F17",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/locker_hiding_a.wl2?/hiding_locker_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00673631A96F583C",
@@ -16247,7 +16247,7 @@
   {
     "hash": "00EEDFEA5D64B758",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/tarp_patiochairs_a.wl2?/tarp_patiochair_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0032817BBC8E2E82",
@@ -16367,7 +16367,7 @@
   {
     "hash": "006592E3DE9F8DDE",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/activators/winch_manual_a.wl2?/winch_manual_a.prim].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B8F381DBA18EF",
@@ -16377,7 +16377,7 @@
   {
     "hash": "00D23E867BE394A9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/activators/winch_manual_a.wl2?/winch_manual_a_spool.prim].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F9717C975264EB",
@@ -16387,7 +16387,7 @@
   {
     "hash": "0084DC1D1D3FCE7C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/containers/container_body_plasticdumpster_a.wl2?/container_body_plasticdumpster_paris_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005E32312A8AE6B7",
@@ -16922,7 +16922,7 @@
   {
     "hash": "00CD47E7D260C85F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/harbour_props/boat_speedboat_a.wl2?/boat_speedboat_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009E8C4FC07F6794",
@@ -16942,7 +16942,7 @@
   {
     "hash": "00C4D35C15B54CAF",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/harbour_props/boat_speedboat_a.wl2?/boat_speedboat_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CCE4EFB3AF21D1",
@@ -16987,7 +16987,7 @@
   {
     "hash": "00D80047B9562E45",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/harbour_props/habour_docks_cave_a.wl2?/harbour_docks_bridge_cave_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00286855A987680E",
@@ -16997,7 +16997,7 @@
   {
     "hash": "00B4E921E6544DFF",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/harbour_props/habour_docks_cave_a.wl2?/harbour_docks_cave_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0095DAADA35A102F",
@@ -17007,7 +17007,7 @@
   {
     "hash": "00C7854F6DBF48C7",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/harbour_props/habour_docks_cave_a.wl2?/harbour_docks_railing_cave_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00786C05A513F1BC",
@@ -17017,7 +17017,7 @@
   {
     "hash": "00B5FEF42051C43A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/harbour_props/harbour_anchor_monument_a.wl2?/harbour_anchor_monument_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004FC8ECD73C0FE4",
@@ -17292,7 +17292,7 @@
   {
     "hash": "00AA13766F2B1780",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/industrial/crane_traveling_a.wl2?/crane_claw_b.linkedprim].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D042E54284DA8",
@@ -17492,7 +17492,7 @@
   {
     "hash": "00D49F494EAB6EBD",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_crate_hightech_a.wl2?/laboratory_crate_hightech_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ACCA8B7879D435",
@@ -17517,7 +17517,7 @@
   {
     "hash": "003891D622FF2B8F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_crate_hightech_a.wl2?/laboratory_crate_hightech_bodycontainer_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BFAF74B293C4D2",
@@ -17527,7 +17527,7 @@
   {
     "hash": "00039A0DE75C3714",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_crate_hightech_a.wl2?/laboratory_crate_hightech_c_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00448A1C6CB1257B",
@@ -17567,7 +17567,7 @@
   {
     "hash": "006B4AEED3DB3342",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_machine_a.wl2?/laboratory_machine_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CA075C5CC86603",
@@ -17577,7 +17577,7 @@
   {
     "hash": "00A513D99BE0AA2B",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_machine_d.wl2?/laboratory_machine_d_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AFD35F77AAF6C4",
@@ -17592,7 +17592,7 @@
   {
     "hash": "000351EF8BBF904D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_machine_d.wl2?/laboratory_machine_d_sample_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C64E0EF286169C",
@@ -17602,7 +17602,7 @@
   {
     "hash": "005412CC398F86EC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_machine_d.wl2?/laboratory_machine_d_sample_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0011CD2E46E8E025",
@@ -17612,7 +17612,7 @@
   {
     "hash": "008EFAB8A321253D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/laboratory/laboratory_machine_d.wl2?/laboratory_machine_d_sample_c_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008692506DEBB76A",
@@ -17772,7 +17772,7 @@
   {
     "hash": "008CD1E6D7937041",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/lamp_paris_street_b.wl2?/lamp_paris_street_b.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008B6D326119B83B",
@@ -17807,7 +17807,7 @@
   {
     "hash": "00C90D07E5D58E65",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/lamp_stand_fashionshow_a.wl2?/lamp_stand_fashionshow_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EA6268F0BA2361",
@@ -17817,7 +17817,7 @@
   {
     "hash": "0046829810BE5770",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/lamp_street_ornamented_italy_a.wl2?/lamp_street_ornamented_italy_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EF24194086E2B8",
@@ -17827,7 +17827,7 @@
   {
     "hash": "001E5AA04715081D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/lamp_table_worn_a.wl2?/lamp_table_worn_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FCB3AE64BA33E2",
@@ -17867,7 +17867,7 @@
   {
     "hash": "00DCD14D1CF48F97",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/light_flood_a.wl2?/light_flood_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00341259331CFE82",
@@ -17887,7 +17887,7 @@
   {
     "hash": "005B510838DFD7AA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/light_wall_flood_a.wl2?/light_wall_flood_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00791470EA0B3702",
@@ -18227,7 +18227,7 @@
   {
     "hash": "0006E4CDBB5D1BB6",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/plants/tree_box_garden_a.wl2?/tree_box_garden_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0025B8323C2D874F",
@@ -18257,7 +18257,7 @@
   {
     "hash": "00E45BA2B35026E4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/plants/trees_garden_ornament_a.wl2?/tree_garden_ornament_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005983CFB9243C05",
@@ -18442,7 +18442,7 @@
   {
     "hash": "0059D657A2C1BE89",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_a.wl2?/gravestone_italy_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C2397C75D23A96",
@@ -18457,7 +18457,7 @@
   {
     "hash": "000DA673599852AA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_b.wl2?/gravestone_italy_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EFB231A5F0BF66",
@@ -18472,7 +18472,7 @@
   {
     "hash": "000F46DAB40D2166",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_c.wl2?/gravestone_italy_c_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F1EC5735BFCCDF",
@@ -18487,7 +18487,7 @@
   {
     "hash": "005ABF232B6D2CB3",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_d.wl2?/gravestone_italy_d_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DBD9690C055124",
@@ -18502,7 +18502,7 @@
   {
     "hash": "00DDDBA243E3D940",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_e.wl2?/gravestone_italy_e_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F665D309C9763",
@@ -18532,7 +18532,7 @@
   {
     "hash": "0069D73F29784025",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_f.wl2?/gravestone_italy_f_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F392253944C70B",
@@ -18547,7 +18547,7 @@
   {
     "hash": "0076D53A6306CE66",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_g.wl2?/gravestone_italy_g_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F4F02733698E8B",
@@ -18557,7 +18557,7 @@
   {
     "hash": "0067DDF158FF3AA5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/gravestone_italy_h.wl2?/gravestone_italy_h_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00568543DD144E99",
@@ -18667,7 +18667,7 @@
   {
     "hash": "00AC3EB695942CBD",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_b.wl2?/sculpture_palace_napoleon_horse_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001883D25353A4E0",
@@ -18682,7 +18682,7 @@
   {
     "hash": "007B4C62E2A65EC8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_covered_a.wl2?/sculpture_palace_base_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003E88076C027890",
@@ -18702,7 +18702,7 @@
   {
     "hash": "00F2D48E38B850F8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_covered_a.wl2?/sculpture_palace_covered_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00703DBBC68C2C0A",
@@ -18727,7 +18727,7 @@
   {
     "hash": "00A697ADCFA5A86F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_garden_a_00.wl2?/sculpture_palace_garden_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BE4030DD78F0C6",
@@ -18742,7 +18742,7 @@
   {
     "hash": "0046223FF7CA6127",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_garden_a_00.wl2?/sculpture_palace_garden_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00254632CCBF9A72",
@@ -18757,7 +18757,7 @@
   {
     "hash": "0076A7BA5C00618C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_napoleon_big_a.wl2?/sculpture_palace_napoleon_big_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009F4D259C6E7FC2",
@@ -18787,7 +18787,7 @@
   {
     "hash": "00FBD6DA0635CDC2",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/statue_italy_mansion_front_a.wl2?/statue_italy_mansion_front_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00717611DA09D8F9",
@@ -18987,7 +18987,7 @@
   {
     "hash": "00D9956C70D271B7",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/bollard_metal_rusty_a.wl2?/bollard_metal_rusty_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006D059C96A210D1",
@@ -19177,7 +19177,7 @@
   {
     "hash": "00384FD45B70ACF7",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/flower_box_italy_a.wl2?/flower_box_italy_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0047E3A33F791F61",
@@ -19192,7 +19192,7 @@
   {
     "hash": "00B08B5C5E682D0D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/flower_box_italy_a.wl2?/flower_box_italy_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F6DF1C95712E33",
@@ -19432,7 +19432,7 @@
   {
     "hash": "0026330BC6E47122",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_carpet_a.wl2?/hanging_carpet_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008CE26737C497FA",
@@ -19442,7 +19442,7 @@
   {
     "hash": "0063ECD6A7DE3B29",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_carpet_a.wl2?/hanging_carpet_b_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004E9EA09FAAA40C",
@@ -19452,7 +19452,7 @@
   {
     "hash": "002FC1BB167CA152",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_carpet_a.wl2?/hanging_carpet_c_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0029AE4604EE6AA0",
@@ -19462,7 +19462,7 @@
   {
     "hash": "005C05AC8C8BD1F0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_clothes_a.wl2?/hanging_clothes_a_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0061B77B73D5F530",
@@ -19482,7 +19482,7 @@
   {
     "hash": "008AC649669DE99E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_clothes_a.wl2?/hanging_clothes_d_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005022CCBD46F7BF",
@@ -19492,7 +19492,7 @@
   {
     "hash": "00D39F3873406E6C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_clothes_a.wl2?/hanging_clothes_e_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B6C72E3568F92F",
@@ -19512,7 +19512,7 @@
   {
     "hash": "002D6966916CB8D7",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_clothes_a.wl2?/hanging_clothes_f_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C20A357B3F3C4E",
@@ -19522,7 +19522,7 @@
   {
     "hash": "00DBEFF43992D503",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_clothes_a.wl2?/hanging_clothes_g_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007957DD638C618C",
@@ -19532,7 +19532,7 @@
   {
     "hash": "00FAA1F7AFA3F5A7",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_clothes_a.wl2?/hanging_clothes_h_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E9FFDF26458FE5",
@@ -19542,7 +19542,7 @@
   {
     "hash": "0083C473B3E46F39",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/hanging_clothes_a.wl2?/hanging_clothes_i_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00684BC68C16CF96",
@@ -19832,7 +19832,7 @@
   {
     "hash": "00AF49947760E891",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/paris_cafe_terrace.wl2?/paris_terrace_umbrella_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D1433B2070E9DD",
@@ -19842,7 +19842,7 @@
   {
     "hash": "0021DC91BCDF2FB2",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/paris_cafe_terrace.wl2?/paris_terrace_umbrella_b.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A003CF84CF2EB8",
@@ -19897,7 +19897,7 @@
   {
     "hash": "00E47D06774A4337",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/street_props/parking_posts_paris_a.wl2?/paris_post_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DF0DF22A40D4FC",
@@ -20127,7 +20127,7 @@
   {
     "hash": "009685E16E4C9FA1",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/toilets/laundry_trolley_a.wl2?/laundry_trolley_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A9FA96340EA037",
@@ -20537,7 +20537,7 @@
   {
     "hash": "0015695D85C32EDA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/kitchen_towel_hanging_b_00.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000AE3805E767548",
@@ -22482,7 +22482,7 @@
   {
     "hash": "00DA049C39636F36",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/gameplay/containers/container_body_acid_pool_a.template?/container_body_acid_pool_a.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008EE94A3D5A8A25",
@@ -22492,7 +22492,7 @@
   {
     "hash": "0078C05B62868EC9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/gameplay/containers/container_body_gardenshredder_a.template?/container_body_gardenshredder_a.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00980C1B56B003C3",
@@ -22507,7 +22507,7 @@
   {
     "hash": "0090D988A33D1CBD",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/gameplay/traps/forklift_a.template?/forklift_a.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002AFE03C96C5AF9",
@@ -24517,7 +24517,7 @@
   {
     "hash": "009C130E3CDEFA89",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/box_truck_a/box_truck_a.wl2?/box_truck_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DB958392212E1D",
@@ -24542,7 +24542,7 @@
   {
     "hash": "0064FA4D3E706900",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/english_suv_a/english_suv_a.wl2?/english_suv_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004628CC5F3829CB",
@@ -24592,7 +24592,7 @@
   {
     "hash": "004E8E840035A132",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/french_compact_a/french_compact_a.wl2?/french_compact_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0023CACD9E43AA2E",
@@ -24607,7 +24607,7 @@
   {
     "hash": "00FCDC2107B27EB6",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/french_compact_a/french_hatchback_a.wl2?/french_hatchback_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005224E6A7798C6A",
@@ -24647,7 +24647,7 @@
   {
     "hash": "00A1A96092CD44D9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/french_sedan_a/french_sedan_a.wl2?/french_sedan_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C65984166BFFE5",
@@ -24662,7 +24662,7 @@
   {
     "hash": "00A9A09C234BB0D1",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/french_wagon_a/french_wagon_a.wl2?/french_wagon_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008FA1BC175FCFD1",
@@ -24727,7 +24727,7 @@
   {
     "hash": "00323FF8D2C8B719",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/limousine_a/limousine_a.wl2?/limousine_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002F0F45EDDB3B83",
@@ -24827,7 +24827,7 @@
   {
     "hash": "00C530522E2717AD",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/new_asian_compact_a/new_asian_compact_a.wl2?/new_asian_compact_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F97AC9178A344E",
@@ -24857,7 +24857,7 @@
   {
     "hash": "00566B5FD1BB568E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/old_french_compact_a/old_french_compact_a.wl2?/old_french_compact_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B72BDEF148B6DB",
@@ -24902,7 +24902,7 @@
   {
     "hash": "00DF8BE458D07977",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/old_japanese_sedan_a/old_japanese_sedan_a.wl2?/old_japanese_sedan_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FB220C4D05256F",
@@ -24937,7 +24937,7 @@
   {
     "hash": "00941A103500D443",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/old_luxury_sedan_a/old_luxury_sedan_a.wl2?/old_luxury_sedan_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003BF703B03B4FE5",
@@ -25022,7 +25022,7 @@
   {
     "hash": "004A1C789356724B",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/semi_truck_a/semi_truck_a.wl2?/semi_truck_cabin_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E693E36FAE3573",
@@ -25032,7 +25032,7 @@
   {
     "hash": "005C9A20C00DFE43",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/semi_truck_a/semi_truck_a.wl2?/semi_truck_trailer_flatbed_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00749989B493EEDE",
@@ -25047,7 +25047,7 @@
   {
     "hash": "008F18F78873048C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/semi_truck_a/semi_truck_a.wl2?/semi_truck_trailer_open_assymetric_boxed_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002215D29DC4A54D",
@@ -25062,7 +25062,7 @@
   {
     "hash": "00DCE109917279BC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/semi_truck_a/semi_truck_a.wl2?/semi_truck_trailer_open_boxed_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ADEC454C48E8FD",
@@ -25087,7 +25087,7 @@
   {
     "hash": "00019CCF3C4DE6FF",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/semi_truck_a/semi_truck_a.wl2?/semi_truck_trailer_open_symmetric_small_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00176EED0299A662",
@@ -25247,7 +25247,7 @@
   {
     "hash": "00C62A334DDF4780",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/van_large_a/van_large_a.wl2?/van_large_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00767C6C315AB5EA",
@@ -25262,7 +25262,7 @@
   {
     "hash": "008C545F45658D54",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/van_small_a/van_small_a.wl2?/van_small_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00393AB2D6495EB4",
@@ -25427,7 +25427,7 @@
   {
     "hash": "00F15902411CE987",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/geometry/collections/props/hero_props_b.wl2?/hiding_closet_wood_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0096CC4C4E7D94D0",
@@ -25437,7 +25437,7 @@
   {
     "hash": "00AF434980B09134",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/characters/hitman/internal/hitman01_nologic.template?/hitman_nologic.entitytemplate].entitytype,[modules:/hitman5.moduleinfo?zhitman5.class].entitytype,[modules:/hitman5.moduleinfo?zhm5cceffects.class].entitytype,[modules:/hitman5.moduleinfo?zherouimaptrackeraspect.class].entitytype,[modules:/game.ui.moduleinfo?zuimapdetectoraspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D48DD7E35EC2C",
@@ -25532,7 +25532,7 @@
   {
     "hash": "00D165CD52F8E605",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/sound/wwise/soundentities.template?/3daudioemitter.entitytemplate].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008CBA05DD9A743B",
@@ -25582,7 +25582,7 @@
   {
     "hash": "004EA5B676A4D1BA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/basic.swf?/basic.itembg.uic].entitytype,[modules:/runtime.ui.moduleinfo?zuibuttonnavigationentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C1A45FCC6518FB",
@@ -25627,7 +25627,7 @@
   {
     "hash": "003C79C728196E85",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/basic.swf?/common.basecontrol.uic].entitytype,[modules:/game.ui.moduleinfo?zuiminimapnavigationentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009EFF50304502EF",
@@ -25647,7 +25647,7 @@
   {
     "hash": "00C4B1D66958A68E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/common.basecontrol.uic].entitytype,[modules:/game.ui.moduleinfo?zuimapnavigationentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0021BE69FA12ED73",
@@ -25732,7 +25732,7 @@
   {
     "hash": "00E16D12CC9CAAE9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.intelmenu.uic].entitytype,[modules:/game.ui.moduleinfo?zuiintelselectornavigationentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0007BB554CBD849C",
@@ -25947,7 +25947,7 @@
   {
     "hash": "0081A9F65F66D264",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.radialmenu.uic].entitytype,[modules:/game.ui.moduleinfo?zuiactionselectornavigationentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FC4F60E4D689D3",
@@ -26072,7 +26072,7 @@
   {
     "hash": "00C0540DFEEA5BE0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.weaponselector.uic].entitytype,[modules:/game.ui.moduleinfo?zuiinventoryselectornavigationentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D958ABD768E638",
@@ -26112,32 +26112,32 @@
   {
     "hash": "00FDB160F01A102A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zbriefingvideoplayerpagecontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00272DBB80BC011C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zcontracteditpagecontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003EB1BD553F781B",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zcontractplanningpagecontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00214F7ABEC7BB44",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zdebriefingpagecontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007B15E516AD7B1B",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zdynamicpagecontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D4E9C815A727F",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zloadoutpagecontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001D7836F965B853",
@@ -26162,7 +26162,7 @@
   {
     "hash": "002F612B99A547AC",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zsurveypagecontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0077383E88A4D30F",
@@ -26437,7 +26437,7 @@
   {
     "hash": "00C28065D934EA72",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.menuframe.uic].entitytype,[modules:/game.ui.moduleinfo?zmenucontrollerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DCBE88BBABBB15",
@@ -26482,42 +26482,42 @@
   {
     "hash": "00C61F79648B50E2",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.modaldialog.uic].entitytype,[modules:/game.ui.moduleinfo?zmodaldialogcontroller.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004BF34D40C0FE65",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zbodybagentity.class].entitytype,[modules:/hitman5.moduleinfo?zperceptibleaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C9ABEED5CC0724",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zhm5item.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FF54381DD1E36E",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zhm5itemccweapon.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CE09A80B2416AD",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zhm5itemweapon.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E0D223EB1F6A96",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioemitter.class].entitytype,[modules:/runtime.audio.wwise.moduleinfo?zaudioemitterspatialaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008E15084B8EE9DB",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioemitter.class].entitytype,[modules:/runtime.sound.moduleinfo?zaudioambienceemitter.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005E094CC7D65D40",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioemitter.class].entitytype,[modules:/runtime.sound.moduleinfo?zaudioambienceemitter.class].entitytype,[modules:/runtime.audio.wwise.moduleinfo?zaudioemitterspatialaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D8F30838DD1C5A",
@@ -26547,12 +26547,12 @@
   {
     "hash": "00F51B6C81220F90",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioevent.class].entitytype,[modules:/runtime.sound.moduleinfo?zaudioambienceevent.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003C534EB69E3358",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zboxvolumeentity.class].entitytype,[modules:/hitman5.moduleinfo?zorderedentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007A4842DC24A516",
@@ -26567,27 +26567,27 @@
   {
     "hash": "00894C456A420FE9",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/hitman5.moduleinfo?zactorboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0075B044F350E6AF",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/hitman5.moduleinfo?zfixedorientationaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F0680190E5C860",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/hitman5.moduleinfo?zperceptibleaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B92222B4857BB2",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000C419AA9C4E2DB",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/runtime.repository.moduleinfo?zrepositoryitementity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008356AAC8D87D0B",
@@ -26617,17 +26617,17 @@
   {
     "hash": "00901BBF245B03F0",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/game.ui.moduleinfo?zuimaptrackeraspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000B6FFF48A471A6",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/game.ui.moduleinfo?zuimaptrackeraspect.class].entitytype,[modules:/game.ui.moduleinfo?zuimapdetectoraspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001279205CFE27D5",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C2D4B1B2AFEF9F",
@@ -26642,7 +26642,7 @@
   {
     "hash": "00D1D79B1CC5E9D9",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/hitman5.moduleinfo?zgenericuimaptrackeraspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F8E362BF383E03",
@@ -26652,7 +26652,7 @@
   {
     "hash": "006ADE4A0A6CCD80",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/hitman5.moduleinfo?zhm5materialdescriptorentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008FDBAE29F2D1E6",
@@ -26677,32 +26677,32 @@
   {
     "hash": "00B8E568FC8B85AF",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zclothcapsule.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0075BD958A78990B",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zclothsphere.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005DB29609DD2D2A",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zphysicsentity.class].entitytype,[modules:/hitman5.moduleinfo?zitemphysicsentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A97EEF0226862F",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zphysicsentity.class].entitytype,[modules:/hitman5.moduleinfo?zitemphysicsentity.class].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C3F71E7810F012",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zprimitivespatialentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zdynamicphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zboxshapeaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00865214D00794E3",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zprimitivespatialentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zstaticphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zboxshapeaspect.class].entitytype,[modules:/hitman5.moduleinfo?zhm5collisioncontrolleraspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005691874EAA9E2F",
@@ -26712,17 +26712,17 @@
   {
     "hash": "001C9F2D49931ED8",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zprimitivespatialentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zstaticphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zsphereshapeaspect.class].entitytype,[modules:/hitman5.moduleinfo?zhm5collisioncontrolleraspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0015EE99BF2DE0EB",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zgeomentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zdynamicphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zcollisionresourceshapeaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00867BC475E000C7",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zgeomentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zstaticphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zcollisionresourceshapeaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D3E57C21D4537A",
@@ -26737,17 +26737,17 @@
   {
     "hash": "0051518FFB3D0A6A",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlightentity.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00458790BE6CFEF4",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect cutsequence only.entitytemplate].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00473928DEA35A01",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00822C4396DBB0A0",
@@ -26757,22 +26757,22 @@
   {
     "hash": "00D7B064F1F51A64",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[modules:/hitman5.moduleinfo?zcharactertemplateaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C6AFBCCAD7517B",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zdynamicphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zcollisionresourceshapeaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005A1173E1EFF26F",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedproxyentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothcharacterentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00201C5350ED65C3",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedproxyentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothcharacterentity.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D6EC9C71B0777B",
@@ -26782,7 +26782,7 @@
   {
     "hash": "0034860E9C440D28",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zparticleemitterboxentity.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AEDFA1E69B5C7B",
@@ -26797,12 +26797,12 @@
   {
     "hash": "002F41335ABF1C09",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zprimitivecontainerentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothwireentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E938A960A5BCD1",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.testlogic.moduleinfo?zorientationentity.class].entitytype,[modules:/runtime.gameentities.moduleinfo?zsoundjumppointambience.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0042ED600575ECF0",
@@ -26812,7 +26812,7 @@
   {
     "hash": "00C35276E96E9D5F",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.ui.moduleinfo?zuicontrolentity.class].entitytype,[modules:/runtime.ui.moduleinfo?zuilistnavigationentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00850BD1E5AE3CFD",
@@ -64667,7 +64667,7 @@
   {
     "hash": "00C0A5E06FA31EEE",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.morpheme.moduleinfo?zentity.class].entitytype,[modules:/hitman5.moduleinfo?zactor.class].entitytype,[modules:/hitman5.moduleinfo?zactorzonesetup.class].entitytype,[modules:/hitman5.moduleinfo?znpcuimaptrackeraspect.class].entitytype,[modules:/hitman5.moduleinfo?zuiactoriconaspect.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007A8B565728A28F",
@@ -64687,7 +64687,7 @@
   {
     "hash": "004B5652A337E83C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/french_hatchback_a/french_hatchback_a.wl2?/french_hatchback_a.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005DBC0526CAFA82",
@@ -64712,7 +64712,7 @@
   {
     "hash": "00B48A407B60205C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/gameplay/distractions/vacuumcleaner_a.wl2?/vacuumcleaner_a.prim].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007C69BD3A76A8D1",
@@ -67723,5 +67723,910 @@
     "hash": "006EAE908FB78BB2",
     "path": "",
     "gameFlags": 2
+  },
+  {
+    "hash": "00615CBEDDF9BE91",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0062C1691BE9B604",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0079CD1F2555DBA1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0089F69ECCE2B983",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007422A292299CA9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00ADDB6A6B2E7B77",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E31FC90599BF48",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00280B07A2634FF2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0022A14BF24E0F31",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0090694DCE38D3BA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007D55D2FC81E4DE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0071CB5C24E0E1DD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0098DCE237A40885",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B05E1946EC2FE8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009DE18C6B9DAB3E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00168850F70A7E95",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00859A7BB09BD16F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00878C7A1AB31BF0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001E5BADC34358F8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00074FD3089AF3B0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B7EC23A7C5B922",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DC24BEC8CCBA10",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002F6DD09C4AD3D7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008261B9B615E21D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00158C6EBF768978",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B843235B4E58D8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E4F435033C6811",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F375D34DF51B6D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0041528B99840EA1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A953583DA81C1B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007E57374EE597F2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0055367E599E9A2D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B66943384B1A22",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00871A089D221DCF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0024154CD39BC573",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CBF2FA95B5A0B6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0023AF9D398B6D6C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D433186EF44219",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B1D2C1ED07F084",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0025AEAF6D4DCB5E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0012F8C0BBE379E9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A54D4F3BF10E68",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006F40E566C35874",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DB70CF2E2FE33A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00147FD9DAEAF835",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CBBE33D16B8AE5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00786DDB5CC42CBA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009441BB3E84E787",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005CB12914CD5749",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F06640351E306B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A3641FCA13E931",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D3650CB7E71603",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E54216EC5C1AD8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00542321D426F0DA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0090BE143BD92FF5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009DEEB456311FD8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004DB596E9EB8FEE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006C080AD068A3F9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001BB406B6F5BA42",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008639C901F31579",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CECCD81A052BAF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007554586FFE4C2E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009B608FC812AAC7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000F365AF4EAC0CF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00235BBC12D92C5E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009761FCBD0407FD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B0D28D8A498DCC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000C56ED4ED724C5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00534E2F26A3F2BF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B35D68E21CED3E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001902087A163B14",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00102FE44FEC5C79",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007C51A80F354380",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0037AD160CB8B4F0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00741F2D4B124A40",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008291357E1D0372",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00800E3E358E9CA9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BB9839B733C73C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C6F843EFC97F13",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005217B31565C08B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003AF94CA5EEB88E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0035A60557774E5F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00263DC225F86073",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004478EC3797B8BB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B04AC3B5A62AB8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0078E4907EC99397",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DF4061E58342AB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007136D2D19AF16E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E7523E1817860A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0058327774E180D6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0016E74D09E6A419",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002D7755589113B1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0061672AF472F525",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0005789F440131C0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008B9167224C2F60",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0054F78580E89CA2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FEA8F7D9D27AEF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0050EC2189EC08FA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C628BB7552A527",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0081956964F81F2F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BBB17CAA4BFAFC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E162E502997040",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C212F9346C0F77",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B27C84F8A0C2BA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002C6198F278677B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FD8C7E52235A0B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C97889114FF866",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A96D72F4723EBE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009137B1E7BF1FAF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008FF351D869DF02",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001B5142311AA55F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0067E557F069DDE1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00534A89E37C4A43",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0082DE03436E2B15",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001A2BAD219D1B8C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BDBA70FF5791C6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00926AC017FB56C7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007B3B190CB804BB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007BE0DD55B9F33B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00902BC011466D07",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001C17627A15A292",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006B3F1B8FB31CF2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F24979F73AEEAE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0022B93B8BE24518",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00193BC2CAC54E08",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D9D738EB811230",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004CC8A43E28DFA1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DDF06F658A833F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000A8562DEDB7A18",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C3FC2583639018",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0059F24A13651DC5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D86E19C8059D9C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0076C1617E1037FC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E292BF13F8C234",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0054337C02155D73",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0023B2983D1C00DE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008E9E6683EC47AA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0002EA9C2BF9FED2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006BCAA73EEBA77A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009652B954CA5E3C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C9EDC51ECF1CCC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EBD3795178048F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FD6C0C8AB6C207",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A5C50D874020CB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00244B492921CFCD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0003566523D43429",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00650524ADEB7851",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00645AC603BF1945",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AD7E5F408C6C3F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007408E5218C22C9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0036E92ABF659D61",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006AEC04D8CD67DF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DB9321C6EE8D0D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001FDE780B4DC971",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DB5EB5A8B6DE68",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006DC8A3D1DADCBE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0067152D5A43D79C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E0CEE77487BE85",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0022947BC387CA24",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00143D43C0BD93BF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00150B5C90880F07",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B1D3CEA08EC4C1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008307DA5C666324",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008355C85B7DB655",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003AE0D6DC0C5C91",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00892A72BCE1EFB6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F67F5B792D0C0B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009408BFCC258A6E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002DEC5E61588327",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0079AA88B791921E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005633BB21CA624F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008047135B2F6449",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BC4DCFF2238635",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002D5BFBD3AF3FC9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0051FCAC984A9C00",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00741011A200223A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00460E4086E09A25",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000438C697832054",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00691F306AD8503F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00ABBB5CD3D04B3D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D91949A4A37EB1",
+    "path": "",
+    "gameFlags": 128
   }
 ]

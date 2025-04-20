@@ -7,17 +7,17 @@
   {
     "hash": "00E734AA131DFDA3",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/itemweapon.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00A268EBB893B46D",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/outfit.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "002E0A85AE87676F",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/ai_hmarm.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D3B90473256C4",
@@ -32,17 +32,17 @@
   {
     "hash": "0038D33E310B27EB",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/crowdconversations/female_character.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FA611679B9931A",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/crowdconversations/gender.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000B61B7CF275398",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/crowdconversations/male_character.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E44326EA95B266",
@@ -52,22 +52,22 @@
   {
     "hash": "0041F282A9984BD2",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/footsteps_switches/fs_sweetener.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "006F8092C20A6735",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/gui/menu.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00BEF6C459650BC6",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/ingamemusic/ingamemusic_switch_group.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D7397D799A8B8C",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/paris/fashionshowmusic_state.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "002C08649DA27695",
@@ -87,7 +87,7 @@
   {
     "hash": "00D603A97D3A3844",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_sepeinza/switches_mission_assassination01/switch_band_music.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C5A7B5302E3D63",
@@ -246,12 +246,12 @@
   {
     "hash": "00B11FA4A503AA52",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons/indooroutdoor.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0073D0D9ACF7A011",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/weapons/normalsilenced.wwiseswitchgroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BB872726F79878",
@@ -347,5 +347,10 @@
     "path": "",
     "gameFlags": 8,
     "hint": "ev_tells"
+  },
+  {
+    "hash": "00BA22628E74843C",
+    "path": "",
+    "gameFlags": 128
   }
 ]

@@ -3,13 +3,14 @@ import json
 import hashlib
 
 GAME_FLAGS = {
-    "alpha": 0b000001,
-    "h1": 0b000010,
-    "h2": 0b000100,
-    "h3": 0b001000,
-    "beta": 0b010000,
-    "sa": 0b100000,
-    "unknown": 0b1000000
+    "alphaJuly2015": 0b00000001,
+    "h1": 0b00000010,
+    "h2": 0b00000100,
+    "h3": 0b00001000,
+    "beta": 0b00010000,
+    "sa": 0b00100000,
+    "unknown": 0b01000000,
+    "alphaJan2015": 0b10000000
 }
 
 def ioi_hash(string):

@@ -17,7 +17,7 @@
   {
     "hash": "00A2F08528B55CB8",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/_scene_mission_copperhead/_scene_mission_copperhead.swf].pc_swf",
-    "gameFlags": 12
+    "gameFlags": 140
   },
   {
     "hash": "00B2105E1523397E",
@@ -32,7 +32,7 @@
   {
     "hash": "0014A6D05E54FF2B",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf].pc_swf",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00E708DC25D726DA",
@@ -107,7 +107,7 @@
   {
     "hash": "00A51168E6512C9F",
     "path": "[assembly:/_pro/scenes/missions/paris/maps/_scene_fashionshowhit_01/_scene_fashionshowhit_01.swf].pc_swf",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "00CEC914C8280520",
@@ -142,32 +142,32 @@
   {
     "hash": "009B0505AF2DDE51",
     "path": "[assembly:/ui/controls/basic.swf].pc_swf",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00812AEC4051343F",
     "path": "[assembly:/ui/controls/common.swf].pc_swf",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "001684A45BB3064A",
     "path": "[assembly:/ui/controls/controlsmain.swf].pc_swf",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "004096595E50DFE8",
     "path": "[assembly:/ui/controls/hud.swf].pc_swf",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "004A314BA75429D7",
     "path": "[assembly:/ui/controls/menu3.swf].pc_swf",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00F39FEE25F529C7",
     "path": "[assembly:/ui/controls/phone.swf].pc_swf",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0002012C8909E30C",
@@ -182,7 +182,7 @@
   {
     "hash": "00B8A5288E3707E1",
     "path": "[assembly:/ui/fonts/fonts_en.swf].pc_swf",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "007C8C7677C66AE3",
@@ -203,5 +203,15 @@
     "hash": "003FAEA4B93A7DBB",
     "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_dugong/scene_dugong.swf].pc_swf",
     "gameFlags": 8
+  },
+  {
+    "hash": "00CEC25F84801DE0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0059B05A6B44BF1F",
+    "path": "",
+    "gameFlags": 128
   }
 ]

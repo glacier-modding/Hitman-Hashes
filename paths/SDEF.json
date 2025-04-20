@@ -22,7 +22,7 @@
   {
     "hash": "00D6071A49127F2F",
     "path": "[assembly:/sound/sounddefinitions/bdygrd03.sdefs].pc_sdefs",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "006273051DD24826",
@@ -167,7 +167,7 @@
   {
     "hash": "0044CEDD4C26CEBF",
     "path": "[assembly:/sound/sounddefinitions/civfem01.sdefs].pc_sdefs",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "003043D34399CAE4",
@@ -257,7 +257,7 @@
   {
     "hash": "00FC04267A4D3AC1",
     "path": "[assembly:/sound/sounddefinitions/civmale01.sdefs].pc_sdefs",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "003AFB680BBEF242",
@@ -2513,5 +2513,25 @@
     "hash": "00B1EBFB48FAEDBA",
     "path": "[assembly:/sound/sounddefinitions/et_lambc.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "000C5D5C2D24B185",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0087CD3ABAE3503B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00914C1E81DFA1C6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008688F01FF22649",
+    "path": "",
+    "gameFlags": 128
   }
 ]

@@ -2112,7 +2112,7 @@
   {
     "hash": "00C8B1A80FBDFCC3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd02/fsebx_fixed_bdygrd02.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D5B0E43478E7D0",
@@ -2127,7 +2127,7 @@
   {
     "hash": "00765B03144E8E9D",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd02/fsebx_saback_bdygrd02.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D05D96943F557",
@@ -3282,12 +3282,12 @@
   {
     "hash": "002DC3829DC4D3DC",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/accdnt_inv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00484E1206CB284F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_47badaction_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000F75B774A18B12",
@@ -3387,27 +3387,27 @@
   {
     "hash": "000E439E7DA99E01",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_blmekll_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0080A852BC8D96FC",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_drgbody_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006B7D258252E099",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_fkesrrdrtnt_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00260C47BB9F3530",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_hmdoor_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A31E4270748664",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_trspss_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00548E280398F9D5",
@@ -3527,17 +3527,17 @@
   {
     "hash": "00022A1703B62C85",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_wrn1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001883CE0F237694",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_wrn2_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C1D845BB34C4D4",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/ar_wrn3_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006D04CC3AB26016",
@@ -3547,217 +3547,217 @@
   {
     "hash": "008EC0503689F26A",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/avoidxplo_stnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00401763DC577C73",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/clscmbt_ack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007DA1D7DC52F107",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/clscmbt_tnt_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0089C4F99D31A056",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_47mpty_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C3F74DE56106F6",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_47supersize_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0005F717FF4F3C58",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_backupcll_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003AF13B704ACE4C",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_baddsg_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0098817D15BC07FA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_clsack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0077A9E15B343EB3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_fire_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F8C50CB2276C9",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_fireldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BC69942F8849FD",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_gthit_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E7EF257A577207",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hithm_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0069C7909993B710",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmclscmbtack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00263FCEE3108F87",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmcvr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DA5C1E47A9A8D3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmfire_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001937D2706993D9",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmflnk_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3D36DC1D74BC5",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmheadpopr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C4DC3DA9D82B15",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmkll_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "008423ED628E1E6E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmkllciv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A42523DADEB961",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmkllname_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D402308B989AB4",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmkllprptss_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0096E7520E8885A2",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmmsstnt_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0000E6D92CB1E6A4",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmshrpshtr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EB00DEF183332E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmspttd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BF5CDB27154C43",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hmvnshd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001C2AEFC2DF5966",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_hold_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B817736CD6FEE4",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_holdldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E80FB14F887538",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006303BA2BD2CBD3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldrls1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B61ACE586DB3D2",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldrls2_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F3B7283CE31C5F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldrls3_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AB5D89E781BB6A",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldrlsfem1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002F84972BC17FC2",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldrlsfem2_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00942BA3CC58EA6E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldrlsfem3_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00722D089B130C95",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_humshldvctm_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0008B6A24431900B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_lnglst_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002F1931D3888C35",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_lnglstrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C08B28AFE73C6A",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_lstmnstn_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FD6D7255B10D15",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_lstsght_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D741ECF089352",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_lstsghtrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B07DD716B88F61",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_ndrattck_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E943F85985C64C",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_relod_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D90DF10412869B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_stalematehold_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C0BD3B48F3D96C",
@@ -3767,52 +3767,52 @@
   {
     "hash": "00A3CA665BA1260F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_tkdwnldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F003A5F0FDAC4",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_triggerthealarm_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D852A3748BD5B5",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_vntack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00201792D4DA8269",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/fsebx_fixed_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008D150A06887ABD",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/fsebx_fixing_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AB464649EB2ABF",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/fsebx_gofix_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DD35F5F4A9ED11",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/fsebx_saback_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00053247CD6ABBE3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_ack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0008CD186E9D41F3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_ackld_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002401EADD07C231",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_ackntnse_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00051E7F23F8BA82",
@@ -3822,17 +3822,17 @@
   {
     "hash": "0092443944A81612",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_bumpack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00919D29847D1F38",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_coincurse_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0046C75394D32E2C",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_curse_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000B76B0CBE64A37",
@@ -3842,12 +3842,12 @@
   {
     "hash": "003C20053BF12E25",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_drpcase_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0006F9F3B30EA546",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_drpgun_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000F979A8B9F5E49",
@@ -3882,7 +3882,7 @@
   {
     "hash": "0060F93449B4ACB5",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_grtgrd47wgun_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E9605C705292F3",
@@ -3907,77 +3907,77 @@
   {
     "hash": "0005660C6A0C5F86",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_mssng_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B0A8C30F651BB5",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_noway1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D636DC378CBCB",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_noway2kidding_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D62AB5E21B08D",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_noway3joke_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C05663184DADB0",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_noway44real_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001B578175712159",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_noway5dntbeliv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003E30EE7FD45693",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_noway6serious_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006A4858F4461DEA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_noway7horrible_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D8B9E463CB33D5",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_reveal_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BB8DF91A9CA755",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_srps_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0047CFC43832421F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_srpsld_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E011FA520DE855",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_srpslow_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F43AF3042C04C6",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_stndrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006B696B71AEBA40",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_stop_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00010844AC4A5A1A",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_stopld_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003008BF6D3C7998",
@@ -3992,37 +3992,37 @@
   {
     "hash": "005613B8CEDB570F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_way1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001D23BA1B8B2A07",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_way2kidding_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D3B08CD3FBE641",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_way3joke_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B0075507A58A01",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_way44real_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ABEE4E613B5E45",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_way5dntbeliv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0054E59A3E194298",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_way6serious_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B0230FF31261C6",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/gen_way7horrible_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B9BABE66849C74",
@@ -4032,82 +4032,82 @@
   {
     "hash": "000D32D8AE786A21",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_alarmack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A51E4957EFF4C3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_backupcll_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00902D84531A1C2D",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_brk2civ_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BEBA5060C6ACF1",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_brk2grd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BEA8D05FB2D890",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_brk2rdo_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DBD73D38EDF377",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_brkask_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008B1AB0F92DE894",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_chckcvr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004007EA085B1389",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_clsttnt_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F5BECCC3A101F7",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_dstrssinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D8B37E7658F254",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_dstrssinvldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003E765146878524",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_dstrssldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00AA0974B946E685",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_frsk_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000CC4569EA7B77D",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_frskack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00136D7EF9F77A44",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_frskcln_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0041274C5479309F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_frskwpn_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D59720F587B396",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_ghostask_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E373EF09705934",
@@ -4117,32 +4117,32 @@
   {
     "hash": "0033D773ED78F2B6",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_gnshtinvldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B7FEBC58F07D4A",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_gnshtldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E76DF8594D8B63",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_hmtnt_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0084506BD21EB9D3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_idle_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008158AE96F80DE9",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_lckdwngtoutldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0040D7BF2DDD6B63",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_nitiatehmknwn_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004801BE8333CF34",
@@ -4172,102 +4172,102 @@
   {
     "hash": "00D6FC1CA364BD45",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_recursvrinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003D2E76EBAD40AC",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_recursvrinvldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AB1147A599F776",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_recursvrinvrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A9D8F14F7F4E88",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_recursvrldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D69914798AA0F6",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_recursvrrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B343C0068BE4E4",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_seedthinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002995ECD5D7C24A",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_seedthinvldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009DEB6FD82CE92B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_seedthldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "0077644DE895EF78",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_srchldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F815136C7478D3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00370BD3061909EC",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndagtd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00256D921423C47E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndagtdhmknwn_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004B45347F943A0E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndagtdhmknwnldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AF16CB2726D6AA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndagtdldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AFF9C63C6BD4CF",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndhmknwn_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0070E82FF81C5932",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndhmknwnldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0071268AD5B89C0E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0023374E41FD0EA7",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_stndrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004BBC221A8623CD",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_triggerthealarm_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0023FDC104F2221E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_vnttnt_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0090012E7FF0FF5A",
@@ -4277,17 +4277,17 @@
   {
     "hash": "00967E5A298E0979",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xpln47_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0043F8F19502C671",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xpln47wpn_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0040464E510551BE",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnaccdnt_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0025B9FD8FA58CA7",
@@ -4342,17 +4342,17 @@
   {
     "hash": "004C772A5A744820",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplndedbdy_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00774198C14512F7",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplndedbdymassive_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0011221B596F91BA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplndrgbdy_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004782965D524310",
@@ -4447,22 +4447,22 @@
   {
     "hash": "0009D7A61C0BAC41",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplndstrss_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00726E7612069D26",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnexplo_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0000DEE5355EF0DD",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnghost_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0053582F9488A10B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplngnsht_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00159841F2FA8B84",
@@ -4482,172 +4482,172 @@
   {
     "hash": "0042BD0009D59CBB",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnnkdbdy_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F4F7ECE737F422",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnpcfdbdy_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00053BB0A2D95C0F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnrecursvr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0009FDEDCEC9C8F9",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00166A965B204635",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnseedth_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C5E04ED0E0500D",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplntrspss_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B9FE7C85040067",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xplnx_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F0009BB2FA939",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xploinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005824A97467EA2F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xploinvldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F03940D33D51C5",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inca_xploldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D35B938DF5E85B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_brk2rdo_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EC9B42185AB903",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_civcmnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00361413409D33F7",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_cralrmack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00BFE0A75D093655",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_cralrmldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000DB402D291CD1B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_cralrmstndrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00396FB026BADD66",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_ftstpsack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F51E38380CD524",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_ftstpsstnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0055061439BD8834",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptsshearack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00784542F4356CAA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptsshearinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0056C17ACBF35D65",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptsshearldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000D5229B586A647",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptsshearstndrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B6645B9E05DE4",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptssseeack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006A84432AB24F69",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptssseeinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D0F9AF2C750D76",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptssseeldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EF9AD529D71398",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_prptssseestndrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0072C8D439D070DA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_rdoack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002AB479355D45FA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_rdoldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001A9C4EA8C9CC90",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_rdostndrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002EEFEC2E5AD755",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_recurack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005E9C7C74028DA9",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_recurinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007E87E69AD08A02",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_recurldr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007857EDA7EA84BF",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_recurrsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003072BA1E6161B6",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_stnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005937AA5D64BEBE",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/incu_wpninv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001445B4381AF8A3",
@@ -4657,52 +4657,52 @@
   {
     "hash": "00F1E91F1C3704B7",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_ack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AEFEDFCF9AEBFB",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_bloodpllack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0067E1B1DC92A8AD",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_bodygone_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006577F77580AD93",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_cntnack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005A5CE3D5A2F0FE",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_inv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D493C01C0E86B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_massive_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0069C278DF508099",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_nkdack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00A06D989AC31620",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_pcfdinv_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001A5245ADF0F277",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_prmtrbrchwrn1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005991234671F6BA",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indedbdy_prmtrbrchwrn2_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E80BAF97F51FFF",
@@ -4732,97 +4732,97 @@
   {
     "hash": "003F1EA03EE2ABA8",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_fllwwrn1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007DDAD8C99E6B46",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_fllwwrn2_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00391E50F9C760B8",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_fllwwrn3_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00E3CD64DBB67C9E",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_hdnplnsght_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C61018EBCF7EC6",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_pzzl_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002EBA78C57708BF",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_stnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EEC3B9CF380CE0",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_stnddistance_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CEF73644DEF474",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/indsg_stndhidden_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002F869C83D0B49C",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_hm2cls_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009417E7B512A13D",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_hmaglty_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F6D51569927A75",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_hmbz_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0032F2AD491BA224",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_hmbzstnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00060A6286A00214",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_hmentxit_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DC7D30938FB27B",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_hmincvr_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B5369E9FA9F666",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_hmsnkng_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EEDA3273760DA3",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_prptsssee_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D226E9D6ED6837",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_sickack_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0018D23FBC4DB225",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_stnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009EBB9C2A6A7506",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/inst_wrn_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D72ADB844424C4",
@@ -4862,37 +4862,37 @@
   {
     "hash": "00450256148EE5EC",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/trspss_rsp_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B42142B1550B73",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/trspss_stnd_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F46F921B2B822F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/trspss_wrn1_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00871FDD1187BB4F",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/trspss_wrn2_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C022D27CA93525",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/trspss_wrn3_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003B3FFFAAB83E9E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/accdnt_inv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D0974C735AD086",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/ar_47badaction_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C27A4D244EF77D",
@@ -4997,22 +4997,22 @@
   {
     "hash": "00588FD12425C304",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/ar_blmekll_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DEBE6FD4E00189",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/ar_drgbody_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F7F42F749BFA1",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/ar_hmdoor_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F07CE8B26ECB10",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/ar_trspss_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E7DC6DD1521412",
@@ -5022,22 +5022,22 @@
   {
     "hash": "0097A45F4BDEC68E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/avoidxplo_ack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001C13C6863F077D",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/avoidxplo_stnd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C80538567DBDA7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/clscmbt_ack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0093506BB8EFC1E2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/cmbt_beg_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0072D1810BFED4A7",
@@ -5052,7 +5052,7 @@
   {
     "hash": "001E2EF868543FD6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/cmbt_humshldvctm_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0022371F0DB86F96",
@@ -5062,47 +5062,47 @@
   {
     "hash": "0099BDC9FF0D1A55",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/cmbt_scrm_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CC8D2E3EE902D7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/cmbt_whmp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00494E791AECA9EC",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/fsebx_fixed_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0006C13E1C32A880",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/fsebx_fixing_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FE1D0C67D1A602",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/fsebx_gofix_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0007EB32FEEC06E8",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/fsebx_saback_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AD7E1761C1DB68",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_ack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008E3CCFC85EAB41",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_ackld_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004BA804EB4B9756",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_ackntnse_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009BB615E82A7317",
@@ -5112,17 +5112,17 @@
   {
     "hash": "00A57882AC3EB50B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_bumpack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001D6865296D42EF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_coincurse_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006347E3738F18B3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_curse_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005CD5CB21E95550",
@@ -5132,12 +5132,12 @@
   {
     "hash": "005AA2E88797FBA5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_drpcase_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007119AB1DA85384",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_drpgun_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A80490EB2CC68A",
@@ -5237,7 +5237,7 @@
   {
     "hash": "0052F2F2629B225A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_grtgrd47wgun_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0010C218342D03AD",
@@ -5267,97 +5267,97 @@
   {
     "hash": "00BD53755B23CB6F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_gthlp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00157B9984B4DCFB",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_gthlpld_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ABE1E174DEE073",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_hmhere_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00407C2C2DAF233F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_hmthere_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D4120771DFFEC4",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_mssng_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0009972A3766157D",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_noway1_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C321851CB4D66C",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_noway2kidding_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0012BB285E6A9F2A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_noway3joke_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002E4A8B004BCA82",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_noway44real_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0061D9B54E7AFA1C",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_noway5dntbeliv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E07DC7456B4962",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_noway6serious_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B2D06F728B57D0",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_noway7horrible_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CA383F02A83AC5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_reveal_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008C0B0C4CA7AA63",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_srps_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00784FEC5E980171",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_srpsld_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00993AD5ECCF2A3B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_srpslow_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E244E22CF6320C",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_stndrsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A9CC912E209E7C",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_stop_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "005E8D0F88B1FCB6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_stopld_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00589161F557EA49",
@@ -5367,67 +5367,67 @@
   {
     "hash": "0009F8D227CB0123",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_way1_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00290A6DED004560",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_way2kidding_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D2DB4180667068",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_way3joke_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D612EEE9C6ACE6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_way44real_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000A5EAD82D45699",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_way5dntbeliv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006445FB96B8E5B7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_way6serious_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A8C0887BB77F5F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/gen_way7horrible_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001953FF9CBE0B78",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_alarmack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0006B8FED8FDD1D2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_brk2civ_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E626079F65A93B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_brk2grd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0054F799FDD775C3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_brkask_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E54BDD3A676C8D",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_civrptfail_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00649BC40519A60B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_civupset_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00749AC2C3ED5849",
@@ -5437,7 +5437,7 @@
   {
     "hash": "00D235DE3F48C6C6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_lckdwngtoutrsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B9886FC11FC4B2",
@@ -5452,32 +5452,32 @@
   {
     "hash": "0057E759B9D2EFBD",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xpln47_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009727C3047C99B4",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xpln47wpn_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00B6BC18037924B1",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnaccdnt_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B29A09BF7B60A1",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplndedbdy_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002D233917C6B49F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplndedbdymassive_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E6828B47A00C04",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplndrgbdy_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007EE8635E973A03",
@@ -5582,22 +5582,22 @@
   {
     "hash": "0055AD8090925F08",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplndstrss_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00791AC7F7515E79",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnexplo_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0004CAA834B90566",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnghost_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00879B7E68767F81",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplngnsht_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C88BFBC90EA775",
@@ -5617,152 +5617,152 @@
   {
     "hash": "0034AF06145C70AE",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnnkdbdy_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D9F4D90B44584",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnpcfdbdy_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005C7892C8B8198E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnrecursvr_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008CDE5B3197DE68",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnseedth_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0056DA64DEFEC8BF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplntrspss_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00465B53FABCE948",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnwpn_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008E3A239DB30DF9",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_xplnx_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00395C068C8609CF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_cralrmack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BC3A6DD14823F6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_cralrmstndrsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001963052B9FB8EE",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_ftstpsack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F92B6D63AE7564",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_ftstpsstnd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DE2B6C8B3FE280",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptsshearack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0036A651A600455F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptsshearinv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005EE3F21844F9FD",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptsshearldr_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B08151BC1FDA31",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptsshearstndrsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00534811A8FA7DCF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptssseeack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00151718DF129A1B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptssseeinv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00380C1CFC2ADAFE",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptssseeldr_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FDF52B1A355810",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_prptssseestndrsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EE644A0E0702FE",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_rdoack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0048E605439C8CEF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_rdoldr_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0078A5C2F2B9F64C",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_rdostndrsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ECA609DEB1CBAA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_recurack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D9746BEC9B43CF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_recurinv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00598C9CF4A8D6B7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_recurldr_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B1A4E8587A78F6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_recurrsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B4C016631F5CFF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_stnd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BC1067233935A4",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_wpninv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DEAB2EFC08C3CA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indedbdy_ack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F707351902CDDD",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indedbdy_bloodpllack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0051005DFD14A6DB",
@@ -5772,22 +5772,22 @@
   {
     "hash": "00383842AE562A2A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indedbdy_inv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B7932197C3C621",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indedbdy_massive_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0029D01EF49AB6D8",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indedbdy_nkdack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D86B889CCEC06",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indedbdy_pcfdinv_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D3EABA416DF53",
@@ -5812,122 +5812,122 @@
   {
     "hash": "0043B3504503C53D",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_fllwwrn1_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006285219906F064",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_fllwwrn2_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "002DA3B7D587C438",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_fllwwrn3_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "0007E51CDB5050FE",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_hdnplnsght_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006FEC3B8166084B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_pzzl_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002970827A5239D4",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_stnd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0098332A193DA76A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_stnddistance_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CF82A2336F6415",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/indsg_stndhidden_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0070CA921C17ED89",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_hm2cls_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A9C6CBF8E55E64",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_hmaglty_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D5B633289293F3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_hmbz_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00641D33713A1585",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_hmbzstnd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008B436783825394",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_hmentxit_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00674BAE4B0B4317",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_hmincvr_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BBD99F29582997",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_hmsnkng_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006C084B5578B9DC",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_prptsssee_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0065EADD8A3B7B6E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_sickack_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00090EB15B178F76",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_stnd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B3E7A529E908B5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inst_wrn_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004FAF98874704EB",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/trspss_rsp_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004687689DBA2F74",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/trspss_stnd_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E9B7DDB836BACA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/trspss_wrn1_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008E6B7A1E0A16CE",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/trspss_wrn2_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006A1299C2790FE5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/trspss_wrn3_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B5A33A77862B05",
@@ -8792,12 +8792,12 @@
   {
     "hash": "00CF80B03F8ED592",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/accdnt_inv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EF63DAA923E755",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/ar_47badaction_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0049269720F46309",
@@ -8862,22 +8862,22 @@
   {
     "hash": "00D923CACA4C9026",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/ar_blmekll_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C1EC62E6338C95",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/ar_drgbody_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F22F011A1F60FD",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/ar_hmdoor_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E7FF07CC0A91E7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/ar_trspss_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E7B94B7B0E0F09",
@@ -8887,27 +8887,27 @@
   {
     "hash": "001D64496EE5C582",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/avoidxplo_ack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002847887EA68BC2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/avoidxplo_stnd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006AEBCEF99FA1C1",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/clscmbt_ack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001B2AB0FC541860",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/cmbt_humshldvctm_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008BF8FFFDE9E3E0",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/cmbt_scrm_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DBF5C3C929EB90",
@@ -8917,37 +8917,37 @@
   {
     "hash": "008F9888C9900F68",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/fsebx_fixed_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D650F016881784",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/fsebx_fixing_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00736681049B4A2E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/fsebx_gofix_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00729CF885968F86",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/fsebx_saback_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0064D99BACADBF5F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_ack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0030B4AB8E1D4A46",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_ackld_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000EB42E4E2FE28B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_ackntnse_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008911B5CE2AF596",
@@ -8957,17 +8957,17 @@
   {
     "hash": "00EA83D8A7415E6D",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_bumpack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008FF24D4446CCE2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_coincurse_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002D1928B1D3B5AC",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_curse_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F10B4138B29DEC",
@@ -8977,12 +8977,12 @@
   {
     "hash": "00100811FB1F73E2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_drpcase_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F7171240344057",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_drpgun_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F757F3BA336655",
@@ -9062,7 +9062,7 @@
   {
     "hash": "00CBC86CDACD9272",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_grtgrd47wgun_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000E47EEA8E2BDB1",
@@ -9087,47 +9087,47 @@
   {
     "hash": "004788ADCD3E3168",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_gthlp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0064BED9D2F6026B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_gthlpld_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0083A7978014F285",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_hmhere_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FE685DF8DF1A0A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_hmthere_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001E54D884CCAA1F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_mssng_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007C48926A7CD96E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway1_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00856188AE8163B5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway2kidding_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00B864751578CE05",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway3joke_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007B1935B1793CA3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway44real_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0050DE2F34FC8251",
@@ -9137,47 +9137,47 @@
   {
     "hash": "0040CE34788E042B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway6serious_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009DB6C8EA42B506",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_noway7horrible_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0071C0B799B2411B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_reveal_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D707AC9FC420C",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_srps_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00B68C1B68CAA518",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_srpsld_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "002BC8FF3E90840A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_srpslow_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0023DBD73EDC972D",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_stndrsp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00120033B0E60C67",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_stop_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "00E84DA0DD812207",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_stopld_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003C191125A28B18",
@@ -9187,102 +9187,102 @@
   {
     "hash": "0086B7AE2C653CFD",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way1_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005C3F5E0E4132A9",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way2kidding_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003FFDC68EE89670",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way3joke_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00757349BC6AEE9E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way44real_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 17
+    "gameFlags": 145
   },
   {
     "hash": "005F405D9C867BFC",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way5dntbeliv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00661F54CC46DE8F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way6serious_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "006EC2BC43C9AAB1",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/gen_way7horrible_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00746DEB03FCE17F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_alarmack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E2B4E390BB0D1E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_brk2civ_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F3C2B5A7F01E44",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_brk2grd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0074AE5B6530DEB0",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_brkask_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000E4F0A140EB5BF",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_civrptfail_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F584F02C85C9A2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_civupset_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003EFAB075545DA9",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_lckdwngtoutrsp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006260D6EF349BFA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xpln47_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00A0D157606AE0B6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xpln47wpn_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009A11D78957EFF2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnaccdnt_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B502F8355DC4E5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplndedbdy_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B1187DCD92CDB4",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplndedbdymassive_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0089D9B82F42D8C9",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplndrgbdy_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B6A36F75F28A20",
@@ -9337,22 +9337,22 @@
   {
     "hash": "001C572554653D93",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplndstrss_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3B632D0EA2E91",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnexplo_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002ACCBAFD79428E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnghost_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004C1575D1528B9F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplngnsht_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B84DA07C158CA4",
@@ -9372,62 +9372,62 @@
   {
     "hash": "009B265BEF6A7AB2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnnkdbdy_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DA645A1F65A048",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnpcfdbdy_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DB57D5653F3188",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnrecursvr_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CB3B3C9928C7AA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnseedth_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0081BC8C2855D5DE",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplntrspss_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002963859B65E9A9",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnwpn_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FF558F87570CEA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_xplnx_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00D6D4958EEB5E87",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_cralrmack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BAA8854860F307",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_cralrmstndrsp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E0F21317762E73",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_ftstpsack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EBD1DC37714665",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_ftstpsstnd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F31BE97A6AF696",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_prptsshearack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A6D0E53277B9AB",
@@ -9437,7 +9437,7 @@
   {
     "hash": "00C3C5700A2F4837",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_prptsshearldr_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00618E00EA47D06D",
@@ -9447,72 +9447,72 @@
   {
     "hash": "0070B472757EB89F",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_prptssseeack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FB9C07A496A0E6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_prptssseeinv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00508D02E30F4DC3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_prptssseeldr_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D1D1E6B980013A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_prptssseestndrsp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AE242B4148600A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_rdoack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001ABB9469C913D1",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_rdoldr_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009CD62E21B936AD",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_rdostndrsp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FAA77534AF3BB5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_recurack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0046CB483E556CB7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_recurinv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008B05E9D4412C25",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_recurldr_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000B78D13BBD74C5",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_recurrsp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002190F179969C2B",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_stnd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D14898FC856C46",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_wpninv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00170253AB434026",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indedbdy_ack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000A9F09F7A600B8",
@@ -9527,22 +9527,22 @@
   {
     "hash": "00C5003315379DF4",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indedbdy_inv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00566673BEA09216",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indedbdy_massive_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CFF3ED7956FAE0",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indedbdy_nkdack_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A7F80341E1C0F4",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indedbdy_pcfdinv_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BCF793BC8680E7",
@@ -9567,82 +9567,82 @@
   {
     "hash": "0076E6F1D2CD4538",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_fllwwrn1_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D340C2A893FE00",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_fllwwrn2_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EA07C2A4926AD2",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_fllwwrn3_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A894F75E884794",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_hdnplnsght_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0015B735B4CC2E54",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_pzzl_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009BC02437019393",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_stnd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001C9FB6D89DD838",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_stnddistance_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008D0AACFFFB02C7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/indsg_stndhidden_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007C6D021B75A98E",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_hm2cls_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A715D0D435B297",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_hmaglty_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00352F15796F2829",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_hmbz_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00287BE109C72854",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_hmbzstnd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0040879F9053E2C3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_hmentxit_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EFBD0A7CDA31B9",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_hmincvr_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BF4A62D3646CD3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_hmsnkng_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00894BEC323C0A09",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_prptsssee_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BD9F9F7C2BFBAA",
@@ -9652,37 +9652,37 @@
   {
     "hash": "0002C781E126F9CA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_stnd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00772D4BB19A2F4A",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inst_wrn_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BD9D1C29C9B3FA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/trspss_rsp_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D37231197D8DA6",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/trspss_stnd_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001458628C69C8BC",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/trspss_wrn1_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C461D1A4FCE950",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/trspss_wrn2_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D27B2FA9CB59A3",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/trspss_wrn3_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0058CE27D88D74E8",
@@ -19922,12 +19922,12 @@
   {
     "hash": "00D1070BBEAC41DE",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3181_rutherfordauctionresponse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002021CB4B967257",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3182_nelleauctionresponse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0034EE37061A92DE",
@@ -19947,7 +19947,7 @@
   {
     "hash": "000FF1686F01FCC6",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3187_rutherfordclosingresponse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ACCECA64A53221",
@@ -19957,7 +19957,7 @@
   {
     "hash": "001C13E8DC5201B1",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3189_nelleclosingresponse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0083F634352AEC22",
@@ -20372,37 +20372,37 @@
   {
     "hash": "005F0D02A8C487C0",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3419_haileyrequestresponse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00F4B2F4D704CB53",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3420_daliaofficeexitremarks.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00080C06CE2BF0B9",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3421_daliasabotageexcuse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "0049E1AD10823201",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3422_daliasabotagefirstresponse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00EC1895B16AD6B7",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3423_daliasabotageresponsearrival.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00518C0446A5578C",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3424_haileysabotageexcuse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001880F242E06E97",
     "path": "[assembly:/localization/hitman6/conversations/paris/3000_fashion/3000_story/dr3425_daliahaileyexcuseresponse.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F8B22554D6922E",
@@ -20752,7 +20752,7 @@
   {
     "hash": "008C4B8D68BA3D1E",
     "path": "[assembly:/localization/hitman6/conversations/ui/actionprompts.sweetmenutext].pc_localized-textlist",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00E5D9BAD58E4783",
@@ -21632,7 +21632,7 @@
   {
     "hash": "005ED2EA9300BBBA",
     "path": "[assembly:/localization/textlists/ui/absolution_offline_notifications/absolution_offline_notifications.localized-textlist].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FF93816F00E3BF",
@@ -21642,22 +21642,22 @@
   {
     "hash": "00885A002C172B0D",
     "path": "[assembly:/localization/textlists/ui/instincthints_generic/instincthints_generic.localized-textlist].pc_localized-textlist",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00CF7544BD8011AF",
     "path": "[assembly:/localization/textlists/ui/items/items.localized-textlist].pc_localized-textlist",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "005117A7D0223846",
     "path": "[assembly:/localization/textlists/ui/levelactions/levelactions.localized-textlist].pc_localized-textlist",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00C1A93655CA1FBD",
     "path": "[assembly:/localization/textlists/ui/mainmenu/mainmenu.localized-textlist].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00002292B0644B73",
@@ -26775,7 +26775,7 @@
   {
     "hash": "00BE32B6B6710A12",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/incu_cralrmldr_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F5CE2DB49D93E7",
@@ -26965,12 +26965,12 @@
   {
     "hash": "00C5496F84171EEA",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/cmbt_beg_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008595CA62260219",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/ar_fkesrrdrtnt_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F9836DF2A1F509",
@@ -27020,7 +27020,7 @@
   {
     "hash": "0037A5B5F7ECDC04",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/inca_ghostask_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00506AD28FA1DCAC",
@@ -27055,7 +27055,7 @@
   {
     "hash": "00A100F45B305720",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/incu_cralrmldr_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006A9CC14FE33816",
@@ -27075,12 +27075,12 @@
   {
     "hash": "00D09E3D8B6B6154",
     "path": "[assembly:/localization/hitman6/conversations/ai/bdygrd03/cmbt_beg_bdygrd03.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004960C9D9796D4D",
     "path": "[assembly:/localization/hitman6/conversations/ai/civfem01/inca_ghostask_civfem01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F9C3E34E2A5609",
@@ -27140,7 +27140,7 @@
   {
     "hash": "00E12E5B2F4C8ED7",
     "path": "[assembly:/localization/hitman6/conversations/ai/civmale01/ar_fkesrrdrtnt_civmale01.sweetdialog].pc_localized-textlist",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F425FBC37BEA2F",
@@ -52037,5 +52037,1120 @@
     "hash": "008DA8152667B12E",
     "path": "",
     "gameFlags": 2
+  },
+  {
+    "hash": "00B747E1BD2FEF2E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00782DCDFAB7F2D7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00641E3477273A78",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D48106DBD82A01",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003B3692CD94373A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DA6D4B3191A680",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008B346B9EC58CA0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A96FDE013E43F8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0042081145560477",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0003D1717CB9029B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0002291BBDB1DF7B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0041C4599C1CE5E8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003AFB47C880AE15",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000E7BB3363926F5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002F4946D2D570F4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E858C25CDBA469",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C3BD16592F248C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B62590544A8FBE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001758A7170D43F4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CCC12EFD0D463F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EB5FDE56F5A622",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D78412A7BB1B11",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B935800BE9C83E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0064B81D16C5A48D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007DF8D7B750F5CA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0014CEE33EC8D68F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004AF8D55E239AE0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003482A0C162B3C7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C81F81BFB62BFC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006B9C1F9F4F35AB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EC83B2AFD0903B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0087FA6668DF8BB5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0085894C1E2AD5BB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00627179F657AF8D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005B569481884339",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EA3353256A38F9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B0A0E03A0E6945",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007142ED4F74B143",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E4CF547EE3779B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000413FC12427A0F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0024FCD08CE18041",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007E1679EBE563CC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00ED89C5868EFC30",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00122C8CC3D58ABD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005B16182BFB6801",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A234349BD87DDB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A26A17A191F937",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BAAB64753EC587",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C4EEAFB39ED662",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B6957043C90EA4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AE172D5A932884",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001DBF5CA55541D8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0067E7064248EEE0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005D3E56F3C66573",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C4DB88BCB8D3C3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0028B5057B13E671",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001A3A9BE8BA267C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B108755B938C6A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F443FF570970F2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D93AC9EC121E68",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B0A05909B2227F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C065D6B8452A7F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001847FDF5FF02DB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CD61396AF170A0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A9D7AC216B8496",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B6AB16462FF300",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FE8263EBA3197E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FBB0583A3371EC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D41E1C1385A19A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CD9E7A0D317A67",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0039E505418DE2B0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0074C8EBA6EAEE95",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0088071008761F42",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00197F7E83B1510E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00734FAC02E8D5CE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009FF46EA6569563",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BFDD337672F6C3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00ACBF4DDA7C876C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00103A65D9710C8B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0062B901A3FA85FB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00911507C925C3BA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E5631A7DAE26AB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0029B41B654F86CB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003A80698508AC29",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C078260D8312D3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005A1A40C8D65633",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A6AC375531631C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00806E87362EEDB3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A61801AA9B6D18",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000941E3336DAE55",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0016DC66F8514A20",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F759DCBE3676BA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D55204BBCCBE47",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0084CB07D16893E8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F798254ECDE139",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0072585A7BD298F0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004159158062C1B9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CE2A1BF5693335",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CCF5C1B504870E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00671142B2F3AE76",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0050FF40A89712E0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0081476F73A98A8D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000AA091556EA6FE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C3B7C63377F94B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009E78A42999551E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005A1BB4FD81C962",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AD63AB2C2C35D2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00228045D3515598",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005547870FC82241",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005936E8E45DDDC0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00018EB8F9876B20",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00177CFCFFDC1BE1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E6E63908F50729",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B1BE2674DA8A2C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AE234D74DB6FB3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BE2261871AB4AA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E3BE97D6517350",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0052EB911B353925",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00843F929973C928",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C1F7B10311D00A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004DA6CE970E7036",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00757155447147C6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0022C493850FAA2A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0081E7D63B74FD22",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E220388ED47A2F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008162DCB997EC85",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0080E7F85C04DFC7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007F4A90AEEDE34C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002DD25A06C1B26F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0036445290A248A0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C091FFAFF04E51",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BF3FD2DEED14A3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005F589123529A39",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0054321E4588C761",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00531F508EBB9988",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006201EA802870B7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D22B93143FC3BA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003742197C62C1D5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EE07F99C352831",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00EB94BAF90C8846",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0004582F59037D52",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0049465CFB6F7854",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0008175EF6506743",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00260AD59C702502",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004CBE7A604D55B6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000ADF145A6BE64F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001065837F0C3309",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CC4567F827A9AF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "008CD27FE3747C1B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0094E2A2EDACB366",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00718DF97336217F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005C6E4D2EE31C9F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00964DB827F3B194",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001506C93CDA9F3F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006DFB53922373AE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E030F0F141B9CA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DDBB1D14041269",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BCC790BC45417B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AFEF43D821988E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0071652B103457DE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A66D3CCDB66EE4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CD3BBA8D0E6B94",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00061848F574C0B8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001E1C1FCDA9980B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005769EA71F30B9A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009BB9A3A7D4AA75",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003E2C3C703DF32E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B436B4961B2911",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004D8B03F276A919",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D17E4C105D81E3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C7CEE48EA7AA9A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0075744B54519DFD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B0C3A36110051D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F6792EC321C3D1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00828F15C528C610",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B053196825AD16",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0005DF813A137F26",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00777CCAB3428615",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F256BB0AC26BDE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002BDFE022BA03DD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C44C0C44717834",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0050C07B8533BA6B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0023063DAB0CDBC3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002B64C4E9C12490",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004AF9D3A4C9EE6A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004DA507C2D773A5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00909192487FA555",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0014D8E09A730260",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D24202B75499A1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0048ADCD9556DBA8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001B65588412FBE3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FC47366C376E89",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005C2BF1FF7A1FD1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B4B1E4618422A6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006AD25197D8A411",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00369D58A8468D44",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0028FF6EE2BD9331",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005CF6FF3CA1DFC5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007932B4432BAD93",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00505F5FDAB06AD0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CDB98D2E0AC9FD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00326F667DCFBF2E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00249BF88116C6DA",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00612E7261D127C0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CE12B51C7BAB09",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001ABF077ECA681E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007647303A9D5A74",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006CAA954FE90BF3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003D1F5F4CE9F448",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00739581159A6BCE",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F8703AE8707A39",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A4902A4D051003",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F0221841DAB49E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0074034AC6A956DB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0014BB3C98CE89E1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F489962849EB70",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E583FE3FCC1225",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0004F13C1E42D355",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00736E3383A11749",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006853F117103F66",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0036E68408E4328F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AA2227EC4B0613",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00314CFA34C7C82C",
+    "path": "",
+    "gameFlags": 128
   }
 ]

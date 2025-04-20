@@ -35322,67 +35322,67 @@
   {
     "hash": "0024B401CED1CB6F",
     "path": "[assembly:/_pro/ui/common/icons_items/icon_questitem_cognacbottle.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0039F16855C356CC",
     "path": "[assembly:/_pro/ui/common/icons_map/barreddooricon.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D61F35B53A87D4",
     "path": "[assembly:/_pro/ui/common/icons_map/exiticon.dds].pc_gfx",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "002151719E121E9E",
     "path": "[assembly:/_pro/ui/common/icons_targets/targetindicatorred.png].pc_gfx",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "0011DB0C71730974",
     "path": "[assembly:/ui/common/firearms/gun/hardballer_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "004E1CC5220BD7D2",
     "path": "[assembly:/ui/common/firearms/gun/taurus_small.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00033E2B764D372E",
     "path": "[assembly:/ui/common/firearms/rifle/hk416_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "001205E624BD3407",
     "path": "[assembly:/ui/common/firearms/shotgun/m500black_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "002F54FE6DF70617",
     "path": "[assembly:/ui/common/firearms/smg/ump_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00D95A622B4292CB",
     "path": "[assembly:/ui/common/firearms/sniper/sakotrgblack_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00662E255C25369F",
     "path": "[assembly:/ui/common/props/axelumber_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "008084F024E28B39",
     "path": "[assembly:/ui/common/props/baseballbat_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00ED60004BD61269",
     "path": "[assembly:/ui/common/props/battleaxe_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "0075593F3018C13C",
@@ -35392,92 +35392,92 @@
   {
     "hash": "0096063FF6C702B2",
     "path": "[assembly:/ui/common/props/brick_small.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FB610F9BBFF7B0",
     "path": "[assembly:/ui/common/props/cleaver_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "000B6FA363F4E0D0",
     "path": "[assembly:/ui/common/props/detonator_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00A8B5BCD67906D6",
     "path": "[assembly:/ui/common/props/fibrewire_small.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0049971F43D2AA02",
     "path": "[assembly:/ui/common/props/filetknife_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00BBE3BAA06B6DB9",
     "path": "[assembly:/ui/common/props/fireaxe_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00C988AB9B4FD730",
     "path": "[assembly:/ui/common/props/fireextinguisher_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "003D0485AAEF0F74",
     "path": "[assembly:/ui/common/props/firepoker_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00757810EA63B9F9",
     "path": "[assembly:/ui/common/props/foldingknife_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00FAA5197B20B7C5",
     "path": "[assembly:/ui/common/props/golfclub_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "001C8439612C1906",
     "path": "[assembly:/ui/common/props/hammer_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00E8EE7D3491CA38",
     "path": "[assembly:/ui/common/props/katana_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "003473CA0688037F",
     "path": "[assembly:/ui/common/props/kitchenknife_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "007ECD706253EFB9",
     "path": "[assembly:/ui/common/props/metalpipeclub_small.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005F5EA879F5057E",
     "path": "[assembly:/ui/common/props/minea_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "007DB5A8F7229828",
     "path": "[assembly:/ui/common/props/minepig_small.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00075C07FDF96235",
     "path": "[assembly:/ui/common/props/policebaton_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00E50444DF16B05A",
     "path": "[assembly:/ui/common/props/radio_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00F662157F08D991",
@@ -35487,12 +35487,12 @@
   {
     "hash": "0064DAB9B744C792",
     "path": "[assembly:/ui/common/props/robot_small.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002646E447C3C1D3",
     "path": "[assembly:/ui/common/props/scissor_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "003761A43BF89298",
@@ -35502,17 +35502,17 @@
   {
     "hash": "0065B8473FE3A4D6",
     "path": "[assembly:/ui/common/props/suitcase_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00FC43108F5673AA",
     "path": "[assembly:/ui/common/props/vase_small.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00E0EABDDF3FE944",
     "path": "[assembly:/ui/images/menu/ingamemenu_backdrop.dds].pc_gfx",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "001CFDC1383005A6",
@@ -35547,117 +35547,117 @@
   {
     "hash": "00DC2B2ABEFD1481",
     "path": "[assembly:/ui/map/grid_assembled.png].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F205061187C8CA",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_ambient.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "0004CECD6D20203F",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_annoyed.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "0039DE5B729519F0",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_arrest.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00A17B04E3085FAE",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_canbreakdisguise.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "006CA7518FA135F8",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_curious.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00E025E1C519F31A",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_disguisebroken.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00AB7CADF19D689E",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_disguisesuspicious.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00804850F7CFF4B2",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_fight.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "0038CC560A1F2A53",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_gethelp.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00AE73118C9C0D51",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_greeting.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "003740C5CACE709D",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_hunting.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00C24EA1A5556941",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_scared.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "000C3F373A59DDB1",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_searching.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00D5A7D10A6F1849",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/aistate_suspicious.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00F5B77E51F1B683",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/triangleorange.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "0054FF24BDE78278",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/trianglered.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00ACFADF6C0FF99E",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/trianglestrokedorange.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00F91330A671D368",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/trianglestrokedwhite.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "004CD88F3D2539BA",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/ai/trianglewhite.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00FB3CF8D32A137B",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/dialog_comment_bubblemedium.png].pc_gfx",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "005DA12844239533",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/dialog_comment_bubblesmall.png].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BCC90D130E0364",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/dialog_speech_bubble.png].pc_gfx",
-    "gameFlags": 31
+    "gameFlags": 159
   },
   {
     "hash": "0047AB7D057DB762",
@@ -35667,57 +35667,57 @@
   {
     "hash": "0022AE3F86C14AF6",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_exit.dds].pc_gfx",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "004BF013A6B5F370",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_item_tool_coin.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0031F1A892CBEFE3",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_rubberduck.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0092E82BB164A81F",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_key_ironkey_a.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00FABA87A65F13C9",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_key_small_a.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0043B688D1D0A5BC",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_key_standard_a.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00967DD4443C9902",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_key_technical_a.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00402E40C2C2DDA1",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_keycard_blue.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00FFD2FF384E83BC",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_keycard_blue_a.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0088ED8EC0E6049E",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_keycard_red.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00A306A22741569E",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_setpiece_access_keycard_yellow.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00286EAF61426454",
@@ -35727,17 +35727,17 @@
   {
     "hash": "0024A8CB3ACFC7E7",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_tool_electricalkit.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "0027E602F8FE9837",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_tool_poison.dds].pc_gfx",
-    "gameFlags": 19
+    "gameFlags": 147
   },
   {
     "hash": "00767564099AFCD4",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/item_lockpick.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0088A7078EBBCF33",
@@ -48812,12 +48812,12 @@
   {
     "hash": "00A0056942AFB35A",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_tool_wrench.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001210A1887D3F0D",
     "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_tool_lighter.dds].pc_gfx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D9BF7A6212258B",
@@ -62525,5 +62525,70 @@
     "hash": "00939A14F4BCEA7D",
     "path": "",
     "gameFlags": 2
+  },
+  {
+    "hash": "00DB8C423B2B3CB4",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006EDF863AEF86B9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000ADD8773249460",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D99544FB43DD40",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F5953A87724FC3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00CCBF01CBABF375",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005B0A9D6E57E577",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00433850E7EA7715",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "003193F830B1E2CF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0088E7A40C68A69B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0042C2D3CECBBAD3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D3288A0DE879F2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006DE4E17F859F21",
+    "path": "",
+    "gameFlags": 128
   }
 ]

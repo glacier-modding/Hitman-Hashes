@@ -442,17 +442,17 @@
   {
     "hash": "0045605588ED54A1",
     "path": "[assembly:/_pro/video/menus/bootmovie.usm].pc_gfxv",
-    "gameFlags": 51
+    "gameFlags": 179
   },
   {
     "hash": "00A628F12B4DFFFD",
     "path": "[assembly:/ui/data/menu3/videos/theshowstopper_placeholder.usm].pc_gfxv",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00800516AEFE9288",
     "path": "[assembly:/ui/data/menu3/videos/theworldoftomorrow_briefing.usm].pc_gfxv",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001E18F28BE8CBC4",
@@ -477,7 +477,7 @@
   {
     "hash": "0007C2B9A0580F50",
     "path": "[assembly:/ui/videos/phone background.usm].pc_gfxv",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "00565DD8F80C9C7B",
@@ -1799,5 +1799,35 @@
     "hash": "00A7E5AD2CB59E23",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "0055A832B254C1A5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A27F9271619269",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F984C58BD7263D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004D7C00FFE726A1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D1C4BB6063D3ED",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00DEFC605BA5BEE6",
+    "path": "",
+    "gameFlags": 128
   }
 ]

@@ -2,7 +2,7 @@
   {
     "hash": "00560363FF10C45B",
     "path": "[assembly:/ai/behaviortrees/guard.aibt].pc_aibz",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "007EF0E7D3283E03",
@@ -22,6 +22,6 @@
   {
     "hash": "00E69C6DBD236725",
     "path": "[assembly:/ai/behaviortrees/civilian.aibt].pc_aibz",
-    "gameFlags": 1
+    "gameFlags": 129
   }
 ]

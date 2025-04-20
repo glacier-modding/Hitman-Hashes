@@ -712,7 +712,7 @@
   {
     "hash": "00FE563A38941440",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/gamecore/prophelpers.template?/prophelper_gasleak_flammable.entitytemplate].entitytype,[modules:/hitman5.moduleinfo?zfixedorientationaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CDCADC22E25CED",
@@ -862,7 +862,7 @@
   {
     "hash": "00647F3F02F11FE4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/liquid/fx_liquid.template?/fx_e_liquid_footstep.entitytemplate].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006841DF048E654E",
@@ -937,7 +937,7 @@
   {
     "hash": "00D50AC901C0F73D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/smoke/fx_steam.template?/fx_e_steam_00.entitytemplate].entitytype,[modules:/hitman5.moduleinfo?zfixedorientationaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009C6E54611FC845",
@@ -2832,7 +2832,7 @@
   {
     "hash": "00A35DB0BF12EE5A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/gameplay/containers/container_body_acid_pool_a.template?/container_body_acid_pool_a.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0065E20810DFECC4",
@@ -2842,7 +2842,7 @@
   {
     "hash": "00ED858EC8A5D70C",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/gameplay/containers/container_body_gardenshredder_a.template?/container_body_gardenshredder_a.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0077CB698AFF7C95",
@@ -2857,7 +2857,7 @@
   {
     "hash": "002532786393CD6E",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/gameplay/traps/forklift_a.template?/forklift_a.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0007E3C44030D398",
@@ -4697,7 +4697,7 @@
   {
     "hash": "00D862C99F42F0E4",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/characters/hitman/internal/hitman01_nologic.template?/hitman_nologic.entitytemplate].entitytype,[modules:/hitman5.moduleinfo?zhitman5.class].entitytype,[modules:/hitman5.moduleinfo?zhm5cceffects.class].entitytype,[modules:/hitman5.moduleinfo?zherouimaptrackeraspect.class].entitytype,[modules:/game.ui.moduleinfo?zuimapdetectoraspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F0F15CAE8CB49A",
@@ -4727,7 +4727,7 @@
   {
     "hash": "0095A4A7CA042E69",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AA0195C1D91377",
@@ -4737,12 +4737,12 @@
   {
     "hash": "003B6097499890D5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D4F63F16FC9FC0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.physics.moduleinfo?zclothsheetentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0089A8632A46EB6C",
@@ -4932,7 +4932,7 @@
   {
     "hash": "005B4E29AF1F20E6",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00907246B0C9708C",
@@ -4942,7 +4942,7 @@
   {
     "hash": "005531C6DEABD957",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D91B7A3674E521",
@@ -5152,32 +5152,32 @@
   {
     "hash": "009EF68599F68798",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E036ED284DE3BA",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009361F8CD945D31",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0066078E4D5353D0",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E7CF1C615CF008",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0064D71C02A66B0B",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B3F799DAFD6CB1",
@@ -5502,7 +5502,7 @@
   {
     "hash": "0093AB7A0676B374",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplatekinematic.template?/kinematiclinkedphysicsentity.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entityblueprint",
-    "gameFlags": 3
+    "gameFlags": 131
   },
   {
     "hash": "00522398A0F93D30",
@@ -5522,12 +5522,12 @@
   {
     "hash": "0058C970484854BD",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplatenocoll.template?/compositeentity01.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect cutsequence only.entitytemplate].entitytype).pc_entityblueprint",
-    "gameFlags": 14
+    "gameFlags": 142
   },
   {
     "hash": "00A7953599B24C07",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplatenocoll.template?/compositeentity01.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entityblueprint",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "007B56DBEC8CFB81",
@@ -5642,7 +5642,7 @@
   {
     "hash": "001256C4285E0B52",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/sound/wwise/soundentities.template?/3daudioemitter.entitytemplate].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001750AC7CB5D0DF",
@@ -5692,7 +5692,7 @@
   {
     "hash": "00CEB525F7969F60",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/basic.swf?/basic.itembg.uic].entitytype,[modules:/runtime.ui.moduleinfo?zuibuttonnavigationentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D00B6011A323D2",
@@ -5737,7 +5737,7 @@
   {
     "hash": "00054CC0E183C20A",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/basic.swf?/common.basecontrol.uic].entitytype,[modules:/game.ui.moduleinfo?zuiminimapnavigationentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00745851C0996237",
@@ -5757,7 +5757,7 @@
   {
     "hash": "008BD9C823D8335D",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/common.basecontrol.uic].entitytype,[modules:/game.ui.moduleinfo?zuimapnavigationentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0036AED83E8378E9",
@@ -5842,7 +5842,7 @@
   {
     "hash": "007E1D02FA698E90",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.intelmenu.uic].entitytype,[modules:/game.ui.moduleinfo?zuiintelselectornavigationentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C721F2EEE5E92D",
@@ -6057,7 +6057,7 @@
   {
     "hash": "00FF14C4763C9112",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.radialmenu.uic].entitytype,[modules:/game.ui.moduleinfo?zuiactionselectornavigationentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007E3A2539E1010D",
@@ -6182,7 +6182,7 @@
   {
     "hash": "008BB861D328C9C9",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.weaponselector.uic].entitytype,[modules:/game.ui.moduleinfo?zuiinventoryselectornavigationentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0047FAC8D0CCA642",
@@ -6222,32 +6222,32 @@
   {
     "hash": "004FDB4570F23755",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zbriefingvideoplayerpagecontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001B5120FC91EF45",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zcontracteditpagecontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00229563437A4DB1",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zcontractplanningpagecontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002314C1BC42B0E8",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zdebriefingpagecontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001AFFFF9709C501",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zdynamicpagecontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002C580A5E01F7E5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zloadoutpagecontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00008C78BEF248CA",
@@ -6272,7 +6272,7 @@
   {
     "hash": "00C6C8FE6DA541A5",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zsurveypagecontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006A45354B654244",
@@ -6547,7 +6547,7 @@
   {
     "hash": "008B52A803B26D69",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu3.swf?/menu3.menuframe.uic].entitytype,[modules:/game.ui.moduleinfo?zmenucontrollerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004146B70887798F",
@@ -6592,42 +6592,42 @@
   {
     "hash": "00F3E920E50C6DCD",
     "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.modaldialog.uic].entitytype,[modules:/game.ui.moduleinfo?zmodaldialogcontroller.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003ADCF067B24C48",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zbodybagentity.class].entitytype,[modules:/hitman5.moduleinfo?zperceptibleaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DF3B716A950B2C",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zhm5item.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009863A6E1FBA128",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zhm5itemccweapon.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B76D1349052929",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zhm5itemweapon.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003DF5044E980659",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioemitter.class].entitytype,[modules:/runtime.audio.wwise.moduleinfo?zaudioemitterspatialaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005EB03C8107F206",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioemitter.class].entitytype,[modules:/runtime.sound.moduleinfo?zaudioambienceemitter.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000A768CA8C27895",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioemitter.class].entitytype,[modules:/runtime.sound.moduleinfo?zaudioambienceemitter.class].entitytype,[modules:/runtime.audio.wwise.moduleinfo?zaudioemitterspatialaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EBF0958F98D3ED",
@@ -6657,12 +6657,12 @@
   {
     "hash": "005B420BDF4FAEC7",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.audio.wwise.moduleinfo?zaudioevent.class].entitytype,[modules:/runtime.sound.moduleinfo?zaudioambienceevent.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0061AE7FE5516D2C",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zboxvolumeentity.class].entitytype,[modules:/hitman5.moduleinfo?zorderedentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A27CDD83DE9F0D",
@@ -6677,27 +6677,27 @@
   {
     "hash": "00558F9F9642F3AE",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/hitman5.moduleinfo?zactorboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006B3ED755FA8E78",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/hitman5.moduleinfo?zfixedorientationaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006F8134FB8DFD60",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/hitman5.moduleinfo?zperceptibleaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0063E770A8EDAA94",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00353F79AB50C81A",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/runtime.repository.moduleinfo?zrepositoryitementity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009E03EEBD496FE1",
@@ -6727,17 +6727,17 @@
   {
     "hash": "009ADFC991129D7E",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/game.ui.moduleinfo?zuimaptrackeraspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0088D1F960BB94A6",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/game.ui.moduleinfo?zuimaptrackeraspect.class].entitytype,[modules:/game.ui.moduleinfo?zuimapdetectoraspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D4D7277876407E",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B37E5269F2F9E8",
@@ -6752,7 +6752,7 @@
   {
     "hash": "008C0049F1091F7C",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/hitman5.moduleinfo?zgenericuimaptrackeraspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002EE9765D84EE76",
@@ -6762,7 +6762,7 @@
   {
     "hash": "001A8BAEDDAD328E",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zspatialentity.class].entitytype,[modules:/hitman5.moduleinfo?zhm5materialdescriptorentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0079077A2E185221",
@@ -6787,32 +6787,32 @@
   {
     "hash": "00106176E91E79D5",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zclothcapsule.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C0EEDB69FA0F5B",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zclothsphere.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B8A6010D6F4578",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zphysicsentity.class].entitytype,[modules:/hitman5.moduleinfo?zitemphysicsentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008D4DF5F33FB79F",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zphysicsentity.class].entitytype,[modules:/hitman5.moduleinfo?zitemphysicsentity.class].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0020EE13BE20D390",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zprimitivespatialentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zdynamicphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zboxshapeaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003EA8411CB03DD1",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zprimitivespatialentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zstaticphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zboxshapeaspect.class].entitytype,[modules:/hitman5.moduleinfo?zhm5collisioncontrolleraspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005EFC03881006E4",
@@ -6822,17 +6822,17 @@
   {
     "hash": "008BDF67EB712E02",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.physics.moduleinfo?zprimitivespatialentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zstaticphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zsphereshapeaspect.class].entitytype,[modules:/hitman5.moduleinfo?zhm5collisioncontrolleraspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00537630F53F175D",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zgeomentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zdynamicphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zcollisionresourceshapeaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CD1E60C60E15EC",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zgeomentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zstaticphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zcollisionresourceshapeaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0046F18AD255DAAD",
@@ -6847,17 +6847,17 @@
   {
     "hash": "00C0F47BE3658E5E",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlightentity.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009FBE7EA6835284",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect cutsequence only.entitytemplate].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004B433A8F3D69D2",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BAEC4D6D8E5647",
@@ -6867,22 +6867,22 @@
   {
     "hash": "00BD91F559768558",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[modules:/hitman5.moduleinfo?zcharactertemplateaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007D5C85C81F6292",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zdynamicphysicsaspect.class].entitytype,[modules:/runtime.physics.moduleinfo?zcollisionresourceshapeaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FF31DA52610455",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedproxyentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothcharacterentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003EC6B2C69A0EE9",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zlinkedproxyentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothcharacterentity.class].entitytype,[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B14583DBEDFC53",
@@ -6892,7 +6892,7 @@
   {
     "hash": "00CDBDC8776DCEF1",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zparticleemitterboxentity.class].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F4C7F8A95C1940",
@@ -6907,12 +6907,12 @@
   {
     "hash": "00320CBA87D129E7",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zprimitivecontainerentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothwireentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D1EADB540A634",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.testlogic.moduleinfo?zorientationentity.class].entitytype,[modules:/runtime.gameentities.moduleinfo?zsoundjumppointambience.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00165EA748A470D1",
@@ -6922,7 +6922,7 @@
   {
     "hash": "0062BE69DEF3042D",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.ui.moduleinfo?zuicontrolentity.class].entitytype,[modules:/runtime.ui.moduleinfo?zuilistnavigationentity.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0050ECD155C39674",
@@ -27462,7 +27462,7 @@
   {
     "hash": "00FC4BD858AD3F52",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.morpheme.moduleinfo?zentity.class].entitytype,[modules:/hitman5.moduleinfo?zactor.class].entitytype,[modules:/hitman5.moduleinfo?zactorzonesetup.class].entitytype,[modules:/hitman5.moduleinfo?znpcuimaptrackeraspect.class].entitytype,[modules:/hitman5.moduleinfo?zuiactoriconaspect.class].entitytype).pc_entityblueprint",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E375CF0ADFC8A0",
@@ -29268,5 +29268,145 @@
     "hash": "0021F3892C53C65E",
     "path": "",
     "gameFlags": 2
+  },
+  {
+    "hash": "00215732180F4EDF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007389969870F3DD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001380071D75228D",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005B7D171AB4BD2E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0087634246FFE6A2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F6BFAEED24455C",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FC3B02EA2E9B4E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00BCC191E67FC648",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0075C536F1BFC091",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F6D6E849D2BA1A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004C3A446A244671",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00864CACBE3377D8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004D72C9EDCC5B3B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005BA1496CAA1FF6",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0027E48351C6C10A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00350C8CF5FAB39F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00A754C8D04ED4A1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0007A4E08609577B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006C34DE6463B4FC",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00627A6DD9F004B0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C9C055AF2E0184",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00768F797734EF70",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F8980F2F15E929",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0047094654FF0152",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00B8A2DD81BC2F37",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0033050FAFDC3073",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00E0FF1CFB1C00E9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0092C777689733A7",
+    "path": "",
+    "gameFlags": 128
   }
 ]

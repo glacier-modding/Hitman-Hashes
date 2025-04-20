@@ -2,37 +2,37 @@
   {
     "hash": "004BCA13DECC2C15",
     "path": "[modules:/game.character.moduleinfo?zbackattacheranimator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E9795E40FA7700",
     "path": "[modules:/game.contentkit.moduleinfo?zcontentdescriptor.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00733CF299276244",
     "path": "[modules:/game.contracts.moduleinfo?zcontractidcomparerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C6C340896AF115",
     "path": "[modules:/game.contracts.moduleinfo?zcontractmetricsadapterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B2008D7CB1CBFF",
     "path": "[modules:/game.contracts.moduleinfo?zcontractsevententity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B9E2437A1D3D38",
     "path": "[modules:/game.contracts.moduleinfo?zcontractsexitentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B76601B6478C75",
     "path": "[modules:/game.contracts.moduleinfo?zcontractsitemidvalueentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E267E386C41239",
@@ -42,127 +42,127 @@
   {
     "hash": "00FA05A5E7CCAD4C",
     "path": "[modules:/game.contracts.moduleinfo?zvarianttovoidconverterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007CF12A2C6FEF18",
     "path": "[modules:/game.hero.moduleinfo?zagilitysoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005FD7802AC658DA",
     "path": "[modules:/game.hero.moduleinfo?zanimlayerequipitem.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CEEAB4035E50C2",
     "path": "[modules:/game.hero.moduleinfo?zanimlayerhideweapon.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003174768C4295A5",
     "path": "[modules:/game.hero.moduleinfo?zanimlayeridle.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B889F7DE6BE1DD",
     "path": "[modules:/game.hero.moduleinfo?zanimlayerreload.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D3C2E7C1A735A1",
     "path": "[modules:/game.hero.moduleinfo?zanimlayersubaction.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0004329D3E3BD42D",
     "path": "[modules:/game.hero.moduleinfo?zanimlayerswingatwill.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008AAC7189AD82DE",
     "path": "[modules:/game.hero.moduleinfo?zanimlayerweaponidle.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0072071BCC71A56A",
     "path": "[modules:/game.hero.moduleinfo?zexplosionsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001DDA169A5935C4",
     "path": "[modules:/game.hero.moduleinfo?zheroanimlayerscontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DC39781FD764DA",
     "path": "[modules:/game.hero.moduleinfo?zheroguidecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D9D2365F77FAD9",
     "path": "[modules:/game.hero.moduleinfo?zheroidlenetworkaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0084C836E491E9C8",
     "path": "[modules:/game.hero.moduleinfo?zheroikcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0089CDF38C1A115F",
     "path": "[modules:/game.hero.moduleinfo?zheroreloadcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0023F3F143FAF25A",
     "path": "[modules:/game.hero.moduleinfo?zinventorycontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F926ED9F9E645",
     "path": "[modules:/game.hero.moduleinfo?zkillsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BDD0D1A5BB7870",
     "path": "[modules:/game.hero.moduleinfo?zlookataimsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D13E620A42AB6E",
     "path": "[modules:/game.hero.moduleinfo?zthrowsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F808AA6F82D533",
     "path": "[modules:/game.hero.moduleinfo?zweaponsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F4416B4E0B29E0",
     "path": "[modules:/game.intel.moduleinfo?zintelentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EDC6172CEA97E4",
     "path": "[modules:/game.item.moduleinfo?zfirearmconfiguration.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0014B09237032CD9",
     "path": "[modules:/game.item.moduleinfo?zitemconfig.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CED5C85E987C63",
     "path": "[modules:/game.item.moduleinfo?zitemconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D94D159FB70BA9",
     "path": "[modules:/game.item.moduleinfo?zitemgrabber.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007FA6C781F342D7",
@@ -172,52 +172,52 @@
   {
     "hash": "00F946A2C274B5BE",
     "path": "[modules:/game.item.moduleinfo?zitemspawner.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006F6B685C4B96FB",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordcondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002934C53C56EEE8",
     "path": "[modules:/game.keyword.moduleinfo?zkeyworddebug.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000740EFFBEF7293",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C8A59830BC255C",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordfilter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004DB4406147D08A",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordholderproxy.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FAB9AEF960EB25",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordlistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A7DBEA22EA6975",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordreceiver.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00940E0FF5ABC14F",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordsubscriberentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00964DDC2E9CB6F8",
     "path": "[modules:/game.keyword.moduleinfo?zkeywordtransferentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0038423D83CDF6D0",
@@ -227,92 +227,92 @@
   {
     "hash": "00B82680A3D1FB96",
     "path": "[modules:/game.logic.moduleinfo?zvaluebool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ADF6374F4527EF",
     "path": "[modules:/game.logic.moduleinfo?zvaluebool_entityproperty.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0064A8D5A1DA2371",
     "path": "[modules:/game.logic.moduleinfo?zvaluebool_get.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D36AE16E525F71",
     "path": "[modules:/game.logic.moduleinfo?zvaluebool_operation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00103E805441D38D",
     "path": "[modules:/game.logic.moduleinfo?zvaluebool_poll.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008FC8FFA31F0D50",
     "path": "[modules:/game.logic.moduleinfo?zvaluebool_set.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0000F9EB445E8354",
     "path": "[modules:/game.logic.moduleinfo?zvaluecolorrgb.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00545CD23ECE60CC",
     "path": "[modules:/game.logic.moduleinfo?zvaluecolorrgb_changed.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E0F8F786568529",
     "path": "[modules:/game.logic.moduleinfo?zvaluecolorrgb_entityproperty.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0047D26CF496B9B1",
     "path": "[modules:/game.logic.moduleinfo?zvaluecolorrgb_poll.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EAD657F31D947F",
     "path": "[modules:/game.logic.moduleinfo?zvaluecolorrgb_set.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007DA4C5259986E0",
     "path": "[modules:/game.logic.moduleinfo?zvaluefloat.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008B5DF962BFA9A7",
     "path": "[modules:/game.logic.moduleinfo?zvaluefloat_entityproperty.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A254F4D2487B45",
     "path": "[modules:/game.logic.moduleinfo?zvaluefloat_get.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00827A303EBAA8EC",
     "path": "[modules:/game.logic.moduleinfo?zvaluefloat_poll.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0003EE36E1938DBC",
     "path": "[modules:/game.logic.moduleinfo?zvaluefloat_set.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D0275E86E949A",
     "path": "[modules:/game.logic.moduleinfo?zvalueint.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BB64B4DE4E1F1A",
     "path": "[modules:/game.logic.moduleinfo?zvalueint_changed.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CC0C5AD2BA5CAE",
@@ -327,7 +327,7 @@
   {
     "hash": "000D26C5A42E9A76",
     "path": "[modules:/game.logic.moduleinfo?zvalueint_evaluation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0054546B0C3DCA11",
@@ -337,12 +337,12 @@
   {
     "hash": "005CB4B9111E8DE2",
     "path": "[modules:/game.logic.moduleinfo?zvalueint_poll.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004235B76295BB42",
     "path": "[modules:/game.logic.moduleinfo?zvalueint_set.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00350DA325209E65",
@@ -372,7 +372,7 @@
   {
     "hash": "005E920B63C4199D",
     "path": "[modules:/game.markup.moduleinfo?zconfigvarcondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F096F4D8F73F75",
@@ -382,42 +382,42 @@
   {
     "hash": "007E341B4520739A",
     "path": "[modules:/game.markup.moduleinfo?zcoverplane.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ED1FE4F32C6CB2",
     "path": "[modules:/game.markup.moduleinfo?zguidedrainpipe.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0022D1D832778788",
     "path": "[modules:/game.markup.moduleinfo?zguideladder.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ADBE8F8DA21C76",
     "path": "[modules:/game.markup.moduleinfo?zguideledge.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005A6BBBEFA1F1C7",
     "path": "[modules:/game.markup.moduleinfo?zguidewindow.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FBFBFED5E63EC6",
     "path": "[modules:/game.metrics.moduleinfo?zcameralookatmetricvalueentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B31B1AF1036BB",
     "path": "[modules:/game.metrics.moduleinfo?zmetricssenderentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F942B41B0B8CB4",
     "path": "[modules:/game.metrics.moduleinfo?zmetricvalue_bool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002DF79BDFCEF979",
@@ -427,22 +427,22 @@
   {
     "hash": "0000F17294A3CB5D",
     "path": "[modules:/game.metrics.moduleinfo?zmetricvalue_int32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00233FAC0A68183B",
     "path": "[modules:/game.metrics.moduleinfo?zmetricvalue_pool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0043FE9F5D1C3774",
     "path": "[modules:/game.metrics.moduleinfo?zmetricvalue_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00089AEDC6579E11",
     "path": "[modules:/game.metrics.moduleinfo?zmetricvalue_uint32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0014F8130716A4E2",
@@ -452,17 +452,17 @@
   {
     "hash": "00E662DC87454C12",
     "path": "[modules:/game.metrics.moduleinfo?zmetricvalue_zstring.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0045B637DCF6F05A",
     "path": "[modules:/game.online.moduleinfo?zonlineconfigurationvalueentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00247C2DB945CB2A",
     "path": "[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F1983032BB553",
@@ -472,57 +472,57 @@
   {
     "hash": "003D6301A550808F",
     "path": "[modules:/game.ui.moduleinfo?zbriefingvideoplayerpagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0039F0173E9595D6",
     "path": "[modules:/game.ui.moduleinfo?zbriefingvideoresource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00626932EAA674FE",
     "path": "[modules:/game.ui.moduleinfo?zcontracteditpagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007438A229ADE856",
     "path": "[modules:/game.ui.moduleinfo?zcontractplanningpagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00284CC2A6B64EAE",
     "path": "[modules:/game.ui.moduleinfo?zcontractseventtonotificationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E5FAA2B3F9D7D4",
     "path": "[modules:/game.ui.moduleinfo?zcontractsmarkersdisplayentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C1373E0AB7D336",
     "path": "[modules:/game.ui.moduleinfo?zcurrentmapmetricvalueentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CD3B243AD022B7",
     "path": "[modules:/game.ui.moduleinfo?zdebriefingpagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00240F84EC7D0786",
     "path": "[modules:/game.ui.moduleinfo?zdynamicobjectaccessorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0099A9294BCD3A69",
     "path": "[modules:/game.ui.moduleinfo?zdynamicpagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007AC48B246B5BD7",
     "path": "[modules:/game.ui.moduleinfo?zdynamicpagelayout.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0057D62804FD8E37",
@@ -532,87 +532,87 @@
   {
     "hash": "00CD51069335A489",
     "path": "[modules:/game.ui.moduleinfo?zgameuimanagerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0078050F8F245A22",
     "path": "[modules:/game.ui.moduleinfo?zgameuimenuentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D58030E9435EFB",
     "path": "[modules:/game.ui.moduleinfo?zhudaiguide.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007453B554AF74AB",
     "path": "[modules:/game.ui.moduleinfo?zhuddamagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D310AEE3DC7C86",
     "path": "[modules:/game.ui.moduleinfo?zhudhintcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A097DA9C2E0F9B",
     "path": "[modules:/game.ui.moduleinfo?zhudlevelobjectivecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002317FB3C7206CA",
     "path": "[modules:/game.ui.moduleinfo?zhudobjectivesbarcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0079C985C9A2D9A0",
     "path": "[modules:/game.ui.moduleinfo?zhudpromptdisplaycontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00913D5D702F328C",
     "path": "[modules:/game.ui.moduleinfo?zhudthreatcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A1419CAE054CB1",
     "path": "[modules:/game.ui.moduleinfo?zhudtimercontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001980E522A29257",
     "path": "[modules:/game.ui.moduleinfo?zhudtimerinstance.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004D96A1C7D3DC0D",
     "path": "[modules:/game.ui.moduleinfo?zhuduicontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AA1E813C06975A",
     "path": "[modules:/game.ui.moduleinfo?zhuduiroot.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EF8CBDA8BD65CC",
     "path": "[modules:/game.ui.moduleinfo?zhudvisibilitycontroller2.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D7DB8B0FE5D5BC",
     "path": "[modules:/game.ui.moduleinfo?zhudvitalinfobarcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0023864371E4E14E",
     "path": "[modules:/game.ui.moduleinfo?zinteractionindicatordisplay.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A9F22CDC4DBD7F",
     "path": "[modules:/game.ui.moduleinfo?zloadoutpagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005DB3F5AD88C435",
@@ -627,42 +627,42 @@
   {
     "hash": "00BE43BF8F8A08F3",
     "path": "[modules:/game.ui.moduleinfo?zmenucontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0003324A8F495379",
     "path": "[modules:/game.ui.moduleinfo?zmenulocationcontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00293C5128E122FA",
     "path": "[modules:/game.ui.moduleinfo?zmenulocationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B31E1519022E67",
     "path": "[modules:/game.ui.moduleinfo?zmenupageentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00551E4FF5E361EC",
     "path": "[modules:/game.ui.moduleinfo?zmenusoundcontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A50CDE82956562",
     "path": "[modules:/game.ui.moduleinfo?zmodaldialogcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CF16BDE8043CE0",
     "path": "[modules:/game.ui.moduleinfo?znotificationcategorydefinition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DAF446AE12361F",
     "path": "[modules:/game.ui.moduleinfo?znotificationscontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C1042224F66252",
@@ -682,7 +682,7 @@
   {
     "hash": "001F36C5B27DBE47",
     "path": "[modules:/game.ui.moduleinfo?zshowhintentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00716CFA9D0D7967",
@@ -692,22 +692,22 @@
   {
     "hash": "00F6ADA7AB3B8CED",
     "path": "[modules:/game.ui.moduleinfo?zsurveypagecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0072734026595E05",
     "path": "[modules:/game.ui.moduleinfo?zsvgpathentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CA199F698961ED",
     "path": "[modules:/game.ui.moduleinfo?zuiactionselectornavigationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FDDB3C6235258A",
     "path": "[modules:/game.ui.moduleinfo?zuiactoriconmanagerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0089B04FFC8847D9",
@@ -717,12 +717,12 @@
   {
     "hash": "0033D116EB919C87",
     "path": "[modules:/game.ui.moduleinfo?zuiintelselectornavigationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0031D4C9234FC901",
     "path": "[modules:/game.ui.moduleinfo?zuiinventoryselectornavigationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0071D5F7AB2047EC",
@@ -732,17 +732,17 @@
   {
     "hash": "00082996E544AC7E",
     "path": "[modules:/game.ui.moduleinfo?zuimapconfig.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006BD908C69D8880",
     "path": "[modules:/game.ui.moduleinfo?zuimapcontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0036EB32375B88E8",
     "path": "[modules:/game.ui.moduleinfo?zuimapdetectoraspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0042006099653384",
@@ -767,7 +767,7 @@
   {
     "hash": "006BE9A297A988FE",
     "path": "[modules:/game.ui.moduleinfo?zuimapnavigationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C9A10EDA80BC3A",
@@ -782,17 +782,17 @@
   {
     "hash": "00BEB78D538763B2",
     "path": "[modules:/game.ui.moduleinfo?zuimaptrackeraspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0012FE8108F36ED7",
     "path": "[modules:/game.ui.moduleinfo?zuimaptrackermanagerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008019E9C49DC5F6",
     "path": "[modules:/game.ui.moduleinfo?zuiminimapnavigationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E8263D92C5FA8A",
@@ -802,12 +802,12 @@
   {
     "hash": "006B533A3E32431F",
     "path": "[modules:/game.ui.moduleinfo?zuispatialcontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003929A9AC2084A3",
     "path": "[modules:/game.ui.moduleinfo?zuispatialcontrolsmanagerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FE5D0298FB3650",
@@ -817,22 +817,22 @@
   {
     "hash": "00C70652B4C93558",
     "path": "[modules:/game.ui.moduleinfo?zuiworldmapview.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00010A1D630AA926",
     "path": "[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007D4542B20EE483",
     "path": "[modules:/game.ui.moduleinfo?zworlduielementdisplaybase.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006EC76B15DFC4D6",
     "path": "[modules:/game.ui.moduleinfo?zworlduiimageinstance.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A649F203AC04AC",
@@ -842,7 +842,7 @@
   {
     "hash": "007D378B976BB475",
     "path": "[modules:/game.utils.moduleinfo?zconditionaltimerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00939B6FF18F330F",
@@ -857,7 +857,7 @@
   {
     "hash": "00674C75331259DE",
     "path": "[modules:/game.utils.moduleinfo?zperformanceprofileentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A03429A7FB3909",
@@ -867,7 +867,7 @@
   {
     "hash": "0037A17873FA7C34",
     "path": "[modules:/game.utils.moduleinfo?zrandomtimerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C6DA9209C59E66",
@@ -877,12 +877,12 @@
   {
     "hash": "000253C123AD13C0",
     "path": "[modules:/game.utils.moduleinfo?ztimerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004260746B87D2E6",
     "path": "[modules:/game.utils.moduleinfo?ztokenidentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A80B372E1139C5",
@@ -892,52 +892,52 @@
   {
     "hash": "0095971F4A25793A",
     "path": "[modules:/hitman5.moduleinfo?hm5_osd_hud_soundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00433F91E1B8E9B4",
     "path": "[modules:/hitman5.moduleinfo?hm5_osd_pausemenu_soundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00336CA816A5CF8E",
     "path": "[modules:/hitman5.moduleinfo?zabsoluterotatorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006086CA1A6955DB",
     "path": "[modules:/hitman5.moduleinfo?zaccessoryitem.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C09B49385DEE37",
     "path": "[modules:/hitman5.moduleinfo?zaccidentarea.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FC217CE863F9B2",
     "path": "[modules:/hitman5.moduleinfo?zaccidentsituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C7475C43CF630F",
     "path": "[modules:/hitman5.moduleinfo?zactbehaviorapproachdistancestatecondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0015C90EDEFDE31B",
     "path": "[modules:/hitman5.moduleinfo?zactbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D320D537D3F8D1",
     "path": "[modules:/hitman5.moduleinfo?zactbehaviorstatecondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D1B359760280F",
     "path": "[modules:/hitman5.moduleinfo?zactevententity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00818CE24A862354",
@@ -947,32 +947,32 @@
   {
     "hash": "008F5C27FE617FBC",
     "path": "[modules:/hitman5.moduleinfo?zactor.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DC5F5BE88E693B",
     "path": "[modules:/hitman5.moduleinfo?zactoraccessoryitemaction.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00393E11412E83FE",
     "path": "[modules:/hitman5.moduleinfo?zactoraiperceptibilitydisable.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0047B47B115A21BB",
     "path": "[modules:/hitman5.moduleinfo?zactoraistateiconsentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0086083C3ACB5758",
     "path": "[modules:/hitman5.moduleinfo?zactoralivecondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E33ACC4B27D776",
     "path": "[modules:/hitman5.moduleinfo?zactorboneattachaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EFBE41B2D016F3",
@@ -982,7 +982,7 @@
   {
     "hash": "00235F60B86D6962",
     "path": "[modules:/hitman5.moduleinfo?zactorcanseecondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000F9E4A17CB57F6",
@@ -992,102 +992,102 @@
   {
     "hash": "004F3EB02C4FB1EF",
     "path": "[modules:/hitman5.moduleinfo?zactorchairaction.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006CA1D29FF5868D",
     "path": "[modules:/hitman5.moduleinfo?zactorchaircondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00176FE75B35FA1E",
     "path": "[modules:/hitman5.moduleinfo?zactorcounter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00889835D1097858",
     "path": "[modules:/hitman5.moduleinfo?zactordataentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005484C23B396C49",
     "path": "[modules:/hitman5.moduleinfo?zactordeathentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004DB79D7F871264",
     "path": "[modules:/hitman5.moduleinfo?zactordiedlistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002FFA77561F818E",
     "path": "[modules:/hitman5.moduleinfo?zactordynamictemplatehandler.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005CC442E35D6E9F",
     "path": "[modules:/hitman5.moduleinfo?zactordynamictemplatemanipulator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D2D69C449B8C77",
     "path": "[modules:/hitman5.moduleinfo?zactoreventemitter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E863F844EA7AA6",
     "path": "[modules:/hitman5.moduleinfo?zactorgrabber.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B88C2030C7082A",
     "path": "[modules:/hitman5.moduleinfo?zactorhitapplier.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0010C3D097548AB2",
     "path": "[modules:/hitman5.moduleinfo?zactoriconsoundentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A26E5A8C73A64E",
     "path": "[modules:/hitman5.moduleinfo?zactorikcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DE96781E5A372B",
     "path": "[modules:/hitman5.moduleinfo?zactorimpactapplier.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007B90242591B09C",
     "path": "[modules:/hitman5.moduleinfo?zactoritemaction.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F4EEDA44F59FC4",
     "path": "[modules:/hitman5.moduleinfo?zactoritemcondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0037E2B967480DA7",
     "path": "[modules:/hitman5.moduleinfo?zactorkeywordcondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001CD67E6481075C",
     "path": "[modules:/hitman5.moduleinfo?zactorkeywordproxyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0029E2547696927F",
     "path": "[modules:/hitman5.moduleinfo?zactorlistentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C0BA0C30A06673",
     "path": "[modules:/hitman5.moduleinfo?zactormetricvalueentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B53685E979F860",
@@ -1097,12 +1097,12 @@
   {
     "hash": "00DBE39F6210E81D",
     "path": "[modules:/hitman5.moduleinfo?zactorpicker.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FA27493F1A4394",
     "path": "[modules:/hitman5.moduleinfo?zactorpickereffectdrama.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CBD1B27AEE48AC",
@@ -1112,27 +1112,27 @@
   {
     "hash": "00D3249D7137DCD7",
     "path": "[modules:/hitman5.moduleinfo?zactorpickereffectreference.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00931D1B5B9D9C46",
     "path": "[modules:/hitman5.moduleinfo?zactorpickereffecttrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0058BDCBD27C301A",
     "path": "[modules:/hitman5.moduleinfo?zactorproviderapproach.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0017DC6F19DC0F5A",
     "path": "[modules:/hitman5.moduleinfo?zactorprovidercollection.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003E5AC9559E8871",
     "path": "[modules:/hitman5.moduleinfo?zactorproviderdirect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0083F35EF18BFE89",
@@ -1142,7 +1142,7 @@
   {
     "hash": "0029D69911291EA7",
     "path": "[modules:/hitman5.moduleinfo?zactorproviderfilterkeyword.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3BA2E123B610C",
@@ -1157,12 +1157,12 @@
   {
     "hash": "00C6F2A2947851B1",
     "path": "[modules:/hitman5.moduleinfo?zactorproviderkeyword.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F4B57A2E5E34C5",
     "path": "[modules:/hitman5.moduleinfo?zactorproxyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CE7ABBB04C5238",
@@ -1177,12 +1177,12 @@
   {
     "hash": "00373BB5EDB93F2B",
     "path": "[modules:/hitman5.moduleinfo?zactortensionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DF2E7287830D15",
     "path": "[modules:/hitman5.moduleinfo?zactortracker.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00814B46B8CB0CAF",
@@ -1192,42 +1192,42 @@
   {
     "hash": "00ADE08696554E31",
     "path": "[modules:/hitman5.moduleinfo?zactorvariationcondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00567B742D784987",
     "path": "[modules:/hitman5.moduleinfo?zactorzonesetup.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DAE4175C818587",
     "path": "[modules:/hitman5.moduleinfo?zactrequestentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E5AAE81AD78383",
     "path": "[modules:/hitman5.moduleinfo?zagitatedguardpointentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CC0C63EC00896C",
     "path": "[modules:/hitman5.moduleinfo?zagitatedpatrolentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0050D9E0A0EA8618",
     "path": "[modules:/hitman5.moduleinfo?zagitatedwaypointentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001849271E39294A",
     "path": "[modules:/hitman5.moduleinfo?zaieventemitterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0034663F0A6BCBC3",
     "path": "[modules:/hitman5.moduleinfo?zaiinteractentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0096AA4CBD8AD458",
@@ -1237,47 +1237,47 @@
   {
     "hash": "0037ACA0F536A66E",
     "path": "[modules:/hitman5.moduleinfo?zaimodifieractor.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0004482010333B7E",
     "path": "[modules:/hitman5.moduleinfo?zaimodifierbox.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0011D4A7751283E2",
     "path": "[modules:/hitman5.moduleinfo?zaimodifierrole.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002A81F40C406425",
     "path": "[modules:/hitman5.moduleinfo?zaiperceptibleentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00520EBBCFACBB29",
     "path": "[modules:/hitman5.moduleinfo?zaisharedevententity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DD01E68ACE353D",
     "path": "[modules:/hitman5.moduleinfo?zaisoundconnector.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001A3554CD978E40",
     "path": "[modules:/hitman5.moduleinfo?zaisoundconnectortarget.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A7DFC73172A53D",
     "path": "[modules:/hitman5.moduleinfo?zaisoundevententity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E080A3CE5D3245",
     "path": "[modules:/hitman5.moduleinfo?zaisoundmodifiervolume.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CAB69D0B15218E",
@@ -1292,22 +1292,22 @@
   {
     "hash": "00E98BD9ECD055C2",
     "path": "[modules:/hitman5.moduleinfo?zattentiontracker.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0073479D6E45F4A1",
     "path": "[modules:/hitman5.moduleinfo?zavoidexplosionsituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0059B44485777105",
     "path": "[modules:/hitman5.moduleinfo?zbehaviorpromoterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00598B19B3F72CFE",
     "path": "[modules:/hitman5.moduleinfo?zbodybagentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0059D8754441219F",
@@ -1332,52 +1332,52 @@
   {
     "hash": "009D558DADE809CD",
     "path": "[modules:/hitman5.moduleinfo?zcalculatorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003BDCA9B7C16195",
     "path": "[modules:/hitman5.moduleinfo?zcceffectsetentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DAD3E81AE5D828",
     "path": "[modules:/hitman5.moduleinfo?zchair.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C9068ADBC763CA",
     "path": "[modules:/hitman5.moduleinfo?zcharactertemplateaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000544DD52F3F9DF",
     "path": "[modules:/hitman5.moduleinfo?zcharsetcharactertype.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0077C08070A0B31D",
     "path": "[modules:/hitman5.moduleinfo?zcheatcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F97C6F9963F79",
     "path": "[modules:/hitman5.moduleinfo?zchildnetworkactentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008167906BA446F6",
     "path": "[modules:/hitman5.moduleinfo?zclosecombatdef.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001220B581F104AD",
     "path": "[modules:/hitman5.moduleinfo?zclosecombatsituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008E1AD743B13F05",
     "path": "[modules:/hitman5.moduleinfo?zclosetentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B6531D27BD603E",
@@ -1387,32 +1387,32 @@
   {
     "hash": "0061F9DC13719FBD",
     "path": "[modules:/hitman5.moduleinfo?zclothbundlespawnentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F5F88E7D1F21ED",
     "path": "[modules:/hitman5.moduleinfo?zcombatactentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A5642B7E27A4E3",
     "path": "[modules:/hitman5.moduleinfo?zcombatconfigentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0038E9588650F2FC",
     "path": "[modules:/hitman5.moduleinfo?zcombateventemitter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D4849A760FBC2E",
     "path": "[modules:/hitman5.moduleinfo?zcombatgroupconfigentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00678D7CC89D9547",
     "path": "[modules:/hitman5.moduleinfo?zcombatorderentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007768EFB47232FB",
@@ -1422,17 +1422,17 @@
   {
     "hash": "0073C43B3FF58AF6",
     "path": "[modules:/hitman5.moduleinfo?zcombatzoneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00254A1A0ED478B7",
     "path": "[modules:/hitman5.moduleinfo?zconditionlistentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D63A49ACE45465",
     "path": "[modules:/hitman5.moduleinfo?zcontractsgamestateemitterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AAF68386C6A1C6",
@@ -1442,52 +1442,52 @@
   {
     "hash": "00CC2072EFBC0F2B",
     "path": "[modules:/hitman5.moduleinfo?zcrowdactor.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F1F2324C1C620",
     "path": "[modules:/hitman5.moduleinfo?zcrowdambientstandbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00786284AD167CDC",
     "path": "[modules:/hitman5.moduleinfo?zdeadbodysituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3E4506323D7CE",
     "path": "[modules:/hitman5.moduleinfo?zdebugcheckkeyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001E9500311AD35D",
     "path": "[modules:/hitman5.moduleinfo?zdebughm5gametimemultiplierent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0035DB796A1D87AF",
     "path": "[modules:/hitman5.moduleinfo?zdebuguplotentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00686FB1577399A7",
     "path": "[modules:/hitman5.moduleinfo?zdecalsspawnentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E5298EDC01F112",
     "path": "[modules:/hitman5.moduleinfo?zdefaultcombatzoneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007C60D069762550",
     "path": "[modules:/hitman5.moduleinfo?zdefaultgloballeveldescriptor.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002804A3C1CA92FD",
     "path": "[modules:/hitman5.moduleinfo?zdefaultmetricssenderentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0048395187231D9D",
@@ -1502,42 +1502,42 @@
   {
     "hash": "00D60ECB12D0B05E",
     "path": "[modules:/hitman5.moduleinfo?zdifficultyhubentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B7A9010F774B64",
     "path": "[modules:/hitman5.moduleinfo?zdifficultylevelentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F2FFA7428D6572",
     "path": "[modules:/hitman5.moduleinfo?zdisguisesituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0030567CCEF01E2B",
     "path": "[modules:/hitman5.moduleinfo?zdisguisezoneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0048364286E12A18",
     "path": "[modules:/hitman5.moduleinfo?zdramaactorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00805FE851F8A53A",
     "path": "[modules:/hitman5.moduleinfo?zdramaprioritymodifieractordistance.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0030D48AB55B7A45",
     "path": "[modules:/hitman5.moduleinfo?zdramasetupentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EA33E2561A41C3",
     "path": "[modules:/hitman5.moduleinfo?zdramasituationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008965CF1AADD780",
@@ -1547,7 +1547,7 @@
   {
     "hash": "00BCD0F48174F9B8",
     "path": "[modules:/hitman5.moduleinfo?zdummybehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009C5A824CD6DFED",
@@ -1557,12 +1557,12 @@
   {
     "hash": "00C526E3CDF67192",
     "path": "[modules:/hitman5.moduleinfo?zescortbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FEAD51BB933F4D",
     "path": "[modules:/hitman5.moduleinfo?zescortsituationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AE57208DE0C6D9",
@@ -1572,82 +1572,82 @@
   {
     "hash": "008333BCE28F66AC",
     "path": "[modules:/hitman5.moduleinfo?zeventchannelentity_bool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B0E403A383FDB7",
     "path": "[modules:/hitman5.moduleinfo?zeventchannelentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D05F791B114D08",
     "path": "[modules:/hitman5.moduleinfo?zeventchannelentity_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AED495632C5674",
     "path": "[modules:/hitman5.moduleinfo?zeventchannelentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005E235DE7B457A5",
     "path": "[modules:/hitman5.moduleinfo?zeventreceiverentity_bool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0046D7AE59E59EB1",
     "path": "[modules:/hitman5.moduleinfo?zeventreceiverentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DE4C5901DCF904",
     "path": "[modules:/hitman5.moduleinfo?zeventreceiverentity_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C95D4C8A99F561",
     "path": "[modules:/hitman5.moduleinfo?zeventreceiverentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0012F01F1E82E02B",
     "path": "[modules:/hitman5.moduleinfo?zeventtransmitterentity_bool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B03F291A6CCF8",
     "path": "[modules:/hitman5.moduleinfo?zeventtransmitterentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003EE5AB6F9A8D29",
     "path": "[modules:/hitman5.moduleinfo?zeventtransmitterentity_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009A02AF98F528F1",
     "path": "[modules:/hitman5.moduleinfo?zeventtransmitterentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00486451286666BA",
     "path": "[modules:/hitman5.moduleinfo?zexplodingpropcounter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001C2A29E1F17D17",
     "path": "[modules:/hitman5.moduleinfo?zfirearmcontentdescriptor.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0084DB7ABE077A5D",
     "path": "[modules:/hitman5.moduleinfo?zfixedorientationaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0007E91B66F0FF32",
     "path": "[modules:/hitman5.moduleinfo?zfocusconfig.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000609B8E6C7B624",
@@ -1657,52 +1657,52 @@
   {
     "hash": "004E3763C0EC7419",
     "path": "[modules:/hitman5.moduleinfo?zfollowhitmanbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009F8C4B24A923D9",
     "path": "[modules:/hitman5.moduleinfo?zgameeventlistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0059EDAAC543BDD2",
     "path": "[modules:/hitman5.moduleinfo?zgamestatsentitystealth.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BCDB0E5DCE6E52",
     "path": "[modules:/hitman5.moduleinfo?zgamestatsevent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AC7C4308CA4AA6",
     "path": "[modules:/hitman5.moduleinfo?zgamestatstriggerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D8CD56B3210841",
     "path": "[modules:/hitman5.moduleinfo?zgenericuimaptrackeraspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F2DAD69426BB86",
     "path": "[modules:/hitman5.moduleinfo?zgetconditionvalue.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FC774FEA55C5E6",
     "path": "[modules:/hitman5.moduleinfo?zglobaloutfitkit.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AAEBAF3B4E1239",
     "path": "[modules:/hitman5.moduleinfo?zglowableaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00027689E0EC5A34",
     "path": "[modules:/hitman5.moduleinfo?zguardbodysituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B0411FDE542127",
@@ -1722,7 +1722,7 @@
   {
     "hash": "0069216EF0D4C4A4",
     "path": "[modules:/hitman5.moduleinfo?zheroaccessoryitemaction.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B8EEDC488724FA",
@@ -1737,12 +1737,12 @@
   {
     "hash": "003C3A6E06034890",
     "path": "[modules:/hitman5.moduleinfo?zherointeractioncontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0015F5956A306CC6",
     "path": "[modules:/hitman5.moduleinfo?zheroitemaction.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C542335505068D",
@@ -1752,12 +1752,12 @@
   {
     "hash": "00CEF353502F1FE5",
     "path": "[modules:/hitman5.moduleinfo?zherokeywordcondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005C2DD907F97FCB",
     "path": "[modules:/hitman5.moduleinfo?zherokeywordproxyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006F99EFD3673D5A",
@@ -1767,7 +1767,7 @@
   {
     "hash": "0055E17A13A371A7",
     "path": "[modules:/hitman5.moduleinfo?zheropositionmetricvalueentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004BCBAB7209E745",
@@ -1777,7 +1777,7 @@
   {
     "hash": "009C2D0545AD7188",
     "path": "[modules:/hitman5.moduleinfo?zherospawn.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0062119700B9D1EC",
@@ -1787,37 +1787,37 @@
   {
     "hash": "00E79AAE58D877D7",
     "path": "[modules:/hitman5.moduleinfo?zherouimaptrackeraspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002986B0960B61B6",
     "path": "[modules:/hitman5.moduleinfo?zhintmessageentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006B03D464CFC4BE",
     "path": "[modules:/hitman5.moduleinfo?zhitman5.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CEDBDFDA9F7A98",
     "path": "[modules:/hitman5.moduleinfo?zhitmandamageovertime.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000C99BBDF3DA2B0",
     "path": "[modules:/hitman5.moduleinfo?zhm53rdpersoncamprofile.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BE642328C0A63A",
     "path": "[modules:/hitman5.moduleinfo?zhm5action.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CCEFE1795089A7",
     "path": "[modules:/hitman5.moduleinfo?zhm5actionkillsevent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006F98FFE35F6170",
@@ -1827,247 +1827,247 @@
   {
     "hash": "00E38621A9995003",
     "path": "[modules:/hitman5.moduleinfo?zhm5aimassistprofileentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002E4AA0BFF1547E",
     "path": "[modules:/hitman5.moduleinfo?zhm5ammoproperties.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DD0224095CB02A",
     "path": "[modules:/hitman5.moduleinfo?zhm5animator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B5D922AB907EDF",
     "path": "[modules:/hitman5.moduleinfo?zhm5audioblendeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000B0353C57A6969",
     "path": "[modules:/hitman5.moduleinfo?zhm5audioeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00432483C88B5295",
     "path": "[modules:/hitman5.moduleinfo?zhm5bodycontainer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00740C26AFF036FE",
     "path": "[modules:/hitman5.moduleinfo?zhm5cameraprofileblenddatabase.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0019B6D27744C25F",
     "path": "[modules:/hitman5.moduleinfo?zhm5camfoventity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F0AF559E2D7C0F",
     "path": "[modules:/hitman5.moduleinfo?zhm5camshakerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004A2EC15E87415A",
     "path": "[modules:/hitman5.moduleinfo?zhm5cceffects.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B22BC082FF7800",
     "path": "[modules:/hitman5.moduleinfo?zhm5ccpostfiltercontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007120075C562B30",
     "path": "[modules:/hitman5.moduleinfo?zhm5ccprofile.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F7C941C01F514D",
     "path": "[modules:/hitman5.moduleinfo?zhm5ccsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0054AC6D12AB2700",
     "path": "[modules:/hitman5.moduleinfo?zhm5clipspawnerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A600FE70B17E2D",
     "path": "[modules:/hitman5.moduleinfo?zhm5closecombateventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002FBF9AC57D9855",
     "path": "[modules:/hitman5.moduleinfo?zhm5closet.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006AE955F8125DEA",
     "path": "[modules:/hitman5.moduleinfo?zhm5closetsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FBFD8B66438C41",
     "path": "[modules:/hitman5.moduleinfo?zhm5collisioncontrolleraspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005D8074FA1FEB1D",
     "path": "[modules:/hitman5.moduleinfo?zhm5coversoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0096EE603B5648CA",
     "path": "[modules:/hitman5.moduleinfo?zhm5cripplebox.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0014E6E07A4D21AA",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdactorselectorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0018341AAFDE9560",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000991F7C763FE8F",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdeventsamplerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001DA6255B062A3B",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdgenericeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D2E38B3DF37FD1",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdgenericeventsoundspec.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0073F0E5CABD20BE",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdpossessedactentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0039DD4E4DC0449A",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdreactionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00106088EE61FBF1",
     "path": "[modules:/hitman5.moduleinfo?zhm5crowdsequenceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CA7950E4E5E992",
     "path": "[modules:/hitman5.moduleinfo?zhm5damagecounterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005E88A61477FB17",
     "path": "[modules:/hitman5.moduleinfo?zhm5disguisesafezoneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0094FFF068248648",
     "path": "[modules:/hitman5.moduleinfo?zhm5disguisesoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D181A714EC131",
     "path": "[modules:/hitman5.moduleinfo?zhm5doorevent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001F5F9FCD63C7E3",
     "path": "[modules:/hitman5.moduleinfo?zhm5doubledoor2.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001B075E11983F5F",
     "path": "[modules:/hitman5.moduleinfo?zhm5dragbodysoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FD048839D9A091",
     "path": "[modules:/hitman5.moduleinfo?zhm5dumpstersoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000B843F8D33ABA9",
     "path": "[modules:/hitman5.moduleinfo?zhm5dynamicraycastentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009BDC3D34A0EADB",
     "path": "[modules:/hitman5.moduleinfo?zhm5facefxactorinstancecontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009310ECE7BC7947",
     "path": "[modules:/hitman5.moduleinfo?zhm5facefxreactioneventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BBEF9E6960D61E",
     "path": "[modules:/hitman5.moduleinfo?zhm5facefxspecificeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A8DEF684864980",
     "path": "[modules:/hitman5.moduleinfo?zhm5footstepeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0021223A8A2FB6CE",
     "path": "[modules:/hitman5.moduleinfo?zhm5forwarddamagetohitmanentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009A3EB8FC936942",
     "path": "[modules:/hitman5.moduleinfo?zhm5gamecamcontrolsentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0090951E39ECA78A",
     "path": "[modules:/hitman5.moduleinfo?zhm5gamecampoi.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00668DA1F793DF93",
     "path": "[modules:/hitman5.moduleinfo?zhm5gamecamprofileentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F69FB21CD99F93",
     "path": "[modules:/hitman5.moduleinfo?zhm5gamecamtransition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DABC457BBB57FA",
     "path": "[modules:/hitman5.moduleinfo?zhm5genericeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007FAF56E4E5A297",
     "path": "[modules:/hitman5.moduleinfo?zhm5healthsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DB587B7FC96496",
     "path": "[modules:/hitman5.moduleinfo?zhm5hitmaneventemitter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00494A5647722C2F",
     "path": "[modules:/hitman5.moduleinfo?zhm5hitmanfocusmodifier.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0019A86D90B4FC12",
@@ -2077,92 +2077,92 @@
   {
     "hash": "00D1D7651CDDEA5D",
     "path": "[modules:/hitman5.moduleinfo?zhm5hmstatesoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0068188F5C298F75",
     "path": "[modules:/hitman5.moduleinfo?zhm5hudfader.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DBE2340ABDA3E0",
     "path": "[modules:/hitman5.moduleinfo?zhm5impactsounds.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B74CD57149AF66",
     "path": "[modules:/hitman5.moduleinfo?zhm5indicatortrigger.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001A9E3C28E73505",
     "path": "[modules:/hitman5.moduleinfo?zhm5inputtoggleentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00762F4477862A87",
     "path": "[modules:/hitman5.moduleinfo?zhm5instinctsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0049911322FFFE52",
     "path": "[modules:/hitman5.moduleinfo?zhm5item.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D4CF987482BFFC",
     "path": "[modules:/hitman5.moduleinfo?zhm5itemammo.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0034ADCB25D8BDF6",
     "path": "[modules:/hitman5.moduleinfo?zhm5itemccweapon.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005D3B501104A251",
     "path": "[modules:/hitman5.moduleinfo?zhm5itemweapon.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002C2F9F5AA6E2AD",
     "path": "[modules:/hitman5.moduleinfo?zhm5limitedvisionarea.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FA41CD698A0636",
     "path": "[modules:/hitman5.moduleinfo?zhm5maincamera.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A76E09E9534E81",
     "path": "[modules:/hitman5.moduleinfo?zhm5materialdescriptorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00424D1449BF8A1D",
     "path": "[modules:/hitman5.moduleinfo?zhm5osd.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E76E91E4C33161",
     "path": "[modules:/hitman5.moduleinfo?zhm5osddisguiseheat.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002F94D6E4458173",
     "path": "[modules:/hitman5.moduleinfo?zhm5osdhitindicator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E84934D529620F",
     "path": "[modules:/hitman5.moduleinfo?zhm5osdshootingballet.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005AACB2CD6F2FAE",
     "path": "[modules:/hitman5.moduleinfo?zhm5osdthreat.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0007E18D34492029",
@@ -2172,57 +2172,57 @@
   {
     "hash": "0076EB7CD2D7186D",
     "path": "[modules:/hitman5.moduleinfo?zhm5postfiltercontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00438504A02C1E7A",
     "path": "[modules:/hitman5.moduleinfo?zhm5projectile.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A7180C21AD1EBB",
     "path": "[modules:/hitman5.moduleinfo?zhm5propertyvalueentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EEF23E09C7BC17",
     "path": "[modules:/hitman5.moduleinfo?zhm5propertyvalueentity_scolorrgb.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0066B3D322B49747",
     "path": "[modules:/hitman5.moduleinfo?zhm5propertyvalueentity_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008B9C141B66EBBA",
     "path": "[modules:/hitman5.moduleinfo?zhm5sbcamhitmanprofile.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001CC57DA32A3636",
     "path": "[modules:/hitman5.moduleinfo?zhm5sbcamprofiles.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D12838D944952D",
     "path": "[modules:/hitman5.moduleinfo?zhm5sbcamtargetprofile.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A21E2B2ADE1296",
     "path": "[modules:/hitman5.moduleinfo?zhm5sbconfiguration.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CA8BE48DDE0020",
     "path": "[modules:/hitman5.moduleinfo?zhm5sbsoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0058CD21A8FDCD26",
     "path": "[modules:/hitman5.moduleinfo?zhm5sequenceskipentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F1E0ACF2A51AF1",
@@ -2232,122 +2232,122 @@
   {
     "hash": "00C89E04FA528181",
     "path": "[modules:/hitman5.moduleinfo?zhm5shotlistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003F921C4AA2A4D7",
     "path": "[modules:/hitman5.moduleinfo?zhm5singledoor2.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008BE7563EFDB8C9",
     "path": "[modules:/hitman5.moduleinfo?zhm5soundmaterialdescriptor.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F3D12E8913A5D",
     "path": "[modules:/hitman5.moduleinfo?zhm5soundphysicsimpactmatrix.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000061EE9485DD09",
     "path": "[modules:/hitman5.moduleinfo?zhm5soundphysicsimpactmatrixcell.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0061360C8395E87D",
     "path": "[modules:/hitman5.moduleinfo?zhm5splashdamageentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EE710B35FC9BB0",
     "path": "[modules:/hitman5.moduleinfo?zhm5surrendersoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D4EEC49FBC4672",
     "path": "[modules:/hitman5.moduleinfo?zhm5trespasssoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0036FE410FE6CDD2",
     "path": "[modules:/hitman5.moduleinfo?zhm5valueentity_bool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DEEBCE4E939198",
     "path": "[modules:/hitman5.moduleinfo?zhm5valueentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002DCCA4F04711CC",
     "path": "[modules:/hitman5.moduleinfo?zhm5valueentity_int32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006C793D8979DBAE",
     "path": "[modules:/hitman5.moduleinfo?zhm5valueentity_scolorrgb.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E716C3234E412B",
     "path": "[modules:/hitman5.moduleinfo?zhm5valueentity_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EB77E5950A650C",
     "path": "[modules:/hitman5.moduleinfo?zhm5valueentity_zstring.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F463EB5B10490",
     "path": "[modules:/hitman5.moduleinfo?zhm5variantconverterentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006F99B0B20E3EDE",
     "path": "[modules:/hitman5.moduleinfo?zhm5variantconverterentity_int.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BC2992ACCEE14C",
     "path": "[modules:/hitman5.moduleinfo?zhm5variantconverterentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CE3F2F2ACC9675",
     "path": "[modules:/hitman5.moduleinfo?zhm5variantconverterentity_zentityref.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003107C469431165",
     "path": "[modules:/hitman5.moduleinfo?zhm5variantconverterentity_zstring.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DF45316D8F353D",
     "path": "[modules:/hitman5.moduleinfo?zhm5ventssoundcontroller.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0026F6980CD792D8",
     "path": "[modules:/hitman5.moduleinfo?zhm5weaponbasicconfigentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005DA34F458E6AC9",
     "path": "[modules:/hitman5.moduleinfo?zhm5weaponeventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0045F5AD45207EE3",
     "path": "[modules:/hitman5.moduleinfo?zhm5weaponhandposbox.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BD32B84A66E413",
     "path": "[modules:/hitman5.moduleinfo?zhm5weaponsoundsetupentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00148F85D53B074C",
@@ -2357,7 +2357,7 @@
   {
     "hash": "0094869E6B1FE5C5",
     "path": "[modules:/hitman5.moduleinfo?zillegalactionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0031161843773DF9",
@@ -2367,7 +2367,7 @@
   {
     "hash": "00AEA162C0F24D11",
     "path": "[modules:/hitman5.moduleinfo?zimpactconfigentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00657044DD94D92E",
@@ -2382,67 +2382,67 @@
   {
     "hash": "00A7EB18301FA544",
     "path": "[modules:/hitman5.moduleinfo?zinteractioneventconsumer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00256C410557CA85",
     "path": "[modules:/hitman5.moduleinfo?zinvertedcondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E12D431A6C242F",
     "path": "[modules:/hitman5.moduleinfo?zinvestigatecautioussituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0054AA0483962F5C",
     "path": "[modules:/hitman5.moduleinfo?zinvestigatecurioussituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00465DB000025E40",
     "path": "[modules:/hitman5.moduleinfo?zinvestigatestandingsituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007B1B7811CD91D3",
     "path": "[modules:/hitman5.moduleinfo?zinvestigateweaponsituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AE800C7CB9A1F8",
     "path": "[modules:/hitman5.moduleinfo?zitemcontainerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A44C3CC3163001",
     "path": "[modules:/hitman5.moduleinfo?zitemkeywordproxyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BA1ABDAE817EEB",
     "path": "[modules:/hitman5.moduleinfo?zitemphysicsentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0033F4C521E94907",
     "path": "[modules:/hitman5.moduleinfo?zitemplacementconfigurationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001E122BF6C22C7C",
     "path": "[modules:/hitman5.moduleinfo?zitemstashentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0051DDE5D04549B6",
     "path": "[modules:/hitman5.moduleinfo?zitemstashpointentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D7502BDC2D6F79",
     "path": "[modules:/hitman5.moduleinfo?zitemstorageentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006C23265BE63419",
@@ -2452,12 +2452,12 @@
   {
     "hash": "00AD02FAAEEC09D0",
     "path": "[modules:/hitman5.moduleinfo?zitsatrap.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C30310790C82CC",
     "path": "[modules:/hitman5.moduleinfo?zjumppointsentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009C6C99764A1570",
@@ -2472,12 +2472,12 @@
   {
     "hash": "00A95E544C4B90DF",
     "path": "[modules:/hitman5.moduleinfo?zlevelcontrolentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0027B6AFAE4B2EB8",
     "path": "[modules:/hitman5.moduleinfo?zlocationsurfacebendyquad.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007BEEEC188AC3EB",
@@ -2492,7 +2492,7 @@
   {
     "hash": "0052466CD69D75C2",
     "path": "[modules:/hitman5.moduleinfo?zlogicifentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BC831F5E18664E",
@@ -2502,62 +2502,62 @@
   {
     "hash": "00E08DE3A9FBDA9C",
     "path": "[modules:/hitman5.moduleinfo?zlogicorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0065E3F37FCB2EDA",
     "path": "[modules:/hitman5.moduleinfo?zlookatentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006291DC41DA1F0E",
     "path": "[modules:/hitman5.moduleinfo?zlookattriggerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009CBA854A243ADD",
     "path": "[modules:/hitman5.moduleinfo?zmathabs.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005B81EB13320E9D",
     "path": "[modules:/hitman5.moduleinfo?zmathabs_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008E4ECAE545AD12",
     "path": "[modules:/hitman5.moduleinfo?zmathaddsubstract.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0056DE28B8276C89",
     "path": "[modules:/hitman5.moduleinfo?zmathaddsubstract_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003EBC58A7558C75",
     "path": "[modules:/hitman5.moduleinfo?zmathclamp.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002749AFCC439119",
     "path": "[modules:/hitman5.moduleinfo?zmathlerp.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00281185ACBC34FF",
     "path": "[modules:/hitman5.moduleinfo?zmathlerp_scolorrgb.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001C8DA58274420F",
     "path": "[modules:/hitman5.moduleinfo?zmathmultiplydivide.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CCD0CAA73C468E",
     "path": "[modules:/hitman5.moduleinfo?zmathpower_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B3D711D6C5097",
@@ -2567,7 +2567,7 @@
   {
     "hash": "00A7EEB7A30067D5",
     "path": "[modules:/hitman5.moduleinfo?zmathsqrt.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D6FA3F59F495FB",
@@ -2577,17 +2577,17 @@
   {
     "hash": "004B91FB7D2DF3B7",
     "path": "[modules:/hitman5.moduleinfo?zmonitorhitmanlocomotionstateentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00646E4188B8CD58",
     "path": "[modules:/hitman5.moduleinfo?zmorgue.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BA9EF66CCCAF94",
     "path": "[modules:/hitman5.moduleinfo?zmovetopositionbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001F6ACE3AE93F2C",
@@ -2597,27 +2597,27 @@
   {
     "hash": "00E2351725F6423E",
     "path": "[modules:/hitman5.moduleinfo?znpcinteractionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009D72B8131FFB17",
     "path": "[modules:/hitman5.moduleinfo?znpcuimaptrackeraspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CA622BFA1523D8",
     "path": "[modules:/hitman5.moduleinfo?zoperatorbool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002118E1E3589481",
     "path": "[modules:/hitman5.moduleinfo?zorderedentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00562578781C5338",
     "path": "[modules:/hitman5.moduleinfo?zoutfitprofessionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0033C7BE64A9DAFD",
@@ -2627,17 +2627,17 @@
   {
     "hash": "00290ED903156E39",
     "path": "[modules:/hitman5.moduleinfo?zoutfitvariation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00636AC56E307AE6",
     "path": "[modules:/hitman5.moduleinfo?zoutfitvariationcollection.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3DA1EF15E2928",
     "path": "[modules:/hitman5.moduleinfo?zparticledecalsspawnentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00677E0E893682F2",
@@ -2647,12 +2647,12 @@
   {
     "hash": "008F3E6724EF1288",
     "path": "[modules:/hitman5.moduleinfo?zpatrolbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0031C65D3A7FBBEC",
     "path": "[modules:/hitman5.moduleinfo?zpeekcameraprofile.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00234D49EA3D4C12",
@@ -2662,67 +2662,67 @@
   {
     "hash": "00053345C7D9C5C9",
     "path": "[modules:/hitman5.moduleinfo?zperceptibleaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3A184B56E9744",
     "path": "[modules:/hitman5.moduleinfo?zpointofinterestentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00311594D37CB86A",
     "path": "[modules:/hitman5.moduleinfo?zpositiontrackerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E004056D411899",
     "path": "[modules:/hitman5.moduleinfo?zpostfilterblendentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C2765D127118D2",
     "path": "[modules:/hitman5.moduleinfo?zpostfiltergraphentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0069F49DE038FADD",
     "path": "[modules:/hitman5.moduleinfo?zpostfilterlayerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0047AD62647DA384",
     "path": "[modules:/hitman5.moduleinfo?zpostfiltersourceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EDE2AECD4468F8",
     "path": "[modules:/hitman5.moduleinfo?zpostfiltertransitionsourceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F3AE6C92EE0686",
     "path": "[modules:/hitman5.moduleinfo?zprojectedcrowdregionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0098C771C47AF04E",
     "path": "[modules:/hitman5.moduleinfo?zpropertyvalue_transform.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A87F79E17446A2",
     "path": "[modules:/hitman5.moduleinfo?zrandentity_bool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C15A72ADD97330",
     "path": "[modules:/hitman5.moduleinfo?zrandentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0019DD7744A62154",
     "path": "[modules:/hitman5.moduleinfo?zrandentity_int32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008E82D67637AA92",
@@ -2737,82 +2737,82 @@
   {
     "hash": "0011C06BFA5A2250",
     "path": "[modules:/hitman5.moduleinfo?zrotateentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A557E7AC463CCA",
     "path": "[modules:/hitman5.moduleinfo?zrumbleentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004DC1DED9D8AF8B",
     "path": "[modules:/hitman5.moduleinfo?zruntimeanimationvariationresource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00402662E05BD238",
     "path": "[modules:/hitman5.moduleinfo?zsecuritysystemcamera.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E4D6881C2089C7",
     "path": "[modules:/hitman5.moduleinfo?zsecuritysystemrecorder.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CC9F85A283D377",
     "path": "[modules:/hitman5.moduleinfo?zsentrysituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CF8EE7D8FC415F",
     "path": "[modules:/hitman5.moduleinfo?zsentryzoneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0030E14F8F067916",
     "path": "[modules:/hitman5.moduleinfo?zsetanimvariation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F4243207377A5B",
     "path": "[modules:/hitman5.moduleinfo?zsetglowmodeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0046E5B4F8C8DA9D",
     "path": "[modules:/hitman5.moduleinfo?zsetglowmodenotargetentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009A33E3FE566156",
     "path": "[modules:/hitman5.moduleinfo?zsetpositionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B9A65702F7843B",
     "path": "[modules:/hitman5.moduleinfo?zsharedeventconditionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0003A5EB645AC7B0",
     "path": "[modules:/hitman5.moduleinfo?zsharedsensordef.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CB41C01D58BD68",
     "path": "[modules:/hitman5.moduleinfo?zsharedsoundsensordef.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BBDA001F1A62B4",
     "path": "[modules:/hitman5.moduleinfo?zshoottargetbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E84A113C5E501E",
     "path": "[modules:/hitman5.moduleinfo?zshowbreadcrumbicon.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009DA5AB65437D3A",
@@ -2822,37 +2822,37 @@
   {
     "hash": "00A23E9889BFA295",
     "path": "[modules:/hitman5.moduleinfo?zsignalforkentity_int.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005D41E03203ED33",
     "path": "[modules:/hitman5.moduleinfo?zsignalforkentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004B6249C437B40C",
     "path": "[modules:/hitman5.moduleinfo?zsignalgatedifficultyentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004333C65E92E3E5",
     "path": "[modules:/hitman5.moduleinfo?zsignalgateentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0029AC6F597A9FA2",
     "path": "[modules:/hitman5.moduleinfo?zsignalpipeentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007A656D6760B3C9",
     "path": "[modules:/hitman5.moduleinfo?zsignalrandomrouteentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0010492F1CD3F63A",
     "path": "[modules:/hitman5.moduleinfo?zsignalrouteentity_variant.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0095723325DADE7B",
@@ -2862,22 +2862,22 @@
   {
     "hash": "00EB65A7D925879B",
     "path": "[modules:/hitman5.moduleinfo?zsmugglesituationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001F3DC1670A2A89",
     "path": "[modules:/hitman5.moduleinfo?zsmugglesituationlocationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001A926E3A4B253E",
     "path": "[modules:/hitman5.moduleinfo?zsocialsensordef.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007A256243283612",
     "path": "[modules:/hitman5.moduleinfo?zsoundcontroller_targets.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00962A0C2491F2B9",
@@ -2887,32 +2887,32 @@
   {
     "hash": "0037F1E625AE81F3",
     "path": "[modules:/hitman5.moduleinfo?zspatialmoverentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0001651A6FDA1919",
     "path": "[modules:/hitman5.moduleinfo?zspatialrangecondition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006608CCB34990FC",
     "path": "[modules:/hitman5.moduleinfo?zspeakentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001CE8F50158D6ED",
     "path": "[modules:/hitman5.moduleinfo?zspeakentity_sounddef.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0018D904A904F42D",
     "path": "[modules:/hitman5.moduleinfo?zspottedeventlistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0094BE4A6494E8F9",
     "path": "[modules:/hitman5.moduleinfo?zstandoffsituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005A1CBF1836163A",
@@ -2922,32 +2922,32 @@
   {
     "hash": "004457668E29F671",
     "path": "[modules:/hitman5.moduleinfo?zstashpointtrackeraspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0000F3A723614CC4",
     "path": "[modules:/hitman5.moduleinfo?zstatecontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B4AAAF5BF7AEE6",
     "path": "[modules:/hitman5.moduleinfo?zstateentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008353B492C89914",
     "path": "[modules:/hitman5.moduleinfo?zstateproxyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006C6B696E28C284",
     "path": "[modules:/hitman5.moduleinfo?zsubaction.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F85C0E33B61FD6",
     "path": "[modules:/hitman5.moduleinfo?ztargetboxentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E8FCF7C3E9AB83",
@@ -2957,12 +2957,12 @@
   {
     "hash": "006820E3C434CDE3",
     "path": "[modules:/hitman5.moduleinfo?ztossconfigurationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005276606108A0FE",
     "path": "[modules:/hitman5.moduleinfo?ztrackdollycontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00042746A3ABD6E9",
@@ -2972,22 +2972,22 @@
   {
     "hash": "00610D6C19A0DEFF",
     "path": "[modules:/hitman5.moduleinfo?ztrackentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C0B829EE851648",
     "path": "[modules:/hitman5.moduleinfo?ztrespassingruleentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0093DF5A76119995",
     "path": "[modules:/hitman5.moduleinfo?ztrespassingsituation.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000DC09C5FB1943A",
     "path": "[modules:/hitman5.moduleinfo?ztriggeralarmentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002550C410508874",
@@ -2997,12 +2997,12 @@
   {
     "hash": "00DF1B13232F6E8F",
     "path": "[modules:/hitman5.moduleinfo?ztutorialvoiceoverentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001921457E1BFEE0",
     "path": "[modules:/hitman5.moduleinfo?zuiactoriconaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005E1E5738DA9DC3",
@@ -3027,17 +3027,17 @@
   {
     "hash": "0032A2D836FA5BDA",
     "path": "[modules:/hitman5.moduleinfo?zvolumetriggerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000AAD648E663E88",
     "path": "[modules:/hitman5.moduleinfo?zvolumetriggerlistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00253D8053F16D88",
     "path": "[modules:/hitman5.moduleinfo?zwatersplashgenerator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0094540E7596733F",
@@ -3067,7 +3067,7 @@
   {
     "hash": "00AD797EE9E319C9",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudioemitter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B843C0D25F85B8",
@@ -3077,12 +3077,12 @@
   {
     "hash": "002A4F56958A1920",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudioemitterspatialaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007DA531D072DAF5",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudioevent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00136CDC4F5F18C8",
@@ -3092,72 +3092,72 @@
   {
     "hash": "00BADB46F38D2B88",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudiolevelmeter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0049F3C57A9BA534",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudioparam.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007CE54A6F1A7E0F",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudioruntimeevent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B40A2FB1E6029D",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudiostate.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000D5AFA532FD519",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zaudioswitch.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0049D9DD72EF38FA",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zlistenerdistancemeasurer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F28B09EAB3B49",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zmusicevent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D48C297B36C9D8",
     "path": "[modules:/runtime.audio.wwise.moduleinfo?zmusictrigger.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002D33AC96E28B8E",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowdactorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000F21ED25157577",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowdactorgroupentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009BA9C0883BCF43",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowdactorgroupfocalpointentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002021FDA98C4131",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowddensityentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009F4128575D6E26",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowdentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00569545199BA47A",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowdkillboxaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006DD7A9B43C6CAE",
@@ -3167,52 +3167,52 @@
   {
     "hash": "00DC2F5EDA67D640",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowdreactionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F41CFDE971C926",
     "path": "[modules:/runtime.crowds.moduleinfo?zcrowdteleportentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0001BDA23012A6E3",
     "path": "[modules:/runtime.crowds.moduleinfo?zmanualactorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00131721FD1C42C0",
     "path": "[modules:/runtime.curve.moduleinfo?zcolorcorrectioncurvesentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003450BCD0697077",
     "path": "[modules:/runtime.curve.moduleinfo?zdepthremapcurveentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DA8336D8510F37",
     "path": "[modules:/runtime.curve.moduleinfo?zfloat3curvesentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0010781AAE91ECF7",
     "path": "[modules:/runtime.curve.moduleinfo?zfloatcurveentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00924B55E4AC3BE3",
     "path": "[modules:/runtime.curve.moduleinfo?zmiddlegraycurveentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000D744AE96CDAC5",
     "path": "[modules:/runtime.entity.moduleinfo?zboxvolumeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006087DAA0A3D619",
     "path": "[modules:/runtime.entity.moduleinfo?zcompositeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DAC8C224C967E0",
@@ -3222,7 +3222,7 @@
   {
     "hash": "00F310F98FB33A73",
     "path": "[modules:/runtime.entity.moduleinfo?zentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F65473EEF56FEA",
@@ -3232,37 +3232,37 @@
   {
     "hash": "00B2139C11FCAE54",
     "path": "[modules:/runtime.entity.moduleinfo?zsceneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00330BD638D6E255",
     "path": "[modules:/runtime.entity.moduleinfo?zspatialentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0012B94A77B6556F",
     "path": "[modules:/runtime.entity.moduleinfo?zspherevolumeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A93CEF07C43C13",
     "path": "[modules:/runtime.facefx.moduleinfo?zactorinstanceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00641559E69A1C7D",
     "path": "[modules:/runtime.facefx.moduleinfo?zanimsetentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005565351EAB23EE",
     "path": "[modules:/runtime.gameentities.moduleinfo?zdebugboxentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002E9072568A916B",
     "path": "[modules:/runtime.gameentities.moduleinfo?zdebuggizmoentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A9113A1AE593E0",
@@ -3272,17 +3272,17 @@
   {
     "hash": "005B9EA134878D2A",
     "path": "[modules:/runtime.gameentities.moduleinfo?zdebugsphereentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0005E799FC2C43A3",
     "path": "[modules:/runtime.gameentities.moduleinfo?zdebugtextentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006A60156D500C31",
     "path": "[modules:/runtime.gameentities.moduleinfo?zfreecameracontrolentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AB119B38206AC3",
@@ -3292,7 +3292,7 @@
   {
     "hash": "0052B9FEB2EEE422",
     "path": "[modules:/runtime.gameentities.moduleinfo?zrenderinmemoryvideoplayerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00372DF61FF129D8",
@@ -3302,17 +3302,17 @@
   {
     "hash": "00DFAA2151665A30",
     "path": "[modules:/runtime.gameentities.moduleinfo?zshattersystem.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002E93E87BBC2A18",
     "path": "[modules:/runtime.gameentities.moduleinfo?zsoundjumppointambience.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007DE4156FDFA643",
     "path": "[modules:/runtime.gameentities.moduleinfo?zspatialentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D86C796075ECC9",
@@ -3322,117 +3322,117 @@
   {
     "hash": "00C71F6FEE7C243E",
     "path": "[modules:/runtime.gameentities.moduleinfo?ztriggerobjectentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0078A56D40208086",
     "path": "[modules:/runtime.humanik.moduleinfo?zhumanikentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E0E054DE3F3853",
     "path": "[modules:/runtime.morpheme.moduleinfo?zanimationclipentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0057735C12872A6E",
     "path": "[modules:/runtime.morpheme.moduleinfo?zanimationlibrary.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AE9E3D98BAE095",
     "path": "[modules:/runtime.morpheme.moduleinfo?zanimplayerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00980682DF257794",
     "path": "[modules:/runtime.morpheme.moduleinfo?zanimplaylistentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0020D33DE1DAE104",
     "path": "[modules:/runtime.morpheme.moduleinfo?zanimresourceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B9050C4038CB0",
     "path": "[modules:/runtime.morpheme.moduleinfo?zchildnetworkentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008BB398ED9B0030",
     "path": "[modules:/runtime.morpheme.moduleinfo?zeventconsumercollection.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003CA8A61FF9B6BF",
     "path": "[modules:/runtime.morpheme.moduleinfo?zmorphemebonesource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0077CA8CD1C0ECE0",
     "path": "[modules:/runtime.morpheme.moduleinfo?zmorphemebonetrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0049E37DA8EB0853",
     "path": "[modules:/runtime.morpheme.moduleinfo?zmorphemeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CD48BDFF9999EF",
     "path": "[modules:/runtime.morpheme.moduleinfo?zmorphemetrajectorysource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005F49D5489507A1",
     "path": "[modules:/runtime.morpheme.moduleinfo?zmorphemetrajectorytrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AFD1D8068420B3",
     "path": "[modules:/runtime.morpheme.moduleinfo?ztransitionclipentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0064898DCCD8B603",
     "path": "[modules:/runtime.morpheme.moduleinfo?zvariationlistentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0076A7ACEFA5AE13",
     "path": "[modules:/runtime.morpheme.moduleinfo?zvariationresourceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C5917703EE0A8A",
     "path": "[modules:/runtime.pathfinder.moduleinfo?zpathfinderconfiguration.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003EB7FBCE155117",
     "path": "[modules:/runtime.pathfinder.moduleinfo?zpfboxentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0041F95819D5C332",
     "path": "[modules:/runtime.pathfinder.moduleinfo?zpfobstacleentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BF99B77A07F055",
     "path": "[modules:/runtime.pathfinder.moduleinfo?zpfseedpoint.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0060D58C7FE4DDCE",
     "path": "[modules:/runtime.physics.moduleinfo?zballandsocketconstraintentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003631DFE19A61ED",
     "path": "[modules:/runtime.physics.moduleinfo?zboxshapeaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00153797DCDD32A1",
@@ -3442,127 +3442,127 @@
   {
     "hash": "00C73D8398CCB923",
     "path": "[modules:/runtime.physics.moduleinfo?zclothbox.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A2AF0A48BBE413",
     "path": "[modules:/runtime.physics.moduleinfo?zclothcapsule.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D90F14E91B3A5C",
     "path": "[modules:/runtime.physics.moduleinfo?zclothcharacterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F748E3EDDA4176",
     "path": "[modules:/runtime.physics.moduleinfo?zclothcustommeshentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005D2F15E3651D87",
     "path": "[modules:/runtime.physics.moduleinfo?zclothplane.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E164C886AB983D",
     "path": "[modules:/runtime.physics.moduleinfo?zclothsheetentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0090942D42D00293",
     "path": "[modules:/runtime.physics.moduleinfo?zclothsphere.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008A64FC60786327",
     "path": "[modules:/runtime.physics.moduleinfo?zclothspherechain.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C3CFC6F2FE7593",
     "path": "[modules:/runtime.physics.moduleinfo?zclothtransformentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C54CF0D7CBF7C6",
     "path": "[modules:/runtime.physics.moduleinfo?zclothwireentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00721E3E6C01528A",
     "path": "[modules:/runtime.physics.moduleinfo?zcollisionlistenerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D1CB847AFB2D7B",
     "path": "[modules:/runtime.physics.moduleinfo?zcollisionresourceshapeaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0025071E31040F25",
     "path": "[modules:/runtime.physics.moduleinfo?zd6constraintentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007AA0B948B5D94D",
     "path": "[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006CDDCB5FFA2E2A",
     "path": "[modules:/runtime.physics.moduleinfo?zdynamicphysicsaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3362725700702",
     "path": "[modules:/runtime.physics.moduleinfo?zfixedconstraintentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E26849F0ADAD7F",
     "path": "[modules:/runtime.physics.moduleinfo?zhingeconstraintentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002F29585CC2171E",
     "path": "[modules:/runtime.physics.moduleinfo?zphysicsaffectorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EE843B98B7DF37",
     "path": "[modules:/runtime.physics.moduleinfo?zphysicscollisionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D3E031E384661A",
     "path": "[modules:/runtime.physics.moduleinfo?zphysicsentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A506E70B83EF96",
     "path": "[modules:/runtime.physics.moduleinfo?zphysicssystementity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0012B1A6A2AE2A20",
     "path": "[modules:/runtime.physics.moduleinfo?zprimitivespatialentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0090DFF00D0A4ECE",
     "path": "[modules:/runtime.physics.moduleinfo?zsphereshapeaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00294E4D07B2152C",
     "path": "[modules:/runtime.physics.moduleinfo?zstaticphysicsaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F0E94B1087EF4C",
     "path": "[modules:/runtime.physics.moduleinfo?zwindentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F207CA35250765",
@@ -3572,7 +3572,7 @@
   {
     "hash": "00F4B77A9106A0DB",
     "path": "[modules:/runtime.physics.physx.moduleinfo?zkinematiclinkedphysicsentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007D4E6C5FBC0D4B",
@@ -3602,77 +3602,77 @@
   {
     "hash": "00295F91851ADC35",
     "path": "[modules:/runtime.reasoninggrid.moduleinfo?zgridguideentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000D5428F0194D35",
     "path": "[modules:/runtime.reasoninggrid.moduleinfo?zreasoninggridconfigentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B7192CD6F055FE",
     "path": "[modules:/runtime.render.moduleinfo?zbodypartentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0094AF7FA2F9737D",
     "path": "[modules:/runtime.render.moduleinfo?zboneattachaspect.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003F68ACA02EB398",
     "path": "[modules:/runtime.render.moduleinfo?zboneattachentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00247C1845C27B63",
     "path": "[modules:/runtime.render.moduleinfo?zboneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0068A905C01D49E0",
     "path": "[modules:/runtime.render.moduleinfo?zboneweightmanagerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003FD044B7E134C4",
     "path": "[modules:/runtime.render.moduleinfo?zboneweightpositionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005067C675A3810C",
     "path": "[modules:/runtime.render.moduleinfo?zboneweightrotationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005F9BC9992E580A",
     "path": "[modules:/runtime.render.moduleinfo?zboxreflectionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001E844EC201B053",
     "path": "[modules:/runtime.render.moduleinfo?zcameraentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0076CA2570C8300A",
     "path": "[modules:/runtime.render.moduleinfo?zcubemapprobeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B9B1C43E343013",
     "path": "[modules:/runtime.render.moduleinfo?zdarklightentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0021B78B1AD08749",
     "path": "[modules:/runtime.render.moduleinfo?zdecalcontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CAE59B2A15ECBF",
     "path": "[modules:/runtime.render.moduleinfo?zeditorfocusentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0019887FBC72A085",
@@ -3682,182 +3682,182 @@
   {
     "hash": "00EDD83F499AF8BB",
     "path": "[modules:/runtime.render.moduleinfo?zgateentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D2DAD94E12523B",
     "path": "[modules:/runtime.render.moduleinfo?zgeomentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E97464E708AA1D",
     "path": "[modules:/runtime.render.moduleinfo?zlightentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0095544B7E18CFFB",
     "path": "[modules:/runtime.render.moduleinfo?zlinkedentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E6B6FF32D26E29",
     "path": "[modules:/runtime.render.moduleinfo?zlinkedproxyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00341873D45D2E6E",
     "path": "[modules:/runtime.render.moduleinfo?zmegaoccluder.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0043B2B894C1E6D7",
     "path": "[modules:/runtime.render.moduleinfo?zmirrorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0021482526EA4640",
     "path": "[modules:/runtime.render.moduleinfo?zoccluderentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00834A50B8880ED0",
     "path": "[modules:/runtime.render.moduleinfo?zparticlecontainerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FEA2A6516B3B01",
     "path": "[modules:/runtime.render.moduleinfo?zparticlecontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F8FD327D1FADFD",
     "path": "[modules:/runtime.render.moduleinfo?zparticleemitterboxentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0042ED3DC6FA0743",
     "path": "[modules:/runtime.render.moduleinfo?zparticleemitteremitterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001B0EA20FC96BEF",
     "path": "[modules:/runtime.render.moduleinfo?zparticleemittermeshentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EBC0DFECF7B92A",
     "path": "[modules:/runtime.render.moduleinfo?zparticleemitterpointentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001E0F59F0EF78EB",
     "path": "[modules:/runtime.render.moduleinfo?zparticleheiremittingentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B71378CE12946C",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifierattractorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D56FADEB1A858D",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifierboidentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0096755D51350247",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiercollisionboxentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0080C432720F1189",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiercollisiondetectionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0088A535CA613C60",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiercollisionplaneentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001CAA0B62BE2526",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiercollisionsphereentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005C358E23E89366",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiercoloralphacurveentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008F64A244D006EF",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiercolorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CF96C9470F3314",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifierimpulseentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005639F8874009F6",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifierinfinitybox.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003BB72076A2F3AF",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiermotionentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003E344D7782436A",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifierrandomizevelocityentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DCDEDFB2019429",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiersizecurveentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007B96A1F3E232BD",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiersizeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F2525A2AD8B31B",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifierspeedlimiterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00681BA793AA77B6",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifiertileindexentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A7D77F096C3C0A",
     "path": "[modules:/runtime.render.moduleinfo?zparticlemodifierupvectorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E341C9111D2DA9",
     "path": "[modules:/runtime.render.moduleinfo?zparticlerenderspawnentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E3111811E8D074",
     "path": "[modules:/runtime.render.moduleinfo?zparticlerenderspritearrayentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004F829A5A492230",
     "path": "[modules:/runtime.render.moduleinfo?zpostfilterareaboxentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001728E8EAF0B6E5",
     "path": "[modules:/runtime.render.moduleinfo?zprimitivecontainerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007CDFFC07A0F127",
@@ -3867,82 +3867,82 @@
   {
     "hash": "007AFF469B4DD676",
     "path": "[modules:/runtime.render.moduleinfo?zrenderdestinationscreenentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0058068D8BA2A8BD",
     "path": "[modules:/runtime.render.moduleinfo?zrenderdestinationtextureentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F395EF2C42E882",
     "path": "[modules:/runtime.render.moduleinfo?zrenderglobalentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0089377B4CCDEBC4",
     "path": "[modules:/runtime.render.moduleinfo?zrendermaterialentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0011AF7DF14D39F7",
     "path": "[modules:/runtime.render.moduleinfo?zrenderpostfiltercontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00786350D67D38CC",
     "path": "[modules:/runtime.render.moduleinfo?zrenderpostfilterparametersentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0011836A3F8BBFBA",
     "path": "[modules:/runtime.render.moduleinfo?zroomentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E08BE70EF246EF",
     "path": "[modules:/runtime.render.moduleinfo?zroomexcludeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F98BEE0C82D556",
     "path": "[modules:/runtime.render.moduleinfo?zroomincludeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FF56441C359112",
     "path": "[modules:/runtime.render.moduleinfo?zroomproxyentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00991E18AB765E38",
     "path": "[modules:/runtime.render.moduleinfo?zstaticdecalcontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003266CE0584AD70",
     "path": "[modules:/runtime.render.moduleinfo?zstaticdecalentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0027F4E1EF4C17D3",
     "path": "[modules:/runtime.render.moduleinfo?ztimeofdayconfig.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001A3C6A089BA506",
     "path": "[modules:/runtime.render.moduleinfo?ztimeofdayrangeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00586A3AAA35D4CD",
     "path": "[modules:/runtime.render.moduleinfo?zvolumelightentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0078AE08E2A57989",
     "path": "[modules:/runtime.repository.moduleinfo?zrepositoryitementity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006578F00FEE1FD0",
@@ -3952,82 +3952,82 @@
   {
     "hash": "0005CD72F1DE4C08",
     "path": "[modules:/runtime.scatterfoliage.moduleinfo?zscattercontainerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "009EB8BF07510B17",
     "path": "[modules:/runtime.scatterfoliage.moduleinfo?zscattermaterialentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0044886E8C3C7F0F",
     "path": "[modules:/runtime.scatterfoliage.moduleinfo?zscattermaterialprimitiveentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00891411C7FB2F43",
     "path": "[modules:/runtime.sequence2.moduleinfo?zaudiosequenceitem.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EE0BE2A6E69375",
     "path": "[modules:/runtime.sequence2.moduleinfo?zaudiosequencetrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0087E24389E9C72C",
     "path": "[modules:/runtime.sequence2.moduleinfo?zbooleansource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0091CC68F82C0E57",
     "path": "[modules:/runtime.sequence2.moduleinfo?zcamerafuturestateprovider.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C0BA09BAE7BCFF",
     "path": "[modules:/runtime.sequence2.moduleinfo?zcamerainterpolationitem.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005261C600342CDD",
     "path": "[modules:/runtime.sequence2.moduleinfo?zcolorgradientsource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E6F1A2562CF528",
     "path": "[modules:/runtime.sequence2.moduleinfo?zentitygroup.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0083CD2090D127B6",
     "path": "[modules:/runtime.sequence2.moduleinfo?zentitypropertytrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E7C19CFC033910",
     "path": "[modules:/runtime.sequence2.moduleinfo?zeulerangletrajectorysource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000E6B384B34DF4F",
     "path": "[modules:/runtime.sequence2.moduleinfo?zeventtrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007320CE661E7FAB",
     "path": "[modules:/runtime.sequence2.moduleinfo?zeventtrackitem.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0048023B5460C435",
     "path": "[modules:/runtime.sequence2.moduleinfo?zfloatcurvesource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0061AA76A903A090",
     "path": "[modules:/runtime.sequence2.moduleinfo?zframeanimatorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "008EBD439953BB6D",
@@ -4037,192 +4037,192 @@
   {
     "hash": "009C3BB87754A4F9",
     "path": "[modules:/runtime.sequence2.moduleinfo?zrenderdestinationtrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00EECB0026F07164",
     "path": "[modules:/runtime.sequence2.moduleinfo?zsequenceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000F065D24351B2D",
     "path": "[modules:/runtime.sequence2.moduleinfo?zsingleactivecamerasource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00F559B37843A450",
     "path": "[modules:/runtime.sequence2.moduleinfo?ztrajectorytrack.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "007A3B9B38E2FC21",
     "path": "[modules:/runtime.sound.moduleinfo?zaudioambienceemitter.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00564E27538AA00A",
     "path": "[modules:/runtime.sound.moduleinfo?zaudioambienceevent.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "004C9463EFA848BE",
     "path": "[modules:/runtime.sound.moduleinfo?zaudioambiencereverb.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001FC94396EECCAD",
     "path": "[modules:/runtime.sound.moduleinfo?zaudioflybytrigger.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00105D2106CBEA83",
     "path": "[modules:/runtime.sound.moduleinfo?zcurveevaluator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000BB18C617FD220",
     "path": "[modules:/runtime.sound.moduleinfo?zenvelopefollower.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003CF9D06DED7935",
     "path": "[modules:/runtime.sound.moduleinfo?zsmoothoperator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0072379350E2E6A4",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundambienceelementref.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003D2D114C885C5C",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundambiencegroup.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00BBC3A5578E1E99",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundambiencegroupref.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00FA12EDF815077E",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundambienceinsideoutsideswitch.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00533C6E43A8BFC0",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundambiencerandomtimer.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E026875BC24F95",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundambiencetransition.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006F03836D845B9E",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundambiencetrigger.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006EBB4A7D74B4F0",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundgateentitytemp.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0068DE4866E08715",
     "path": "[modules:/runtime.sound.moduleinfo?zsoundinitialambience.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001E1311D37AA710",
     "path": "[modules:/runtime.sound.moduleinfo?zvalueinterpolator.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002B2FF125F7AC3F",
     "path": "[modules:/runtime.testlogic.moduleinfo?zconverttovoidentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A5AF084F1B402F",
     "path": "[modules:/runtime.testlogic.moduleinfo?zconverttovoidentity_int.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003539AAD61483E4",
     "path": "[modules:/runtime.testlogic.moduleinfo?zconverttovoidentity_svector3.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B30822DE38BDB7",
     "path": "[modules:/runtime.testlogic.moduleinfo?zcountdownentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00423DBD7B2F222E",
     "path": "[modules:/runtime.testlogic.moduleinfo?zcounterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003669F0FA5E0730",
     "path": "[modules:/runtime.testlogic.moduleinfo?zfloatrangecomparatorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E2285F32C3B10B",
     "path": "[modules:/runtime.testlogic.moduleinfo?zfloatsorterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "000034EC6735C639",
     "path": "[modules:/runtime.testlogic.moduleinfo?zlightflickerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00ED659E7023D036",
     "path": "[modules:/runtime.testlogic.moduleinfo?zorientationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "006BDA743510D6C0",
     "path": "[modules:/runtime.testlogic.moduleinfo?zprobabilityentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00DDD469375B659F",
     "path": "[modules:/runtime.testlogic.moduleinfo?zprobabilityswitch.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00CD7E0F33741FA3",
     "path": "[modules:/runtime.testlogic.moduleinfo?zrangetestentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B05E2218E53733",
     "path": "[modules:/runtime.testlogic.moduleinfo?zstepcounterentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00D10AAECF4D7FF4",
     "path": "[modules:/runtime.testlogic.moduleinfo?zswitchentity_float32.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B3C0D689CF138D",
     "path": "[modules:/runtime.testlogic.moduleinfo?zswitchentity_void.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003FD4DE64721697",
     "path": "[modules:/runtime.testlogic.moduleinfo?ztriggerswitchentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003F36C85B184878",
     "path": "[modules:/runtime.testlogic.moduleinfo?zvoidsignalonceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00220FD69D7F2D50",
@@ -4232,12 +4232,12 @@
   {
     "hash": "004C595DECB453FB",
     "path": "[modules:/runtime.ui.moduleinfo?zdynamicobjectentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00C583A2BB01F434",
     "path": "[modules:/runtime.ui.moduleinfo?zfontconfigurationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00B41B0D32CC33FC",
@@ -4247,12 +4247,12 @@
   {
     "hash": "00AF5283BB21762B",
     "path": "[modules:/runtime.ui.moduleinfo?zuiactionprompttextentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "002E6A81B65C4CEF",
     "path": "[modules:/runtime.ui.moduleinfo?zuibuttonnavigationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00419B035BB949F3",
@@ -4262,7 +4262,7 @@
   {
     "hash": "00DA4A1375AC4C84",
     "path": "[modules:/runtime.ui.moduleinfo?zuicontrolentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00475EAF395CDED3",
@@ -4272,52 +4272,52 @@
   {
     "hash": "00B2AD7980BA8D78",
     "path": "[modules:/runtime.ui.moduleinfo?zuicontroltreeentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0091621EBCBF3449",
     "path": "[modules:/runtime.ui.moduleinfo?zuicontrolvisibilitycontrollerentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00613524F76C5763",
     "path": "[modules:/runtime.ui.moduleinfo?zuiimageresourceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00AB307943CC1C37",
     "path": "[modules:/runtime.ui.moduleinfo?zuiinputcontrollerimageresource.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "001876786E11AAA0",
     "path": "[modules:/runtime.ui.moduleinfo?zuilistnavigationentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "005C7F563655CE2A",
     "path": "[modules:/runtime.ui.moduleinfo?zuisubtitledataprovider.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A2DEA685090A27",
     "path": "[modules:/runtime.ui.moduleinfo?zuitextentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "003B4C52440538C6",
     "path": "[modules:/runtime.ui.moduleinfo?zuivideoresourceentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00679D00F67658A6",
     "path": "[modules:/tool.editorserver.moduleinfo?zgridentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0053939D1C3C40D0",
     "path": "[modules:/tool.editorserver.moduleinfo?zmanipulatorbounds.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0014F1CF473B18C0",
@@ -12607,7 +12607,7 @@
   {
     "hash": "0043C5507FC08C02",
     "path": "[modules:/runtime.morpheme.moduleinfo?zentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00054FC7FBB38BDE",
@@ -12617,7 +12617,7 @@
   {
     "hash": "00067F2959F2696B",
     "path": "[modules:/hitman5.moduleinfo?zsignalgateentity_bool.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00E81574763D7A81",
@@ -12627,7 +12627,7 @@
   {
     "hash": "002EBEC7319B2BE2",
     "path": "[modules:/hitman5.moduleinfo?zridethelightningbehaviorentity.class].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0049C187AECA7928",
@@ -13243,5 +13243,230 @@
     "hash": "00E15561962C78DF",
     "path": "[modules:/zsubtitleplayerentity.class].pc_entitytype",
     "gameFlags": 2
+  },
+  {
+    "hash": "00D49EDDF65CEBD9",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0035D52CF6A69119",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006476049D3A78C5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F0D41A10354453",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004A2DBC5F8FDB7B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0082D76560EB6876",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002316E4F7CE3828",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0029E9E31D5AECAB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001BEB9F6311D199",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007C5DE6242BF0F8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004E8B1C4266E804",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00389FAEC427F9B1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0010BDE8FAE0C49F",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004D95527D894746",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0010DC457A4558E5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0061B97327761C16",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "009D0AE5F1C46CEF",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "000F8ADF2C9AED60",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00071EFA514B688A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00794902B50BB017",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D13FDA55D3045B",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "006FDCEAC3950B07",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C56D417E47F886",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "007836F01448E630",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F9B81FF43814D0",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00C7F969A54168D1",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0084E380F850368A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00FB5258A09CE4A2",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "005F9D4190B3C751",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0011B733583A71B3",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0016592F2FB83C71",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "002C56036E3F166A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00709E9807883E1E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F0138963E17B8A",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0034F9FDD1E795B5",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0048CEFE6ACAA5BD",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "0068FBF36CE3B9E7",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00D19D38726A7A3E",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F930036B3DA787",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "001B1CEBC3568522",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004DBAC691C2FD45",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004436F35BCA5ECB",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00F9E1D3B2BD9CF8",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "004016209DE2E129",
+    "path": "",
+    "gameFlags": 128
+  },
+  {
+    "hash": "00AAB83A67EB30D9",
+    "path": "",
+    "gameFlags": 128
   }
 ]

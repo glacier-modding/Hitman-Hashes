@@ -2,12 +2,12 @@
   {
     "hash": "00F7FC363FBD9C3E",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/overrides/stgr_ai_amb_frskack.wwisestategroup].pc_entitytype",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "00A20D6A4E9212BD",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/overrides/stgr_ai_amb_frskcln.wwisestategroup].pc_entitytype",
-    "gameFlags": 15
+    "gameFlags": 143
   },
   {
     "hash": "0046FFF4B3E47EF1",
@@ -27,7 +27,7 @@
   {
     "hash": "000A4C803F5D9714",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/gameplay_gamestates/gameplay_gamestates.wwisestategroup].pc_entitytype",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "000C5D06CE1759E0",
@@ -92,7 +92,7 @@
   {
     "hash": "009C303C3168EFDD",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/ingamemusic_states/gametensionstates.wwisestategroup].pc_entitytype",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "0076954956B00ADB",

@@ -2,7 +2,7 @@
   {
     "hash": "00BF1F62E942AF17",
     "path": "[assembly:/_pro/facefx/basemale_facefx/basemale_facefx_actor.facefx].pc_facefx",
-    "gameFlags": 63
+    "gameFlags": 191
   },
   {
     "hash": "004950F937AB5EB8",
@@ -12,11 +12,11 @@
   {
     "hash": "00D9D1F3CF7ECB84",
     "path": "[assembly:/facefx/hitman/hitman_02/hitman.facefx].pc_facefx",
-    "gameFlags": 1
+    "gameFlags": 129
   },
   {
     "hash": "00A0F99E98337C02",
     "path": "[assembly:/facefx/police/police_chicago_regular_01.facefx].pc_facefx",
-    "gameFlags": 1
+    "gameFlags": 129
   }
 ]
