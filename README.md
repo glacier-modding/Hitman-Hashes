@@ -1,16 +1,16 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,590,401-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.03%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.04%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-11/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.40%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.41%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.36%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-81.46%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-81.47%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.21%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.57%25-green.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.58%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-74.13%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-74.14%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -30,7 +30,7 @@
 |ATMD     |17918          |6458         |36.04%            |0    |0.00%          |
 |BLOB     |1              |0            |0.00%             |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
-|BORG     |7231           |2759         |38.16%            |0    |0.00%          |
+|BORG     |7231           |2784         |38.50%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2694           |2649         |98.33%            |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
@@ -61,17 +61,17 @@
 |MJBA     |20681          |7363         |35.60%            |0    |0.00%          |
 |MRTN     |2326           |1074         |46.17%            |0    |0.00%          |
 |MRTR     |862            |85           |9.86%             |0    |0.00%          |
-|NAVP     |81             |78           |96.30%            |1    |1.23%          |
+|NAVP     |81             |79           |97.53%            |1    |1.23%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |144            |144          |100.00%           |0    |0.00%          |
-|PRIM     |44287          |22135        |49.98%            |228  |0.51%          |
+|PRIM     |44287          |22162        |50.04%            |228  |0.51%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |145            |0            |0.00%             |137  |94.48%         |
 |SCDA     |940            |818          |87.02%            |0    |0.00%          |
 |SDEF     |507            |503          |99.21%            |0    |0.00%          |
 |TBLU     |57132          |41296        |72.28%            |15000|26.25%         |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
-|TEMP     |87478          |60444        |69.10%            |25324|28.95%         |
+|TEMP     |87478          |60448        |69.10%            |25324|28.95%         |
 |TEXD     |49703          |33045        |66.48%            |9083 |18.27%         |
 |TEXT     |45017          |33397        |74.19%            |9761 |21.68%         |
 |UICB     |477            |393          |82.39%            |0    |0.00%          |
