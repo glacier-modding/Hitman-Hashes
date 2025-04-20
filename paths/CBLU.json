@@ -13246,227 +13246,227 @@
   },
   {
     "hash": "00DB9C0354783308",
-    "path": "",
+    "path": "[modules:/runtime.testlogic.moduleinfo?zvariantcomparatorentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00C6C3C520BA94EF",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zcompetitionsetupsettings.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00CB94774EE851BF",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zhm5animaudioemitter.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00923B5EB80FEEAF",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zfuseboxsituation.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "002A1EBF4EC6163A",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zselectfriendspagecontroller.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "006B8C2AE0B8B15C",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zbriefingpagecontroller.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00D59427FEB1A581",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zleaderboardspagecontroller.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00AB39130BC58B4A",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zpreferenceitementity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "005ABFB48EBD6A70",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zsignalgateentity_keyword.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0050478F10630A89",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zmenupermalinkentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0085E5584E87A1A9",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zwaypointentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00288470E0C4D5D6",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zmenucheckboxnavigationentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00FE79EAF187A997",
-    "path": "",
+    "path": "[modules:/runtime.render.moduleinfo?zvisibilityproxyentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00DE96C8BA27C507",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zplaythroughdetailscontroller.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "008E2DD849F369EC",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zsetorientationentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "008B32BCF49F51D1",
-    "path": "",
+    "path": "[modules:/runtime.sequence2.moduleinfo?zentityreferenceitem.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0066EB63F575F57C",
-    "path": "",
+    "path": "[modules:/runtime.gameentities.moduleinfo?zprimitivearrowentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00B7633F87FAD320",
-    "path": "",
+    "path": "[modules:/runtime.render.moduleinfo?zparticlekillvolumeentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00ED877FDFC3245D",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zhm5clothbundleentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00A4140AE6860438",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zuimapprobe.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00DCF0024B30C39B",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zactorpickereffectkeyword.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "000C6B3C2A3C820C",
-    "path": "",
+    "path": "[modules:/runtime.ui.moduleinfo?zuiflowlayoutentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "002FBF941D346267",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zuimapconfigregistryentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0038C5B5BF9B6CDC",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zactorpickereffectstate.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "001943D2E62D1B92",
-    "path": "",
+    "path": "[modules:/tool.editorserver.moduleinfo?zmanipulatorlightbox.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00E362784DC955DB",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zhm5ventilatorshaftentranceentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00983DEBB4EAB178",
-    "path": "",
+    "path": "[modules:/runtime.gameentities.moduleinfo?zrendervideoplayerentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00EF51BCC6A0488D",
-    "path": "",
+    "path": "[modules:/tool.editorserver.moduleinfo?zmanipulatorgridseed.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00F410833558D299",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zconfigvariableentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00F17980C3DD3319",
-    "path": "",
+    "path": "[modules:/game.ui.moduleinfo?zitemdetailspagecontroller.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00B2478017507A51",
-    "path": "",
+    "path": "[modules:/runtime.testlogic.moduleinfo?zconverttovectorentity_scolorrgb.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "009B85E543FBA560",
-    "path": "",
+    "path": "[modules:/game.item.moduleinfo?zrepositoryitemspawnerentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00441CA7755983FB",
-    "path": "",
+    "path": "[modules:/tool.editorserver.moduleinfo?zmanipulatorlight.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00214AB9621594E0",
-    "path": "",
+    "path": "[modules:/game.keyword.moduleinfo?zkeywordtransmitter.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00F02D1905D00498",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zambienttensionconditionentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0082F0FA51AE9832",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zactordamageoverride.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00B996B71F55B89A",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zhm5sbtargetprop.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "003B2BF4355A6656",
-    "path": "",
+    "path": "[modules:/runtime.gameentities.moduleinfo?zwaveformgeneratorentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00FA1C2A7B06B895",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zhm5debugvaluesentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00B081081F118008",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zhm5guideventilatorshaft.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00D92AE12F926C5E",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zactorweaponaction.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "005F0B9B994C9A4E",
-    "path": "",
+    "path": "[modules:/tool.editorserver.moduleinfo?zmanipulatorarealight.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00DB25BA8024A321",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zprotocombatsituation.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "001699B96DF28CEE",
-    "path": "",
+    "path": "[modules:/hitman5.moduleinfo?zhm5contextactionentity.class].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "003493A5683D614B",
-    "path": "",
+    "path": "[modules:/tool.editorserver.moduleinfo?zmanipulatorbox.class].pc_entityblueprint",
     "gameFlags": 128
   }
 ]
