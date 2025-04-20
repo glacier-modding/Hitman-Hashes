@@ -1,8 +1,8 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,590,401-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.34%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-11/70-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.35%25-yellow.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-13/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.41%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.36%25-yellow.svg)
@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.21%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.58%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-81.03%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-81.15%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -32,9 +32,9 @@
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
 |BORG     |7231           |2784         |38.50%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
-|CBLU     |2694           |2649         |98.33%            |0    |0.00%          |
+|CBLU     |2694           |2694         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
-|CPPT     |2694           |2649         |98.33%            |0    |0.00%          |
+|CPPT     |2694           |2694         |100.00%           |0    |0.00%          |
 |CRMD     |58             |50           |86.21%            |1    |1.72%          |
 |DITL     |4              |0            |0.00%             |0    |0.00%          |
 |DLGE     |49784          |46769        |93.94%            |2371 |4.76%          |
