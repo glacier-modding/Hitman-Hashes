@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,590,401-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.04%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.34%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-11/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.41%25-yellow.svg)
@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.21%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.58%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-74.14%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-81.03%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -23,11 +23,11 @@
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
 |AIRG     |53             |52           |98.11%            |0    |0.00%          |
-|ALOC     |26934          |16642        |61.79%            |0    |0.00%          |
+|ALOC     |26934          |16657        |61.84%            |0    |0.00%          |
 |ASEB     |5882           |3361         |57.14%            |0    |0.00%          |
 |ASET     |13726          |7873         |57.36%            |0    |0.00%          |
 |ASVA     |285            |267          |93.68%            |9    |3.16%          |
-|ATMD     |17918          |6458         |36.04%            |0    |0.00%          |
+|ATMD     |17918          |6460         |36.05%            |0    |0.00%          |
 |BLOB     |1              |0            |0.00%             |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
 |BORG     |7231           |2784         |38.50%            |0    |0.00%          |
@@ -54,26 +54,26 @@
 |LINE     |33243          |25995        |78.20%            |1932 |5.81%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10530          |6545         |62.16%            |504  |4.79%          |
-|MATB     |5548           |4916         |88.61%            |576  |10.38%         |
+|MATB     |5548           |4921         |88.70%            |576  |10.38%         |
 |MATE     |1128           |834          |73.94%            |0    |0.00%          |
 |MATI     |19011          |17557        |92.35%            |1117 |5.88%          |
-|MATT     |5547           |4916         |88.62%            |575  |10.37%         |
+|MATT     |5547           |4921         |88.71%            |575  |10.37%         |
 |MJBA     |20681          |7363         |35.60%            |0    |0.00%          |
 |MRTN     |2326           |1074         |46.17%            |0    |0.00%          |
 |MRTR     |862            |85           |9.86%             |0    |0.00%          |
 |NAVP     |81             |79           |97.53%            |1    |1.23%          |
 |ORES     |9              |7            |77.78%            |0    |0.00%          |
 |PREL     |144            |144          |100.00%           |0    |0.00%          |
-|PRIM     |44287          |22162        |50.04%            |228  |0.51%          |
+|PRIM     |44287          |22170        |50.06%            |228  |0.51%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |145            |0            |0.00%             |137  |94.48%         |
-|SCDA     |940            |818          |87.02%            |0    |0.00%          |
+|SCDA     |940            |819          |87.13%            |0    |0.00%          |
 |SDEF     |507            |503          |99.21%            |0    |0.00%          |
-|TBLU     |57132          |41296        |72.28%            |15000|26.25%         |
+|TBLU     |57132          |41302        |72.29%            |15000|26.25%         |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
-|TEMP     |87478          |60448        |69.10%            |25324|28.95%         |
-|TEXD     |49703          |33045        |66.48%            |9083 |18.27%         |
-|TEXT     |45017          |33397        |74.19%            |9761 |21.68%         |
+|TEMP     |87478          |60465        |69.12%            |25324|28.95%         |
+|TEXD     |49703          |37859        |76.17%            |9083 |18.27%         |
+|TEXT     |45017          |33399        |74.19%            |9761 |21.68%         |
 |UICB     |477            |393          |82.39%            |0    |0.00%          |
 |UICT     |477            |393          |82.39%            |0    |0.00%          |
 |VIDB     |99             |99           |100.00%           |0    |0.00%          |
