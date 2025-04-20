@@ -28171,12 +28171,12 @@
   },
   {
     "hash": "00441D8546E08E3D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/backdrop/sky/clouds/cloud_b.mi].pc_entitytype",
     "gameFlags": 2
   },
   {
     "hash": "00A4BADAA0AD00FF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/backdrop/sky/clouds/cloud_c.mi].pc_entitytype",
     "gameFlags": 2
   },
   {
@@ -28191,7 +28191,7 @@
   },
   {
     "hash": "00C9294E95A2E5C7",
-    "path": "",
+    "path": "[assembly:/materials/_placeholder/blockup_metal.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -28281,12 +28281,12 @@
   },
   {
     "hash": "0049ED1853D46E4E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/ground/stone_underground_medieval_a.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
     "hash": "0041713CBF83D9D3",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/frost/fx_par_frost_snow_4x4_01.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
