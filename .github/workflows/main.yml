@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-22.04
     strategy:
       matrix:
-        game: ['all', 'alpha', 'h1', 'h2', 'h3', 'beta', 'sa']
+        game: ['all', 'alphaJan2015', 'alphaJuly2015', 'h1', 'h2', 'h3', 'beta', 'sa']
 
     steps:
       - name: Checkout
