@@ -1991,7 +1991,7 @@
   },
   {
     "hash": "00838594CAA35D95",
-    "path": "",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.checkbox.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2141,7 +2141,7 @@
   },
   {
     "hash": "00249C8062B05FCE",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.briefingpage.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2151,7 +2151,7 @@
   },
   {
     "hash": "002D019CD7238135",
-    "path": "",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notificationbar.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2161,7 +2161,7 @@
   },
   {
     "hash": "008F711881096D19",
-    "path": "",
+    "path": "[assembly:/ui/controls/menu2.swf?/menu2.dynamicmenupage.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2216,7 +2216,7 @@
   },
   {
     "hash": "0014A7CD5DC6105E",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.debriefingpage.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2246,7 +2246,7 @@
   },
   {
     "hash": "002CCCD8E416F75C",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.playthroughdetailspage.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2286,7 +2286,7 @@
   },
   {
     "hash": "0096DFBFAEC2BFC1",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.competitionpage.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2331,7 +2331,7 @@
   },
   {
     "hash": "00D9DB8226DCA37D",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.itemdetailspage.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2356,7 +2356,7 @@
   },
   {
     "hash": "007238CB4FE9EDFB",
-    "path": "",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.minimap.uic].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -2371,7 +2371,7 @@
   },
   {
     "hash": "00244BEC962B84A7",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.genericlistpage.uic].pc_entitytype",
     "gameFlags": 128
   },
   {

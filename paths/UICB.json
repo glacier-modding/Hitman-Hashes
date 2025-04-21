@@ -1981,7 +1981,7 @@
   },
   {
     "hash": "00067E6993F511CD",
-    "path": "",
+    "path": "[assembly:/ui/controls/menu2.swf?/menu2.dynamicmenupage.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -1996,7 +1996,7 @@
   },
   {
     "hash": "007F0FE1D3D71E6B",
-    "path": "",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.checkbox.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2031,7 +2031,7 @@
   },
   {
     "hash": "0094A66330E397B3",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.debriefingpage.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2096,7 +2096,7 @@
   },
   {
     "hash": "0049A77B0ABB7F24",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.playthroughdetailspage.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2176,7 +2176,7 @@
   },
   {
     "hash": "00741A234888A271",
-    "path": "",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.minimap.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2186,7 +2186,7 @@
   },
   {
     "hash": "00B8F28C7D22A3EE",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.itemdetailspage.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2266,7 +2266,7 @@
   },
   {
     "hash": "003A85F4272335A8",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.competitionpage.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2316,7 +2316,7 @@
   },
   {
     "hash": "0063104DE38BAE78",
-    "path": "",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.notificationbar.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2341,7 +2341,7 @@
   },
   {
     "hash": "00DBE1759BB48D15",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.briefingpage.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -2371,7 +2371,7 @@
   },
   {
     "hash": "008AED52400D27FE",
-    "path": "",
+    "path": "[assembly:/ui/controls/phone.swf?/phone.genericlistpage.uic].pc_entityblueprint",
     "gameFlags": 128
   },
   {
