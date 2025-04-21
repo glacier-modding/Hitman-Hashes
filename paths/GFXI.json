@@ -62563,7 +62563,7 @@
   },
   {
     "hash": "00433850E7EA7715",
-    "path": "",
+    "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_tool_screwdriver.dds].pc_gfx",
     "gameFlags": 128
   },
   {
@@ -62573,12 +62573,12 @@
   },
   {
     "hash": "0088E7A40C68A69B",
-    "path": "",
+    "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_tool_crowbar.dds].pc_gfx",
     "gameFlags": 128
   },
   {
     "hash": "0042C2D3CECBBAD3",
-    "path": "",
+    "path": "[assembly:/ui/prototypes/prototyperesources/icons/images/icon_tool_lockpick.dds].pc_gfx",
     "gameFlags": 128
   },
   {
