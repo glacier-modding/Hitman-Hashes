@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,590,401-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.35%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-13/70-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-14/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.41%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.36%25-yellow.svg)
@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.21%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.58%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-81.16%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-81.17%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -22,7 +22,7 @@
 |AIBB     |1              |1            |100.00%           |0    |0.00%          |
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
-|AIRG     |53             |52           |98.11%            |0    |0.00%          |
+|AIRG     |53             |53           |100.00%           |0    |0.00%          |
 |ALOC     |26934          |16657        |61.84%            |0    |0.00%          |
 |ASEB     |5882           |3361         |57.14%            |0    |0.00%          |
 |ASET     |13726          |7873         |57.36%            |0    |0.00%          |
@@ -69,9 +69,9 @@
 |RTLV     |145            |0            |0.00%             |137  |94.48%         |
 |SCDA     |940            |819          |87.13%            |0    |0.00%          |
 |SDEF     |507            |503          |99.21%            |0    |0.00%          |
-|TBLU     |57132          |41302        |72.29%            |15000|26.25%         |
+|TBLU     |57132          |41304        |72.30%            |15000|26.25%         |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
-|TEMP     |87478          |60465        |69.12%            |25324|28.95%         |
+|TEMP     |87478          |60467        |69.12%            |25324|28.95%         |
 |TEXD     |49703          |37861        |76.17%            |9083 |18.27%         |
 |TEXT     |45017          |33400        |74.19%            |9761 |21.68%         |
 |UICB     |477            |393          |82.39%            |0    |0.00%          |
