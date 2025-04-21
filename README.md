@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,590,401-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.35%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-14/70-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-15/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.41%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.36%25-yellow.svg)
@@ -28,7 +28,7 @@
 |ASET     |13726          |7873         |57.36%            |0    |0.00%          |
 |ASVA     |285            |267          |93.68%            |9    |3.16%          |
 |ATMD     |17918          |6460         |36.05%            |0    |0.00%          |
-|BLOB     |1              |0            |0.00%             |0    |0.00%          |
+|BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
 |BORG     |7231           |2784         |38.50%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
