@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.21%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.58%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-81.17%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-81.20%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -45,7 +45,7 @@
 |ERES     |407            |267          |65.60%            |3    |0.74%          |
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |357642         |350464       |97.99%            |0    |0.00%          |
-|GFXF     |43             |41           |95.35%            |0    |0.00%          |
+|GFXF     |43             |42           |97.67%            |0    |0.00%          |
 |GFXI     |12268          |9658         |78.73%            |1252 |10.21%         |
 |GFXV     |327            |119          |36.39%            |196  |59.94%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
@@ -74,8 +74,8 @@
 |TEMP     |87478          |60467        |69.12%            |25324|28.95%         |
 |TEXD     |49703          |37861        |76.17%            |9083 |18.27%         |
 |TEXT     |45017          |33400        |74.19%            |9761 |21.68%         |
-|UICB     |477            |393          |82.39%            |0    |0.00%          |
-|UICT     |477            |393          |82.39%            |0    |0.00%          |
+|UICB     |477            |403          |84.49%            |0    |0.00%          |
+|UICT     |477            |403          |84.49%            |0    |0.00%          |
 |VIDB     |99             |99           |100.00%           |0    |0.00%          |
 |VTXD     |11307          |8695         |76.90%            |0    |0.00%          |
 |WBNK     |1550           |819          |52.84%            |0    |0.00%          |
