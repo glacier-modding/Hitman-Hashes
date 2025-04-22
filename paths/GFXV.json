@@ -1802,7 +1802,7 @@
   },
   {
     "hash": "0055A832B254C1A5",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/videos/boardslong.usm].pc_gfxv",
     "gameFlags": 128
   },
   {
@@ -1822,12 +1822,12 @@
   },
   {
     "hash": "00D1C4BB6063D3ED",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/videos/boardssmall.usm].pc_gfxv",
     "gameFlags": 128
   },
   {
     "hash": "00DEFC605BA5BEE6",
-    "path": "",
+    "path": "[assembly:/ui/data/menu3/videos/boards.usm].pc_gfxv",
     "gameFlags": 128
   }
 ]
