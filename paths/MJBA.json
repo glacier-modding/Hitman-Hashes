@@ -98596,7 +98596,7 @@
   },
   {
     "hash": "00444E57ECA580FE",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/fr_sit_n_phone_text.xmd?/lookr.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 2
   },
   {
@@ -98646,7 +98646,7 @@
   },
   {
     "hash": "00BC3F3C1412C1AE",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/death/mr_death_stand_electric.xmd?/mr_death_stand_electric.xmdtake](cutsequence).pc_animation",
     "gameFlags": 2
   },
   {
@@ -98681,32 +98681,32 @@
   },
   {
     "hash": "000EDF5277E5EE31",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_mr_lie_sunbathing_ambient_alertedstand_right.xmd?/ambient_alertedstand_right_l90.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 2
   },
   {
     "hash": "00A72CF80B0C015E",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_mr_lie_sunbathing_ambient_alertedstand_right.xmd?/ambient_alertedstand_right_r90.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 2
   },
   {
     "hash": "00E0B3312BC9E222",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_pour_wine.xmd?/mr_stand_pour_wine_100cm.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 2
   },
   {
     "hash": "005ABBE279ADE0C5",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_hips_photographer_takepictures.xmd?/photo_front_short_01.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 2
   },
   {
     "hash": "000870F963FE27E4",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/fh_stand_armsback.xmd?/loop_03_(what's_the_time).xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 2
   },
   {
     "hash": "007E5C071A220518",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_mr_lie_sunbathing_ambient_alertedstand_right.xmd?/ambient_alertedstand_right_0.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 2
   },
   {
@@ -98991,7 +98991,7 @@
   },
   {
     "hash": "00AF4F5B42624AE2",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_smoke.xmd?/loop.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99021,7 +99021,7 @@
   },
   {
     "hash": "00F26E6DCCAEFE46",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.xmd?/exit.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99201,7 +99201,7 @@
   },
   {
     "hash": "003098AFAB612BBC",
-    "path": "",
+    "path": "[assembly:/animations/animals/rat/rat_animations.xmd?/walk_forward.xmdtake](cutsequence).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99361,7 +99361,7 @@
   },
   {
     "hash": "003C5B53944D449B",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_blendin_mop.xmd?/in.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99766,7 +99766,7 @@
   },
   {
     "hash": "00B45D66A86F971B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.xmd?/2.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99791,7 +99791,7 @@
   },
   {
     "hash": "00F6552626B8BA1B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.xmd?/fall.xmdtake](cutsequence).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99841,7 +99841,7 @@
   },
   {
     "hash": "005BECE2DECF27CE",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.xmd?/check_time.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99871,7 +99871,7 @@
   },
   {
     "hash": "003B7E44EF2C97A1",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_smoke.xmd?/start.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -99941,7 +99941,7 @@
   },
   {
     "hash": "0006126916E97E2A",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armscrossed.xmd?/talkact_mr_stand_armscrossed_exit.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -100201,7 +100201,7 @@
   },
   {
     "hash": "0099659C915BFDA7",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.xmd?/scratch_head.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -100291,7 +100291,7 @@
   },
   {
     "hash": "00701C0E88995F52",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep135r.xmd?/hm_sneak_smallstep135r.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -100321,7 +100321,7 @@
   },
   {
     "hash": "00162E4E30BEB679",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.xmd?/idle.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -100536,7 +100536,7 @@
   },
   {
     "hash": "00625CF6F62FDCD3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep135l.xmd?/hm_sneak_smallstep135l.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -100686,7 +100686,7 @@
   },
   {
     "hash": "00AEE9C7C7FD0472",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.xmd?/exit.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -100736,7 +100736,7 @@
   },
   {
     "hash": "009DD8F51F275D27",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/cop_pistol/cop_pistol_combat_walk_b.xmd?/cop_pistol_combat_walk_b.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -100991,12 +100991,12 @@
   },
   {
     "hash": "0097A74AF8F124DE",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/cop_pistol/cop_pistol_combat_walk_f.xmd?/cop_pistol_combat_walk_f.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
     "hash": "00015A9C6A7EC0A8",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.xmd?/enter.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -101021,7 +101021,7 @@
   },
   {
     "hash": "005EAC55952028BA",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.xmd?/idle_loop_01.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -101036,7 +101036,7 @@
   },
   {
     "hash": "0027B65373C21853",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_step_70_f.xmd?/mr_alerted_step_70_f.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -101266,7 +101266,7 @@
   },
   {
     "hash": "00013D192A7F6F10",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.xmd?/1.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -101791,7 +101791,7 @@
   },
   {
     "hash": "0092BB747A88D22C",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/001_walk/hm_stand_towalk0_rightleg.xmd?/hm_stand_towalk0_rightleg.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -101976,7 +101976,7 @@
   },
   {
     "hash": "00D9760461C7F97F",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.xmd?/stretch_shoulders.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102161,7 +102161,7 @@
   },
   {
     "hash": "00A95A00C31ACE3D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/photographer/mr_photographer_stand_takepictures.xmd?/into_photo_front.xmdtake](cutsequence).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102296,7 +102296,7 @@
   },
   {
     "hash": "00FC9CD48652B29A",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_step_20_f.xmd?/mr_alerted_step_20_f.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102391,7 +102391,7 @@
   },
   {
     "hash": "00CC4DE5EC7B2B05",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_smoke.xmd?/stop.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102476,7 +102476,7 @@
   },
   {
     "hash": "0043A284BEBD510E",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_blendin_mop.xmd?/loop.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102616,7 +102616,7 @@
   },
   {
     "hash": "0043C105C759508D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.xmd?/fall.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102701,7 +102701,7 @@
   },
   {
     "hash": "00520EC16ABD4F33",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard_pistol/guard01_pistol_death_f_4.xmd?/guard01_pistol_death_f_4.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102741,12 +102741,12 @@
   },
   {
     "hash": "00375205CA3719B5",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.xmd?/stop.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
     "hash": "0019662E530D21E7",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.xmd?/start.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102881,7 +102881,7 @@
   },
   {
     "hash": "00A81ADFE82579B2",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.xmd?/idle2.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102911,7 +102911,7 @@
   },
   {
     "hash": "0057B5E49F841ABA",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.xmd?/enter.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -102976,7 +102976,7 @@
   },
   {
     "hash": "00E731FB04214DD6",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.xmd?/exit.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -103091,7 +103091,7 @@
   },
   {
     "hash": "00EF48D732F23352",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/mr_getup_from_ragdoll.xmd?/getup_from_back_right_2.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {
@@ -103191,7 +103191,7 @@
   },
   {
     "hash": "002A457D5C739624",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.xmd?/idle_loop_02.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 128
   },
   {

@@ -11346,7 +11346,7 @@
   },
   {
     "hash": "00763C3739529A2C",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/generic/stand/mr_stand_pour_wine_100cm.aln].pc_rtn",
     "gameFlags": 2
   },
   {
@@ -11361,7 +11361,7 @@
   },
   {
     "hash": "00F60EBE5A11B7A9",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_chair_table_drinkcoffee_enter_s_r.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11461,7 +11461,7 @@
   },
   {
     "hash": "0026640FE244E6D7",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/generic/stand/mr_stand_clipboard_left.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11511,7 +11511,7 @@
   },
   {
     "hash": "00446F480411BE67",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_chair_table_eatsoup_enter_b_r.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11526,7 +11526,7 @@
   },
   {
     "hash": "00E56FF13A0DCF4A",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_chair_table_eatmeal_enter_b_r.aln].pc_rtn",
     "gameFlags": 128
   },
   {

@@ -13881,7 +13881,7 @@
   },
   {
     "hash": "001432699174A03B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_reg_civ_photographer_01.wl2?/idbadge_02.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 46
   },
   {
@@ -14016,7 +14016,7 @@
   },
   {
     "hash": "00169A165524D5A4",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_reg_civ_photographer_01.wl2?/glasses_02.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 46
   },
   {
@@ -14776,7 +14776,7 @@
   },
   {
     "hash": "001FB65A470419E5",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_reg_civ_photographer_01.wl2?/hair_02.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 62
   },
   {
@@ -19616,7 +19616,7 @@
   },
   {
     "hash": "005BE7FE1722D0BD",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_reg_civ_photographer_01.wl2?/shirt_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 46
   },
   {
@@ -20946,7 +20946,7 @@
   },
   {
     "hash": "006A3F57711FE9F8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/italy/local_womens/geometry/womens_reg_locals_03.wl2?/shoes.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -20956,7 +20956,7 @@
   },
   {
     "hash": "006AA86D8DECD980",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_reg_civ_photographer_01.wl2?/cap_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 62
   },
   {
@@ -21181,7 +21181,7 @@
   },
   {
     "hash": "006D5D497BA0EEAE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_reg_civ_photographer_01.wl2?/idbadge_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 46
   },
   {
@@ -29951,7 +29951,7 @@
   },
   {
     "hash": "00D38141FB1BAB3E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/formal_01/geometry/male_reg_civ_photographer_01.wl2?/glasses_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 62
   },
   {
@@ -35771,7 +35771,7 @@
   },
   {
     "hash": "004FCDBB65A47818",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/stem_cell_capsule_a.wl2?/stem_cell_capsule_a.linkedprim].pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -35846,7 +35846,7 @@
   },
   {
     "hash": "002A4947A8BD493C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/crowd/female/formal/geometry/female_crowd_formal_06_crowd.wl2?/base_female.weightedprim].pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -35856,7 +35856,7 @@
   },
   {
     "hash": "00AD8B9404136643",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/geometry/femregheels_fashionbosspartner_01.wl2?/magnolis_hands.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -35871,7 +35871,7 @@
   },
   {
     "hash": "0056D7E2C41F85DC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/crowd/female/formal/geometry/female_crowd_formal_05_crowd.wl2?/base_female.weightedprim].pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -35886,17 +35886,17 @@
   },
   {
     "hash": "007E755B3AD93901",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/gameplay/traps/oildrum_a.wl2?/oildrum_a.linkedprim].pc_bonerig",
     "gameFlags": 128
   },
   {
     "hash": "00A965D235588686",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/hair.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 128
   },
   {
     "hash": "00C314DA4F98AB4D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/scarf.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -35921,7 +35921,7 @@
   },
   {
     "hash": "00117608FD0D0EA1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/jacket.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -35931,7 +35931,7 @@
   },
   {
     "hash": "00607950E79B6B34",
-    "path": "",
+    "path": "[assembly:/geometry/characters/supportingcast/plumber/plumber_regular_male_02.wl2?/variation_01.weightedprim].pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -35951,12 +35951,12 @@
   },
   {
     "hash": "009670BCB13D3808",
-    "path": "",
+    "path": "[assembly:/geometry/weapons/smg_ump.wl2?/smg_ump.linkedprim].pc_bonerig",
     "gameFlags": 128
   },
   {
     "hash": "006959AA56598E2B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/geometry/malereg_fashiondesigner_sato.wl2?/legs.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -36056,7 +36056,7 @@
   },
   {
     "hash": "00068CCAA4490B7C",
-    "path": "",
+    "path": "[assembly:/geometry/characters/supportingcast/janitor/janitor_01.wl2?/janitor_02.weightedprim].pc_bonerig",
     "gameFlags": 128
   },
   {
@@ -36141,7 +36141,7 @@
   },
   {
     "hash": "00E7BE4B2B5AC23D",
-    "path": "",
+    "path": "[assembly:/geometry/characters/supportingcast/pig_handler/pig_handler_regular_male_01.wl2?/variation_01.weightedprim].pc_bonerig",
     "gameFlags": 128
   },
   {

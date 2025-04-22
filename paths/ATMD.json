@@ -85206,7 +85206,7 @@
   },
   {
     "hash": "007F6CC0F5E048DE",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/fr_sit_n_phone_text.amd?/lookr.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
@@ -85271,32 +85271,32 @@
   },
   {
     "hash": "0069EFE3A18B6FBA",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_mr_lie_sunbathing_ambient_alertedstand_right.amd?/ambient_alertedstand_right_r90.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
     "hash": "005EDC9802F801E3",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_mr_lie_sunbathing_ambient_alertedstand_right.amd?/ambient_alertedstand_right_l90.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
     "hash": "003DEA217477BFD2",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_hips_photographer_takepictures.amd?/photo_front_short_01.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
     "hash": "006227E859767E93",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/fh_stand_armsback.amd?/loop_03_(what's_the_time).atmd].pc_atmd",
     "gameFlags": 2
   },
   {
     "hash": "00CDDEA8D0406E81",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_pour_wine.amd?/mr_stand_pour_wine_100cm.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
     "hash": "00DBA95A330FEC86",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_mr_lie_sunbathing_ambient_alertedstand_right.amd?/ambient_alertedstand_right_0.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
@@ -85826,7 +85826,7 @@
   },
   {
     "hash": "00083AD1F83372B3",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_smoke.amd?/start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85846,7 +85846,7 @@
   },
   {
     "hash": "004EFABC805C1488",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_step_20_f.amd?/mr_alerted_step_20_f.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85871,7 +85871,7 @@
   },
   {
     "hash": "007E4B014D06002C",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_blendin_mop.amd?/loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85921,7 +85921,7 @@
   },
   {
     "hash": "00246E8420989648",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.amd?/stretch_shoulders.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86336,7 +86336,7 @@
   },
   {
     "hash": "0026FA0D4F12838A",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/mr_getup_from_ragdoll.amd?/getup_from_back_right_2.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86476,7 +86476,7 @@
   },
   {
     "hash": "0094DF641DA3947B",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep135l.amd?/hm_sneak_smallstep135l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86546,7 +86546,7 @@
   },
   {
     "hash": "000B65024BA2D705",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.amd?/fall.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87196,7 +87196,7 @@
   },
   {
     "hash": "003FCFE8FBCD7672",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.amd?/start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87241,12 +87241,12 @@
   },
   {
     "hash": "00C3796608C3C00F",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.amd?/stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D62BA3E8A828CF",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_step_70_f.amd?/mr_alerted_step_70_f.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87256,7 +87256,7 @@
   },
   {
     "hash": "0099BB468568CE57",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.amd?/exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87346,7 +87346,7 @@
   },
   {
     "hash": "00C6D5965ED1F6C0",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_smoke.amd?/stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87421,7 +87421,7 @@
   },
   {
     "hash": "009321D27C36439E",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.amd?/idle_loop_02.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87461,7 +87461,7 @@
   },
   {
     "hash": "0075E2DBB88F1DB7",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep135r.amd?/hm_sneak_smallstep135r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87656,7 +87656,7 @@
   },
   {
     "hash": "008D5F4F5AB5D77F",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.amd?/exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87786,7 +87786,7 @@
   },
   {
     "hash": "00DEE5BD12319652",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.amd?/enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88026,7 +88026,7 @@
   },
   {
     "hash": "00F998802D6581B9",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/specific/profession/golfer/mr_golfer_stand_swing.amd?/idle_loop_01.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88101,7 +88101,7 @@
   },
   {
     "hash": "0041ECB34606A500",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.amd?/exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88166,7 +88166,7 @@
   },
   {
     "hash": "0010D9A751688565",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.amd?/1.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88201,7 +88201,7 @@
   },
   {
     "hash": "00EEEB9375D9EAED",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard_pistol/guard01_pistol_death_f_4.amd?/guard01_pistol_death_f_4.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88506,7 +88506,7 @@
   },
   {
     "hash": "00C7F58DF49D768D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.amd?/check_time.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88626,7 +88626,7 @@
   },
   {
     "hash": "003D5377E8086F83",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.amd?/enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88791,7 +88791,7 @@
   },
   {
     "hash": "001504DF60DA0F0F",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armscrossed.amd?/talkact_mr_stand_armscrossed_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89141,7 +89141,7 @@
   },
   {
     "hash": "004E11EFD0801087",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.amd?/idle.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89346,7 +89346,7 @@
   },
   {
     "hash": "00142EF020D4202D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/sit/mr_sit_sleeping.amd?/2.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89506,7 +89506,7 @@
   },
   {
     "hash": "003975A0D10ACE86",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_armsback.amd?/scratch_head.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89521,7 +89521,7 @@
   },
   {
     "hash": "0085D4939972CDBD",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_blendin_mop.amd?/in.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89546,7 +89546,7 @@
   },
   {
     "hash": "00C86A2B5E4EC0F7",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/stand/mr_stand_lean_back_handson_100cm.amd?/idle2.atmd].pc_atmd",
     "gameFlags": 128
   },
   {

@@ -535,15 +535,13 @@
   },
   {
     "hash": "002005D85D3FC8BE",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/bushwhacker_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_bushwhacker/material/bushwhacker_head_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00119D106D7E5E45",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/bushwhacker_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_bushwhacker/material/bushwhacker_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B2EC5CC9BD33A1",
@@ -2094,9 +2092,8 @@
   },
   {
     "hash": "004C7CD45C3C4C38",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/lumumba_head_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_lumamba/materials/lumumba_head_01.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "009F8AECE8302775",
@@ -28187,7 +28184,7 @@
   },
   {
     "hash": "0083F2E97CDF5DB0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_cloudy_alpha_c.mi].pc_entityblueprint",
     "gameFlags": 2
   },
   {
@@ -28242,7 +28239,7 @@
   },
   {
     "hash": "006AAAB472B51706",
-    "path": "",
+    "path": "[assembly:/materials/characters/hitman/hitman_01_face.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -28272,7 +28269,7 @@
   },
   {
     "hash": "009661E8E701B0BA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_b.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -28287,17 +28284,17 @@
   },
   {
     "hash": "009A4EB83793D7AF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_c.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "006FB8EE96022226",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_a.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0062E7D010872B63",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_e.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -28307,7 +28304,7 @@
   },
   {
     "hash": "0013C9C959CE0C88",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_d.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {

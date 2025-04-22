@@ -535,15 +535,13 @@
   },
   {
     "hash": "00F53578CDC07317",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/bushwhacker_head_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_bushwhacker/material/bushwhacker_head_01.mi].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00E90DA938F4F977",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/bushwhacker_jacket_01.mi].pc_entitytype"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_bushwhacker/material/bushwhacker_jacket_01.mi].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00A3CF29DC4B0D07",
@@ -28181,7 +28179,7 @@
   },
   {
     "hash": "000400C41ACC66F2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_cloudy_alpha_c.mi].pc_entitytype",
     "gameFlags": 2
   },
   {
@@ -28196,7 +28194,7 @@
   },
   {
     "hash": "002DB48A0E4352D2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_b.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -28216,7 +28214,7 @@
   },
   {
     "hash": "00FBD0056D93E73F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_c.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -28231,7 +28229,7 @@
   },
   {
     "hash": "009BF064EE140BAB",
-    "path": "",
+    "path": "[assembly:/materials/characters/hitman/hitman_01_face.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -28251,12 +28249,12 @@
   },
   {
     "hash": "009169A004D06F6C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_a.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
     "hash": "0076CE4830CA9D49",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_d.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -28306,7 +28304,7 @@
   },
   {
     "hash": "00B016806195176D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_e.mi].pc_entitytype",
     "gameFlags": 128
   }
 ]

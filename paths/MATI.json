@@ -808,21 +808,18 @@
   },
   {
     "hash": "00E0CCAB6A078BBD",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/bushwhacker_head_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_bushwhacker/material/bushwhacker_head_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "0042A362FB1E3B8F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/bushwhacker_jacket_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_bushwhacker/material/bushwhacker_jacket_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "00864FFA23A24867",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/bushwhacker_trousers_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/colorado/elusivetarget_bushwhacker/material/bushwhacker_trousers_01.mi].pc_mi",
+    "gameFlags": 14
   },
   {
     "hash": "002827D8BC9CB832",
@@ -94503,7 +94500,7 @@
   },
   {
     "hash": "00DD895FFF759E87",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/metal_catwalk_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94543,12 +94540,12 @@
   },
   {
     "hash": "00D0938557472839",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/markings/decal_blood_smudge_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00CF25D0C7F52205",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/fabric/folds_leather_e.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94628,7 +94625,7 @@
   },
   {
     "hash": "00E9A20F4B2D6C91",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/gym/boxingbag_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94688,7 +94685,7 @@
   },
   {
     "hash": "009C6ABA8DC3BE65",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/marrakesh/signs/signs_school_blackboard_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94708,7 +94705,7 @@
   },
   {
     "hash": "00FC82E5E171053A",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/frost/fx_soft_snow_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94833,7 +94830,7 @@
   },
   {
     "hash": "00A735D78C485FDC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/mechanical/decals_laboratory_d_nofx.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -94938,7 +94935,7 @@
   },
   {
     "hash": "002821CEE5C1529D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/crowd/male/formal/materials/male_reg_crowd_head_06.mi].pc_mi",
     "gameFlags": 2
   },
   {
@@ -94948,7 +94945,7 @@
   },
   {
     "hash": "0099EB6A8552373D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/crowd/male/formal/materials/male_reg_crowd_head_08.mi].pc_mi",
     "gameFlags": 2
   },
   {
@@ -94958,7 +94955,7 @@
   },
   {
     "hash": "00667A09736BBD88",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_generic_cloudy_alpha_c.mi].pc_mi",
     "gameFlags": 2
   },
   {
@@ -94998,7 +94995,7 @@
   },
   {
     "hash": "00794A2A571E3CC3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47/materials/agent47_pants.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95043,7 +95040,7 @@
   },
   {
     "hash": "0039B37752805723",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/materials/fashionbosspartner_eyes_01.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95083,7 +95080,7 @@
   },
   {
     "hash": "006F32B4A44AED36",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47/materials/agent47_jacket.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95103,7 +95100,7 @@
   },
   {
     "hash": "00078E04BAE96E75",
-    "path": "",
+    "path": "[assembly:/materials/characters/supportingcast/hotel_maid/hotel_maid_accessories_01.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95118,7 +95115,7 @@
   },
   {
     "hash": "00E2B36A45D84572",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_a.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95128,7 +95125,7 @@
   },
   {
     "hash": "0096B41EA7457B75",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/materials/fashiondesigner_hair.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95163,7 +95160,7 @@
   },
   {
     "hash": "006E48AEC88AF5F2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_shirt.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95183,7 +95180,7 @@
   },
   {
     "hash": "00C7B7C036181A23",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/materials/fashionbosspartner_legs_01.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95293,7 +95290,7 @@
   },
   {
     "hash": "00F95485E2AADC05",
-    "path": "",
+    "path": "[assembly:/materials/characters/supportingcast/plumber/plumber_eyes_01.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95328,7 +95325,7 @@
   },
   {
     "hash": "0004C126370F50B0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_jacket.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95378,7 +95375,7 @@
   },
   {
     "hash": "005442ED1A05A18F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/vegetable_sack_b.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95388,7 +95385,7 @@
   },
   {
     "hash": "0038E7BAA8E85ACE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_e.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95563,7 +95560,7 @@
   },
   {
     "hash": "00C2F21BB84A3AFF",
-    "path": "",
+    "path": "[assembly:/materials/characters/hitman/hitman_01_face.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95638,7 +95635,7 @@
   },
   {
     "hash": "0095917A42355D72",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_c.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95663,7 +95660,7 @@
   },
   {
     "hash": "00D12070A7E65C5A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_earpiece.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95703,7 +95700,7 @@
   },
   {
     "hash": "00718551F6EBD0DA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionboss/materials/male_fashionboss_hair_01.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95713,7 +95710,7 @@
   },
   {
     "hash": "002FF2B488DBF9FE",
-    "path": "",
+    "path": "[assembly:/materials/props/inside/body_container_crate_a_xp.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95748,7 +95745,7 @@
   },
   {
     "hash": "007F5A06E1F999E7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/logos/sanguine_a.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95818,12 +95815,12 @@
   },
   {
     "hash": "0070A8CF15CEC748",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_hands_01.mi].pc_mi",
     "gameFlags": 128
   },
   {
     "hash": "006B88B4118FDCDE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/architecture/railing/balcony_ornate_c.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95833,7 +95830,7 @@
   },
   {
     "hash": "0087B2DFA1196F43",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/fashionshow_entrance_banner_b.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95843,12 +95840,12 @@
   },
   {
     "hash": "0053544E40C575E0",
-    "path": "",
+    "path": "[assembly:/materials/characters/supportingcast/pig_handler/pig_handler_regular_male_body_01c.mi].pc_mi",
     "gameFlags": 128
   },
   {
     "hash": "0070B5D7C20B7F9A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_d.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95863,7 +95860,7 @@
   },
   {
     "hash": "00761B3EDE1F0111",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/architecture/decor/catacombs_wall_a.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -95988,12 +95985,12 @@
   },
   {
     "hash": "00D077E33A9B26C6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/scatter/grass/scatter_grass_a.mi].pc_mi",
     "gameFlags": 128
   },
   {
     "hash": "009FB43E4EE31501",
-    "path": "",
+    "path": "[assembly:/_pro/_test/alanb/materials/backdrop_signs_c.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -96028,7 +96025,7 @@
   },
   {
     "hash": "00ED1EB780F482C3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_fakeice_b.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -96148,7 +96145,7 @@
   },
   {
     "hash": "0095880DDBF1A77B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/fashionshow_entrance_banner_a.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -96163,7 +96160,7 @@
   },
   {
     "hash": "00EF8CA365290F6F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashionbosspartner/materials/fashionbosspartner_dress_01.mi].pc_mi",
     "gameFlags": 128
   },
   {

@@ -67611,7 +67611,7 @@
   },
   {
     "hash": "00AB8631516D1883",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/furniture/sofa_modern_leather_a.wl2?/chair_leather_modern_b_00.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -67716,12 +67716,12 @@
   },
   {
     "hash": "0028F2825E12E32A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/clothing/hats_wicker_b.wl2?/hat_wicker_d_00.prim].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entitytype",
     "gameFlags": 2
   },
   {
     "hash": "006EAE908FB78BB2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/shops_props/medina_shopfront_b.wl2?/medina_shopfront_open_b.prim].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
     "gameFlags": 2
   },
   {
@@ -67766,12 +67766,12 @@
   },
   {
     "hash": "0022A14BF24E0F31",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/lamps/lamp_street_ornamented_italy_b.wl2?/lamp_street_ornamented_italy_b.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
     "hash": "0090694DCE38D3BA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/fountains/fountain_garden_palace_c.wl2?/fountain_garden_palace_c_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -67791,7 +67791,7 @@
   },
   {
     "hash": "00B05E1946EC2FE8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_italy_mansion_a.wl2?/pillar_italy_mansion_lobby_b.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -67876,7 +67876,7 @@
   },
   {
     "hash": "007E57374EE597F2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/architecture/pillars/pillars_italy_church_inside_a.wl2?/pillar_italy_church_inside_a_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -68131,7 +68131,7 @@
   },
   {
     "hash": "0035A60557774E5F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_napoleon_big_a.wl2?/sculpture_palace_napoleon_big_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -68151,7 +68151,7 @@
   },
   {
     "hash": "0078E4907EC99397",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_d_bare.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -68191,7 +68191,7 @@
   },
   {
     "hash": "0005789F440131C0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/fountains/fountain_garden_palace_b.wl2?/fountain_garden_palace_b_00.prim].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -68391,7 +68391,7 @@
   },
   {
     "hash": "00E292BF13F8C234",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/tree_platanus_a.wl2?/tree_platanus_a_bare.prim].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
     "gameFlags": 128
   },
   {
