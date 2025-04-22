@@ -31,6 +31,8 @@ def update_data(data, hash_val, path_val):
         if ioi_hash(path_val) == hash_val:
             if "path" not in entry or entry["path"] == "":
                 paths_added += 1
+            else:
+                print("Already added:", entry["path"])
             entry["path"] = path_val
             entry.pop("hint", None)
             modified_types.add(hash_type)
