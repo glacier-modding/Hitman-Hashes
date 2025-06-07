@@ -1829,5 +1829,10 @@
     "hash": "00DEFC605BA5BEE6",
     "path": "[assembly:/ui/data/menu3/videos/boards.usm].pc_gfxv",
     "gameFlags": 128
+  },
+  {
+    "hash": "00C530E250D117FC",
+    "path": "",
+    "gameFlags": 8
   }
 ]

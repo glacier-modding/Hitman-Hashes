@@ -404,5 +404,10 @@
     "hash": "005119E16DA46794",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/_scene_mission_viper.navp].pc_navp",
     "gameFlags": 128
+  },
+  {
+    "hash": "0038FF4EF4F9FDB1",
+    "path": "",
+    "gameFlags": 8
   }
 ]

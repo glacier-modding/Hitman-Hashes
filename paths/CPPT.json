@@ -13468,5 +13468,15 @@
     "hash": "00AAB83A67EB30D9",
     "path": "[modules:/hitman5.moduleinfo?zprotocombatsituation.class].pc_entitytype",
     "gameFlags": 128
+  },
+  {
+    "hash": "00BC3C82FF380E68",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006BD3709D460844",
+    "path": "",
+    "gameFlags": 8
   }
 ]

@@ -322,5 +322,10 @@
     "hash": "001A6FF3B7F657C2",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/dialogue/ai_hmdisguise.wwiseswitchgroup].pc_entityblueprint",
     "gameFlags": 128
+  },
+  {
+    "hash": "0041C3F9F5BC996F",
+    "path": "",
+    "gameFlags": 8
   }
 ]

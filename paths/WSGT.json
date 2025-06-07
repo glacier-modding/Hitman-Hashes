@@ -729,5 +729,10 @@
     "hash": "00650620BB5E86FF",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/rat/rat_music_clonetanks.wwisestategroup].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00C90DD9499B10F3",
+    "path": "",
+    "gameFlags": 8
   }
 ]

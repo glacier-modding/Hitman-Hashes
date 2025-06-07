@@ -13468,5 +13468,15 @@
     "hash": "003493A5683D614B",
     "path": "[modules:/tool.editorserver.moduleinfo?zmanipulatorbox.class].pc_entityblueprint",
     "gameFlags": 128
+  },
+  {
+    "hash": "009DA7650DEB410C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00865423E05B0393",
+    "path": "",
+    "gameFlags": 8
   }
 ]

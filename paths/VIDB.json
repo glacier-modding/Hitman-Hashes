@@ -493,5 +493,10 @@
     "hash": "00951EA3FC7536CA",
     "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_lambic.videodb].pc_videodb",
     "gameFlags": 8
+  },
+  {
+    "hash": "0094DD0309D3C6B6",
+    "path": "",
+    "gameFlags": 8
   }
 ]
