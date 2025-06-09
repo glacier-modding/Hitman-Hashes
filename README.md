@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,753-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.46%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-10/70-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-12/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.38%25-yellow.svg)
@@ -32,9 +32,9 @@
 |BMSK     |59             |38           |64.41%            |0    |0.00%          |
 |BORG     |7264           |2811         |38.70%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
-|CBLU     |2696           |2694         |99.93%            |0    |0.00%          |
+|CBLU     |2696           |2696         |100.00%           |0    |0.00%          |
 |CLNG     |4              |0            |0.00%             |0    |0.00%          |
-|CPPT     |2696           |2694         |99.93%            |0    |0.00%          |
+|CPPT     |2696           |2696         |100.00%           |0    |0.00%          |
 |CRMD     |60             |51           |85.00%            |1    |1.67%          |
 |DITL     |4              |0            |0.00%             |0    |0.00%          |
 |DLGE     |50665          |46785        |92.34%            |2371 |4.68%          |
@@ -69,9 +69,9 @@
 |RTLV     |146            |0            |0.00%             |137  |93.84%         |
 |SCDA     |940            |820          |87.23%            |0    |0.00%          |
 |SDEF     |508            |503          |99.02%            |0    |0.00%          |
-|TBLU     |57523          |41364        |71.91%            |14996|26.07%         |
+|TBLU     |57523          |41378        |71.93%            |14996|26.07%         |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
-|TEMP     |87960          |60762        |69.08%            |25320|28.79%         |
+|TEMP     |87960          |60776        |69.10%            |25320|28.79%         |
 |TEXD     |49811          |38235        |76.76%            |9067 |18.20%         |
 |TEXT     |45127          |33553        |74.35%            |9745 |21.59%         |
 |UICB     |477            |475          |99.58%            |0    |0.00%          |
