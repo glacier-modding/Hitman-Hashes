@@ -13471,12 +13471,12 @@
   },
   {
     "hash": "009DA7650DEB410C",
-    "path": "",
+    "path": "[modules:/zoutputsignaldataentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00865423E05B0393",
-    "path": "",
+    "path": "[modules:/zformattedtextlineentity.class].pc_entityblueprint",
     "gameFlags": 8
   }
 ]
