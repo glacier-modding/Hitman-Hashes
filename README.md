@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,753-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.46%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-12/70-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.67%25-yellow.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-13/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-82.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-83.38%25-yellow.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-80.98%25-yellow.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-81.38%25-yellow.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-50.22%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-91.60%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
@@ -37,20 +37,20 @@
 |CPPT     |2696           |2696         |100.00%           |0    |0.00%          |
 |CRMD     |60             |51           |85.00%            |1    |1.67%          |
 |DITL     |4              |0            |0.00%             |0    |0.00%          |
-|DLGE     |50665          |46785        |92.34%            |2371 |4.68%          |
+|DLGE     |50665          |47636        |94.02%            |2371 |4.68%          |
 |DSWB     |5              |0            |0.00%             |5    |100.00%        |
 |ECPB     |2869           |1330         |46.36%            |0    |0.00%          |
 |ECPT     |2869           |1330         |46.36%            |0    |0.00%          |
 |ENUM     |2              |1            |50.00%            |1    |50.00%         |
 |ERES     |407            |268          |65.85%            |3    |0.74%          |
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
-|FXAS     |358903         |354028       |98.64%            |0    |0.00%          |
+|FXAS     |358903         |355289       |98.99%            |0    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
-|GFXI     |12339          |9669         |78.36%            |1252 |10.15%         |
+|GFXI     |12339          |9725         |78.82%            |1252 |10.15%         |
 |GFXV     |328            |122          |37.20%            |196  |59.76%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3194           |1926         |60.30%            |1003 |31.40%         |
+|JSON     |3194           |1930         |60.43%            |1003 |31.40%         |
 |LINE     |33358          |26005        |77.96%            |1932 |5.79%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10534          |6797         |64.52%            |504  |4.78%          |
@@ -85,7 +85,7 @@
 |WSWB     |63             |48           |76.19%            |14   |22.22%         |
 |WSWT     |68             |48           |70.59%            |19   |27.94%         |
 |WWEM     |385665         |271541       |70.41%            |85030|22.05%         |
-|WWES     |188410         |187149       |99.33%            |0    |0.00%          |
+|WWES     |188410         |188410       |100.00%           |0    |0.00%          |
 |WWEV     |27463          |19882        |72.40%            |6247 |22.75%         |
 |WWFX     |18803          |17234        |91.66%            |0    |0.00%          |
 |YSHP     |4              |3            |75.00%            |1    |25.00%         |
