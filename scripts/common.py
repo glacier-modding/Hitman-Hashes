@@ -25,9 +25,8 @@ def infer_type(hash_with_type):
 
 def find_type(hash_val, all_data):
     for hash_type, data in all_data.items():
-        for entry in data.values():
-            if entry["hash"] == hash_val:
-                return hash_type
+        if hash_val in data:
+            return hash_type
     return None
 
 def read_json_file(filename):
