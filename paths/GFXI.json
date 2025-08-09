@@ -37463,7 +37463,8 @@
   {
     "hash": "000E584E4FF49971",
     "path": "",
-    "gameFlags": 18
+    "gameFlags": 18,
+    "hint": "splashscreen_2016"
   },
   {
     "hash": "000E6F9F68EE0E06",
@@ -44202,7 +44203,8 @@
   {
     "hash": "0098A8210DE75773",
     "path": "",
-    "gameFlags": 34
+    "gameFlags": 34,
+    "hint": "splashscreen_goty"
   },
   {
     "hash": "0098B6CBF7DD431A",
@@ -48213,7 +48215,7 @@
   },
   {
     "hash": "00ED3A2B5A9CB777",
-    "path": "",
+    "path": "[assembly:/ui/images/menu/release_splashscreen.png].pc_gfx",
     "gameFlags": 34
   },
   {
@@ -51406,7 +51408,7 @@
   },
   {
     "hash": "00653F28F501F1FD",
-    "path": "",
+    "path": "[assembly:/ui/images/menu/beta_splashscreen.png].pc_gfx",
     "gameFlags": 16
   },
   {
