@@ -1,6 +1,6 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,753-blue.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-79.71%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-14/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
@@ -46,11 +46,11 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |358903         |355289       |98.99%            |0    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
-|GFXI     |12339          |9727         |78.83%            |1254 |10.16%         |
+|GFXI     |12375          |9763         |78.89%            |1254 |10.13%         |
 |GFXV     |328            |122          |37.20%            |196  |59.76%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3194           |1930         |60.43%            |1003 |31.40%         |
+|JSON     |3226           |1962         |60.82%            |1003 |31.09%         |
 |LINE     |33358          |26005        |77.96%            |1932 |5.79%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10534          |6797         |64.52%            |504  |4.78%          |
