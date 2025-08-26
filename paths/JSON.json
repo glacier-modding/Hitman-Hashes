@@ -16971,5 +16971,165 @@
     "hash": "0039994386D44C39",
     "path": "",
     "gameFlags": 8
+  },
+  {
+    "hash": "00D2D661FFC07115",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_wet.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0027D77C88F7171C",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_colombia.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0008E65A0F31138D",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_trapped.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00706C09ED505153",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_colorado.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D70C12DF5B3399",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_paris.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009528725021DD7E",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_greedy.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F71A9BEF7CF090",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_northsea.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007E08D2BCEE19A2",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/locations/location_image.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00895D8E258B6F84",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_hokkaido.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006C42CFC180E005",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_golden.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0097CC1D42E2C126",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_northamerica.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000BF322E53E3A9F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_marrakech.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A8E768A1A9D745",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_rocky.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B6A1239DB90D67",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_opulent.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FDCC7C14D6554C",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/locations/location_title.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005D7EC9C6F27C73",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_salty.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007A6B6D12C4FA9A",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_newzealand.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DA96C119C86E57",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_caged.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E098E10F42EB23",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_elegant.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C04E6865A0C53F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_bangkok.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002357F5E975416C",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_edgy.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000E53EECF8672FD",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_mumbai.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0026D459BCE6D7F7",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/hub/modals/preorder007/showmodal_element.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006C3DCBF10C712B",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/missingentitlement_paths.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000B0705F5F99008",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_coastaltown.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DA9DC0041A589B",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/locations/location_packageid.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000BD1201016E49C",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/hub/modals/preorder007/modal.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C8B90D37A26FA3",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_ancestral.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002194D32A3D51B0",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/hub/dashboard/category_live/tiles/getpreorder007.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00197133D9C91B75",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_miami.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EE1C89962A2142",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_location_austria.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F45FF1677657D",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/hub/modals/preorder007/ismodalenabled.json].pc_json",
+    "gameFlags": 8
   }
 ]

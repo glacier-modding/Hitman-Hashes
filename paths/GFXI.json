@@ -62947,5 +62947,185 @@
     "hash": "003A905A9364E367",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/item_perspective_ec7d789b-63da-47eb-95fd-ecdbc1b5ba0c_0.jpg].pc_gfx",
     "gameFlags": 8
+  },
+  {
+    "hash": "00F9F927641F4E4F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_09.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DD8D3E509EB339",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/modal_limitedtime_freecontent_blackcurrant.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F04DB1D55D6C21",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_09.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AAD952D65FCB02",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_04.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0038E0E955F165A6",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/modal_007firstlight.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007EB2017B1CBA38",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_07.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0061F82B6D0C6B4D",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_05.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007FB72CE6B00533",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_05.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000FE7C19DCE4882",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_10.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00914ABB644A6910",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_06.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004B9A669F30B7CD",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_08.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B161E4F48554CB",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_02.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000C3B3C71B1694A",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_06.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0057D8E8ED1F79B3",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_10.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B0FD1E3C7FC1C5",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_02.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E38CEAB7AD98D7",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_03.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0072A7ED953C9B47",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_07.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002EFAF77C50115F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_04.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A099EC77AC59FB",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_10.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005231D541C84722",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_03.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000D1FB15C008956",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_05.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A2F3E25EB85B0F",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/tile_get007firstlight.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00977477BA3505DC",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_07.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AB759CCE2C5C9A",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/unlockables/item_perspective_24facf8b-c3bd-4fbe-9453-77ebc9153a22_0.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002D7C41CB629F50",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_08.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00528354FCFE76E0",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_01.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BC2DA88793EA44",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_04.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BC1A1436138C50",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_09.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F5A2752C9F9884",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w23_01.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00330433BD7B133B",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_02.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E8014B0C2F868C",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_08.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AE130636E60437",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/store/game_bundle_007firstlight.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009006BF31170CC7",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w27_06.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D5E6DC1E4D3290",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/livetile/tile_limitedtime_freecontent_blackcurrant.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F24410E83EFFD6",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_03.jpg].pc_gfx",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A18D8AEF56F198",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/images/contracts/featuredcontracts/fc_y25w30_01.jpg].pc_gfx",
+    "gameFlags": 8
   }
 ]
