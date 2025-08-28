@@ -11321,7 +11321,7 @@
   },
   {
     "hash": "00B65B841ED607BA",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/specific/profession/protester/mr_protester_leader_idle_megaphone.aln].pc_rtn",
     "gameFlags": 2
   },
   {
@@ -11401,7 +11401,7 @@
   },
   {
     "hash": "00AD729C90C634D0",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/specific/profession/sentry/mr_stand_armscrossed_sentry.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11416,7 +11416,7 @@
   },
   {
     "hash": "00016A51372223D1",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_chair_table_drinkwine_enter_s_l.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11521,7 +11521,7 @@
   },
   {
     "hash": "008596CB3B3BBC57",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_armsside.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11531,7 +11531,7 @@
   },
   {
     "hash": "00054D10E8558134",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_table_lean.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11546,7 +11546,7 @@
   },
   {
     "hash": "006E99A9B8184CAF",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_wall_lean_back.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11566,7 +11566,7 @@
   },
   {
     "hash": "0082618BB4CE1150",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_armscrossed.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11576,37 +11576,37 @@
   },
   {
     "hash": "00293B4022E40121",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_table_drinkcoffee_enter_f_r.aln].pc_rtn",
     "gameFlags": 128
   },
   {
     "hash": "005765D5C402A1EB",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/specific/profession/gardener/mr_gardener_stand_rake.aln].pc_rtn",
     "gameFlags": 128
   },
   {
     "hash": "003C28CD77504515",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_armsinside.aln].pc_rtn",
     "gameFlags": 128
   },
   {
     "hash": "001C95A3298026F0",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/levels/paris/mr_sato_stand_smoke.aln].pc_rtn",
     "gameFlags": 128
   },
   {
     "hash": "00C86E47A50A632F",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_chair_table_drinkwine_enter_s_r.aln].pc_rtn",
     "gameFlags": 128
   },
   {
     "hash": "00BEDB6C27196F4D",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_rail_smoke.aln].pc_rtn",
     "gameFlags": 128
   },
   {
     "hash": "00B00F8EA7EC29C9",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_chair_table_drinkwine_enter_b_r.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11616,7 +11616,7 @@
   },
   {
     "hash": "0026D77FD9C2C550",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/sit_chair_table/mr_sit_chair_table_drinkwine_enter_b_l.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11626,7 +11626,7 @@
   },
   {
     "hash": "002FDF1BF0779D94",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_drink_coffee.aln].pc_rtn",
     "gameFlags": 128
   },
   {

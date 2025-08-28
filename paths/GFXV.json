@@ -1084,9 +1084,8 @@
   },
   {
     "hash": "0026D8A1A35CEA25",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "negroni_eng.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/marrakesh/negroni/negroni.lvid].pc_gfxv",
+    "gameFlags": 14
   },
   {
     "hash": "008CDE1EA44EE30F",

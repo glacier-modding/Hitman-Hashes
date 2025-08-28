@@ -216,9 +216,8 @@
   },
   {
     "hash": "0097EBFAA6A412C4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_shorts_chinos_slim.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_shorts_chinos_slim.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007FE3087CF99698",
@@ -1942,9 +1941,8 @@
   },
   {
     "hash": "00870D7350395821",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_01_dress_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_dress_01.mi].pc_entityblueprint",
+    "gameFlags": 2
   },
   {
     "hash": "00131C16F8B3D369",
@@ -2483,9 +2481,8 @@
   },
   {
     "hash": "004578E499D99AA4",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_market_salesman_jacket_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/males/materials/male_reg_market_salesman_jacket_02.mi].pc_entityblueprint",
+    "gameFlags": 2
   },
   {
     "hash": "0097D8D8F4822A47",
@@ -2904,9 +2901,8 @@
   },
   {
     "hash": "000065AF12B56284",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_tvcrew_producer_glass_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/tv_crew/producer/materials/male_reg_tvcrew_producer_glass_01.mi].pc_entityblueprint",
+    "gameFlags": 2
   },
   {
     "hash": "002B53440244F86E",
@@ -3320,9 +3316,8 @@
   },
   {
     "hash": "009266C583BF70F9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/prototype_material_white.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/iryna/materials/prototype_material_white.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0085748D81C22C57",
@@ -26081,7 +26076,7 @@
   },
   {
     "hash": "0024AD41E4B3B476",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_20s_02.mi].pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -26091,7 +26086,7 @@
   },
   {
     "hash": "00AF07D77C30F02D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/nila_torvik/base_head_new.mi].pc_entityblueprint",
     "gameFlags": 4
   },
   {

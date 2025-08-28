@@ -56,9 +56,8 @@
   },
   {
     "hash": "0077E642762D201C",
-    "path": "",
-    "gameFlags": 64,
-    "hint": "briefing_bronx"
+    "path": "[assembly:/_pro/video/elusivetargets/hokkaido/bronx/bronx.lvid].pc_rtlvid",
+    "gameFlags": 64
   },
   {
     "hash": "00A4B3083EB3A5BC",
@@ -292,9 +291,8 @@
   },
   {
     "hash": "007A5768AC75B69C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "briefing_negroni"
+    "path": "[assembly:/_pro/video/elusivetargets/marrakesh/negroni/negroni.lvid].pc_rtlvid",
+    "gameFlags": 14
   },
   {
     "hash": "00419E965FBCA259",
@@ -403,9 +401,8 @@
   },
   {
     "hash": "006925AD50886E7E",
-    "path": "",
-    "gameFlags": 64,
-    "hint": "briefing_snakebite"
+    "path": "[assembly:/_pro/video/elusivetargets/colorado/snakebite/snakebite.lvid].pc_rtlvid",
+    "gameFlags": 64
   },
   {
     "hash": "00AE9B65AF92D5D4",
@@ -424,9 +421,8 @@
   },
   {
     "hash": "004E240CB0529FF2",
-    "path": "",
-    "gameFlags": 64,
-    "hint": "briefing_tamagozake"
+    "path": "[assembly:/_pro/video/elusivetargets/bangkok/tamagozake/tamagozake.lvid].pc_rtlvid",
+    "gameFlags": 64
   },
   {
     "hash": "00477492606A29C3",
@@ -435,9 +431,8 @@
   },
   {
     "hash": "00A0042220AEDE8B",
-    "path": "",
-    "gameFlags": 64,
-    "hint": "briefing_thelastword"
+    "path": "[assembly:/_pro/video/elusivetargets/sapienza/thelastword/thelastword.lvid].pc_rtlvid",
+    "gameFlags": 64
   },
   {
     "hash": "0025F217C3102665",
