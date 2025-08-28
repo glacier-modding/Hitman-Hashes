@@ -1621,9 +1621,8 @@
   },
   {
     "hash": "001B9AB86203E8AD",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "(mission_contract) jaguar (h3)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/missions/colombia_jaguar__80f00389-a509-47d4-b049-f62c02bc909f.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
+    "gameFlags": 8
   },
   {
     "hash": "00935B602858D582",
