@@ -1,15 +1,15 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.72%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.74%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.43%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-98.80%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.90%25-green.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.64%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.17%25-green.svg)
-![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-72.06%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.45%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-98.81%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.91%25-green.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.65%25-red.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.18%25-green.svg)
+![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-73.24%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-83.89%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
@@ -69,9 +69,9 @@
 |RTLV     |146            |136          |93.15%            |8    |5.48%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |508            |504          |99.21%            |0    |0.00%          |
-|TBLU     |57523          |56543        |98.30%            |211  |0.37%          |
+|TBLU     |57523          |56688        |98.55%            |66   |0.11%          |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
-|TEMP     |87960          |86365        |98.19%            |305  |0.35%          |
+|TEMP     |87960          |86510        |98.35%            |160  |0.18%          |
 |TEXD     |49811          |47912        |96.19%            |28   |0.06%          |
 |TEXT     |45127          |43737        |96.92%            |26   |0.06%          |
 |UICB     |477            |475          |99.58%            |0    |0.00%          |
