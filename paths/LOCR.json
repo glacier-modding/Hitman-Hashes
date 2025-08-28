@@ -25426,9 +25426,8 @@
   },
   {
     "hash": "00D8EA2F5E4BE559",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "bangkok_items"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/quest_intel/quest_bangkok/bangkok_questitems.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 2
   },
   {
     "hash": "00D8EA3B0E0FCA72",
@@ -30967,7 +30966,7 @@
   },
   {
     "hash": "00360755ACB83F97",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/marrakech/11000_python/11000_handler/ds11004_targetsdownnowdoc.sweetdialog].pc_localized-textlist",
     "gameFlags": 2
   },
   {

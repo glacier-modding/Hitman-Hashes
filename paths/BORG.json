@@ -13646,7 +13646,7 @@
   },
   {
     "hash": "0010F599250D93F6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/papers/books_a.wl2?/books_b_c_shatter.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -14066,7 +14066,7 @@
   },
   {
     "hash": "00171F9A3FB072F2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/kits/castle/mansion_a_destruction.wl2?/a_ext_window_1x4_shatter_a_8core.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -15021,7 +15021,7 @@
   },
   {
     "hash": "0022AF2AED4A5602",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_01/geometry/fem_reg_protester_01.wl2?/hands_part.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -15056,7 +15056,7 @@
   },
   {
     "hash": "002383CCB59A87DD",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/zika/oybeknabazov/geometry/male_reg_oybeknabazov.wl2?/hands.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 6
   },
   {
@@ -15196,7 +15196,7 @@
   },
   {
     "hash": "00258AECB308B334",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47/geometry/regmale_agent47_absolutionsuit.wl2?/pant.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -15846,7 +15846,7 @@
   },
   {
     "hash": "002E7E22CF3D31B3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/nemesis/geometry/male_reg_nemesis_s2.wl2?/hair.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 4
   },
   {
@@ -15936,7 +15936,7 @@
   },
   {
     "hash": "002EE2474C6317F1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/waiters_01/geometry/female_regular_heels_waiter_01.wl2?/hands.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -16176,7 +16176,7 @@
   },
   {
     "hash": "00320E165C2A54C6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/geometry/male_reg_civilian_01.wl2?/dress.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -16881,7 +16881,7 @@
   },
   {
     "hash": "003B2CAD3D49C14A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/elusive_target_paloma/geometry/male_reg_paloma.wl2?/male_reg_shoes.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 14
   },
   {
@@ -17151,7 +17151,7 @@
   },
   {
     "hash": "003E5618B78B4280",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/kits/castle/mansion_a_destruction.wl2?/a_ext_window_1x4_shatter_b_8core.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -17286,7 +17286,7 @@
   },
   {
     "hash": "003FB4C067561EB7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/nemesis/geometry/male_reg_nemesis_s2.wl2?/elbowbrace.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 4
   },
   {
@@ -17376,7 +17376,7 @@
   },
   {
     "hash": "004046F32FED5674",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_genericparts/female/formal_01/geometry/fem_reg_formal_01.wl2?/belttrousers_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 18
   },
   {
@@ -18111,7 +18111,7 @@
   },
   {
     "hash": "004915440D75BE2B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_02/geometry/male_reg_protester_02.wl2?/shoes.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -18126,7 +18126,7 @@
   },
   {
     "hash": "0049381FF8C9FE5F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_genericparts/heads/male/geometry/male_reg_head_16_v2.wl2?/male_reg_hair_16.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -18356,7 +18356,7 @@
   },
   {
     "hash": "004CE75776EEB684",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_01/geometry/male_reg_protester_01.wl2?/shoes.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -18671,7 +18671,7 @@
   },
   {
     "hash": "005056C09FDB2414",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_genericparts/heads/male/geometry/male_reg_head_16_v2.wl2?/male_reg_head_10.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -18821,7 +18821,7 @@
   },
   {
     "hash": "00524B294585C946",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/greenland/calista/geometry/fem_reg_heels_calista.wl2?/earrings.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -19591,7 +19591,7 @@
   },
   {
     "hash": "005BC80FBD4E336E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/waiters_01/geometry/female_regular_heels_waiter_01.wl2?/shirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -20886,7 +20886,7 @@
   },
   {
     "hash": "00695A2A12831675",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/geometry/male_reg_plague_doctor_01.wl2?/body.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -21446,7 +21446,7 @@
   },
   {
     "hash": "0071A86191F392AE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/geometry/male_reg.wl2?/male_reg_body.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 32
   },
   {
@@ -21516,7 +21516,7 @@
   },
   {
     "hash": "0072512933734245",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47/geometry/regmale_agent47_absolutionsuit.wl2?/shirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -21686,7 +21686,7 @@
   },
   {
     "hash": "00742498A5C8CB85",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/geometry/fem_reg.wl2?/torso_neck.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 4
   },
   {
@@ -22086,7 +22086,7 @@
   },
   {
     "hash": "0078D84FE446598C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/waiters_01/geometry/female_regular_heels_waiter_01.wl2?/apron.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -23886,7 +23886,7 @@
   },
   {
     "hash": "008FA6F0929EC7A0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_03/geometry/male_reg_protester_03.wl2?/shoes.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -24116,7 +24116,7 @@
   },
   {
     "hash": "0091E5A960A93AB5",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/geomerty/fem_reg_market_salesman_02.wl2?/scarf.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -24251,7 +24251,7 @@
   },
   {
     "hash": "0093582EDD616A9B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_04/geometry/fem_reg_protester_04.wl2?/shirt_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -24606,7 +24606,7 @@
   },
   {
     "hash": "0096E7D41ED4E88D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/geometry/fem_reg_hair.wl2?/hair_l_ponytail_loose_braid_cut_hat.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 4
   },
   {
@@ -25091,7 +25091,7 @@
   },
   {
     "hash": "009C0275A34A279E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/geometry/male_reg_v2.wl2?/male_reg_head.weightedprim].pc_bonerig",
     "gameFlags": 64
   },
   {
@@ -26411,7 +26411,7 @@
   },
   {
     "hash": "00AA4B71FE296D12",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/kits/castle/mansion_a_destruction.wl2?/a_ext_window_3x7_shatter_e_8core.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -26706,7 +26706,7 @@
   },
   {
     "hash": "00AD593EDC5B2F59",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/nemesis/geometry/male_reg_nemesis_s2.wl2?/male_reg_head_nemesis.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 4
   },
   {
@@ -27541,7 +27541,7 @@
   },
   {
     "hash": "00B72554EBCEFF2D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/papers/books_a.wl2?/books_c_c_shatter.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -27941,7 +27941,7 @@
   },
   {
     "hash": "00BCDA63146C3D5B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/geometry/fem_reg_hair.wl2?/hair_l_midpart_behindear.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 36
   },
   {
@@ -28026,7 +28026,7 @@
   },
   {
     "hash": "00BDC82231DA07CC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/waiters_01/geometry/female_regular_heels_waiter_01.wl2?/skirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -29131,7 +29131,7 @@
   },
   {
     "hash": "00CAA0EEECE8359D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47/geometry/regmale_agent47_absolutionsuit.wl2?/jacket.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -29696,7 +29696,7 @@
   },
   {
     "hash": "00D0974939289079",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/caddie/geometry/male_reg_caddie_01.wl2?/hair.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -29801,7 +29801,7 @@
   },
   {
     "hash": "00D197A070BB17B8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/geometry/fem_reg.wl2?/ankle_shoe.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 4
   },
   {
@@ -29821,7 +29821,7 @@
   },
   {
     "hash": "00D1C2E97A71897A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/fransesca desantis/geometry/femreg_fransescadesantis_01.wl2?/hair_02.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -30881,7 +30881,7 @@
   },
   {
     "hash": "00E00AD7F3306042",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/editorsassistant/geometry/femregheels_editorsassistant.wl2?/necklace_02.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -31346,7 +31346,7 @@
   },
   {
     "hash": "00E5247CA650BEE1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/geometry/male_reg_civilian_01.wl2?/shirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -32101,7 +32101,7 @@
   },
   {
     "hash": "00EE37EDF5E44A59",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/geometry/fem_reg_shirts.wl2?/tshirt_crewneck_loosefit_cut_shirt.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 4
   },
   {
@@ -32631,7 +32631,7 @@
   },
   {
     "hash": "00F38C98A7BE65C7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/kits/castle/mansion_a_destruction.wl2?/a_ext_window_3x7_shatter_a_8core.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -34296,7 +34296,7 @@
   },
   {
     "hash": "00162ADF5751510B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_legacy47/agent47_legacy47.wl2?/agent47_legacy47_body.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -35691,7 +35691,7 @@
   },
   {
     "hash": "00A62E039B67D23C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_base/pro_fem_regular/geometry/fem_reg_heels_v2.wl2?/fem_hair_mspearson.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -35711,7 +35711,7 @@
   },
   {
     "hash": "00AE4B1138D852BB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/males/geomerty/male_reg_marketsalesman02.wl2?/accessories_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -35741,7 +35741,7 @@
   },
   {
     "hash": "008BE34B137CE8BD",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/crowd/male/formal/geometry/male_reg_crowd_formal_06_v2.wl2?/head_i.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -35751,12 +35751,12 @@
   },
   {
     "hash": "00014A9E5D378C1B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/crowd/male/formal/geometry/male_reg_crowd_formal_06_v2.wl2?/hair_c.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
     "hash": "00B4F9884845FF5C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/crowd/male/formal/geometry/male_reg_crowd_formal_06_v2.wl2?/head_k.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -35791,7 +35791,7 @@
   },
   {
     "hash": "00B2CC5C0FD6A324",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/strandbergsaccomplice/geometry/male_reg_strandbergsaccomplice_01.wl2?/shoes_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {

@@ -1691,9 +1691,8 @@
   },
   {
     "hash": "00E6B3AA119D91BF",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_20s_02.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_20s_02.mi].pc_mi",
+    "gameFlags": 4
   },
   {
     "hash": "00464D50072248B0",
@@ -4198,9 +4197,8 @@
   },
   {
     "hash": "0021AC0F850F4F1D",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_01_dress_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_dress_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "00498C92B96BEA49",
@@ -4236,9 +4234,8 @@
   },
   {
     "hash": "00678836667105D6",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_01_shirt_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_shirt_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "00E8AE209B2DE16C",
@@ -4540,9 +4537,8 @@
   },
   {
     "hash": "00745A0F5A5E2FE3",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_freedomfighter_knife.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/individuals/anniversary/freedomfighter/materials/male_reg_freedomfighter_knife.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "0010C68094A628E2",
@@ -5232,9 +5228,8 @@
   },
   {
     "hash": "008749E56577A88E",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_market_salesman_skirt_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/males/materials/male_reg_market_salesman_skirt_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "00908FA45CF87FC7",
@@ -5383,9 +5378,8 @@
   },
   {
     "hash": "009C32FC215642F7",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_protester_01_shoes_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_01/material/male_reg_protester_01_shoes_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "0098FC9B18C239BD",
@@ -5419,15 +5413,13 @@
   },
   {
     "hash": "009BF43EED014F67",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_protester_03_shoes_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_03/materials/male_reg_protester_03_shoes_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "007FE2C5945542CF",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_protester_03_t-shirt_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_03/materials/male_reg_protester_03_t-shirt_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "00047E8C11603FA0",
@@ -90697,7 +90689,7 @@
   },
   {
     "hash": "0056403EA824CC45",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/farm_props/apricot_a.mi].pc_mi",
     "gameFlags": 2
   },
   {
@@ -93862,7 +93854,7 @@
   },
   {
     "hash": "0048AAA5971D6F8F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/strandbergsaccomplice/materials/male_reg_strandbergsacc_shoes_01.mi].pc_mi",
     "gameFlags": 2
   },
   {
@@ -94047,7 +94039,7 @@
   },
   {
     "hash": "004C01A73D15C537",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/banner_museum_b.mi].pc_mi",
     "gameFlags": 128
   },
   {
@@ -94872,7 +94864,7 @@
   },
   {
     "hash": "007B74CE79501A68",
-    "path": "",
+    "path": "[assembly:/materials/props/inside/hippie_candle_01a.mi].pc_mi",
     "gameFlags": 128
   },
   {

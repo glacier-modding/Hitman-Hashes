@@ -4811,7 +4811,7 @@
   },
   {
     "hash": "00E5C3F195FE4270",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/props_events/setpieces/unique/italy_unique_laboratory_machine_a/play_laboratorymachine_start.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -5126,7 +5126,7 @@
   },
   {
     "hash": "0094F805713D5D22",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/props_events/setpieces/unique/italy_unique_laboratory_machine_a/play_laboratorymachine_stop.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -5236,7 +5236,7 @@
   },
   {
     "hash": "005132703388737D",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/props_events/setpieces/unique/italy_unique_laboratory_machine_a/play_laboratorymachine_mainloop.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -6626,7 +6626,7 @@
   },
   {
     "hash": "00C4800E3F38D442",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/_test/_test_jonas/dings/play_debug_ding_low_3d.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {

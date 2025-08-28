@@ -8336,7 +8336,7 @@
   },
   {
     "hash": "0004C0329ED789ED",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/vehicles/geometry/boat_longtail_a/boat_longtail_a.wl2?/boat_longtail_stingray_a.prim](materials).entitytype,[modules:/zfloatingobjectplaneaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -8851,7 +8851,7 @@
   },
   {
     "hash": "000AAF104FA777F2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/lemon_trees.wl2?/lemon_bush_a.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zhm5collisionlayerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -9316,7 +9316,7 @@
   },
   {
     "hash": "0011EB2D88A6547D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/lemon_trees.wl2?/lemon_bush_b.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zhm5collisionlayerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -9976,7 +9976,7 @@
   },
   {
     "hash": "001C11563101F7B8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/equipment/fuel_tank_a.template?/fueltank_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
@@ -10296,7 +10296,7 @@
   },
   {
     "hash": "00203B4CC0C3D21E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_lemon_bush_a.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -10741,7 +10741,7 @@
   },
   {
     "hash": "002648346B330559",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fall_large_c.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -10866,7 +10866,7 @@
   },
   {
     "hash": "002864136136DA27",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/lemon_trees.wl2?/lemon_bush_c.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zhm5collisionlayerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -11366,7 +11366,7 @@
   },
   {
     "hash": "00303947411DA577",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/characters/templates/_part_library/male_parts/male_reg_bodyparts.template?/arms_elbow_hand.entitytemplate].entitytype,[modules:/zboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 36
   },
   {
@@ -11876,7 +11876,7 @@
   },
   {
     "hash": "0036E95B04212ED9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[assembly:/_pro/environment/geometry/mockup_kits/modern/modern_mockup_kit_a.wl2?/modern_winery_terrace_b_floor_pattern_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -11951,7 +11951,7 @@
   },
   {
     "hash": "0037C075ECA8D402",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fal_tiny_a.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -12636,7 +12636,7 @@
   },
   {
     "hash": "004200BC3EB872FD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/lemon_trees.wl2?/lemon_tree_b.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -13396,7 +13396,7 @@
   },
   {
     "hash": "004B7B739FE6CB22",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fal_small_a.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -13541,7 +13541,7 @@
   },
   {
     "hash": "004D7EE7D00129B4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/palmetto_med_a_tropical.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -13911,7 +13911,7 @@
   },
   {
     "hash": "00519E6C7B5FAFF2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fall_large_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -15091,7 +15091,7 @@
   },
   {
     "hash": "0060B733B98DF90E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/kits/apartment/beachhouse_a.template?/beachhouse_interior_a_door_hidden_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -15656,7 +15656,7 @@
   },
   {
     "hash": "006952C332DBD635",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fall_medium_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -16011,7 +16011,7 @@
   },
   {
     "hash": "006E6209842BD3C3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/clothing/laundry_india_a.template?/cloth_pile_laundry_b.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -16186,7 +16186,7 @@
   },
   {
     "hash": "0070EAAFCDFD12D9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_lemon_tree_i.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -16556,7 +16556,7 @@
   },
   {
     "hash": "0075AF7F37E4A3F1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/facility_a.template?/palm_med.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -16586,7 +16586,7 @@
   },
   {
     "hash": "00760616B9C47020",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_lemon_tree_b.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -16836,7 +16836,7 @@
   },
   {
     "hash": "0079072BDBA2C613",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fall_large_b.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -19466,7 +19466,7 @@
   },
   {
     "hash": "009AA57E78981CBF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_lemon_bush_c.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -19971,7 +19971,7 @@
   },
   {
     "hash": "00A164E108CFE459",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/poison/fogu_fish_poison_a.wl2?/fish_melee_a.prim].entitytype).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -20081,7 +20081,7 @@
   },
   {
     "hash": "00A33544E26BF9D0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fall_large_c.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -20376,7 +20376,7 @@
   },
   {
     "hash": "00A73E1A5BCAE4C9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fal_small_b.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -20901,7 +20901,7 @@
   },
   {
     "hash": "00ADC811C307A117",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_lemon_bush_b.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -21611,7 +21611,7 @@
   },
   {
     "hash": "00B5A960239C7C5C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fall_large_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -22341,7 +22341,7 @@
   },
   {
     "hash": "00C115D8508B40B0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fal_tiny_b.prim](materials).entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -22631,7 +22631,7 @@
   },
   {
     "hash": "00C52DE1B4CA671B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/shatter/fx_shatter_liberary.template?/fireplace_mansion_bulldog_a_shatter.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -22661,7 +22661,7 @@
   },
   {
     "hash": "00C5678E065F29AC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/colorado/farmhouse_props_a.template?/portable_airconditioning_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
@@ -23371,7 +23371,7 @@
   },
   {
     "hash": "00CF9300D2862872",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/items/geometry/quest/octane_booster_a.wl2?/vial_nitro_a_handle.linkedprim].entitytype).entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -23616,7 +23616,7 @@
   },
   {
     "hash": "00D32B5A859961C2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/lemon_trees.wl2?/lemon_tree_a.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -24421,7 +24421,7 @@
   },
   {
     "hash": "00DC966332D1071C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/foliage/trees_maple_fall_a.wl2?/maple_fall_large_b.prim](materials).entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -24941,7 +24941,7 @@
   },
   {
     "hash": "00E209D670457C86",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[assembly:/_pro/environment/geometry/kits/skyscraper/skyscraper_bespoke_windows_a.wl2?/skyscraper_bottom_f.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -25246,7 +25246,7 @@
   },
   {
     "hash": "00E565932C214FF6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/trees_colombia_existing_assets_a.template?/palmetto_med_a_mesh.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -25951,7 +25951,7 @@
   },
   {
     "hash": "00ED9F66516F8AEC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/colombia/coca_fields_buildinga_a.template?/colombia_cocafield_building_a_v01.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -26911,7 +26911,7 @@
   },
   {
     "hash": "00F91D6FC683F834",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_curly_palm_med_mesh_a.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -27386,7 +27386,7 @@
   },
   {
     "hash": "00FF73AD8BDE526E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_lva_cordyline_b.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -27431,7 +27431,7 @@
   },
   {
     "hash": "00FFCDDC7DAFA87F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_lva_cordyline_a.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
