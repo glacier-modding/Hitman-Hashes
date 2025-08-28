@@ -6,7 +6,7 @@
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.43%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-98.79%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.87%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.88%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.64%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.17%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-72.06%25-yellow.svg)
@@ -51,9 +51,9 @@
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
 |JSON     |3226           |2123         |65.81%            |853  |26.44%         |
-|LINE     |33358          |32186        |96.49%            |26   |0.08%          |
+|LINE     |33358          |32218        |96.58%            |15   |0.04%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
-|LOCR     |10534          |7404         |70.29%            |1    |0.01%          |
+|LOCR     |10534          |7405         |70.30%            |1    |0.01%          |
 |MATB     |5577           |5550         |99.52%            |5    |0.09%          |
 |MATE     |1131           |856          |75.69%            |0    |0.00%          |
 |MATI     |19057          |18818        |98.75%            |16   |0.08%          |
