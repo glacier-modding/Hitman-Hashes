@@ -22131,9 +22131,8 @@
   },
   {
     "hash": "001C624FAF0C2C00",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "challengepack phosphorus"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s2/challenge_pack/challengepack_phosphorus.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 12
   },
   {
     "hash": "001D0AD4E23CA287",
@@ -22432,9 +22431,8 @@
   },
   {
     "hash": "002EAB7E1C73D549",
-    "path": "",
-    "gameFlags": 48,
-    "hint": "itemstext_2"
+    "path": "[assembly:/localization/hitman6/conversations/ui/items2.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 48
   },
   {
     "hash": "002EE25823ADCE74",
@@ -24608,9 +24606,8 @@
   },
   {
     "hash": "00A8A71DAC98D2F1",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "challenges millipede"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s2/challenge/challenges_millipede.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 8
   },
   {
     "hash": "00A8B1668F9B652B",
@@ -24854,9 +24851,8 @@
   },
   {
     "hash": "00B75EF86B2E7807",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "challengepack fluorine"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s2/challenge_pack/challengepack_fluorine.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 8
   },
   {
     "hash": "00B7FB7F4369870C",
@@ -25195,9 +25191,8 @@
   },
   {
     "hash": "00C9F6AC29083BE4",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "challenges grasshopper"
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s2/challenge/challenges_grasshopper.sweetmenutext].pc_localized-textlist",
+    "gameFlags": 8
   },
   {
     "hash": "00CA2B4B38BDC8B0",

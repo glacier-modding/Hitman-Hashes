@@ -614,9 +614,8 @@
   },
   {
     "hash": "006985F909E241CE",
-    "path": "",
-    "gameFlags": 64,
-    "hint": "previously_on_season1"
+    "path": "[assembly:/_pro/video/cinematics_s02/cinematic_ssf.lvid].pc_rtlvid",
+    "gameFlags": 64
   },
   {
     "hash": "001C847463712260",
@@ -650,7 +649,7 @@
   },
   {
     "hash": "000E688B9D57D8BA",
-    "path": "",
+    "path": "[assembly:/_pro/video/menus/bootmovie.usm].pc_rtlvid",
     "gameFlags": 34
   },
   {
