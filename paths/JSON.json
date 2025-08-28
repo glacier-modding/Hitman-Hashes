@@ -1870,9 +1870,8 @@
   },
   {
     "hash": "00EBA9412278AA09",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "(mission_contract) lynx (h3)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/missions/vermont_lynx_1f227b14-da23-433a-9b02-290ca2396b2f.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
+    "gameFlags": 8
   },
   {
     "hash": "00C95D80FA1126EA",
