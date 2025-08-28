@@ -4,12 +4,12 @@
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.70%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.42%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.43%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-98.79%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.87%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.64%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.16%25-green.svg)
-![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-71.76%25-yellow.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.17%25-green.svg)
+![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-72.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-83.89%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
@@ -37,7 +37,7 @@
 |CPPT     |2696           |2696         |100.00%           |0    |0.00%          |
 |CRMD     |60             |54           |90.00%            |0    |0.00%          |
 |DITL     |4              |2            |50.00%            |0    |0.00%          |
-|DLGE     |50665          |50498        |99.67%            |0    |0.00%          |
+|DLGE     |50665          |50516        |99.71%            |0    |0.00%          |
 |DSWB     |5              |5            |100.00%           |0    |0.00%          |
 |ECPB     |2869           |2868         |99.97%            |0    |0.00%          |
 |ECPT     |2869           |2868         |99.97%            |0    |0.00%          |
@@ -50,10 +50,10 @@
 |GFXV     |328            |266          |81.10%            |56   |17.07%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3226           |2121         |65.75%            |853  |26.44%         |
-|LINE     |33358          |32183        |96.48%            |28   |0.08%          |
+|JSON     |3226           |2123         |65.81%            |853  |26.44%         |
+|LINE     |33358          |32186        |96.49%            |26   |0.08%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
-|LOCR     |10534          |7399         |70.24%            |6    |0.06%          |
+|LOCR     |10534          |7404         |70.29%            |1    |0.01%          |
 |MATB     |5577           |5550         |99.52%            |5    |0.09%          |
 |MATE     |1131           |856          |75.69%            |0    |0.00%          |
 |MATI     |19057          |18818        |98.75%            |16   |0.08%          |
@@ -64,16 +64,16 @@
 |NAVP     |82             |82           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |145            |145          |100.00%           |0    |0.00%          |
-|PRIM     |44433          |42807        |96.34%            |3    |0.01%          |
+|PRIM     |44433          |42832        |96.40%            |3    |0.01%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
-|RTLV     |146            |134          |91.78%            |9    |6.16%          |
+|RTLV     |146            |136          |93.15%            |8    |5.48%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |508            |504          |99.21%            |0    |0.00%          |
 |TBLU     |57523          |56543        |98.30%            |211  |0.37%          |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
 |TEMP     |87960          |86365        |98.19%            |305  |0.35%          |
 |TEXD     |49811          |47912        |96.19%            |28   |0.06%          |
-|TEXT     |45127          |43732        |96.91%            |31   |0.07%          |
+|TEXT     |45127          |43737        |96.92%            |26   |0.06%          |
 |UICB     |477            |475          |99.58%            |0    |0.00%          |
 |UICT     |477            |475          |99.58%            |0    |0.00%          |
 |VIDB     |100            |100          |100.00%           |0    |0.00%          |
@@ -86,7 +86,7 @@
 |WSWT     |68             |68           |100.00%           |0    |0.00%          |
 |WWEM     |385665         |277507       |71.96%            |79173|20.53%         |
 |WWES     |188410         |188410       |100.00%           |0    |0.00%          |
-|WWEV     |27463          |26050        |94.85%            |200  |0.73%          |
+|WWEV     |27463          |26053        |94.87%            |197  |0.72%          |
 |WWFX     |18803          |17234        |91.66%            |0    |0.00%          |
 |YSHP     |4              |4            |100.00%           |0    |0.00%          |
 <!-- STATISTICS_TABLE_END -->
