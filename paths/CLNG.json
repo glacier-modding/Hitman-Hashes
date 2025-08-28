@@ -1,7 +1,7 @@
 [
   {
     "hash": "00063B34B5153AEE",
-    "path": "",
+    "path": "[assembly:/_sniper/localization/sniperchallenge.sweet].pc_cascadinglanguagedependencies",
     "gameFlags": 44
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "hash": "00E3CBB0725ED16C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6.sweet].pc_cascadinglanguagedependencies",
     "gameFlags": 46
   }
 ]

@@ -1,261 +1,218 @@
 [
   {
     "hash": "0080BD66ACFA11E3",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_chinesesuit_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_chinesesuit/materials/agent47_chinesesuit_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00FE1DB40B80D197",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_chinesesuit_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_chinesesuit/materials/agent47_chinesesuit_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0062889E6E85A2BD",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_eyepatch.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_eyepatch.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B3C659439874A5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_falcon_backpack.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_falcon_backpack.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0024A794DC8A11D5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_gluttony_cape.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_gluttony/materials/agent47_gluttony_cape.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0063C26BE7366A48",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_gluttony_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_gluttony/materials/agent47_gluttony_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001E282C0613B2C9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_gluttony_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_gluttony/materials/agent47_gluttony_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0060532F4F9C9F6C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_goldmask.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_goldmask.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005F6491A2BAE5D5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_greed_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_greed/materials/agent47_greed_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00EBD5A832E5DEF4",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_greed_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_greed/materials/agent47_greed_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0024F6EC509F4231",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_guru_glasses.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_guru/materials/agent47_guru_glasses.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00275D784CB846F7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_guru_kurta.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_guru/materials/agent47_guru_kurta.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00460FE228DE233F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_guru_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_guru/materials/agent47_guru_shirt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B7CFA53778D7D6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_hippo_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_hippo_pants.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004A330226BE8EA8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_hippo_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_hippo_shirt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0017C081A5D4C5AE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_huntingsuit_boots.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_huntingsuit/materials/agent47_huntingsuit_boots.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B18BB020115F10",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_huntingsuit_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_huntingsuit/materials/agent47_huntingsuit_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0025D9D0F40EC23E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_huntingsuit_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_huntingsuit/materials/agent47_huntingsuit_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00433B60DEAA9991",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_llama_tuxedo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_llama/materials/agent47_llama_tuxedo.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00BF24760F7A1972",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_lust_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_lust/materials/agent47_lust_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009F0C8F720C5C80",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_lust_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_lust/materials/agent47_lust_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0011A66AE5432616",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_magpie_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_magpie/materials/agent47_magpie_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0032BBAF0B45A712",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_magpie_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_magpie/materials/agent47_magpie_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001FECD7B7950468",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_mongoose_kelvin_tie.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_mongoose_kelvin_tie.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008FE058D51F7AEB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_mongoose_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_mongoose_shirt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CCCDA41CF7CAD5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_mongoose_shirt_sleeves.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_mongoose_shirt_sleeves.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00724CF6A48E89E0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pants_wrath.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_wrath/material/agent47_pants_wrath.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00CCA6C29335C87D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_parachute_shoes.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_parachute/materials/agent47_parachute_shoes.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00D34AD72E7D575C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_parachute_suit.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_parachute/materials/agent47_parachute_suit.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F38CF53859ECEA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pirate_belt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_pirate_belt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00CCA71406523124",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pirate_boots.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_pirate_boots.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "003F8258C29E2D5B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pirate_hat.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_pirate_hat.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00200F3C8A424E5F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pirate_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_pirate_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "002571C35316DA44",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pirate_scarf.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_pirate_scarf.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00EAEE5566F2F377",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pirate_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_pirate_shirt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0098684D1EC8F9E2",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_pirate_trousers.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_pirateoutfit/material/agent47_pirate_trousers.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C9540C0C430FE5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_rat_coat.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_rat/materials/agent47_rat_coat.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C7E5DE2E654DCD",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_sheep_boots.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_sheep_boots.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0066AE11FE4DFF7E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_sheep_gloves.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_sheep_gloves.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001351359D722A8F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_sheep_pants_cargo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_sheep_pants_cargo.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005A7314FA5BC41C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_sheep_watch.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_sheep_watch.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B69C9C66BBD91E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_sheep_wetsuit.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_sheep_wetsuit.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005C912090ACCB38",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_shirt_polo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_shirt_polo.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0097EBFAA6A412C4",
@@ -265,57 +222,48 @@
   },
   {
     "hash": "007FE3087CF99698",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_signaturesuit_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_signaturesuit/material/agent47_signaturesuit_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F783C58449B12B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_signaturesuit_jacket_cheap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_signaturesuit/material/agent47_signaturesuit_jacket_cheap.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "004A844538054EF2",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_signaturesuit_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_signaturesuit/material/agent47_signaturesuit_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00082CF78A684D39",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_signaturesuit_pants_cheap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_signaturesuit/material/agent47_signaturesuit_pants_cheap.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0006457096DE6092",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/agent47_skunk_tie.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_skunk/material/agent47_skunk_tie.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A331FED065CCA7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_sloth_jacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_sloth/materials/agent47_sloth_jacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "000F066A0C0EF27E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_sloth_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_sloth/materials/agent47_sloth_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0043C5C454F08EE0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_straitjacket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_asylum/materials/agent47_straitjacket.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "006C541E844D12B7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/alexa_carlisle_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads_unique/materials/alexa_carlisle_head.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C80A7D986813C5",
@@ -324,21 +272,18 @@
   },
   {
     "hash": "000894E64B0BCE79",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/alexacarlisle_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bulldog/alexacarlisle_s3/materials/alexacarlisle_shirt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00D52DDA14BC4003",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/alexacarlisle_skirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bulldog/alexacarlisle_s3/materials/alexacarlisle_skirt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "007824F1947342A9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/alexacarlisle_vest.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bulldog/alexacarlisle_s3/materials/alexacarlisle_vest.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0094860273DFD73A",
@@ -352,57 +297,48 @@
   },
   {
     "hash": "00CFB57AA1790250",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/apron_full_barber.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/aprons/materials/apron_full_barber.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A42231E8BAB45E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/apron_full_bbq.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/aprons/materials/apron_full_bbq.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00702D77C26EDE8B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/apron_full_pocket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/aprons/materials/apron_full_pocket.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006F63E86DDE14EE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/aprun_full_pocket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/aprons/materials/aprun_full_pocket.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008A50948D3E8B21",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/arkanian_robe.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/arkanian_robe.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009D1A087EF7CE83",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/arming_cap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/arming_cap.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006C10C84D94B85B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/backpack_military.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/bags/materials/backpack_military.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00A990B5EA81CBFC",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/badge_triangle.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/rat/facilityguard_m/materials/badge_triangle.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00AB7F824E93305C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/balaclava_1hole.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/balaclava_1hole.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0042E1F0042B4B19",
@@ -411,105 +347,88 @@
   },
   {
     "hash": "00F23106A0C73AFB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/base_brows.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_brows.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C4E4179AE75353",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/base_eye.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/eyes/materials/base_eye.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0005F23475432C1C",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/base_hair.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00B2F55A83DC515B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/base_hair.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/theodoru/hair/materials/base_hair.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00757A40547A20B1",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/base_hair_vertexcolor.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_vertexcolor.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001EE127F21D3828",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/base_male_jacket_bomber.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/base_male_jacket_bomber.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00448A5157D327B8",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/base_male_renzocaruso_hair.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_negroni_renzocaruso/materials/base_male_renzocaruso_hair.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00681B84956D1C70",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/base_male_renzocaruso_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/elusive_target_negroni_renzocaruso/materials/base_male_renzocaruso_head.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "0082486920F31969",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/base_male_shirt_regular.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/base_male_shirt_regular.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00FB8BE8FC4B945B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/base_male_shirt_regular_tucked.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/base_male_shirt_regular_tucked.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004A008DCC9C3896",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/base_male_shorts_boxershorts.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shorts/materials/base_male_shorts_boxershorts.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BBA882C49213A4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/base_teeth.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/teeth/materials/base_teeth.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C254E5E541F7C7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/blend_moss_wetbeach_tropical_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/maldives/groundtextures/blend_moss_wetbeach_tropical_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B8314FEBC6C10E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/blend_sandbeach_wetbeach_tropical_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/maldives/groundtextures/blend_sandbeach_wetbeach_tropical_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B7AAFF6FC47D66",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/blend_sandbeach_wetbeach_tropical_b.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/maldives/groundtextures/blend_sandbeach_wetbeach_tropical_b.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E03B41592183F0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/blend_sandbeach_wetbeach_tropical_transition_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/maldives/groundtextures/blend_sandbeach_wetbeach_tropical_transition_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0004543BB6AD310C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/blindfold.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/blindfold.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EA62D06A9CEE58",
@@ -518,15 +437,13 @@
   },
   {
     "hash": "009C5325133FCC26",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/boots_h_riding_laced.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/boots_h_riding_laced.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C30641E60311BC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/bracelet_bandana_knot.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/bracelet_bandana_knot.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0067810D0B5E1FC4",
@@ -545,9 +462,8 @@
   },
   {
     "hash": "00B2EC5CC9BD33A1",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/cap_trucker_decal.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/cap_trucker_decal.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005CADF5F6A56DEE",
@@ -556,33 +472,28 @@
   },
   {
     "hash": "004611EA525E45D5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/checker_worldspace_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/carlls/checker_worldspace_a.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "003B4AD55CF1E75C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/cinematics_custom_poisoned_skin.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/cinematics/h3_cinematics/customcinematcismaterials/cinematics_custom_poisoned_skin.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "007035B10360CA56",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/cinematics_dynamicfacewrinklemaps.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/materialinstances/cinematics/cinematics_dynamicfacewrinklemaps.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "004F5F3CB7689AAA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/cobblestones_releif_raindrops.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/dagb/materials/cobblestones_releif_raindrops.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00EB85A58D463242",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/container_plastic_bucket_seagull_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/garbage_materials/container_plastic_bucket_seagull_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CAEED180DAA217",
@@ -591,15 +502,13 @@
   },
   {
     "hash": "005251D9B2C747CE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/corset_victorian.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/mumbai/vanyashah_f/materials/corset_victorian.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A1176A0364E185",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/coveralls_srtslv.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/coveralls_srtslv.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D3C6430A03045C",
@@ -618,9 +527,8 @@
   },
   {
     "hash": "001F4D24E9BCD995",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/devilmask.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_legacy_files/materials/devilmask.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00258F6D7C2765C6",
@@ -629,9 +537,8 @@
   },
   {
     "hash": "00B32BA249496E33",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/dress_facilityguide.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/rat/facilityguide_f/materials/dress_facilityguide.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "003FF7CC3FF7ACF2",
@@ -650,15 +557,13 @@
   },
   {
     "hash": "00246D62E1C7DED8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/earring_dangle_feather.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/accessories/earwear/materials/earring_dangle_feather.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D8F94910232213",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/earring_hoops_big.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/accessories/earwear/materials/earring_hoops_big.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E325E20175B992",
@@ -667,9 +572,8 @@
   },
   {
     "hash": "00B3B9C6A7167322",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/eyewear_binocularloupes.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/eyewear_binocularloupes.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B1626F20075EB6",
@@ -678,39 +582,33 @@
   },
   {
     "hash": "003D7200D03AF391",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/facilityguard_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/rat/facilityguard_m/materials/facilityguard_shirt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "006224DA4EF1CD76",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_acc_belt_bottle.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_acc_belt_bottle.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C717C61C8C7D22",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_acc_neck_dupatta.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_acc_neck_dupatta.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BECC4B62051DE8",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/fem_reg_acc_veil.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_acc_veil.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00DEC1F60DCC2282",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_acc_waistbelt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_acc_waistbelt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0094DA7C6A4C0819",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_bandage_foot.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_bandage_foot.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CB7448367B22F1",
@@ -734,33 +632,28 @@
   },
   {
     "hash": "001922271409C330",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_blouse_spaghetti_anisotrpoic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_blouse_spaghetti_anisotrpoic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A801C48A2010D7",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/fem_reg_body.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/materials/fem_reg_body.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "008A64450CDC1658",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_boots_rubber.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_boots_rubber.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0040A7B90A087DD6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_bow_sailor.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/neckwear/materials/fem_reg_bow_sailor.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002DC856F301765F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_bra_regular.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/underwear/materials/fem_reg_bra_regular.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00300832BE69A6B9",
@@ -769,453 +662,378 @@
   },
   {
     "hash": "00AE1329F289FA81",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_coat_3quarterslv_closed.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l02/jackets/materials/fem_reg_coat_3quarterslv_closed.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "000862501A0F0D04",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_coat_trench_closed.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l02/coats/materials/fem_reg_coat_trench_closed.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00917A982B5CE890",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_coat_trench_closed_formal.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l02/coats/materials/fem_reg_coat_trench_closed_formal.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B97FDEDE6AD286",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_50s_rockabilly_skirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_50s_rockabilly_skirt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0058DE5AF6AEDE9A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_50s_rockabilly_top.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_50s_rockabilly_top.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EDDE5459F612C2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_denim.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_denim.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CE81502B253156",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_halter_slits.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_halter_slits.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D005F56AD52DDE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_kameez.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_kameez.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AE833686BB39E2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_maid.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_maid.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B05315E9D92077",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_dress_maid_long_sleeve.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_maid_long_sleeve.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00D07C646E099596",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_top_birdge_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_dress_top_birdge_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009FC59E49B8995D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_top_flared_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_dress_top_flared_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00183B75BFA8E7C0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_top_tulip.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_dress_top_tulip.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0028AA6444F8896A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_dress_tube_simple.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_tube_simple.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003A56DD621C4495",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_eyelashes.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/materials/fem_reg_eyelashes.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00FBC10512657CBD",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_feathers.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/servant_f_magpie/materials/fem_reg_feathers.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BB4C67AB799232",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_gloves_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l00/gloves/materials/fem_reg_gloves_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002B306DA313FFD3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_gloves_long.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l00/gloves/materials/fem_reg_gloves_long.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CC4FD52B3EEF1E",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/fem_reg_haircap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/materials/fem_reg_haircap.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0030DA7DF586909C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/materials/fem_reg_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00FDAF5B764A1431",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_african_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_african_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00FAF20E122B9702",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_asian_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_asian_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E69B38D4E757EE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_asian_20s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_asian_20s_02.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "008872C44EEF0544",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_asian_20s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_asian_20s_03.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0050C9C4F606BB00",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_asian_40s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_asian_40s_02.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00920B945E54B89D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_asian_50s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_asian_50s_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0019DECA378DEF45",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_asian_50s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_asian_50s_02.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00043F9F411700CF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_bbqowner.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads_unique/materials/fem_reg_head_bbqowner.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C74518898C8146",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_catalinadelgado.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_catalinadelgado.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C018327E53823F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_20s_02_refined.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_20s_02_refined.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00906F5DAB169B97",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_20s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_20s_03.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0090B94EB88AD618",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_30s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_30s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C59E07D627F2AA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_30s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_30s_03.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "008C4D762E23ABDA",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_40s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_40s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "001DC2AAD1317FD6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_40s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_40s_03.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BF3F9A4426B5F6",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_40s_04.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_40s_04.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009B8DEF0F297591",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_caucasian_70s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_caucasian_70s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E256BD59499B07",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_childhoodgirlfriend.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_childhoodgirlfriend.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006CF8B79E933FA8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_hispanic_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_hispanic_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00344EBD0FC37BC4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_hispanic_30s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_hispanic_30s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006E2DE5A4E217D5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_hispanic_60s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_hispanic_60s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003BB67F86CC397E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_indian_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_indian_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D516DE59C0B3CE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_indian_20s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_indian_20s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009CBA26F5BA9A00",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_indian_30s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_indian_30s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C25A482D31FD01",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_indian_30s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_indian_30s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0004DC13AF9AE984",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_indian_40s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_indian_40s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007027A8547D1A43",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_indian_50s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_indian_50s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00ED4EF6E4DAFB73",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_leadactress.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_leadactress.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006D898B7B24CB87",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_head_martinezsassistant.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_martinezsassistant.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0075CBB906A3EF94",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_heels_hotelmanager_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/bangkok_hotelmanager/materials/fem_reg_heels_hotelmanager_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "004379AA5DD7BD90",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_hoodie_headpieceup.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_hoodie_headpieceup.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001D52DC4D5F692A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_hostage_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/seagull/hostage_f/materials/fem_reg_hostage_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0018F9B97DD6F2B4",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_hotelstaff_hat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/material/fem_reg_hotelstaff_hat_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00E9C11348A7385D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_hotelstaff_pant_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/material/fem_reg_hotelstaff_pant_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003DA6A57EC08D8E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_hotelstaff_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/material/fem_reg_hotelstaff_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E2C2FB04EC456C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_hotelstaff_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/material/fem_reg_hotelstaff_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004F3588954E9EC2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_jacket_halfcrop.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l02/jackets/materials/fem_reg_jacket_halfcrop.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006B56142870F3FF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_jacket_sanslapel.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l02/jackets/materials/fem_reg_jacket_sanslapel.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D050322FA051C5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_jackets_coat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l02/jackets/materials/fem_reg_jackets_coat_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0096C073D5861DE8",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_apron_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_apron_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00DF891AA6207A92",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_apron_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_apron_03.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008FFB37EE499165",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_market_salesman_hands_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_hands_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00591BD0240115FA",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "002D317216710B4D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_jacket_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_jacket_02.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00E0CDD852CCFCAB",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_jacket_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_jacket_03.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "003A77662D45917D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_scarf_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_scarf_03.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "005A8B6B1ABCE817",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0041179231C2D65A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_shirt_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_shirt_02.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0012BABC13A6EA85",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_shirt_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_shirt_03.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "000D11885E10E1EB",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_market_salesman_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00AA33D767EDDCC4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_market_salesman_shoes_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_shoes_03.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00720DEE327969E1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_skirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_skirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "007F32D600357F37",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_skirt_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_skirt_02.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00322ED8B392D5F9",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_market_salesman_skirt_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/females/material/fem_reg_market_salesman_skirt_03.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "004ACDB7D2756C3A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_necklace_pearl.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/neckwear/materials/fem_reg_necklace_pearl.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D69DEA6378B4B6",
@@ -1234,243 +1052,203 @@
   },
   {
     "hash": "0026E8287801791C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_onepiece_swimsuit.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/fullbody/materials/fem_reg_onepiece_swimsuit.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EE48DC2DB52CB7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_overshirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_overshirt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005A0E91155909B1",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_panties_regular.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/underwear/materials/fem_reg_panties_regular.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0067D0E4F15039D3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_pants_cargo_loose.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/pants/materials/fem_reg_pants_cargo_loose.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B84C9C058B2C5A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_pants_churidarsalwar.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/pants/materials/fem_reg_pants_churidarsalwar.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0098777683817445",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_pants_dabbawala_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/pants/materials/fem_reg_pants_dabbawala_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00002600F321B22C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_pants_dress_slim_short.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/pants/materials/fem_reg_pants_dress_slim_short.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C9784176E433C4",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_pants_flared.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/pants/materials/fem_reg_pants_flared.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "004106C8F2E186DA",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_pants_jeans_loose.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/pants/materials/fem_reg_pants_jeans_loose.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002D380421F983CE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_pants_tights.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/pants/materials/fem_reg_pants_tights.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B8312EB80A44BB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_protester_01_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_01/materials/fem_reg_protester_01_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B98881EC9E15CD",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_01_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_01/materials/fem_reg_protester_01_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00FF6FECBDA7A36E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_protester_01_sandals_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_01/materials/fem_reg_protester_01_sandals_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B2D1997DF8B7BF",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_01_scarf_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_01/materials/fem_reg_protester_01_scarf_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "000964295143AC4E",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/fem_reg_protester_02_dress_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_02/materials/fem_reg_protester_02_dress_01.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "00057C007AED5F25",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_02_mask_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_02/materials/fem_reg_protester_02_mask_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00A8F70F1B4214B8",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_02_sandals_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_02/materials/fem_reg_protester_02_sandals_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00DBBBCCDC631ED1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_02_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_02/materials/fem_reg_protester_02_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00397D23563BB245",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_03_bag_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_03/materials/fem_reg_protester_03_bag_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008F6DBF2203E4A3",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_03_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_03/materials/fem_reg_protester_03_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00B0A31B2E9DDA8B",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_03_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_03/materials/fem_reg_protester_03_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0075ED744F38336A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_03_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_03/materials/fem_reg_protester_03_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "007ACFCCDE9615BE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_protester_03_watch_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_03/materials/fem_reg_protester_03_watch_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00FF39176110477F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_04_bandana_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_04/materials/fem_reg_protester_04_bandana_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "000295CC03DB22DA",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_protester_04_gasmask_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_04/materials/fem_reg_protester_04_gasmask_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00791B87BE5C949A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_04_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_04/materials/fem_reg_protester_04_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "005E803B932FF3E4",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/fem_reg_protester_04_shirt_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_04/materials/fem_reg_protester_04_shirt_02.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "001A787F8E516085",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_protester_04_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femaleprotester_04/materials/fem_reg_protester_04_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AA7F1A13B4A572",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_romper_denim_shorts.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/fullbody/materials/fem_reg_romper_denim_shorts.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0046F268EA463773",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_sari_nivi.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_sari_nivi.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C7392DDDFAAF37",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_sari_purnia.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_sari_purnia.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0093AC2A41133FAE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_sari_purnia_underskirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_sari_purnia_underskirt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CCBF33C4415A3F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_scarf_frenchtwist.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/neckwear/materials/fem_reg_scarf_frenchtwist.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D7BDF2397C006D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_shirt_choli.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_shirt_choli.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D6EFE69E01F29B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_shoes_heels_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_shoes_heels_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00086DE9C45ABCED",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_shoes_heels_pumps_circle.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_shoes_heels_pumps_circle.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B696E10D732C9A",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_shoes_heels_sandals_heelstrap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_shoes_heels_sandals_heelstrap.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B0D4D1C2B3D954",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_skirts_tube.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/skirts/materials/fem_reg_skirts_tube.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00999099FD08E2BB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_stockings.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_stockings.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00348B24B30D0116",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_sweater_uneck_pshdslv_tkd.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_sweater_uneck_pshdslv_tkd.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003AC0BF4644B094",
@@ -1479,33 +1257,28 @@
   },
   {
     "hash": "009C76779E710255",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_tights.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_tights.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00CF1BC6EE761B90",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_top_tank_basic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_top_tank_basic.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00DFFAE8C651DA68",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_top_turleneck_sleeveless_tkdh.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_top_turleneck_sleeveless_tkdh.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0018E50C7DC334A3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_tshirt_uneck_crop.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_tshirt_uneck_crop.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009158295F92CBF8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fem_reg_vanyashah_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/mumbai/vanyashah_f/materials/fem_reg_vanyashah_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A0DBAF1F965D34",
@@ -1519,39 +1292,33 @@
   },
   {
     "hash": "00EF30D1FB1EFC4D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/female_crowd_formal_hat_01_v2.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/crowd/female/formal/materials/formal_v2/female_crowd_formal_hat_01_v2.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00B0C799B47DC6DD",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/female_reg_femalecrowd_02_dress_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femalecivilian_02/material/female_reg_femalecrowd_02_dress_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "006C6785F5ED8153",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/female_reg_femalecrowd_02_sandals_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femalecivilian_02/material/female_reg_femalecrowd_02_sandals_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0082788F95FBFE99",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/female_reg_femalecrowd_02_shirt_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femalecivilian_02/material/female_reg_femalecrowd_02_shirt_02.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008FF2A775A5B91D",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/female_reg_femalecrowd_03_sandals_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femalecivilian_03/material/female_reg_femalecrowd_03_sandals_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "003A111B984DED9A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/female_reg_femalecrowd_03_skirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/female/femalecivilian_03/material/female_reg_femalecrowd_03_skirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0079CB5182BB6ECC",
@@ -1570,45 +1337,38 @@
   },
   {
     "hash": "00135E40688623E4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/fence_misc_seagull_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/garbage_materials/fence_misc_seagull_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E0415A16193E42",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fireclothmat.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/dagb/materials/fireclothmat.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C76490ABFB256F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/flag_leg_wrapped.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/flag_leg_wrapped.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00483207D0F97942",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fogsnowstorm.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/dagb/materials/fogsnowstorm.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009CAF0F2D90FA21",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/football_helmet.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/helmets/materials/football_helmet.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004F5E5A6DD436AB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/football_helmet_glass.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/helmets/materials/football_helmet_glass.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AA97A774458736",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fox_worker_staff_pigmask.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/fox/fox_worker_staff_m/materials/fox_worker_staff_pigmask.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0089B2EA01488260",
@@ -1662,21 +1422,18 @@
   },
   {
     "hash": "00C4D65185B06822",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/gecko_eventsecurity_parts.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/gecko/gecko_worker_eventsecurity_m/materials/gecko_eventsecurity_parts.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F98AA883020727",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/gecko_eventsecurity_tunic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/gecko/gecko_worker_eventsecurity_m/materials/gecko_eventsecurity_tunic.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00678AB62A85C512",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/ghutra_foldedback.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/gecko/gecko_civilian_m_traditional/materials/ghutra_foldedback.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00E6525AA50916DB",
@@ -1705,63 +1462,53 @@
   },
   {
     "hash": "007438886D348566",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/gloves_latex_long.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_butcher/materials/gloves_latex_long.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "003A0536A76EDAD9",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/goldendoublet_coat_fur.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/goldendoublet/materials/goldendoublet_coat_fur.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003C99A23681CF3B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/goldendoublet_coat_fur_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/goldendoublet/materials/goldendoublet_coat_fur_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0098CD0B96CD8F91",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/goldendoublet_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/goldendoublet/materials/goldendoublet_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007B3EB92E298F21",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/gown_burial.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/gown_burial.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008BE9FED1193A22",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/grey.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/mortenol/materials/grey.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009988367E472E22",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/hair_braids.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/fox/raver_f/materials/hair_braids.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B917348D3F1768",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/hair_braids_top.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/fox/raver_f/materials/hair_braids_top.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00D981529D975462",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/hair_haircap_braids_cornrows.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/fox/raver_f/materials/hair_haircap_braids_cornrows.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0007490D5931DA3C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hand_grenade_a_body_poison_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/items/materials/ica/handgrenades/hand_grenade_a_body_poison_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "001FF3C39AB887FA",
@@ -1785,123 +1532,103 @@
   },
   {
     "hash": "002A597BE1D3B942",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/harbour_net_pile_seagull_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/garbage_materials/harbour_net_pile_seagull_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00071E13BCE4D0C7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_beanie_dockworker.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_beanie_dockworker.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E496F350203F93",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_beanie_falcon_sniper_snow.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_beanie_falcon_sniper_snow.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A75385406C66A1",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_calot.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_calot.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C1C94BB8C6CDFD",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_calot_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_calot_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B9AB1402C5878C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_cap_flap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_cap_flap.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0034EA54342C2824",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_cap_visor.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_cap_visor.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00087D2AC0C78916",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_cocktail_feathers_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_cocktail_feathers_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B9590D955523AB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_cocktail_flower.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_cocktail_flower.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009B73A31A3716EF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_dabbawala.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/hat_dabbawala.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B4841D338314A8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_frenchberet.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_frenchberet.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00061629A0D58616",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_hairnet.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_hairnet.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C90FBD92EA6B2E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_hardhat_visar_protection.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_hardhat_visar_protection.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "000455E96AC79AF2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_servant.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_servant.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009B6B41F81395E0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_sheriff.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/hat_sheriff.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002773A08F7EE1CD",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_top_trilby_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_top_trilby_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00614CEE421BFDCB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/hat_turban.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_turban.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D1ABC0DF9C7B19",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/hat_vueltiao.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/hat_vueltiao.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0031F9E9CC941730",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/head_undertaker.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads_unique/materials/head_undertaker.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00555EFB56E4236F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/headbag.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/headbag.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0016C71AF8A432AA",
@@ -1920,9 +1647,8 @@
   },
   {
     "hash": "0021982FF34DC290",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/headwear_turban_chainmail.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/headwear_turban_chainmail.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B19D119E032690",
@@ -1931,33 +1657,28 @@
   },
   {
     "hash": "00744C979EEC4D16",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/helmet_racing.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/helmet_racing.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D7AA373EB0ACB2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/helmet_racing_glass.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/helmet_racing_glass.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BA63264B7173E3",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/helmet_skydive.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/helmet_skydive.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00975CE3439DC4D4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/highball_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/highball/materials/highball_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B9C8DB20B8C66C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/hokkaido_character_decals.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/materialinstances/hokkaido_character_decals.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0038AB7FECACBF7D",
@@ -1971,93 +1692,78 @@
   },
   {
     "hash": "00DD7DEA6C143863",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/ioi_basic_glass_refraction.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/material_instances/ioi_basic_glass_refraction.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006EBF807BBC7B2D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/ioi_basic_hair.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/material_instances/ioi_basic_hair.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00E042A9BADA8CBA",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/ioi_basic_skin_sickness_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/material_instances/ioi_basic_skin_sickness_head.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00D8D860508E2701",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/italy_florist_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/vehicles/materials/logo_decals/florists/italy_florist_a.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0075AE5E3B47A8BC",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/jacket_puffer.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/rat/homeless_m_02/materials/jacket_puffer.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005EF79C9A5EB449",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/knight_belt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_belt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A7C03FD79D0AE9",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/knight_body.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_body.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00E7C47B77390FF2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/knight_boots.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_boots.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008BA452B62172E5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/knight_elbow_pads.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_elbow_pads.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006035BA9DD07AB8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/knight_gloves.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_gloves.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "001C99E06ABEEC2A",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/knight_hair.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_hair.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0039259D7F580DDE",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/knight_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_head.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00373B05702CBD89",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/knight_pins.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_pins.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0056C07E0C8C786A",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/knight_tanktop.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/knight/materials/knight_tanktop.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0085FEA48523E769",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/kronstadt_welcome_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/carlls/kronstadt_welcome_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0053003E4FA3B716",
@@ -2066,9 +1772,8 @@
   },
   {
     "hash": "00D022D90B2551B8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/lindseylacoeur.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/lindseylacoeur.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002D1AE6F4629584",
@@ -2112,15 +1817,13 @@
   },
   {
     "hash": "0028D2119A3B4651",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_nemesis_jacket_s3_customimpact.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/cinematics/h3_cinematics/customcinematcismaterials/male_nemesis_jacket_s3_customimpact.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001F6619A2152BD5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_old_body.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_old/materials/male_old_body.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B5DD2C85E283A8",
@@ -2129,63 +1832,53 @@
   },
   {
     "hash": "009B41B6697494AC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_acc_canteen_military.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_acc_canteen_military.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009EE2577EBB0B97",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_agent47_gecko_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/cinematics/h3_character_outfits/male_reg_agent47_gecko_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "007FA361EFF16CD6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_bag_shoulder.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_bag_shoulder.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00DE55175B6B58B4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_bandana_mouthcover.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/male_reg_bandana_mouthcover.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C5E548E2D5B1DB",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_beard.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_beard.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "004A1E003F081FB3",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_beard_vertexcolor.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_beard_vertexcolor.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0041C1786C1702DF",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_beardcap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_beardcap.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0023812E573A1012",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_belt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/belt/materials/male_reg_belt_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0047DC0FFF991EE3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_belt_buckle_cowboy.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/belt/materials/male_reg_belt_buckle_cowboy.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0045693811A7B014",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_belt_buckle_oval_l.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/belt/materials/male_reg_belt_buckle_oval_l.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0089E48A9A5F69BA",
@@ -2219,21 +1912,18 @@
   },
   {
     "hash": "0041C89DFA9D7801",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_body.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_body.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "007ABBDF8946C87D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_body_tattoo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/redsnapper/material/male_reg_body_tattoo.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00BF2A1B93B63FAF",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_bowtie_butterfly.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_bowtie_butterfly.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "008C3550531DF926",
@@ -2258,33 +1948,28 @@
   },
   {
     "hash": "00131C16F8B3D369",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_civilian_01_dress_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_dress_02.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "0087F8538E860C26",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_civilian_01_hoodie_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_hoodie_02.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00C6ABBB59C8357E",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_civilian_01_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "00D15CEA129EA14A",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_civilian_01_sandals_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_sandals_01.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "0083D9D65DF2C86F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_coat_robe_luxury.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/male_reg_coat_robe_luxury.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00396836A3AB8F64",
@@ -2298,87 +1983,73 @@
   },
   {
     "hash": "00563716DA1F4782",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_dress_shirt_btndwn3_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/dress_shirt/materials/male_reg_dress_shirt_btndwn3_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0076BDBA804A2941",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_dress_shirt_buttoned_up_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/dress_shirt/materials/male_reg_dress_shirt_buttoned_up_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "008F30C550304994",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_dress_shirt_buttoned_up_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/dress_shirt/materials/male_reg_dress_shirt_buttoned_up_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00789AC05E51C0A9",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_dress_shirt_long_sleeve_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/dress_shirt/materials/male_reg_dress_shirt_long_sleeve_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "003A827FEB09AFDB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_dress_shirt_short_sleeves_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/dress_shirt/materials/male_reg_dress_shirt_short_sleeves_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008621A6D39A5284",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_dress_shirt_short_sleeves_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/dress_shirt/materials/male_reg_dress_shirt_short_sleeves_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007842624CC32A77",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_dustsuit.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/raccoon/male_reg_unique_bankrobber/materials/male_reg_dustsuit.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003BFEBE13EA44AF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_emergenctvest.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/vests/materials/male_reg_emergenctvest.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CF67014276B48F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_eventstaff_tanktop_long.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/male_reg_eventstaff_tanktop_long.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D3939708DA0D70",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_exterminator_belt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/bangkok_exterminator/material/male_reg_exterminator_belt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00A19F6741885419",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_exterminator_glove_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/bangkok_exterminator/material/male_reg_exterminator_glove_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00926F11E3C00813",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_eyelashes.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_eyelashes.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "004EEB1D641C454B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_eyewear_glasses_round_frameless.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_eyewear_glasses_round_frameless.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0078355786117019",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_eyewear_glasses_round_frameless_metal.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_eyewear_glasses_round_frameless_metal.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00DE1CB83FC95D93",
@@ -2417,423 +2088,353 @@
   },
   {
     "hash": "0020CEF4BB4A8BAF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_gloves_oven.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_gloves_oven.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BAFCD6A6E912C8",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_haircap.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_haircap.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00A07238D4BFF3C7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_handkerchief_and_suspenders.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_handkerchief_and_suspenders.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00989294BF9EF8F8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_hat_bandana_regular.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_hat_bandana_regular.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00F0554A4418B581",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_hat_outback_foldedup.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/hats/materials/male_reg_hat_outback_foldedup.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004087E7CDAD924A",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_head.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0007E31DB74BF4EE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_47_h3_rain.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_47_h3_rain.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00BED547BDCF7598",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_47_s2.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_47_s2.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006CBC65369AB8B7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_47_s3.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_47_s3.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0024AE0009595ACC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_african_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_african_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D4181D29A8B5F8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_african_20s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_african_20s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00FF9A2079E900B8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_arabic_30s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_arabic_30s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00609DC44C66BFF5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_arabic_30s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_arabic_30s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BA16BB3EA4C71B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_arabic_50s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_arabic_50s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00FF8A0D1EB920E2",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_asian_20s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_asian_20s_02.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005A7924F4179861",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_asian_30s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_asian_30s_03.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007903E9BAEFDF06",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_asian_30s_04.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_asian_30s_04.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C8F047FE53E658",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_asian_50s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_asian_50s_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001493DCB6164AC3",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_asian_50s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_asian_50s_02.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00127458759BDA5F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_asian_70s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_asian_70s_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "000F1A458523969A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_barman.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_barman.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007A0858B18EA805",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_broadwaydancer.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_broadwaydancer.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E73F8D9CB59EBB",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_butler_bulldog.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_butler_bulldog.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B7C5C82A435B92",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_head_carl_ingram_s3.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_carl_ingram_s3.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "002DD338A64E1642",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00149F14EC920D4B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_20s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_20s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0000D194F1E2BEE4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_30s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_30s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007FFE10AD91A255",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_30s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_30s_03.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0060CAAB83FE71F5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_40s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_40s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AEA24CF1852A46",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_40s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_40s_03.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D9F04F0DD58BBA",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_40s_04.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_40s_04.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00017927DC6FC5EF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_40s_05.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_40s_05.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008BBAD131B6D3C3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_60s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_60s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00885F6F8F6F2803",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_60s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_60s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00242D41B208FA7A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_caucasian_70s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_caucasian_70s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002041A5981E95F4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_guard_dead_hippo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_guard_dead_hippo.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006ACE25A152FCA3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_hectordelgado.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_hectordelgado.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0035210C37C7DB85",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_helicopterpilot.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_helicopterpilot.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00909784AFCAB130",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_hippowhisperer.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_hippowhisperer.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A7ED87186F26F3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_hispanic_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_hispanic_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D0CA647CD088D1",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_hispanic_30s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_hispanic_30s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00FDFF8511DA1193",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_hispanic_30s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_hispanic_30s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EEADE8DE55CF48",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_hispanic_40s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_hispanic_40s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00F8A74C03C9638B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_hispanic_50s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_hispanic_50s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0006D7784DCB14C5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_20s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_20s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009E8A1E5B3EF7F3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_20s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_20s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BBE4026593775D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_30s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_30s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00F6F05980EEA53D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_30s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_30s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A1B0054D41ABE6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_30s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_30s_03.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B2BDB27EB4405C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_30s_04.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_30s_04.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "001D54DE2B668CF6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_40s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_40s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00FEB4B338412C36",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_50s_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_50s_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BCA5F098F7B528",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_50s_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_50s_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C14BBBF76D619B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_indian_50s_03.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads/materials/male_reg_head_indian_50s_03.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005D81B572B3DE7B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_itgenius.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/raccoon/male_reg_unique_itgenius/materials/male_reg_head_itgenius.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00427E89578838B0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_leadsubmarinetech.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_leadsubmarinetech.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003B6D9A5DA4657D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_nolancassidy.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_nolancassidy.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00DF4D539508C437",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_politiciansassistant.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_politiciansassistant.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B738EC75FBA7B3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_realestatebroker.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_realestatebroker.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EF19D2DC2A185C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_ricodelgado_bleed.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_ricodelgado_bleed.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007BF65CCD65E893",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_sambuca.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_sambuca.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0034A9F5D5292D79",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_shaman.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_shaman.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0020F5BEBC72F93F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_sheik.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_sheik.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AF0CE89FE075A6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_spencergreen.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_spencergreen.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00676735960A3016",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_tailor.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_tailor.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A6058A9984930A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_tattooartist.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_tattooartist.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00F677E20B6A205C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_vanisher.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_vanisher.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E78C81A34C760E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_winner_daniele_carco_chaosagent.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_winner_daniele_carco_chaosagent.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007AC7DB30A5A85F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_winner_jens_rothe_urben_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_winner_jens_rothe_urben_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0068BFED869EB283",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_head_winner_jordan_cucci_jack9mm_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_winner_jordan_cucci_jack9mm_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00DE204FC55F0706",
@@ -2842,21 +2443,18 @@
   },
   {
     "hash": "004A7427DD24E7F4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_jacket_downparka.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/male_reg_jacket_downparka.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C9B2CDCF29CE67",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_jacket_tuxedo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/male_reg_jacket_tuxedo.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00F227293F974C47",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_kamikaze_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_kamikaze_m/materials/male_reg_kamikaze_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005C2D860E28604C",
@@ -2865,27 +2463,23 @@
   },
   {
     "hash": "001BC0AA8E718A6B",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_loincloth_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l00/loincloth/materials/male_reg_loincloth_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "008B584B2BB8D502",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_maccoat.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/male_reg_maccoat.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006B998D581560BB",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_market_salesman_hat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/males/materials/male_reg_market_salesman_hat_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0020B27E7A8F4519",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_market_salesman_hat_02.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/males/materials/male_reg_market_salesman_hat_02.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004578E499D99AA4",
@@ -2900,9 +2494,8 @@
   },
   {
     "hash": "0010A212D2295818",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_mask_rabbit.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/raccoon/male_reg_unique_bankrobber/materials/male_reg_mask_rabbit.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AE7D7EFA6B3AA0",
@@ -2916,159 +2509,133 @@
   },
   {
     "hash": "009C66C9E14BE9AB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_neckerchief.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/neckwear/materials/male_reg_neckerchief.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "000D028F5A44A49B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_neckwear_ruler_scissor.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_neckwear_ruler_scissor.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00068FB8D4BA4097",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_package_cigarette.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_package_cigarette.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C78EC1AAAA11B2",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pants_dress_loose_hlfbrk.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/suit_pants/materials/male_reg_pants_dress_loose_hlfbrk.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "001991F921EC7F23",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_pants_jeans.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_pants_jeans.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00E8E99D1AA9F00C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pants_jeans_baggy.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_pants_jeans_baggy.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0051D4C2383D24A3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pants_sweats_baggy.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_pants_sweats_baggy.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0012C02D9D883B26",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pants_tights.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_pants_tights.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E57E502AF0FF18",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pin_providence.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_pin_providence.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00807504CC25887B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pocketwatch.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_pocketwatch.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006B4042E12BA360",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pressvest.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/vests/materials/male_reg_pressvest.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007D43C57006BCCA",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_01_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_01/material/male_reg_protester_01_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0036DA2DEE9B100C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_01_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_01/material/male_reg_protester_01_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0056BCAF30A607D8",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_01_t-shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_01/material/male_reg_protester_01_t-shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008913F99F686807",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_02_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_02/material/male_reg_protester_02_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "007F4282046B7B43",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_02_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_02/material/male_reg_protester_02_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "009D1FCC6DE3CA5B",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_02_shoes_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_02/material/male_reg_protester_02_shoes_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008F20228DAE12C1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_03_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_03/materials/male_reg_protester_03_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00D0AF3054B449BD",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_03_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_03/materials/male_reg_protester_03_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "005A008B988E5D0B",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_04_bandana_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_04/materials/male_reg_protester_04_bandana_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "000733C7C4A81007",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_04_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_04/materials/male_reg_protester_04_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00E62A41A11F1720",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_protester_04_sandals_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_04/materials/male_reg_protester_04_sandals_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CC27598B036F1F",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_04_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_04/materials/male_reg_protester_04_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00F729C6B47077AA",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_protester_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/maleprotester_03/materials/male_reg_protester_shirt.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00916D6030D2B4D0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_pullover_tied.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/neckwear/materials/male_reg_pullover_tied.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007C0E1E57E086CF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_remotespeaker_shoulder.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_remotespeaker_shoulder.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002EEC5E5D2B62D5",
@@ -3087,9 +2654,8 @@
   },
   {
     "hash": "00A8CF51ECD4CA64",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_shemagh.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/gecko/worker_penthousestaff_male/materials/male_reg_shemagh.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00AB0E18C6E7DD2F",
@@ -3098,93 +2664,78 @@
   },
   {
     "hash": "00C3561E57EC8EC6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shirt_officer_btnup_srtslv_tkd.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/male_reg_shirt_officer_btnup_srtslv_tkd.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AB54454DCED374",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shirt_open_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/dress_shirt/materials/male_reg_shirt_open_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0094E95C469C8F54",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shirt_polo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/male_reg_shirt_polo.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003D7362C9332B55",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shirt_srtslv_pocket.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/male_reg_shirt_srtslv_pocket.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004CE031BAC203A9",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shoes_boots_hip.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/male_reg_shoes_boots_hip.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E7471AA1450BDA",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shoes_cowboy.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/male_reg_shoes_cowboy.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003C542BBC5A66AC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shoes_racing.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/male_reg_shoes_racing.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0071CA15F83EB1C8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_shoes_sandals_cork.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/male_reg_shoes_sandals_cork.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00AB4AD11211B549",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shoes_sneakers.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/male_reg_shoes_sneakers.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00893F0683FA21A8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_shorts_dj.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shorts/materials/male_reg_shorts_dj.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BC5D04C7C993E7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_skirt_dhoti_folded_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/skirts/materials/male_reg_skirt_dhoti_folded_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00E8952BB494DCDC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_skirt_dhoti_loose_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/skirts/materials/male_reg_skirt_dhoti_loose_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006B6ED99EF0ADEB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_socks_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/socks/materials/male_reg_socks_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007C29E20ED22A01",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_socks_stayup.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/socks/materials/male_reg_socks_stayup.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B7280712466EB6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_stilletto_trenchcoat_closed.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/seagull/thestiletto/materials/male_reg_stilletto_trenchcoat_closed.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "007C2057086752B8",
@@ -3198,63 +2749,53 @@
   },
   {
     "hash": "0029EB4CABF54C6C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_strandbergsacc_pant_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/strandbergsaccomplice/materials/male_reg_strandbergsacc_pant_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "008F776C81C82EFD",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_strandbergsacc_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/strandbergsaccomplice/materials/male_reg_strandbergsacc_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B7B9AEB5204857",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_suit_jacket_01_closed.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/suit_jackets/materials/male_reg_suit_jacket_01_closed.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0031DDC42BCE981A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_suit_jacket_01_closed_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/suit_jackets/materials/male_reg_suit_jacket_01_closed_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00DD2D3F5F94DE12",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_suit_jacket_01_closed_velvet.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/suit_jackets/materials/male_reg_suit_jacket_01_closed_velvet.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00556A50017B3C2C",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_suit_jacket_01_open.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/suit_jackets/materials/male_reg_suit_jacket_01_open.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0007754D66EDCF32",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "[unknown:/*/male_reg_suit_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/suit_pants/materials/male_reg_suit_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 46
   },
   {
     "hash": "00D34BFD3AA1A4D6",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_suit_pants_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/suit_pants/materials/male_reg_suit_pants_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AF7222ADA35AD4",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_suit_pants_dbl_pleat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/suit_pants/materials/male_reg_suit_pants_dbl_pleat_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00B0E0B01326CDAF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_suit_pants_wet.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/suit_pants/materials/custom/male_reg_suit_pants_wet.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008A3939A8929C30",
@@ -3338,33 +2879,28 @@
   },
   {
     "hash": "005AF4E66EE72C77",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_tattoo.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/materials/male_reg_tattoo.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00541B5CC262FA3B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_tedmendez.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_tedmendez.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0045FD3348A412D2",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_reg_tie_simple.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_tie_simple.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0077227B0E83187D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_tshirt_oversized.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/fox/tech_m/materials/male_reg_tshirt_oversized.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00314331EDE69808",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_tshirt_redsnapper.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/redsnapper/material/male_reg_tshirt_redsnapper.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "000065AF12B56284",
@@ -3374,39 +2910,33 @@
   },
   {
     "hash": "002B53440244F86E",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_tvcrew_producer_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/workers/tv_crew/producer/materials/male_reg_tvcrew_producer_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A32E71B5159D57",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_underwear_boxerbriefs.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l00/underwear/materials/male_reg_underwear_boxerbriefs.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0082312302001CDF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_underwear_string.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l00/underwear/materials/male_reg_underwear_string.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00840B06CC455D36",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_ushanka.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/accessories/materials/male_reg_ushanka.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008D1FE9F6ED4520",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_vest_combat_chinese.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/vests/materials/male_reg_vest_combat_chinese.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005C73E8821E17BE",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_reg_vest_worker_open.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/vests/materials/male_reg_vest_worker_open.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00C2C863FF6456E1",
@@ -3415,9 +2945,8 @@
   },
   {
     "hash": "00E43FAF84A4F0E3",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/male_reg_waistcoat_5btn_open.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/waistcoats/materials/male_reg_waistcoat_5btn_open.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00512C52A687805F",
@@ -3436,63 +2965,53 @@
   },
   {
     "hash": "0091E31BD0BDD1A0",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_elitesoldier_01_boot_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/elitesoldier_01/materials/male_regular_elitesoldier_01_boot_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00A37CD8E434F431",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/male_regular_elitesoldier_01_helmet_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/elitesoldier_01/materials/male_regular_elitesoldier_01_helmet_01.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0085432084F287E1",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_elitesoldier_01_pant_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/elitesoldier_01/materials/male_regular_elitesoldier_01_pant_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0085F430EB6F1506",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_elitesoldier_01_shirt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/elitesoldier_01/materials/male_regular_elitesoldier_01_shirt_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00F730F5464BF61E",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_elitesoldier_01_vest_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/elitesoldier_01/materials/male_regular_elitesoldier_01_vest_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00946B2621F681D5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_regular_officer_01_belt_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/officer_01/materials/male_regular_officer_01_belt_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "007D2CAB836B2D92",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_officer_01_beret_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/officer_01/materials/male_regular_officer_01_beret_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "000C5381D152546D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_regular_officer_01_boot_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/officer_01/materials/male_regular_officer_01_boot_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B81E6C16A69469",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_regular_officer_01_jacket_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/officer_01/materials/male_regular_officer_01_jacket_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00E223D2C0D6406F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_regular_officer_01_pant_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/officer_01/materials/male_regular_officer_01_pant_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0077BF8E0EF4FA5A",
@@ -3521,21 +3040,18 @@
   },
   {
     "hash": "00403589A6C3E3C3",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_soldier_01_hat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/soldier_01/materials/male_regular_soldier_01_hat_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0059E332D84E7A3A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_soldier_01_jacket_01_.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/soldier_01/materials/male_regular_soldier_01_jacket_01_.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00E29B01F8A75985",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/male_regular_soldier_01_pant_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/soldier_01/materials/male_regular_soldier_01_pant_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00B3AD1E3FC728C5",
@@ -3559,75 +3075,63 @@
   },
   {
     "hash": "002FECF50D259C52",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mascot_flamingo_body.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/mascot_flamingo_body.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EE8A8D66FB52CC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mascot_flamingo_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/mascot_flamingo_head.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0078D53B192E50CE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/mascot_flamingo_legs.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/mascot_flamingo_legs.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00631C23AD60751A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mascot_flamingo_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/mascot_flamingo_shirt.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00634DC0AAA3CE71",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mascot_flamingo_slippers.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/mascot_flamingo_slippers.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00A06CF6F1678E60",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/mascot_flamingo_slippers.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/mascot_flamingo_slippers.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009B8EE3CBF38817",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mask_arkian_masters.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/mask_arkian_masters.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00272E5467E6DA7B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/mask_arkian_skull.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/mask_arkian_skull.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CAE1DDB3B42937",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/metal_painted_container_c_variation_b.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/container_material_swaps/metal_painted_container_c_variation_b.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0087AA8AADD89507",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/metal_painted_container_c_variation_b2.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/container_material_swaps/metal_painted_container_c_variation_b2.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "003C373698404490",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/metal_painted_container_hinges_a_variation_b.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/container_material_swaps/metal_painted_container_hinges_a_variation_b.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0022D5D309734C74",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/metal_painted_container_hinges_a_variation_b2.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/container_material_swaps/metal_painted_container_hinges_a_variation_b2.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BA8CBDC3995830",
@@ -3676,21 +3180,18 @@
   },
   {
     "hash": "0089DDAF28B56000",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/necklace_bib_diamonds_square.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/neckwear/materials/necklace_bib_diamonds_square.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0002046B5EBCFC0F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/necklace_bib_pearl_leaf.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/neckwear/materials/necklace_bib_pearl_leaf.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00ECFEAE1148E1EE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/necklace_pearl_knot.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/neckwear/materials/necklace_pearl_knot.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002EBF0F6366C497",
@@ -3699,9 +3200,8 @@
   },
   {
     "hash": "00DDD14BE2D7BD7A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/nightgown.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/nightgown.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006EC6B23F5F5AE9",
@@ -3715,27 +3215,23 @@
   },
   {
     "hash": "00D6099B76706F4F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/pam_kingsley_head_h3.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/pam_kingsley_se3/materials/pam_kingsley_head_h3.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B9952E5B4A1090",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/pants_dabbawala.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/pants_dabbawala.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0015E22467EA0EF9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/pants_gibson.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/gibson/materials/pants_gibson.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C90B01F4A3DF80",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/parachute_parachute.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/cinematics/h3_props/parachute/materials/parachute_parachute.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009B1BD2D9206099",
@@ -3749,21 +3245,18 @@
   },
   {
     "hash": "00582818226C05FA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/perfectsubject_gown.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/rat/perfectsubject_m/materials/perfectsubject_gown.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C5DAF19A459D4F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/philonewcombe_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/llama/philonewcombe_m/materials/philonewcombe_head.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0091D8329929256D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/pillar_concrete_bare_intel_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/example/techart/intel/pillar_concrete_bare_intel_a.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00BB9CF3DED1BA08",
@@ -3792,15 +3285,13 @@
   },
   {
     "hash": "00CAD4AE00FA95EF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/plastic_sheet_fence_a_seagull.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/garbage_materials/plastic_sheet_fence_a_seagull.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0031C41E481AD30A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/plastic_sheet_fence_b_seagull.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/garbage_materials/plastic_sheet_fence_b_seagull.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EBA3FD33749269",
@@ -3809,27 +3300,23 @@
   },
   {
     "hash": "00D3EAF3AC2FE383",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/poncho_rain.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/poncho/materials/poncho_rain.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004B3737CFF6251D",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/priest_stole.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/priest_stole.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0091B5A18B9D6F75",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/priest_surplice.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/priest_surplice.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00FC9F4147DA5CC6",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/privateinvestigator_coat.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/bulldog/privateinvestigator_v2/materials/privateinvestigator_coat.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009266C583BF70F9",
@@ -3844,9 +3331,8 @@
   },
   {
     "hash": "00237A04AE1CCAD5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/racing_suit.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/racing_suit.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00F3C564B7CE510A",
@@ -3860,15 +3346,13 @@
   },
   {
     "hash": "001293ECA43B0441",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/redsnapper_eyebrows.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/redsnapper/material/redsnapper_eyebrows.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "008992585AC69B3C",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/regmale_fauxcrystaldawn_balaclava_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/guards/fauxcrystaldawn_soldier/materials/regmale_fauxcrystaldawn_balaclava_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00EA4B00A70C5580",
@@ -3902,9 +3386,8 @@
   },
   {
     "hash": "00D78793B6A75AFE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/scarf_long_overshoulder.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/neckwear/materials/scarf_long_overshoulder.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00F7F5A7078AEA2F",
@@ -3923,15 +3406,13 @@
   },
   {
     "hash": "0089B0912B87F3AA",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/seagull_container_atlas_a_variation_b.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/container_material_swaps/seagull_container_atlas_a_variation_b.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "005334A91B4A20EB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/seagull_container_atlas_a_variation_b2.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/seagull/container_material_swaps/seagull_container_atlas_a_variation_b2.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CAAFC5E81E408A",
@@ -3950,9 +3431,8 @@
   },
   {
     "hash": "00FEEAEDCAD03920",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/selectnumbershader.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/dagb/materials/selectnumbershader.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "000364830F69BC2F",
@@ -3966,87 +3446,73 @@
   },
   {
     "hash": "00B09868AF8293B0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shandy_accessories_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_shandy_m/material/shandy_accessories_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00EB952062DCA203",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/shandy_hair_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_shandy_m/material/shandy_hair_01.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "0045A5CA72218549",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shandy_hoodie_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_shandy_m/material/shandy_hoodie_01.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0096861ADF7E3BBD",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/shandy_pants_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_shandy_m/material/shandy_pants_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C8FB140020213F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shirt_btnup_denim.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/shirt_btnup_denim.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "002C11FECB322EE9",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shirt_btnup_worker_halfopen.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/shirt_btnup_worker_halfopen.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00773CC6F2E92BBC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shirt_dabbawala.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/shirt_dabbawala.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "006C92EAA436E9F7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shirt_decal.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/shirt_decal.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0029BAEC8C8F4A02",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/shirt_kandura_shirtcuffs.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/gecko/gecko_civilian_m_traditional/materials/shirt_kandura_shirtcuffs.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F68695ED9BFF7A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shirt_kurta_long_sash.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/shirt_kurta_long_sash.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00307F4BE15DA826",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shirt_military.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/shirt_military.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0064DE637F6716B7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/shirt_pajamas.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/shirt_pajamas.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00DA0E50595041CF",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shoes_bunnyslippers.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/shoes_bunnyslippers.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "001FCDAE8CC6E840",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/shoes_slipon_flower.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/shoes_slipon_flower.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00CDE1D56C48D24E",
@@ -4060,39 +3526,33 @@
   },
   {
     "hash": "0081234D3554EF21",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/stockingsandgloves_burial.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/socks/materials/stockingsandgloves_burial.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00AAFFD3B7D78380",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/stone_boots.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/stone/materials/stone_boots.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "0091D1504E15BB56",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/stone_gloves.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/stone/materials/stone_gloves.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "001ED90B5FCC3112",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/stone_head.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/stone/materials/stone_head.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "00A529C67B81C523",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "[unknown:/*/stone_turtleneck.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/stone/materials/stone_turtleneck.mi].pc_entityblueprint",
+    "gameFlags": 44
   },
   {
     "hash": "008BBD18F8AA33A0",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/stone_watch.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/freelancers/stone/materials/stone_watch.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "008850D274302467",
@@ -4111,51 +3571,43 @@
   },
   {
     "hash": "00802CA2C3D3BEEE",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/sweater_commando.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/sweaters/materials/sweater_commando.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D8D3424A6E8C5F",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/sweater_fleece_nosleeves_open.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/sweaters/materials/sweater_fleece_nosleeves_open.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "001C8132CBFE59D4",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/tanktop_oversized_wideshldr.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/fox/raver_m/materials/tanktop_oversized_wideshldr.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00BAB353C464B974",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/top_princess_tkdh.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/top_princess_tkdh.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00DA2D4EEDEE5252",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/towel_fur.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/towel_fur.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "009262565A38346E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/tracksuit_jacket_closed.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male_child/tracksuit/materials/tracksuit_jacket_closed.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00426B1E3381ED4F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/tracksuit_pants.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male_child/tracksuit/materials/tracksuit_pants.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0008B41A5FB9C606",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/tunic_native.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/tunic_native.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00D66B06A2230B10",
@@ -4164,9 +3616,8 @@
   },
   {
     "hash": "00C91D39EBC19775",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/vanya_bracelets.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/mumbai/vanyashah_f/materials/vanya_bracelets.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00DC0ACAE7765E49",
@@ -4175,15 +3626,13 @@
   },
   {
     "hash": "00208038092F9BF5",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/veil_arkian_anisotropic.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/veil_arkian_anisotropic.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00854526E4EE8A7D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/waistcoat_3btn_open.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/waistcoats/materials/waistcoat_3btn_open.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "0032DC42CFF16DAC",
@@ -4212,9 +3661,8 @@
   },
   {
     "hash": "00E127C1FCD1E4DB",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/wetsuit.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/wetsuit.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "00C1632A7818738F",
@@ -4238,15 +3686,13 @@
   },
   {
     "hash": "0026F3B64F3DA0C9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/whiteninja_goggles.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_whiteninja/materials/whiteninja_goggles.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005DBDF58F45EB5E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/wolverinedreameffect.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/_test/dagb/materials/wolverinedreameffect.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "004686D15B8E2BE8",
@@ -4305,21 +3751,18 @@
   },
   {
     "hash": "00A2FD4C10B56B8B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "[unknown:/*/wristwear_bracelet_links.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/wristwear_bracelet_links.mi].pc_entityblueprint",
+    "gameFlags": 12
   },
   {
     "hash": "004BC2CCF603C555",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/xmas_bauble_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/props/decorative/xmas_decorations/xmas_bauble_a.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00BAC907C5A5405A",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/*/xmas_bauble_metal_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/props/decorative/xmas_decorations/xmas_bauble_metal_a.mi].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00625B979CDCF62E",
@@ -26783,9 +26226,8 @@
   },
   {
     "hash": "0091C274BC641E0A",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/base_male_jacket_bomber_goldenlux.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/base_male_jacket_bomber_goldenlux.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00A03A34F1E03930",
@@ -26834,9 +26276,8 @@
   },
   {
     "hash": "00DBCAB57C06D0CE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_shoes_sneakers_laces.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/male_reg_shoes_sneakers_laces.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F752CFBCFD5244",
@@ -26845,9 +26286,8 @@
   },
   {
     "hash": "00F95B0A1A04932C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_shoulder_bandaid.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_wolverine/materials/agent47_shoulder_bandaid.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B5DE44B26CC41E",
@@ -26906,9 +26346,8 @@
   },
   {
     "hash": "00B87A1468A4FCD8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/femreg_head_auntiefarah.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/dugong/dugong_unique_auntiefarah_f/materials/femreg_head_auntiefarah.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "008FA04D90B35032",
@@ -27192,9 +26631,8 @@
   },
   {
     "hash": "00B0DA1A7AF4512A",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/tropical_lva_cordyline_a.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/environment/materials/levels/maldives/plants/tropical_lva_cordyline_a.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00FEF4F7B63176FC",
@@ -27228,9 +26666,8 @@
   },
   {
     "hash": "00A30AA54F3E4878",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/agent47_skunk_tie.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_signaturesuit/material/agent47_skunk_tie.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0033588D501B8A48",
@@ -27524,9 +26961,8 @@
   },
   {
     "hash": "00EAF62020E86BFD",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fx_worldmap_selector.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/effects/materialclasses/custom/evergreen/fx_worldmap_selector.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0001E85038A67F2B",
@@ -27600,9 +27036,8 @@
   },
   {
     "hash": "009FAB8012104790",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/fem_reg_sweater_cardigan_closed_loose.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shirts/materials/fem_reg_sweater_cardigan_closed_loose.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005CC8203B2BBE01",
@@ -27721,9 +27156,8 @@
   },
   {
     "hash": "00B6D6898EAE7024",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_civilian_01_hat_01.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_01/materials/male_reg_civilian_01_hat_01.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0088DA7E1883D5A3",
@@ -27792,15 +27226,13 @@
   },
   {
     "hash": "00D259835970987E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/dimitrivegas_shirt.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/individuals/fox/dimitrivegas/materials/dimitrivegas_shirt.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001FD823C3CBF28C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/*/male_reg_suit_pants_dbl_pleat_anisotropic_christmas.mi].pc_entityblueprint"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/suit_pants/materials/male_reg_suit_pants_dbl_pleat_anisotropic_christmas.mi].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "001656C661FBD2DD",
@@ -27839,7 +27271,7 @@
   },
   {
     "hash": "00C72EDCF8E71680",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/knox_alcohol_wall_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27869,7 +27301,7 @@
   },
   {
     "hash": "0020CB485D214AEE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/metal_painted_rough_colormask_a_trim.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27909,7 +27341,7 @@
   },
   {
     "hash": "0082E973E74650B5",
-    "path": "",
+    "path": "[assembly:/materials/architecture/walls/brick_old_c.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27924,12 +27356,12 @@
   },
   {
     "hash": "0057990E8CF9DE66",
-    "path": "",
+    "path": "[assembly:/_pro/_test/dagb/materials/ravemask.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00587C8467B9D09C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/agent47_ledmask/materials/agent47_ledmask_mask.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27939,7 +27371,7 @@
   },
   {
     "hash": "002FDD8D3E200BCF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_kickboxer_robe.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27949,7 +27381,7 @@
   },
   {
     "hash": "006AE714D92B5F1A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/lambic/jcvd/material/metaldieper_01.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27969,12 +27401,12 @@
   },
   {
     "hash": "005D054E39FE9AB0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/gym/materialarts_mat_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "009A7DE870F830DA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/lambic/jcvd/material/male_reg_body_clone_jcvd.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27994,7 +27426,7 @@
   },
   {
     "hash": "0045F1CB49C94751",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/lambic/jcvd/material/male_reg_head_clonehead.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28004,12 +27436,12 @@
   },
   {
     "hash": "0066E19E5C7C17ED",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/accessories/bracelets/jcvd_bracelet/material/male_reg_bracelet_jcvd_01.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0096CEAD8D8D366B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/lambic/jcvd/material/male_reg_head_jcvd.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28034,7 +27466,7 @@
   },
   {
     "hash": "008ABBD92919EC2B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/rat/elusive_lambic/mask_glass.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28049,7 +27481,7 @@
   },
   {
     "hash": "00B612FD0A74D29A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/sweaters/materials/mas_balls.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28079,7 +27511,7 @@
   },
   {
     "hash": "00DBC259C923C9EE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/accessories/headwear/male_reg_antlers.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28094,7 +27526,7 @@
   },
   {
     "hash": "00B02FF12A210355",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/italy/plague_doctor/materials/male_reg_plague_doctor_rod_01.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28104,7 +27536,7 @@
   },
   {
     "hash": "00294CDEA97BE255",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_kcikboxer_gloves.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28114,17 +27546,17 @@
   },
   {
     "hash": "0059EFB1A1CBBDB2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wall/bavarian_stones_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "008AD5E796DDDC60",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/lambic/jcvd/material/male_reg_suit_clone_jcvd.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0004A2E00FA8AB2E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/lambic/jcvd/material/male_reg_arms_clone_jcvd.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28139,7 +27571,7 @@
   },
   {
     "hash": "00F357F903548E17",
-    "path": "",
+    "path": "[assembly:/materials/basicmaterials/effects/decalmaps/l10_chaple_decal_01_ml.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28154,7 +27586,7 @@
   },
   {
     "hash": "0063869A5330F7DE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_patriot_boots.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28314,147 +27746,147 @@
   },
   {
     "hash": "0050572492DF8B7D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wood/wood_walnut_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00B4BA318F323772",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/mm/material/head_mm.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0006B7C55B83B65F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads_unique/materials/fem_reg_head_pokerplayer2.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D8135FD25886F1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/plastic/white_emissive_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0077CB0DCE726560",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/diana_burnwood/materials/fem_reg_diana_s3_llama_dress.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "009005247830B448",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/fiberwire_purple_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0050E0F4944DFD4F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_overlay.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A25C134F460BBC",
-    "path": "",
+    "path": "[assembly:/materials/basicmaterials/effects/decalmaps/blood_ground_01a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004B81B8FF88121A",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/spanner_n_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0081833C09A5462E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/fashionshow_entrance_banner_c.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D0714056BD3571",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_stockings_fullbody.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002C0D5C6C10FCD3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/accessories/napkin_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0030987F6475C29E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/equipment/clothes_rack_wrap_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "005EEFABFDBCD1CE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/carpet_velvet_black_zmapped.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00221286CE3DC626",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_thin.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00826D76D8D44452",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/logos/eclipse_white_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00B10EE02B600CF4",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_stealth/pistol_stealth_hwk_99_frame_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0039B108712281AE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/fashionshow_fence_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F9B14356B3BC6B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/mm/material/pocket_cloth_mm.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00053B7F016CA212",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/wires/rope_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E70211BE3BC3E3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/chair_antique_padding_d_green_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "006FA8CF5904E57A",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/custom/wolverine/fakepostfilter_dreameffect_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003DC6C3328BE576",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/carpet_red_velvet_magpie_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E21A3326E01FEF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/evergreen/evergreen_trim_wood_oiled_noseams_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DA38471CD024D5",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/chair_antique_padding_b_relief.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003CD23A4643746A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/mm/material/mm_l_eye.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0039B79F70BAB991",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/mm/material/mm_r_eye.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "007207E130312BDB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_king_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00BA3A67B403A1C8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/ginbottle_a.mi].pc_entityblueprint",
     "gameFlags": 8
   }
 ]

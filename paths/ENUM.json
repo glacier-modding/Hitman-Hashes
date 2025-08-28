@@ -6,8 +6,7 @@
   },
   {
     "hash": "006FFEBDD49DC11B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "evergreen_entitlements"
+    "path": "[assembly:/_pro/design/enumerations/evergreen_entitlements.enumtype].pc_enumtype",
+    "gameFlags": 8
   }
 ]

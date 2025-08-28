@@ -241,9 +241,8 @@
   },
   {
     "hash": "00069EED6F062D96",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "scenario_flamingo_intel_6cores"
+    "path": "[assembly:/_pro/scenes/missions/miami/flamingo_intel_project_navmeshscene_crowd_intel.crmd].pc_crmd",
+    "gameFlags": 12
   },
   {
     "hash": "0080DF90F8454657",
@@ -292,12 +291,12 @@
   },
   {
     "hash": "00771CB39BF4ADAF",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_frenchmartini_crowd_street.crmd].pc_crmd",
     "gameFlags": 8
   },
   {
     "hash": "005B70FA7D2FC9B6",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_frenchmartini_crowd.crmd].pc_crmd",
     "gameFlags": 8
   }
 ]

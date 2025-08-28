@@ -1276,9 +1276,8 @@
   },
   {
     "hash": "0006AA0D8B4A2951",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "fx_md_env_stone_tiles"
+    "path": "[assembly:/_pro/qa/materials/materialdescriptors/fx_md_env_stone_tiles.template?/fx_md_env_stone_tiles.entitytemplate].pc_entityresource",
+    "gameFlags": 12
   },
   {
     "hash": "00110A6A7AFC6D2F",
@@ -1287,9 +1286,8 @@
   },
   {
     "hash": "001F8CB0FC47624B",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "fx_md_env_stone_concrete_intel"
+    "path": "[assembly:/_pro/example/techart/intel/materialdescriptor/fx_md_env_stone_concrete_intel.template?/fx_md_env_stone_concrete_intel.entitytemplate].pc_entityresource",
+    "gameFlags": 12
   },
   {
     "hash": "006147991B3A63EF",
@@ -1303,9 +1301,8 @@
   },
   {
     "hash": "006D43618F5FD0C8",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "fx_md_env_stone_concrete"
+    "path": "[assembly:/_pro/qa/materials/materialdescriptors/fx_md_env_stone_concrete.template?/fx_md_env_stone_concrete.entitytemplate].pc_entityresource",
+    "gameFlags": 12
   },
   {
     "hash": "009536711EF1F28C",
@@ -1359,12 +1356,12 @@
   },
   {
     "hash": "00A2C76EE2A4EA55",
-    "path": "",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_brick_yellow_01.template?/bgnd_brick_yellow_01.entitytemplate].pc_entityresource",
     "gameFlags": 8
   },
   {
     "hash": "00A51F035D04AE4E",
-    "path": "",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_metal_no_decal_penetrable_01.template?/bgnd_metal_no_decal_penetrable_01.entitytemplate].pc_entityresource",
     "gameFlags": 8
   },
   {

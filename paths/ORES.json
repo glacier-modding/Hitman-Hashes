@@ -36,12 +36,12 @@
   },
   {
     "hash": "003524A9DB72511F",
-    "path": "",
+    "path": "[assembly:/_pro/online/sniper.environmentconfig].pc_environmentconfig",
     "gameFlags": 44
   },
   {
     "hash": "00C934E45FB084C3",
-    "path": "",
+    "path": "[assembly:/_pro/online/environments.environmentconfig].pc_environmentconfig",
     "gameFlags": 62
   }
 ]

@@ -336,9 +336,8 @@
   },
   {
     "hash": "006BF37145EFFA5D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "scenario_flamingo_intel_8cores"
+    "path": "[assembly:/_pro/scenes/missions/miami/flamingo_intel_project_navmeshscene.navp].pc_navp",
+    "gameFlags": 12
   },
   {
     "hash": "00B67EC300F24587",
@@ -357,7 +356,7 @@
   },
   {
     "hash": "00393C270A1361F0",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/elegant/scene_llama_elephant.navp].pc_navp",
     "gameFlags": 8
   },
   {
@@ -407,7 +406,7 @@
   },
   {
     "hash": "0038FF4EF4F9FDB1",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/paris/_scene_frenchmartini.navp].pc_navp",
     "gameFlags": 8
   }
 ]

@@ -1,32 +1,27 @@
 [
   {
     "hash": "000B22D8AECE52E8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_dianaidhair"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_dianaidhair.sweetswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0067DFB4623BA8CA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_tells"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_tells.sweetswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F8D4A2D09926E7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_dianawelcome"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_dianawelcome.sweetswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00D62155452FB7EE",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_meeting"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_meeting.sweetswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00DA6265B5474554",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_dianaidacc"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_dianaidacc.sweetswitchgroup].pc_entityblueprint",
+    "gameFlags": 8
   }
 ]

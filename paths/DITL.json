@@ -6,7 +6,7 @@
   },
   {
     "hash": "005CC166F7715F6D",
-    "path": "",
+    "path": "[assembly:/_sniper/localization/sniperchallenge.sweet].pc_dialogsoundtemplatelist",
     "gameFlags": 44
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "hash": "00B7E83B2B5BFE20",
-    "path": "",
+    "path": "[assembly:/localization/hitman6.sweet].pc_dialogsoundtemplatelist",
     "gameFlags": 46
   }
 ]

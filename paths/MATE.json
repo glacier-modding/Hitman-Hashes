@@ -2751,7 +2751,7 @@
   },
   {
     "hash": "0007CC64065DC775",
-    "path": "",
+    "path": "[assembly:/shaders/win32/lighttilecount.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -2766,7 +2766,7 @@
   },
   {
     "hash": "00098C51DE0854BE",
-    "path": "",
+    "path": "[assembly:/shaders/win32/vr.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -2826,7 +2826,7 @@
   },
   {
     "hash": "000FB3FA5E2791D7",
-    "path": "",
+    "path": "[assembly:/shaders/win32/standardscattervs.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3061,7 +3061,7 @@
   },
   {
     "hash": "0025A5FB20526C16",
-    "path": "",
+    "path": "[assembly:/shaders/win32/intel_assao.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3456,7 +3456,7 @@
   },
   {
     "hash": "00519E97563D2703",
-    "path": "",
+    "path": "[assembly:/shaders/win32/scatter.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3516,7 +3516,7 @@
   },
   {
     "hash": "0059538CA014DF32",
-    "path": "",
+    "path": "[assembly:/shaders/win32/standarddecalvs.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3596,7 +3596,7 @@
   },
   {
     "hash": "0060960AF46DD1B2",
-    "path": "",
+    "path": "[assembly:/shaders/win32/hdradaptation.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3611,7 +3611,7 @@
   },
   {
     "hash": "0061EDAEE0AC07C3",
-    "path": "",
+    "path": "[assembly:/shaders/win32/generatemippeddepth.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3626,7 +3626,7 @@
   },
   {
     "hash": "0063163AFAE87FD3",
-    "path": "",
+    "path": "[assembly:/shaders/win32/standard.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3681,7 +3681,7 @@
   },
   {
     "hash": "00669BA2A06C275B",
-    "path": "",
+    "path": "[assembly:/shaders/win32/taa.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3736,7 +3736,7 @@
   },
   {
     "hash": "006BE42D75B10690",
-    "path": "",
+    "path": "[assembly:/shaders/win32/rtaopost.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -3976,7 +3976,7 @@
   },
   {
     "hash": "007E2FF5AF42ACCB",
-    "path": "",
+    "path": "[assembly:/shaders/win32/ssao_old.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -4026,7 +4026,7 @@
   },
   {
     "hash": "00833A188A16EDBB",
-    "path": "",
+    "path": "[assembly:/shaders/win32/lighttile.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -4196,7 +4196,7 @@
   },
   {
     "hash": "008D3DC3EA93A98F",
-    "path": "",
+    "path": "[assembly:/shaders/win32/ssao.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -4231,7 +4231,7 @@
   },
   {
     "hash": "00902AB7314532D6",
-    "path": "",
+    "path": "[assembly:/shaders/scaleform/scaleform.fx](dx11,fx50).pc_mate",
     "gameFlags": 8
   },
   {
@@ -4266,7 +4266,7 @@
   },
   {
     "hash": "00938896F7CB8A71",
-    "path": "",
+    "path": "[assembly:/shaders/win32/colorcorrection.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -4376,7 +4376,7 @@
   },
   {
     "hash": "009F2C42D636569A",
-    "path": "",
+    "path": "[assembly:/shaders/win32/imageprocessing.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -4411,7 +4411,7 @@
   },
   {
     "hash": "00A1E49B78075BE1",
-    "path": "",
+    "path": "[assembly:/shaders/win32/postchainmerge.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -4946,7 +4946,7 @@
   },
   {
     "hash": "00D1FEB532B0EF26",
-    "path": "",
+    "path": "[assembly:/shaders/win32/mcssao.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -5101,7 +5101,7 @@
   },
   {
     "hash": "00E5B96AE56C891D",
-    "path": "",
+    "path": "[assembly:/shaders/win32/debug.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
@@ -5216,7 +5216,7 @@
   },
   {
     "hash": "00EF5FD311ECD9F7",
-    "path": "",
+    "path": "[assembly:/shaders/win32/screenspacereflections.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {

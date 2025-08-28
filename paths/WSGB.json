@@ -186,15 +186,13 @@
   },
   {
     "hash": "00C3F6F00404C435",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fakecrowd_statecontrol.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/fakecrowd_statecontrol.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "00D1A2269C5552C7",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/fashionshowmusic_03.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/default work unit/fashionshowmusic_03.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 14
   },
   {
     "hash": "007EC9BAC70AAD95",
@@ -268,9 +266,8 @@
   },
   {
     "hash": "007A03605E0D9D1B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/hasicaearpiece.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/ai_dialogue_states/hasicaearpiece.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00574A370DED4E2F",
@@ -594,15 +591,13 @@
   },
   {
     "hash": "00428837139F9668",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_dreams.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_music_dreams/wolv_music_dreams.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00347585D06D3B14",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolv_music_edwardsconfrontation.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_music_confrontation/wolv_music_edwardsconfrontation.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "007AC28AB0FBBD2E",
@@ -611,9 +606,8 @@
   },
   {
     "hash": "0060DFB357A0AC80",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_cutscene_mix_states.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_cutscenes/wolverine_cutscene_mix_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "008D544F64C66622",
@@ -622,9 +616,8 @@
   },
   {
     "hash": "009C2196BF8EBA5F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_dreams_dx_states.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_dreams_dx_states/wolverine_dreams_dx_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00779A64C24C9872",
@@ -633,15 +626,13 @@
   },
   {
     "hash": "0027E327B9AA06A8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_flow.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_music_flow_states/wolverine_music_flow.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009A86758B394A76",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_music_train_states.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_music_train/wolverine_music_train_states.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00280689C65390C5",
@@ -650,9 +641,8 @@
   },
   {
     "hash": "00F9F375F46814F6",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_train_biomes.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_train_biomes/wolverine_train_biomes.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B8EFAFFE3BBA81",
@@ -671,9 +661,8 @@
   },
   {
     "hash": "00982DB3148AF2C5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "[unknown:/sound/wwise/exportedwwisedata/states/unknown/wolverine_tunnel_mix.wwisestategroup].pc_entityblueprint"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/wolverine/wolverine_tunnel_mix/wolverine_tunnel_mix.wwisestategroup].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0024670556FD41F7",
@@ -732,7 +721,7 @@
   },
   {
     "hash": "00238D0CC8D4C7E2",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/paris/frenchmartini.wwisestategroup].pc_entityblueprint",
     "gameFlags": 8
   }
 ]

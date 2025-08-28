@@ -16,8 +16,7 @@
   },
   {
     "hash": "00805A591F1A33EE",
-    "path": "",
-    "gameFlags": 62,
-    "hint": "ragdoll_bodybag"
+    "path": "[assembly:/templates/gameplay/ai2/bodybag.repx].pc_physsys",
+    "gameFlags": 62
   }
 ]

@@ -406,102 +406,102 @@
   },
   {
     "hash": "0000713F8D4C6B2D",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_interact_change_microphones.xmd?/camera1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000132913C0CF99C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_11.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0001AD3EDA7510EC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/killseq_cam02_new.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0001F94886C99523",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike.xmd?/steeringfork.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00024E9710C23315",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam04.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0002B9926DD45E05",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_ark_winch.xmd?/exit_ark_winch_cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00034574E3670687",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_piranha.xmd?/piranha_kill_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00039D7BC4AE4A87",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_tattoo.xmd?/cam02_killv01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0003CFF96D8B6972",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_crane.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00044121427D1096",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_start_default.xmd?/wbr.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0004BAB2BEF3476E",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s03_hm_lip_fox_confrontation.xmd?/npc_chair.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00056AFC0FF04447",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/start_default.xmd?/mount_mc.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "000570FB34527287",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_magpie_rappel_boat.xmd?/exit_ark_rappel_boat_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0005A9A8C11269CC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/camera11.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00067B00D971AC6F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_flyin_hm_arrivial.xmd?/shot_04_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0007308A037AE5DE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_03.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00076B9280C3785B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/slow_propellor.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00085ADA91CAA2D2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_sup_2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0008CAD359557EFD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_171.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00092EC3A21736A7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_flyin_boat_hm_grey_straightline.xmd?/magpie_flyin_boatdriveforwardlong_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
@@ -511,262 +511,262 @@
   },
   {
     "hash": "0009AC3F24B29AC7",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/secondrevealsoders.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0009D2DCD80D563F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/mine_moses.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000A142BF64823E8",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_cross_signature_kill_railing.xmd?/cam03.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000A1A52B2EBF314",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_drum.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000A63EFCA4E5170",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_door_from_street_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000A65C6857F0DD0",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/icareveal.xmd?/cam16.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000B099CD2C55E67",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s01_goty/seq_rabies_fail_car_exit.xmd?/car_wheel_f_l.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000B8E4AF63A803B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/marrakesh/python/dr11036_meeting_talking_business.xmd?/dr11036_meeting_talking_business_phone_move_anim.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000BA20AB54D6759",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_thing7.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "000BA67BAF98358E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/mr_stand_play_pool_100cm.xmd?/mr_stand_play_pool_100cm_ball_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "000BB17F63AFF8F0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_10.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000CA4B0FC07B545",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_mc.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "000CCBE9A5F0C090",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/killseq_lid.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000D1DEE40217B79",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_goty_intro.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000D3597CE808538",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_copperhead_street_exit.xmd?/gate.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000D6608C4AE7200",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/necklacetakedowncam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000D948259839139",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_boat.xmd?/exit_2_bulldog_boat.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "000DBCBBA67BBCF7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_ironmaiden.xmd?/s02_sig_kill_iron_maiden_cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000DD7B3EE1C98C0",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_quad_bike_exit.xmd?/gate_right.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000E217CABE57091",
-    "path": "",
+    "path": "[assembly:/animations/world/acts_gameplay/mr_iteminteraction/001_mr_iteminteraction_stand/mr_stand_mailbox_swapitem_100cm.xmd?/raise_flag.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000F5BEC1EFB6564",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/mr_stand_open_secret_door_book.xmd?/door_book_ani.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "000FAA4B6AC06E29",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/spiderrobot_reveal.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "000FC4A4486371BD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_greywakeuphm.xmd?/seq_greywakeuphm_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00105C90096563EC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_hatch_3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00107F4B6FECA3F1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_thing2.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00111AEBB0B9AB13",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_falcon/sequences/seq_exit_snowmobil.xmd?/seq_exit_jetski_prop.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001190A5758CA7F8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_bus.xmd?/exit_bus_cam_shot2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0011AA44D060093F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_vote_cam_scene.xmd?/vote_cam2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0011D23AE2DE76F6",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s02_hm_hips_stand_activatesub_turn_dial.xmd?/btn_reset.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0011DBD488EEC002",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_051.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0011F9CCDE47FCA2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_05.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0011FEF05FAE507D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/limo_intro_wheel_03.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "0012A0826815D15C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/skull_01_ani.xmd?/skull_ani.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0012A6448E26DF41",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/stick_right.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0012DB80FA9C786B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_021.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00136AE9E9D0BE4A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_d_021.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00137B0477E2339D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_a02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0013A340713FD0A3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_dagger_cam05.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001401EEC487BDE7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/racecar_moses_02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001426CFE4F8A930",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_copperhead_street_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "001430A6A2A8D728",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/sequences/door_vault_a_rig~prop_vault_door_rig~.xml].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00144557FE104326",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/kills/seq_robertknox_themonitor.xmd?/themonitor_car.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00151C3F9E8CF14C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_speedboat.xmd?/s02_l02_exit_speedboat_camera.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0015403170222648",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike_easteregg.xmd?/exit_bike.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0015800A6798C846",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_exit_hmleavetrain.xmd?/exit_train_cart_02_stopped.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "001634EAF92BEA14",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_06a.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00164FAAAE212268",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationhelicopter.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001691BD4C10E0E9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_ironmaiden.xmd?/s02_sig_kill_iron_maiden_cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0016B7AF4D20AB3F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_mission_fail_suv.xmd?/cam030.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0016FE022876F516",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_231.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001787B194FBFE34",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel_shot_08.xmd?/wheel_crash.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0017DCDC8155BBFF",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
@@ -776,417 +776,417 @@
   },
   {
     "hash": "00189B5257C7B7A7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/containerdoors_shootable.xmd?/container_door_shot_open_r.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0018D138947FC372",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_goty_intro_exit.xmd?/exit_camexit.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0019678F490AD213",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cable_car_a_04.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00198564DA25874A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationspeedboat.xmd?/cam_flyin.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001A74E8B2B14F89",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l04_bangkok/bangkok_boat_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "001ABE126E672ECD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s01_goty/seq_rabies_fail_car_exit.xmd?/car_wheel_b_r.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "001BCBE20D1FAE25",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_cross_signature_kill_railing.xmd?/cam04.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "001BD530342FA79C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_railfrag_a.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001BE9F169418BFD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/photo_camera.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001C117147E13944",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_falcon/seq_setpiece_sliding_door.xmd?/open_malfunction.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001C770D96746AC3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/flyin.xmd?/flyin_motorcycle_mc.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "001CF66443A80E43",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_fallcliff.xmd?/cam1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001DBB6793F8A87C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001E168846B4AA07",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_sliding.xmd?/doorseq.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001E6547786C18A0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_14.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "001ED3A852BF820B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_exit_hmleavetrain.xmd?/exit_train_cart_03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "001FCAEEF413092B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_bed_moving.xmd?/seq_bed_moving.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "0020459316C02D6C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/exit_skunk_woodenraft_sailing.xmd?/ani_raft.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002068E2F341CA42",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_06.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00214106E7F7FF2B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_131.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002164B669ADC58D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel_shot_08.xmd?/racecar_crash.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0021BAE91019AE42",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/mr_sit_barberchair.xmd?/cam2_exit.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0021F5ED31AEAF86",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_sportcar.xmd?/s02_l02_exit_sportcar_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00227266FE8A6E2D",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera03.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0022E9DFB0E25DFE",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_exit.xmd?/doorl.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00239E166E96A82F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/med_sub.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0023A33BE9A887A6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_hearse.xmd?/exit_bulldog_hearse_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0023EE29223323D4",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s02_marketing/hm_walk_loop_slow_aim.xmd?/cam01_slowmo.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00240D0007436365",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_unique_logbridge.xmd?/logbridge_movetobridge.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00243EDB103E67FD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_sub.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0024988F6CE2905B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/hokkaido/mr_surgeon_stand_remove_bandage.xmd?/cam.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "002536C161D446BA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0026572AFF70D293",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/start_default.xmd?/mount_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002666042D7D515F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_motorcycle.xmd?/motorcycle_exit_cam1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002671A2E35801D9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_09.xmd?/car_a.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002681815B784E59",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/exit_skunk_woodenraft_sailing.xmd?/ani_paddle.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0026D4874D4EDB23",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_dinosaur_exit.xmd?/gate_left.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0026D7556279A0F4",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/geometry/bus_mumbai_a/bus_mumbai_a~prop_bus_columbia_a_00_rig~.xml].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0027CB0380A01D70",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/center_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00281375C30E80CA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_ark_helicopter.xmd?/exit_ark_helicopter_cam1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00281E2C741A91E4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b4_t1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00285EDD345AC2D4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_tattoo.xmd?/cam03_killv01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00288F0506C81F72",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_b04.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0028A3A3A087DB7B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_07.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0028F4BD38BED6DD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_start_default.xmd?/car.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002958B43F4B7712",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/geometry/male_regular~~.xml].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0029BCD26CF1E740",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/door_close.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "002A24AD8B66E0F3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_06.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002A581D904CD6CF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_26_27.xmd?/carb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002B20EE89E78DE8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/sequences/seq_exit_snorkeling.xmd?/snorkel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002B37F8DE2B7C8C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_ark_winch.xmd?/exit_ark_winch_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002B7C39820F7F93",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s02_hm_lip_stand_gameofdare_100cm.xmd?/hm_cough_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002B822CF9AFE4A2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b4_b1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002B8780473EFB7B",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_cross_signature_kill_railing.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "002BA9DAF2A3E2C7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/miami_racecar_pitstop.xmd?/pitstop_get_out_angry_helm.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002BB16C6BD60FAE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b5_b1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002BFB54FA55BB49",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_race.xmd?/5_cars_1_lane_car_2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002C43931169F9DC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_d_011.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002D3C35E7ACB383",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/path_limo_outro_chassis.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "002D58C395F3987E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_garbage_recycling_mumbai_a.xmd?/t11.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002D832B6DA91E8C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002D8C94441CA47A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_mission_fail_helicopter.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002DE660E301DDFE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cable_car_b_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002E00535EC9B3C8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_easterexit_umbrella.xmd?/cam1_exit_umbrella.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "002E0E0E406F7003",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike_easteregg.xmd?/wheel_b.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002E81CF850478F8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_start_default.xmd?/wfl.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002F13E7D780C0C7",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/bangkok/hm_tuktuk_escape.xmd?/door_r1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "002F1FC5121DA65E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/sequences/seq_train_reveal_anim.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002F7325C353D286",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/sapienza/mamba/seq_hm_abiatti_jokerkill.xmd?/seq_cam_4.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0030DFB8180D7E61",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_pillow_smother_orson.xmd?/seq_pillow_smother_mr_cam_04.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00311BDCD3D54D72",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_ironmaiden.xmd?/seq_kill_ironmaiden_door.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00323CFC8290AFCF",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera11.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00324873ED68EC88",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_flyin_hm_arrivial_shot01_v01.xmd?/shot_01_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003257F74CCD078D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/polarbear/dr9117_mr_kgb_jasper_toast_again.xmd?/glass_knight.xmdtake].pc_rtr",
     "gameFlags": 30
   },
   {
     "hash": "0032A93597F24EA0",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_pickupheart100cm_dispose.xmd?/cam02_jp_version.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003337E224CD6F3F",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/chimney_exit_hm_santaclaus_shot1b.xmd?/present_03_chim02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0033EC006A9A8F29",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/pendent1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003414454CE2A787",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_01_stop.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0034F103CF321D06",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s03_hm_lip_narnia_wardrobe.xmd?/cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00351489F71BE008",
-    "path": "",
+    "path": "[assembly:/animations/world/acts_gameplay/mr_iteminteraction/001_mr_iteminteraction_stand/mr_stand_mailbox_swapitem_100cm.xmd?/lower_flag.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00353CF0D49A3F3E",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_cablecar_exit.xmd?/cablecarcam2.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003569CF483E3B94",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/firstrevealprovidence.xmd?/notefirstreveal.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0035B43F3C5D6D9B",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_door_from_street_exit.xmd?/crowbar1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
@@ -1196,542 +1196,542 @@
   },
   {
     "hash": "0035F588D9778E22",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_crane.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00360486E258C53F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_fishingboat.xmd?/s02_l02_exit_fishingboat_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0036539CA21FEB1C",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_quad_bike_exit.xmd?/gate_left.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0036653A7F91AB3E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/camera21.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00366BCB5A13AE0C",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/colorado/ramcart.xmd?/ramcart_fireram.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00366E27D955A7DC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/mr_fr_yates_diana_signaturekill.xmd?/hm_yates_finalblow_cam02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0036989AC34D1D32",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_boat_exit.xmd?/boat_fishing_engine_a_00.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00376A51CD020438",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_08.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003893E98552334E",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_helicopter_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0038B1C9153C63EA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_constants_tower_helicopter.xmd?/exit_ark_tower_heli_cam01_03.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00390050AD416FE4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_09.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003980AABD95172F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_wolverine_confrontation.xmd?/sh_03_paper.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0039874F3008538D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_boat.xmd?/exit_bulldog_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00399ECF91DF1D18",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_boat_exit.xmd?/boat_fishing_b_colorb_00_01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0039B76047F2A230",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_helicopter_outro.xmd?/seq_helicopter_outro.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "0039BD291839FB07",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam06_wheel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003A0435B1740AAB",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_interact_bell_ring_120cm.xmd?/rope.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003A5540B7734F83",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/start_default.xmd?/dismount_cam2.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "003A99A98A27DFE1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/necklacetakedowncam2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003AFA26AE4FB621",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_12.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003B061CB6B54FC8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationspeedboat.xmd?/bigboat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003B7E49413148DA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_base/pro_male_regular/geometry/male_reg_v2~~.xml].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "003B9F4EFA3A9645",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/starts_exits/startinglocation_ontrain.xmd?/cam2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003BBB503E9EC338",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_quad_bike_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003C437D5C1DBF74",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/spiderrobot_reveal.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003CCD08B684185B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/sequences/seq_exit_crocodile.xmd?/croc_anim.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003D1119D09F054C",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_mamba_boat_exit.xmd?/boat_speedboat_a_1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003DAE7C77CB2FD1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_141.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "003DBC2AD1C4AB33",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_thing5.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "003DE977E5E94F78",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_caruso_signature_kill_smothered_with_pillow.xmd?/cam_189-269.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003EE90C105179CC",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_gate_exit.xmd?/cam_colorado_maingate_exit.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "003F0074C40A84D2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam05_wheel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0040559DCF855878",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationmanhole.xmd?/crowbar.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0041FDC71977162B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_hearse.xmd?/exit_bulldog_hearse_car.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00420AEB97DF5EDC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_thing4.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0042227415ACE81C",
-    "path": "",
+    "path": "[assembly:/animations/world/acts_gameplay/mr_iteminteraction/001_mr_iteminteraction_stand/mr_stand_mailbox_swapitem_100cm.xmd?/close_mailbox.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0042A2648FC1180C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/exit_skunk_garbagetruck.xmd?/ani_truck.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00445FBA10436E1C",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_python_killcam_electricute.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004468138A173F0D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_flyin_boat_grey_driveaway.xmd?/magpie_flyin_boatdriveaway_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00447F842A14EEDB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_03.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0044DA8CE7E8A262",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l04_bangkok/door_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004519177851CB29",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/path_limo_outro_fr_wheel.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "004566B5AD8E79FF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_11.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004600E3445BD27D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_211.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004640C2F1333A31",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/med_propellor.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0046A82D12587ADC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/sequences/sequence_mr_binoculars.xmd?/bino_enter.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0046E010359B96BF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_01_start.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "004729B305064316",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l01_gecko/sequences/exit_parachute.xmd?/exit_gecko_para_para.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0047F4F493D1C597",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s01_goty/seq_rabies_fail_car_exit.xmd?/car_wheel_f_r.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004811F527C792A2",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_copperhead_outros/s01_l02_italy_copperheadspcar_exit.xmd?/cam03.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0048ED8CAB0F35EF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_241.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004A24E9EA8224BA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_race.xmd?/5_cars_1_lane_car_5.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004ABD33B792BC0F",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_gate_exit.xmd?/cam_colorado_gate_exit.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004AE781D8E4B042",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/wheelb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004B0E078D5325DF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_snap_cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004B28CDE2706EC5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_rails.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004B8CDAC0E5A8AD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/photo_camera01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004BB34640706356",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b3_t1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004BC288733D13E3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b2_m1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004BE7AC8D0154FF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_30_50_left_b_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004C173787F71BC6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_50_70_left_a_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "004C51212C8C1548",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/gondola_anims.xmd?/gondola_wobble.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004CFBF4ED05D4C5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cabel_car_a_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "004D814F96D40019",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l04_bangkok/door_exit.xmd?/door.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004E3A6AA80D1CF0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s01_goty/seq_rabies_fail_car_exit.xmd?/car_movement.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004EF73E7365D0A9",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_yuki_signature_kill_block_door.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004F19CED271D520",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/firstrevealprovidence.xmd?/cam20.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "004F1AF8DE041319",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_fail_container.xmd?/door2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00504EE514978124",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_15.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00507657C5769DBE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/seq_signaturkill_hammer&chisel.xmd?/seq_signaturkill_hammer.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0050B6FA4CA69AF9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/startinglocation_main_entranceflyin.xmd?/carb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0051379E52D18245",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_21_24.xmd?/lead-in_shot_23.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005140A3505A5F21",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_04.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0051F9E93C1A1E92",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_frogleap.xmd?/froganim_b.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00522A0F10E6F894",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/sequences/seq_constantinterlude.xmd?/seq_constantinterlude_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00532EF9516FAAE9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_propellor.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00537B208CDB11B7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/wrench.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0053EB9B9FB643F8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_03_bomb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005415EC40C438ED",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/mr_sit_jetski.xmd?/seq_drive_jetski.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00548710040CFB95",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/start_default.xmd?/dismount_cam1.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0054AA6058D837CE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike.xmd?/pedal_l.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "005524E5DAED4BCA",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_minitruck_exits.xmd?/gate_l1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00552F98101E9011",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_bodydump_productionmachine.xmd?/productionmachine_bodydump_lidclose.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00557611A3D0D45D",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_python_killcam_electricute.xmd?/cam03.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0055E975203E048B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_sheep_boat_exit.xmd?/shot_01_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0055F4414E5A3372",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_exit_hmleavetrain.xmd?/exit_train_cart_01_stopped.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00563C13347C8B58",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera09.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0057F22FB08757EB",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_abiatti_signature_kill_rail.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "005810888E49B0E4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s01_goty/seq_rabies_fail_car_exit.xmd?/cam.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00589EBCE7135128",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_main.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0058D7FE3FF6130B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_b02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0059A1581590380E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_18.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005A2F1DFFC6BA7A",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/bangkok/hm_tuktuk_escape.xmd?/cam.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "005A6110DB5CAF2C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_exit_hmleavetrain.xmd?/exit_train_cart_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "005B040117EF8B97",
-    "path": "",
+    "path": "[assembly:/animations/world/acts_gameplay/mr_iteminteraction/001_mr_iteminteraction_stand/mr_stand_mailbox_swapitem_100cm.xmd?/open_mailbox.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005B98189FEC9E2B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "005BB0F373A07B90",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/easteregg/squeletonarm_a~prop_squeletonarm_a~.xml].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "005BEC33549FE23E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b3_b1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005BF9A8E2AFB4D3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationspeedboat.xmd?/boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005C20838C35F5B1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_falcon/sequence/helicopter_arrival.xmd?/helicopter_arrival.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005C81B027221459",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/med_clamps.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005CFA70EAF290C9",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/marrakesh/dr11021_seq_fortuneteller.xmd?/cam_fotrune_kill3.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "005D48C311BCAD4B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/seq_signature_kill_hippo.xmd?/camera3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005D81C0A3BB36CB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_fail_container.xmd?/door11.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005DAA6AD6A6F5AB",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/sapienza/mamba/seq_hm_abiatti_jokerkill.xmd?/seq_cam_3.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "005F20715343D434",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/idle_clamps.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "005F522B7358E1D6",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "005FA62D8ACEE8B6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_01_wbr.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
@@ -1741,507 +1741,507 @@
   },
   {
     "hash": "0060DD9F699B29E6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_constants_tower_helicopter.xmd?/exit_ark_tower_heli_heli.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00611BEFED87294F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/containerdoors_shootable.xmd?/container_door_shot_open_l.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006162C197D6EBEA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_statue_fall.xmd?/statue_fall.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0061D4D716A6CA41",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/sequences/exit_locationfiredoor.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006232F993C5F4EC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s01_goty/seq_rabies_fail_car_exit.xmd?/car_wheel_b_l.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0062DE4E400E30E1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/idle_sub.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0062F1B9EF7DA211",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_piranha.xmd?/piranha_kill_cam2_alt2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0064E97941B019BD",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/secondrevealsoders.xmd?/soders_photo.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "006507186C681B47",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b1_m1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00657A5D9B946585",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/marrakesh/dr11021_seq_fortuneteller.xmd?/stand_fortune_kill.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00659878A7C7FC9D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_sportcar.xmd?/s02_l02_exit_sportcar_cam2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0065CAD8AE7FB943",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/018_contextactions/hm_interact_use_doorknocker_150cm.xmd?/knocker_use_doorknocker_150cm.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0066219C23609AE8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_start_default.xmd?/wfr.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0066E06EB7DFD09C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b1_b1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0066EEA3ED7448D9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/sequences/exit_main_entrance.xmd?/door_turn.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00671F8DC7C60B57",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_motorcycle.xmd?/exit_motorcycle_mc.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0067405FC37A9B05",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_121.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0067B29429061CC6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationentrance.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0067C538A1ACE471",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike.xmd?/pedal_arm.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00686EA4722DDC05",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0068A2EB7713600E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike.xmd?/pedal_r.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "006907E516050B6A",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/polarbear/dr9156_mr_knight_jetfighter_ejection.xmd?/ladder.xmdtake].pc_rtr",
     "gameFlags": 30
   },
   {
     "hash": "00697B679307BB59",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationmanhole.xmd?/cam021.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0069C007AB11BF0E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_exit_effigy_swan_dive_easteregg.xmd?/exit_swandive_cam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0069F0B6FE1B7B2E",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_caruso_signature_kill_smothered_with_pillow.xmd?/cam_270-425.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "006A5D2DA10E2819",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/spiderrobot_anims.xmd?/spiderrobot_kill_poison_cam.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "006A721AD6D144AE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/seq_setpiece_skunk_unique_bookshelf.xmd?/book.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006A86317FD52F60",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/wheelc_long.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006B130FA67EE0F7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b4_m1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006B1E62DA74BE5D",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/firstrevealprovidence.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "006B4F43CB9C70C4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_071.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006B914863B8BFC5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_vote_cam_scene.xmd?/vote_cam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006B98A092635146",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_boat_escape.xmd?/boat_escape_boat.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "006BE09E76BE0125",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/killseq_cam03_new.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006C10E461A49F9B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_02_start.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "006C3241BFA2ED3A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/camera41.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006C3DEFF1DAD5C4",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s03_hm_lip_fox_confrontation.xmd?/hm_chair.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "006C54E9BE0612B0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/skull_01_ani.xmd?/cow_skull_ani.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006CB61A310A3696",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/cam2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006CE9C28395DA60",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_sugar.xmd?/cam03_fuel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006E54DB9191D39C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_hatch_4.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006E6857E87D474B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike_easteregg.xmd?/pedal_r.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "006EA026B184BF17",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_bolt_07.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006EE25B442FC92F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_flyin_hm_arrivial.xmd?/shot_04_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "006F6355C3B3F18F",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_pickupheart100cm_dispose.xmd?/camera_021.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "006F9F8025C16E8C",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/italy/church_bell_falling_down.xmd?/church_bell_falling_down.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "006FC5E787BEAC7E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_161.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0070131BCC154C39",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_30_50_right_b_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00704BF49E642628",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_ironmaiden.xmd?/seq_kill_ironmaiden_maiden.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007149392A01099F",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_yuki_signature_kill_block_door.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00717BF924FA5B27",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/acts/mr_sit_haggard_chair_armrests_oxygenmask.xmd?/oxymask.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0071DDD604827598",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_b03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0072250FF1462D8E",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/sapienza_goty_intro.xmd?/sapienza_goty_intro.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0072CC10766C89AB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_portcullis.xmd?/dummycollision.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0073673A93D3E4DC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationhelicopter.xmd?/helicopter.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007397B99ABF77B7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_a01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00747AAE7FDBE59D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/polarbear/dr9156_mr_knight_jetfighter_ejection.xmd?/seq_ejected_cockpitlid_knight.xmdtake].pc_rtr",
     "gameFlags": 30
   },
   {
     "hash": "0074AFFE86253455",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0074E9F96661A78D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/acts/mr_stand_haggard_place_sample_110cm.xmd?/doorclose.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0074FF78FE21C6BD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cable_car_b_03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007544C7725C9CF0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_11.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0075473CF1498315",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/slow_sub.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0075B099740D5B5D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel_shot_08.xmd?/cam08_wheel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0075DD93EDC41768",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_081.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0077092408CE9B19",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_dagger_cam03.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00773CBB1B9EB425",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_garbage_recycling_mumbai_a.xmd?/b11.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00779832FEDC0E44",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l01_gecko/sequences/exit_parachute.xmd?/cam_021.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0077987D46E9A680",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_bodydump_productionmachine.xmd?/productionmachine_bodydump_lidopen.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007832C3CF85CB52",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationdolphin.xmd?/dolphin02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00784815606119A5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_00.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00785C35FA1776F9",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_cablecar_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0078EB206DE237E5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/seq_setpiece_skunk_unique_painting.xmd?/painting.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00790C25455B39D4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_boat.xmd?/exit_bulldog_boat_boat.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00790F23B8B968D3",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_copperhead_outros/s01_l02_italy_copperheadspcar_exit.xmd?/cam01_alt.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "007A76B5BDE88DB3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_01_wfr.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007A8CF18DFA6CB0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_pillow_smother.xmd?/seq_pillow_smother_fr_cam_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007B74FE721A8E21",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_30_50_right_a_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007B77AE3AE7D924",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b3_m1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007C58121A53D92A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/starts_exits/startinglocation_ontrain.xmd?/cam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007C833ADEE15E40",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/photo_camera02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007C8E2901D9B481",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_boat.xmd?/exit_llama_boat.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007D499169A83817",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_flyin_hm_arrivial_shot01_v01.xmd?/shot_01_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "007E7007E349DE2A",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_goty_intro.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "007E80CACF53C665",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_04_start.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007ECABE12E2D01C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/mr_stand_close_containerdoor.xmd?/right_door.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00802319A06F25EA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/racecar_crash_short.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0080620502908198",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cable_car_b_04.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0080CA0C48E8B829",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera13.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0081EBA9092F2932",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/racecar_moses_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008284222E485910",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_caruso_signature_kill_smothered_with_pillow.xmd?/cam_93-188.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0082BAD2A3FB1A53",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_pipe_1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0082E744DBABA57D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_piranha.xmd?/piranha_kill_cam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008304301672AE6C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/productionmachine_door_kill.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0083131FB9A228AC",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/polarbear/dr9156_mr_knight_jetfighter_ejection.xmd?/seq_ejected_seat_knight.xmdtake].pc_rtr",
     "gameFlags": 30
   },
   {
     "hash": "00834605393E364D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationentrance.xmd?/door.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00836DD63098585D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_garbage_recycling_mumbai_a.xmd?/b31.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008402C4BE7EBCE5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_02_stop.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "008474C0884CAF46",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_helicopter.xmd?/exit_helicopter.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00848FC014B3C2B3",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/chimney_exit_hm_santaclaus_shot1b.xmd?/present_01_chim_02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00849DC933ED5A48",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_exit_hmleavetrain.xmd?/exit_train_cart_03_stopped.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00850F26AE34E195",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/spiderrobot_kill_cams.xmd?/spiderrobot_kill_electrify_cam.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
@@ -2251,102 +2251,102 @@
   },
   {
     "hash": "00852BF05823233D",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_cablecar_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0085C7E0B9568676",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/bones_skull_c_00_ani.xmd?/bones_skull_c_00_ani.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0085CE0B03E58CBB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/sequences/exit_boat.xmd?/bigboat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00860FF1C2BFF272",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_wolverine_confrontation.xmd?/sh_07_suitcase_top.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00863DABBF8116BD",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l04_bangkok/door_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "008789C836611166",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/easteregg/kraken_sail_boat_b~prop_kraken_sail_boat_b_00~.xml].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0087B292B67194EC",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/spiderrobot_kill_cams.xmd?/spiderrobot_kill_berserk_cam.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0087D2BEF158BA27",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_fallcliff.xmd?/cam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0088B9C87566759C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_sportcar.xmd?/s02_l02_exit_sportcar_cam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00891721F6529D44",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_hatch_1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008A1EB90A03C60B",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s02_hm_lip_stand_adjustpainting.xmd?/painting.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008A59F3FC9A1E4D",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/chimney_exit_hm_santaclaus_shot1b.xmd?/cam1_chim02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "008A940ACA93B566",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_clamps.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008AA718AEA402EA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_03a_bomb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008AE0AE9F586862",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/chimney_exit_hm_santaclaus.xmd?/cam2.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "008AF9FEDF52FC69",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l00_intro/helicopter_takeoff.xmd?/camera1.xmdtake].pc_rtr",
     "gameFlags": 30
   },
   {
     "hash": "008B11AECC31F7EC",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "008B15BA2C7FE1F4",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_gate_exit.xmd?/gate_colorado_gate_exit.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "008B326A380307E7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_d_031.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "008BB00305C7F062",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/gondola_anims.xmd?/gondola_impact.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
@@ -2361,82 +2361,82 @@
   },
   {
     "hash": "008C95B3DFC5423E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/startinglocation_main_entranceflyin.xmd?/cara.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008DA08FD7C7EB1A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/starts_exits/exit_locationtrain.xmd?/cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "008DB8C655CFBC9E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_start_default.xmd?/wbl.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "008E7B018ADBFE19",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_door_from_street_exit.xmd?/door.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "008EC2DD772A0238",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam07_wheel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009027B1D32CC7CC",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/italy/mr_stand_shake_dinner_bell_cord.xmd?/mr_stand_shake_dinner_bell_cord_rope.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0090AD9445AE2784",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_sugar.xmd?/fr_exit_angry_helmet.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0090C58BA173BBAF",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/bangkok/hm_tuktuk_escape.xmd?/door_l1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0090D2154EC94C72",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_propellor.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0090F1CBAA33AF3C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_wolverine_serum_inject_constant.xmd?/syringe.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00915A2B050C0B71",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_flyin_boat_hm_grey_straightline.xmd?/magpie_flyin_boatdriveforward_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00916ED9E44CA09E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l01_gecko/sequences/seq_carl_ingram_parachute.xmd?/glide.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0091BBA5442280BE",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_minitruck_exits.xmd?/gate_r1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0091BF204E90104A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_181.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0091D77A3C6C8D5D",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l04_bangkok/bangkok_boat_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "0091DB1E1EEA5E77",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_boat_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
@@ -2446,267 +2446,267 @@
   },
   {
     "hash": "009254405E4D6193",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_snap_cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009337FF3B439EF8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_03_stop.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00941574990F0E25",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_easterexit_umbrella.xmd?/cam2_exit_umbrella.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009432F15C647FE3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike_easteregg.xmd?/pedal_arm.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0094CAA9729AEC03",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera06.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00950F679C8AE6CF",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_copperhead_outros/s01_l02_italy_copperheadspcar_exit.xmd?/cam02_alt.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00957F235D816759",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_clamps.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00958FA4DA02EEA7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_tattoo.xmd?/tattoo_gunv01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0095BE156078C56E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_constants_tower_helicopter.xmd?/exit_ark_tower_heli_cam02_02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0095F7844ABD3C44",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/hippo/hippo/geometry/char_hippo~prop_ground~.xml].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00960152E3A7FCEC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationentrance.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009748FE85B2A90E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/exit_skunk_woodenraft_sailing.xmd?/ani_raft_new.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009845F7436B9367",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/door_open.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00984C1632F6608C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_tattoo.xmd?/cam01_killv01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0098520248DDC654",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/chimney_exit_hm_santaclaus.xmd?/cam1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00995EE7FC0C597C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_localcar.xmd?/exit_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00996A7D98E677FB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/mr_stand_play_pool_100cm.xmd?/mr_stand_play_pool_100cm_ball_00.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0099A43166655981",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/sequences/seq_exit_jetski.xmd?/seq_exit_jetski_prop.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "0099DB4B31B4C1EF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_bolt_03.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009A4401BAC2BAF9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_d_041.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "009A44975120492F",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_boat_ruin_exit.xmd?/boat_escape_boat.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "009ACCB3F437D9C0",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_exit.xmd?/doorr.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "009B728D16675ED1",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_pickupheart100cm_dispose.xmd?/binlid_spin.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "009B8E8BF4CF2E7B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_06b.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009C0D8751D2D43F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_bolt_04.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009C0E25461A1399",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/cam3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009C4B917B8BCAF3",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/hokkaido/gondola_anims.xmd?/fall.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "009C4FFAF7F7C4C4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_magpie_rappel_boat.xmd?/exit_ark_rappel_boat_cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009C6E14D4FC9914",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_exit_hmleavetrain.xmd?/exit_train_cart_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "009D5DB1EF26CFCF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationspeedboat.xmd?/cam_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009DFB3D49DC77C7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_wolverine_confrontation.xmd?/sh_07_suitcase_bottom.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "009E60F888C43549",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s01_goty/seq_writer_photo_with_fan.xmd?/cam_seq_mra_hm.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "009EA26E419823EB",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera04.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "009EC74FD8806382",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/sapienza/mamba/seq_hm_abiatti_jokerkill.xmd?/seq_pencil_jokerkill.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "009F47BEB23B7E46",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/slow_clamps.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "009FD4C72CAADC9B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/marrakesh/dr11021_seq_fortuneteller.xmd?/cam_fotrune_kill2.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00A00DBE32B5CBB5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/limo_intro_wheel_02.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00A0255D946018E5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_04.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A0FD58170D69FB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam03_wheel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A15EAC6ED0431D",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_pickupheart100cm_dispose.xmd?/camera_011.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00A162BD9002BEF8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/starts_exits/exit_locationtrainyard.xmd?/cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A173AE9D967241",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_21_24.xmd?/lead-in_shot_22.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A184B4DC4C31ED",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_enter.xmd?/colorado_secretroom_enter_cam3.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00A1E15D701B5868",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/025_environment_interactions/hm_pickupheart100cm_dispose.xmd?/cam01_jp_version.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00A1ED2B9B9F124C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_hatch_2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A2C3FCB09B040E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/racecar_crash.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A2EDF877523312",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_17.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A303B2D8C9880D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/italy/seq_mr_caruso_seaplane_escape.xmd?/takeoff_plane_success.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00A390121B6F7221",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_fallcliff.xmd?/cam4.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A444EFA0F05FB3",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/chimney_exit_hm_santaclaus.xmd?/present_01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00A6F510EF30EFAA",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_minitruck_exits.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00A75A39484510A8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_mission_fail_suv.xmd?/cam010.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A777892DF9DBE6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_sugar.xmd?/cam06_fuel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
@@ -2716,277 +2716,277 @@
   },
   {
     "hash": "00A7F90F62630B52",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/seq_setpiece_skunk_unique_bookshelf.xmd?/shelf.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A897A691A0DEA6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/seq_signaturkill_bankeraward.xmd?/seq_signaturkill_award.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A8A239B21F8F17",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_motorcycle.xmd?/exit_motorcycle_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00A90786349084AB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/seq_signature_kill_hippo.xmd?/camera2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A9460EA7D3C6C3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_railfrag_b.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00A953F03CCE54A3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_191.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AA098F8A94BE6C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AA408D345F890E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_mission_fail_suv.xmd?/cam020.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AA8E7F14F0D1C5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_1v1/l01_flamingo/camera_turns_l_r.xmd?/rotate_02_r.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AB16A8484849C6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationmanhole.xmd?/lit.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AB2CE322C557B3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s02_hm_lip_stand_gameofdare_100cm.xmd?/hm_drink_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00ABC1CC120193C3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_coupler_1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00ABCDB3C5B3F184",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/starts_exits/startinglocation_ontrain.xmd?/cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AC245A4A18D34B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_09.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00ACB8670C97C06E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/diana_burnwood/geometry/fem_reg_diana_season3_mbs~~.xml].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00AEAE9E09C3A9D0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_ark_harbour_boat.xmd?/exit_ark_harbour_boat_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AEC85308AC5B3B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/path_limo_outro_fl_wheel.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00AECCE88AF19EAF",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/secondrevealsoders.xmd?/cam03.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00AED3E3C535B839",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s02_hm_hips_stand_activatesub_turn_dial.xmd?/btn_pushbutton.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00AF80F6C363F7BE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_02_wfr.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00AFECC865E36E33",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/killseq_cam01_new.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B0187174296C52",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_04_bomb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B0460E6F06DD1D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_sub.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B07510CDB86644",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/exit_skunk_gateroadwork.xmd?/door_left.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B0D5165EF10B80",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_mission_fail_helicopter.xmd?/helicopter.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B0D5808ADA06C9",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/chimney_exit_hm_santaclaus.xmd?/present_03.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B0FA801AAEC21B",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_dinosaur_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B11C4D25799DF8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_ark_winch.xmd?/exit_ark_winch_cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B15B9C30B4F868",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/hokkaido/mr_lie_agent_smith.xmd?/mr_agent_smith_shelf_slideout.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B1D0F55EE28E42",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l06_wolverine/seq_wolverine_serum_inject_constant.xmd?/pull_leaver.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00B208857E0C60AA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_dagger_cam04.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B2340A351DACE0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam09_wheel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B3FAEF0AAF8BE2",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_copperhead_outros/s01_l02_italy_copperheadspcar_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B42AC5F5F481C8",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_snowscooter_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B5C6288EABFC61",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/hokkaido/mr_lie_agent_smith.xmd?/mr_agent_smith_side_slideout.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B60482DA172E3C",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/italy/seq_mr_caruso_seaplane_escape.xmd?/cesna_stand_loop.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B752A99B31B0A1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_061.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B7978CA14C4BC3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_hearse.xmd?/exit_2_bulldog_hearse_car.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00B95318BEFC980D",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_mountain_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00B9A8612568AA08",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_06.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00B9F4254946B744",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/forklift.xmd?/forklift_seagull.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BAC390F765A807",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/hokkaido/fr_yuki_yoga_training.xmd?/05_kill_cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00BAC849A1C9C2A3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_abiatti_signature_kill_rail.xmd?/cam03.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00BAED2B14199193",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/secondrevealsoders.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00BB1F4A554C1DEB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_thing6.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00BB2E7F06506411",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_motor.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BB5AB08C71C174",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam10.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BBDAD5D7F3EAD1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/sequences/exit_locationfiredoor.xmd?/doorr.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BBFD9C15E5B7CA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/racecar_01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BC57F194639511",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/italy/seq_mr_caruso_seaplane_escape.xmd?/takeoff_plane.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00BC99B479F4013C",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera12.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00BDB64553F927F9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike.xmd?/exit_bike.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00BDC36142466E7D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_exit_effigy_swan_dive_easteregg.xmd?/exit_swandive_cam1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BE23FB4015C2B7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_50_70_left_b_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BEF85840C72AD9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_07.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
@@ -2996,82 +2996,82 @@
   },
   {
     "hash": "00BF2BBC939C7607",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_sheep_boat_exit.xmd?/shot_02_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00BF74C21033A024",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_mount_mc.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00BFB3505B761CE6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/startinglocation_main_entranceflyin.xmd?/card.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C0A00FC3F61BE1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationambulance.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C0A431423B9BBC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_04_stop.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C0E423E53C9953",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_selfie_with_tattooist.xmd?/cam_signature_move.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C168430CF80E8F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C1889908615339",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_sugar.xmd?/cam05_fuel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C1B504AC389EE6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/path_limo_outro_bl_wheel.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00C1B9A905E8C38F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/seq_signature_kill_hippo.xmd?/camera1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C1D591E381AC6C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_magpie_rappel_boat.xmd?/exit_ark_rappel_boat_cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C1E90D8C33E6E5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_race.xmd?/5_cars_1_lane_car_4.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C1E9F31D5D3E7E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/startinglocation_main_entranceflyin.xmd?/carc.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C32EA1CDE9BBB9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike_easteregg.xmd?/wheel_f.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C340D520143DB4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_constants_tower_helicopter.xmd?/exit_ark_tower_heli_flare.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C347F8DBC10ED8",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/bangkok/hm_tuktuk_escape.xmd?/cam2.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
@@ -3081,367 +3081,367 @@
   },
   {
     "hash": "00C39E71FD47D517",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_pipe_3_recoil.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C49A887133E709",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_exit_ark_harbour_boat.xmd?/exit_ark_harbour_boat_cam.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C52E4AA3267426",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_goty_intro_exit.xmd?/enter_camenter.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00C534FAA58FE0A2",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_dinosaur_exit.xmd?/gate_right.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00C557C9EB59F418",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l03_marrakesh/s01_l03_door_from_street_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00C5630D86123FBA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_a04.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C57B4FF0B95043",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_easterexit_umbrella.xmd?/umbrella_exit_umbrella.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C6284E2107E22F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_snap_cam03.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C81B60EB1200E8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/mr_fr_yates_diana_signaturekill.xmd?/hm_yates_finalblow_knife.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C81BF525B82568",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_coupler_2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C8CDCE56136BB3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/s03_hm_lip_wolverine_blendin_sleepground.xmd?/seq_sleepground_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C8CFF3785484E5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_sup_3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C91DB8379AA971",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike_easteregg.xmd?/steeringfork.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C97F9CA80D7E12",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_bolt_06.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00C983F7A523E77A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_07_bomb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00CAA32999AD5868",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/limo_intro.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00CB0B63B943DEAA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_00_moses_lee.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00CBF07AD0D07848",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_falcon/seq_setpiece_sliding_door.xmd?/open_malfunction_reverse.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00CC17E44774961B",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_copperhead_outros/s01_l02_italy_copperheadspcar_exit.xmd?/cam03_alt.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00CC2C088AAE26EF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/door_d.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00CC377AAF12192E",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_snowscooter_exit.xmd?/scooter.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00CC98821FE3257B",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_cablecar_exit.xmd?/cablecar.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00CCA672719518A1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike.xmd?/wheel_b.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00CDCADA27C73320",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/sequences/exit_window_jump.xmd?/window.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00CE782A55B22911",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_wheel.xmd?/cam04_wheel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00CEB1D430CF6ED2",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_abiatti_signature_kill_rail.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00CF30B795434D03",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_helicopter.xmd?/helicopter_intro.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00CFAD74F40B26EC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_vote_cam_scene.xmd?/vote_cam5.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00CFF1DB1003BFA9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_011.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D028A4B9A121BD",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_helicopter_exit.xmd?/helicopter.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D046C2C50F3C12",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike.xmd?/wheel_f.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D07E49781CD216",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cable_car_a_03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D0DEA617357A0C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cabel_car_a_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D15EC42EB52F8C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_02_wbl.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D18F84F4E196F5",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationdolphin.xmd?/dolphin01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D1A088CB322326",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_06_bomb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D1B9D3248BD34E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_dagger_cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D1C4E1FA8E9601",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l01_paris/s01_l01_paris_outro/05_animation/scenes/hm_basement_exit.xmd?/door.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D1F8CA883CA530",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/cable_cars_anim.xmd?/cable_car_b_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D204DB32D49001",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_221.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D26D3D65C47F1B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_10.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D29CB7CD5297F3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/hose.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D2DAF2502D45F7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_07.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D2E895DC65818A",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/marrakesh/dr11021_seq_fortuneteller.xmd?/cam_fotrune_kill1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D33A5996B1D408",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_04new.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D3645A62ADC2E8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_03.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D385B6793682B4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_21_24.xmd?/cara.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D38F1D21B46B5D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_pipe_3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D3BFE2BBC1C079",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_50_70_right_a_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D3F131B8F19B8D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_26_27.xmd?/cara.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D43840A057CFAE",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/freestarterpack/disguise_celebration.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D443E6B7082A9A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_portcullis.xmd?/dropraise.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D454B852A86E10",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_05.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D4AF457410DC75",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_goty_intro.xmd?/helicopter.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D4BBB69C26C006",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_seaplane_cave_exit.xmd?/plane_escape_plane.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D4ECE01D803184",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/mine.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D53A74EC7A91B1",
-    "path": "",
+    "path": "[assembly:/_pro/vehicles/geometry/trains_mumbai/train_freight_mumbai_anim~prop_train_freight_mumbai_a_rig~.xml].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D589772A9801C9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/sequences/exit_locationfiredoor.xmd?/doorl.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D5C2549538C9A2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_thing1.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D5D92460D885A0",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_copperhead_street_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D67472EE6C97EF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_speedboat.xmd?/s02_l02_exit_speedboat_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D6ADE7E6AF6CC0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D6C91B1A42D83B",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera10.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D70E75A5F22BF4",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/icareveal.xmd?/photoica.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00D7E9295CEA548D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/acts/mr_stand_haggard_place_sample_110cm.xmd?/dooropen.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D8038311CC41A6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/racecar_02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D833C70AF23161",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/limo_intro_wheel_04.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00D85ADB1CAE2680",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_hm_fr_signature_kill_funeral.xmd?/kill_wake_dagger_dagger.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D8C70F76BF1008",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_race.xmd?/5_cars_1_lane_car_1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00D9DF5CD58CD3F1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/fr_stand_scanning_paper.xmd?/paper.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00DA3605995AF19A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/starts_exits/exit_fishingboat.xmd?/exit_boat.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00DAD16A98B06617",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l00_intro/helicopter_takeoff.xmd?/newhelicopterpivot1.xmdtake].pc_rtr",
     "gameFlags": 30
   },
   {
     "hash": "00DAFDAF1BA21442",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/wheelc.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
@@ -3451,517 +3451,517 @@
   },
   {
     "hash": "00DB205433500983",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l01_gecko/sequences/exit_parachute.xmd?/cam_03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00DBA951A5F66B22",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_dinosaur_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00DBDF68567456BF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_a03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00DC71F5CE9FFBFA",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_caruso_signature_kill_smothered_with_pillow.xmd?/cam_0-92.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00DCB607D7E15E95",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_race.xmd?/5_cars_1_lane_car_3.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00DCEFF14B45D60B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/hokkaido/mr_lie_agent_smith.xmd?/mr_agent_smith_door_open.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00DDAFC5B0CDB1AF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_111.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00DE35C0FB894D49",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/sequences/seq_exit_snorkeling.xmd?/mask.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00DF252AA44038A7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/necklacetakedowncam4.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00DF309C34A2434B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_1v1/l01_flamingo/camera_turns_l_r.xmd?/rotate_01_l.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00DFB3EB3C84E1B2",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_gate_exit.xmd?/irongate_colorado_maingate_exit.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00E0E635C1B0578E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/fast_bolt_15.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E0FF1ABE053500",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_thing3.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E111CC234D1F41",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/s03_l03_exit_bike_easteregg.xmd?/pedal_l.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E1E8B3108C0FB1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_scooter_cam1.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E28958413C3F7A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/easteregg/kraken_tentacles~prop_kraken_tentacles~.xml].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00E31F063DCA9E53",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_01_wfl.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E406DFE17B8E45",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_sup_1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E410C11C160FC3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_sugar.xmd?/cam04_fuel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E5010268F4AB06",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b2_b1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E52F33A76B94F1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/mr_fr_yates_diana_signaturekill.xmd?/hm_yates_finalblow_cam01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E54491E70E20B8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/sequences/seq_mission_fail_helicopter.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E5964665E76648",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/idle_propellor.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E64E2DA92F27DB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b1_t1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E6F87E5A406C32",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/secretdoor_shelves.xmd?/b2_t1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E8550785DDA2B8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_13.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E8D02AFE5E6C03",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_21_24.xmd?/carb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E8D0D2B9E27B39",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_091.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00E94D20059B32AC",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/levels/colorado/ramcart.xmd?/ramcart_resetram.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00E9EFB135A1ED83",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_16.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EA036CD64F9210",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/lead-in_shot_21_24.xmd?/lead-in_shot_24.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EAC00A03D59A40",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/sequences/sequence_mr_binoculars.xmd?/bino_loop_02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EB24209EA88B60",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/stick_left.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00EB372FDB2E4B26",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_motorcycle_cam1.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00EBAC65CD97DA43",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/m04_exit_rooftopdoor.xmd?/door1.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00EBFEEDAAE73251",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l02_bulldog/sequences/exit_boat.xmd?/exit_llama_boat_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00EC0134F402D8C2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/photoshoot/seq_photoshoot.xmd?/cam_shot_08.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EC1CA5E81BEA0F",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_quad_bike_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00ECEF805CE4C640",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_50_70_right_b_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00ECFE5901B05FDA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationspeedboat.xmd?/bigboat_flyin.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00ED142F92BF36A8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l03_mongoose/sequences/starts_exits/exit_walkout_gate.xmd?/exit_walkout_gate_rdoor.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EDD0ABDF7115CD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_031.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EE82477131B87C",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_novikov_signature_kill_railing.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00EE9C0075B332B5",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera08.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00EF194ED2B22C55",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/race/miami_racecar_crashes.xmd?/crash_30_50_left_a_bake.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EF905077C138F3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_201.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EF95079120405E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/forklift.xmd?/forklift_long.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EFA6DC64468BFD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/camera31.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EFBB8F1D06B197",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_02_wbr.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00EFBCAAC489DE76",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_frogleap.xmd?/froganim_a.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00EFEE660007D4CA",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_exit_helicopter.xmd?/exit_camera.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F016731788139C",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_mamba_boat_exit.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00F02A8A3C571519",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/mr_fr_yates_diana_signaturekill.xmd?/hm_yates_finalblow_cam04.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F0326EB90C1025",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera07.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00F032AAD625C9F3",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/icareveal.xmd?/cam12.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00F1161D87F233FB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/s03_l04_exit_scooter.xmd?/scooter1.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F1A80807B6FF2B",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l04_bangkok/bangkok_boat_exit.xmd?/speedboat.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00F2BBD3C7E33E24",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_dinosaur_exit.xmd?/dino.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00F301CDDF70BED7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l03_fox/sequences/exit_scooter.xmd?/exit_fox_motorcycle_mc.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F34BE2278A81F7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_cerment_mixer.xmd?/mixer_pipe_2.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F41FD580C34FE6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationmanhole.xmd?/cam031.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F43583927B830C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_12.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F4E290615312D6",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_02_wfl.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F51C3DF18EC22A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_15.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F55BD5FE62CE5F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/mr_fr_yates_diana_signaturekill.xmd?/hm_yates_finalblow_cam03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F58E142FCC7473",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/cam_05_bomb.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F5A84C61DFEB05",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_seagull/mr_stand_close_containerdoor.xmd?/left_door.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F5B1EF55D2401E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_sugar.xmd?/cam08_fuel.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F6F77751106164",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/skull_03_ani.xmd?/skull_03_ani.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F7387AC1E6C332",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_unique_ancient_pillar.xmd?/wecantmakethepillarfall.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F783749CF3C115",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_productionmachine.xmd?/cam1.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F7852F2B83B341",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/miami_racecar_pitstop.xmd?/pitstop_sierra_car.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F78CEE88FE1F1B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/movieset/copperhead_monster_a_tentacles_rig~prop_tentacles_ground~.xml].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00F7DAB3DB01C22B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/italy/seq_mr_caruso_seaplane_escape.xmd?/crash_plane.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00F83E69AEDAB25A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_station_start_anim.xmd?/train_c_03_start.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F8B4DEECA49F63",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/polarbear/dr9117_mr_kgb_jasper_toast_again.xmd?/glass_kgb.xmdtake].pc_rtr",
     "gameFlags": 30
   },
   {
     "hash": "00F8B7BB1E37EAAF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_exit_car.xmd?/exit_car_01_wbl.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F92B3112E4CE18",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_041.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00F998EDAED18C6B",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l02_italy/s01_l02_italy_intro/s01_l02_italy_intro_hmonbench.xmd?/camera1.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00FA064D8ED82312",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/marrakesh/python/dr11036_meeting_talking_business.xmd?/dr11036_meeting_talking_business_tablet_move_anim.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00FA20975C8DC2A1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/s02_l01_pitstop_bomb.xmd?/wheela.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FA252C4E9EEF9D",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/path_limo_outro_br_wheel.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00FA6A4348557C82",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l06_colorado/colorado_secretroom_sequences/firstrevealprovidence.xmd?/cam04.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00FA74CB6CBDB056",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/geometry/male_reg~~.xml].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00FBA78FF5BAAF04",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l04_rat/sequences/train_train_building_anim.xmd?/train_b01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00FBA8D83257CC3C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_limo.xmd?/limo_intro_wheel_01.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00FBDDDB317C1169",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l07_raccoon/sequences/exit_locationcarpark.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FBEC0FE18BB329",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/npc_suitcase~prop_suitcase_medium_anim~.xml].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FBF186D5A6E1D9",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_signature_kill_submarine.xmd?/death_bolt_10.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FC5A50607D6DEC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/starts_exits/exit_locationmanhole.xmd?/cam011.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FCEDB7DEAF91A2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l02_hippo/sequences/s02_l02_unique_circuitboardpackage_fall.xmd?/boxfallanim.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FD02C905F13F2F",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/023_special kills/hm_cross_signature_kill_railing.xmd?/cam01.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00FD3BB8C0482EFE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l01_flamingo/sequences/pitstop/miami_racecar_pitstop.xmd?/pitstop_moses_car.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FDC06563750527",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/skull_05_ani.xmd?/skull_05_ani.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FE17089DADDCF8",
-    "path": "",
+    "path": "[assembly:/animations/cinematics/s01_l07_hokkaido/hokkaido_snowscooter_exit.xmd?/cam02.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00FE4F5BD244C64E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/skull_04_ani.xmd?/skull_04_ani.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FE58F016ED020A",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/levels/marrakesh/dr11021_seq_fortuneteller.xmd?/ball_fotrune_kill.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
     "hash": "00FE8ED0AAA47A90",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l00_sheep/sequences/seq_target_arrival.xmd?/cam_shot_02.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FECE5842E76788",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_l05_signature_kill_necklace.xmd?/link_151.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FF57363AF49D68",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_hawk/seq_boat.xmd?/seq_boat_outro.xmdtake].pc_rtr",
     "gameFlags": 44
   },
   {
     "hash": "00FF62E71DF0237E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/animals/rat/geometry/rat_a~~.xml].pc_rtr",
     "gameFlags": 46
   },
   {
     "hash": "00FF789CF898C636",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_sc_skunk/sequences/starts_exits/exit_manhole.xmd?/cam021.xmdtake].pc_rtr",
     "gameFlags": 12
   },
   {
     "hash": "00FFDBFCA4261BB2",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_interact_drummer_audition.xmd?/camera05.xmdtake].pc_rtr",
     "gameFlags": 14
   },
   {
@@ -4026,247 +4026,247 @@
   },
   {
     "hash": "00BD62334EF03003",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_helicopter.xmd?/s03_dugong_seq_exit_helicopter_camera_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00DD6F9CB84843BC",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_default_startlocation.xmd?/seq_exit_default_startlocation_boat.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00B8AE39BC6D55F3",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_inland_cove.xmd?/s03_dugong_seq_exit_inland_cove_camera_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00305F2EEE15C08B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_helicopter.xmd?/s03_dugong_seq_exit_helicopter_camera_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00A627590F0BF737",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_boat_warehouse.xmd?/s03_dugong_seq_exit_boat_warehouse_camera_00.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007469FFAEBDACA0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_inland_cove.xmd?/s03_dugong_seq_exit_inland_cove_camera_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0079B62015D9DEAF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_helicopter.xmd?/s03_dugong_seq_exit_helicopter_camera_01_2.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00CDB3E7B0AA5956",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_boat_warehouse.xmd?/s03_dugong_seq_exit_boat_warehouse_boat_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007EE288EFAA5DFE",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_boat_warehouse.xmd?/s03_dugong_seq_exit_boat_warehouse_camera_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00DC50CAFCE99029",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_helicopter.xmd?/s03_dugong_seq_exit_helicopter_heli.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007389CF23DADA20",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_submarine.xmd?/seq_exit_submarine_sub.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F9889BB994E440",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_pier_exits.xmd?/exit_tactical_no_cage.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00DC4DC2ED463A25",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_submarine.xmd?/seq_exit_submarine_camera.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "009353C07162DEA7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_inland_cove.xmd?/s03_dugong_seq_exit_inland_cove_boat.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00539E0C46F5D9B8",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l07_dugong/sequences/s03_dugong_seq_exit_default_startlocation.xmd?/seq_exit_default_startlocation_camera.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "004F6EF789121B1C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_sapo_exit_car.xmd?/sapo_car_exit_car.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00AF479876221C96",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_sapo_exit_car.xmd?/sapo_car_exit_f01r.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E87009B08CA5DD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_sapo_exit_car.xmd?/sapo_car_exit_f02r.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0040C71A8ED59960",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_sapo_exit_car.xmd?/sapo_car_exit_f01l.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D4C4B9883BC163",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_sapo_exit_car.xmd?/sapo_car_exit_f02l.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F7C1A72145E722",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l05_llama/sequences/s03_l05_sapo_exit_car.xmd?/sapo_car_exit_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E8856BD5601280",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_heavyheli_luxury_cam04.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "003C0415DB522853",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_lightheli_camera_03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "003781C2E4D58752",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_hearse.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00E229EFB8DA0E0F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_old_french_compact.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "002C39BCF47E53B1",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_pier_exits.xmd?/exit_speedboat_a.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0059283C41458CF4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_pier_exits.xmd?/exit_speedboat_c_big.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C75130A90393FB",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_pier_exits.xmd?/exit_seaplane.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "001A60D277608DC0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_camera_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00EE2210A59F7941",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_luxury_camera_03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00AD3C823C6547BD",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_lightheli_hokkaido.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "008625EE5669DC2F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_american_cabriolet.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0089CC357135989F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_motorcycle_bulldog_a.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00DEFEF1F351CE2F",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_motorcycle_fox_b.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00EDF680D6B057F7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_lightheli_camera_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00D5D8E69F338FF7",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_camera_03.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00A82CFB2F304634",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_lightheli_cam04.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "005803D05F5AD69C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_pier_exits.xmd?/exit_miamivice_speedboat.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "007A283753FCB3AF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_lightheli_camera_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00C210A334AD25A4",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_quad.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00F868F724DE8D25",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_luxury.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00822A3B115AB606",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_luxury_camera_01.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00DE7E3A01B14938",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_miami_racecar.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00A540533222163E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_luxury_camera_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "004B76C19F7AB51E",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_pier_exits.xmd?/exit_jetski.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00EF0FA9B028E135",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_camera_02.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "00157273044A1FFF",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_garage_exits.xmd?/exit_american_van_a.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "0010C17C55FCE6F0",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s03_l00_evergreen/sequences/evergreen_helicopter_exits.xmd?/s03_seq_evergreen_exit_helicopter_heavyheli_military.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {
     "hash": "006D6A7779F48E9A",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l05_magpie/sequences/seq_s02_exit_won_fight.xmd?/mma_won_end_cam.xmdtake].pc_rtr",
     "gameFlags": 8
   },
   {

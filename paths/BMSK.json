@@ -176,27 +176,27 @@
   },
   {
     "hash": "00035AE723BC6E8A",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/ub_spine2.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 12
   },
   {
     "hash": "001E4486960B5563",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_sneakidle_leftarm_suitcase.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 12
   },
   {
     "hash": "00252C21F77FFFB6",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/nothing.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 44
   },
   {
     "hash": "002C2F35B8C84AF6",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_rightarm_fireextinguisher_coverrlow.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 8
   },
   {
     "hash": "002F4758B134A87B",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_crouchcover_rightarm_fireextinguisher.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 62
   },
   {
@@ -206,17 +206,17 @@
   },
   {
     "hash": "00350101454B3699",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_aim_pistol_r_arm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 62
   },
   {
     "hash": "0046765DCAFE4E80",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_crouchcover_rightarm_rifle.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 8
   },
   {
     "hash": "00592C093732F844",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_firee_rightarm_1h_knife.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 8
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "hash": "005F90432DA244E1",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_run_rightarm_1h_knife.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 46
   },
   {
@@ -236,12 +236,12 @@
   },
   {
     "hash": "0067C87B9A7A03F5",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/right_parm.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 46
   },
   {
     "hash": "0069418755BB33B1",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_sneak_firee_rightarm_1h.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 8
   },
   {
@@ -251,32 +251,32 @@
   },
   {
     "hash": "007E59A20DAF5254",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/ground.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 8
   },
   {
     "hash": "008C48B14E7D3273",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/inverse_right_arm_rifle.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 62
   },
   {
     "hash": "00A885930D50B13A",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/ub_opendoor.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 44
   },
   {
     "hash": "00B55D1AB2CB21F4",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/ub_pickup.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 44
   },
   {
     "hash": "00C189BBA8B49D89",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/ub_pickup_lefthand.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 12
   },
   {
     "hash": "00D686B675735064",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/inverse_both_arms1.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 62
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "hash": "00FCEE7F24D1756E",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/hm_window_rightarm_fireextinguisher.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 12
   },
   {

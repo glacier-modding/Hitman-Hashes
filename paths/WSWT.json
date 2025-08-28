@@ -96,45 +96,38 @@
   },
   {
     "hash": "00F71E2AC0A388A7",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "crowd_ambientstate"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd_performancefriendly/crowd_ambientstate.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00982B2B913BFD2A",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "crowd_gender_switch"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/_test_switches/test_oliverh/crowd_gender_switch.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00A45A3B5442E0DC",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "crowd_language"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd_performancefriendly/crowd_language.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "0057B9014E88658D",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "crowd_rectake"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd_performancefriendly/crowd_rectake.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "009896394126434C",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "crowd_state"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd_performancefriendly/crowd_state.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "003592B48E4DB067",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "crowd_state_v2"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd_performancefriendly/crowd_state_v2.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "005767FBB65FA0C1",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "crowdgroup_size"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/crowd_performancefriendly/crowdgroup_size.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 12
   },
   {
     "hash": "00FAEB3BE2A97DC5",
@@ -178,15 +171,13 @@
   },
   {
     "hash": "00517741B5F71F33",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "instrument_key"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/props/instrument_key.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00F1EEB41DE34699",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "instrument_play_variation"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/animation/props/instrument_play_variation.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00991E87C7162681",
@@ -195,27 +186,23 @@
   },
   {
     "hash": "00ACCBCD6F34CD3E",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "musicrecording"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_bangkok/tiger/musicrecording.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00E7BE148A4D1ED4",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "musictrack"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_sepeinza/switches_mission_mamba/musictrack.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "003EAF95CAC1DFD7",
-    "path": "",
-    "gameFlags": 44,
-    "hint": "snipermap_escapecut"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/ingamemusic/snipermap_music_switches/snipermap_escapecut.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 44
   },
   {
     "hash": "006A50A1310ED515",
-    "path": "",
-    "gameFlags": 14,
-    "hint": "switch_band_music"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/switches_sepeinza/switches_mission_mamba/switch_band_music.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 14
   },
   {
     "hash": "00DF4C967A1C8B18",
@@ -224,9 +211,8 @@
   },
   {
     "hash": "00BD83CC92ED99ED",
-    "path": "",
-    "gameFlags": 46,
-    "hint": "test_buttonhold_styles"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/_test_switches/test_henriette/test_buttonhold_styles.wwiseswitchgroup].pc_entitytype",
+    "gameFlags": 46
   },
   {
     "hash": "000D43F9E6CD0D69",
@@ -320,33 +306,28 @@
   },
   {
     "hash": "00E02514E48985F7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_dianaidhair"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_dianaidhair.sweetswitchgroup].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "003A8033B5F81486",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_dianawelcome"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_dianawelcome.sweetswitchgroup].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "0018DC7A1B4FDDC7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_dianaidacc"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_dianaidacc.sweetswitchgroup].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "0038F6EB0055900D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_meeting"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_meeting.sweetswitchgroup].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "0008A1625B50BA0D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ev_tells"
+    "path": "[assembly:/localization/hitman6.sweet?/ev_tells.sweetswitchgroup].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00BA22628E74843C",
@@ -355,7 +336,7 @@
   },
   {
     "hash": "00E5C2FEBF5105D4",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/paris/sw_crowd_frenchmartini_pokerroom.wwiseswitchgroup].pc_entitytype",
     "gameFlags": 8
   }
 ]
