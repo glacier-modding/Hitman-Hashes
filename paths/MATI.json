@@ -4191,9 +4191,8 @@
   },
   {
     "hash": "0021146B6ED1183C",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_01_dress_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_03/materials/male_reg_civilian_01_dress_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "0021AC0F850F4F1D",
@@ -4212,9 +4211,8 @@
   },
   {
     "hash": "00FB903C723A92E6",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_01_pant_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_02/materials/male_reg_civilian_01_pant_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "00860C090D19C954",
@@ -4223,9 +4221,8 @@
   },
   {
     "hash": "00529037BBC6141B",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_01_sandals_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_02/materials/male_reg_civilian_01_sandals_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "006B4C4318D646AF",
@@ -4239,21 +4236,18 @@
   },
   {
     "hash": "00E8AE209B2DE16C",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_02_dress_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_02/materials/male_reg_civilian_02_dress_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "002BF45D37CBA1F1",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_02_shirt_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_02/materials/male_reg_civilian_02_shirt_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "00692B63A0DEA361",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_civilian_03_hat_01.mi].pc_mi"
+    "path": "[assembly:/_pro/characters/assets/civilians/marrakesh/male/malecivilian_03/materials/male_reg_civilian_03_hat_01.mi].pc_mi",
+    "gameFlags": 2
   },
   {
     "hash": "005D43CE2A87FC3E",
