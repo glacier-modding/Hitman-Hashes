@@ -1,14 +1,14 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.79%25-yellow.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.85%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.51%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-98.87%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.93%25-green.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.70%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.25%25-green.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.52%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-98.99%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.94%25-green.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.71%25-red.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.32%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-83.96%25-yellow.svg)
 <!-- BADGES_END -->
@@ -69,9 +69,9 @@
 |RTLV     |146            |141          |96.58%            |3    |2.05%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |508            |504          |99.21%            |0    |0.00%          |
-|TBLU     |57523          |56691        |98.55%            |66   |0.11%          |
+|TBLU     |57523          |56694        |98.56%            |63   |0.11%          |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
-|TEMP     |87960          |86597        |98.45%            |120  |0.14%          |
+|TEMP     |87960          |86600        |98.45%            |117  |0.13%          |
 |TEXD     |49811          |48063        |96.49%            |21   |0.04%          |
 |TEXT     |45127          |43802        |97.06%            |21   |0.05%          |
 |UICB     |477            |475          |99.58%            |0    |0.00%          |
@@ -84,7 +84,7 @@
 |WSGT     |145            |145          |100.00%           |0    |0.00%          |
 |WSWB     |63             |63           |100.00%           |0    |0.00%          |
 |WSWT     |68             |68           |100.00%           |0    |0.00%          |
-|WWEM     |385665         |277507       |71.96%            |79173|20.53%         |
+|WWEM     |385665         |278457       |72.20%            |78235|20.29%         |
 |WWES     |188410         |188410       |100.00%           |0    |0.00%          |
 |WWEV     |27463          |26130        |95.15%            |121  |0.44%          |
 |WWFX     |18803          |17235        |91.66%            |0    |0.00%          |
