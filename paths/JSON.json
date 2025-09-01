@@ -795,9 +795,8 @@
   },
   {
     "hash": "00F05FEF7C746A88",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) bull (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__mission__42bac555-bbb9-429d-a8ce-f1ffdf94211c.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00EDD07D6E516646",
@@ -996,9 +995,8 @@
   },
   {
     "hash": "00B70CA4D6A824BE",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) coastaltown mission01 (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/worldoftomorrow_00000600.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0025DD5C04FA5D20",
@@ -1013,9 +1011,8 @@
   },
   {
     "hash": "009D99130CA807F0",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) copperhead (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/copperhead_10000006.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0047ADE4EFBE0867",
@@ -1236,9 +1233,8 @@
   },
   {
     "hash": "0022596E590046BC",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) flamingo (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__mission__flamingo__c1d015b4-be08-4e44-808e-ada0f387656f.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "0042F970E6C25DFE",
@@ -1514,9 +1510,8 @@
   },
   {
     "hash": "0041BE0AD5B284E4",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) hippo (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia__mission__hippo__422519be-ed2e-44df-9dac-18f739d44fd9.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "001004DF074AD315",
@@ -1875,9 +1870,8 @@
   },
   {
     "hash": "00C95D80FA1126EA",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) magpie (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/theark_magpie_ui_contract_0d225edf-40cd-4f20-a30f-b62a373801d3.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "00517B1957A342C4",
@@ -1897,9 +1891,8 @@
   },
   {
     "hash": "00503506993E9FD1",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) mamba (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/mamba_10000005.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "005333DCA5D1AABB",
@@ -2217,9 +2210,8 @@
   },
   {
     "hash": "00E5082D27F3F17C",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) paris noel (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/theshowstopper_noel_00000200.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00E30A4818B41A8D",
@@ -2233,9 +2225,8 @@
   },
   {
     "hash": "00DA5DCCD6F13016",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) peacock (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/theshowstopper_00000200.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0045BC2D7CB77F68",
@@ -2322,9 +2313,8 @@
   },
   {
     "hash": "0020ADF804354A2C",
-    "path": "",
-    "gameFlags": 22,
-    "hint": "(mission_contract) polar bear arrival (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__mission__polarbear_arrival_firsttime_1436cbe4-164b-450f-ad2c-77dec88f53dd.contract.json].pc_json",
+    "gameFlags": 22
   },
   {
     "hash": "00745B1A299686FE",
@@ -2333,9 +2323,8 @@
   },
   {
     "hash": "005451F1108A0615",
-    "path": "",
-    "gameFlags": 22,
-    "hint": "(mission_contract) polar bear graduation (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/polarbear_module005_ada5f2b1.contract.json].pc_json",
+    "gameFlags": 22
   },
   {
     "hash": "00DEF6CC9864B276",
@@ -2350,9 +2339,8 @@
   },
   {
     "hash": "00D8D66BFB6CB71D",
-    "path": "",
-    "gameFlags": 22,
-    "hint": "(mission_contract) polar bear module 002 (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/polarbear_module002_1d241b00.contract.json].pc_json",
+    "gameFlags": 22
   },
   {
     "hash": "00769459086D820A",
@@ -2361,9 +2349,8 @@
   },
   {
     "hash": "001D3E7CD232DF85",
-    "path": "",
-    "gameFlags": 22,
-    "hint": "(mission_contract) polar bear module 002_b (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__mission_polarbear_module_b573932d-7a34-44f1-bcf4-ea8f79f75710.contract.json].pc_json",
+    "gameFlags": 22
   },
   {
     "hash": "001843F7C2B99591",
@@ -2372,9 +2359,8 @@
   },
   {
     "hash": "00956D7F7DE827FC",
-    "path": "",
-    "gameFlags": 22,
-    "hint": "(mission_contract) polar bear module 002_c (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__mission_polarbear_module_e74c54ce-bbb1-4f31-89e0-46df62eb2066.contract.json].pc_json",
+    "gameFlags": 22
   },
   {
     "hash": "00D6239F51AD804E",
@@ -2423,9 +2409,8 @@
   },
   {
     "hash": "007546C9DF0A9445",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) python (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/python_9e781e81.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "007979558A4DFD5E",
@@ -2687,9 +2672,8 @@
   },
   {
     "hash": "0096B78171A39559",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) skunk (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/washington__mission__skunk_82f55837-e26c-41bf-bc6e-fa97b7981fbc.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "004BDB40699F7D72",
@@ -2709,9 +2693,8 @@
   },
   {
     "hash": "0088562A2394F679",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) snow crane (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__mission__0e81a82e-b409-41e9-9e3b-5f82e57f7a12.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "003354A644B72E43",
@@ -2762,9 +2745,8 @@
   },
   {
     "hash": "00FA6C35A7FBA93F",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) spider (h2)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/toobigforjail_00000400.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00AFD536960F606B",
@@ -2880,9 +2862,8 @@
   },
   {
     "hash": "007DE35F61CA33F6",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) tiger (h2016)"
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok_tiger_db341d9f-58a4-411d-be57-0bc4ed85646b.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "008E98659BE939A9",
@@ -14285,7 +14266,7 @@
   },
   {
     "hash": "008F06007B436B62",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/newzealand_sheep_ui_contract_c65019e5-43a8-4a33-8a2a-84c750a5eeb3.contract.json].pc_json",
     "gameFlags": 4
   },
   {
@@ -15594,7 +15575,7 @@
   },
   {
     "hash": "00EAC5CF0544B59C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/mumbai_mission__mongoose__0fad48d7-3d0f-4c66-8605-6cbe9c3a46d7.contract.json].pc_json",
     "gameFlags": 4
   },
   {
