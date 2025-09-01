@@ -36751,9 +36751,8 @@
   },
   {
     "hash": "00DBD3A93CDEF990",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "main_menu_logo_h3"
+    "path": "[assembly:/ui/images/menu/logo_hitman3_red.png].pc_gfx",
+    "gameFlags": 8
   },
   {
     "hash": "00001F32F0F21492",
