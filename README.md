@@ -4,9 +4,9 @@
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.86%25-yellow.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.52%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.00%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.94%25-green.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.53%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.01%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.95%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.71%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.32%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -30,7 +30,7 @@
 |ATMD     |18026          |17051        |94.59%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |59             |56           |94.92%            |0    |0.00%          |
-|BORG     |7264           |6981         |96.10%            |0    |0.00%          |
+|BORG     |7264           |6996         |96.31%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2696           |2696         |100.00%           |0    |0.00%          |
 |CLNG     |4              |2            |50.00%            |0    |0.00%          |
@@ -64,7 +64,7 @@
 |NAVP     |82             |82           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |145            |145          |100.00%           |0    |0.00%          |
-|PRIM     |44433          |42899        |96.55%            |3    |0.01%          |
+|PRIM     |44433          |42914        |96.58%            |3    |0.01%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |146            |141          |96.58%            |3    |2.05%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
@@ -72,8 +72,8 @@
 |TBLU     |57523          |56694        |98.56%            |63   |0.11%          |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
 |TEMP     |87960          |86601        |98.45%            |116  |0.13%          |
-|TEXD     |49811          |48063        |96.49%            |21   |0.04%          |
-|TEXT     |45127          |43820        |97.10%            |21   |0.05%          |
+|TEXD     |49811          |48077        |96.52%            |7    |0.01%          |
+|TEXT     |45127          |43834        |97.13%            |7    |0.02%          |
 |UICB     |477            |475          |99.58%            |0    |0.00%          |
 |UICT     |477            |475          |99.58%            |0    |0.00%          |
 |VIDB     |100            |100          |100.00%           |0    |0.00%          |
