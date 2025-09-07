@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.11%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.13%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.65%25-yellow.svg)
@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.71%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.43%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-85.63%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-85.97%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -72,7 +72,7 @@
 |TBLU     |57523          |56752        |98.66%            |63   |0.11%          |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
 |TEMP     |87960          |86735        |98.61%            |116  |0.13%          |
-|TEXD     |49811          |48077        |96.52%            |7    |0.01%          |
+|TEXD     |49811          |48314        |96.99%            |7    |0.01%          |
 |TEXT     |45127          |44103        |97.73%            |7    |0.02%          |
 |UICB     |477            |475          |99.58%            |0    |0.00%          |
 |UICT     |477            |475          |99.58%            |0    |0.00%          |
