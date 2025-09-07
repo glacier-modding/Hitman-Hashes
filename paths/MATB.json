@@ -27616,12 +27616,12 @@
   },
   {
     "hash": "002666AA9BAE422F",
-    "path": "",
+    "path": "[assembly:/materials/vehicles/sportscara_01_ml.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "006F624A8A12B68F",
-    "path": "",
+    "path": "[assembly:/materials/vehicles/sportscara_01_glass_ml.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -27641,12 +27641,12 @@
   },
   {
     "hash": "009D1F3408F74B6B",
-    "path": "",
+    "path": "[assembly:/materials/vehicles/hearsea_01_body_xp.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00EDAAA6CD31A782",
-    "path": "",
+    "path": "[assembly:/materials/basicmaterials/effects/decalmaps/l02c_hippie_slogans_01a.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -27661,7 +27661,7 @@
   },
   {
     "hash": "0071738015BE77DF",
-    "path": "",
+    "path": "[assembly:/materials/props/outside/roof_aircondition_b_ml.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -27671,7 +27671,7 @@
   },
   {
     "hash": "003B256AC3A26483",
-    "path": "",
+    "path": "[assembly:/materials/vehicles/sportscara_01_metal_ml.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -27701,7 +27701,7 @@
   },
   {
     "hash": "007CC200463C30C0",
-    "path": "",
+    "path": "[assembly:/materials/furniture/cupboard_unit_a_ml.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -27726,7 +27726,7 @@
   },
   {
     "hash": "00659D8A40A5A788",
-    "path": "",
+    "path": "[assembly:/materials/weapons/cc_wrench.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -27736,7 +27736,7 @@
   },
   {
     "hash": "001D00FB7522B837",
-    "path": "",
+    "path": "[assembly:/materials/props/inside/hope_chair_01_ml.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {

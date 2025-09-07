@@ -11331,7 +11331,7 @@
   },
   {
     "hash": "00E8C0FD3EBC85C1",
-    "path": "",
+    "path": "[assembly:/animationnetworks/hitman01/disguiseacts/safezones/disguisesafezoneeatsushi.aln].pc_rtn",
     "gameFlags": 2
   },
   {
@@ -11356,7 +11356,7 @@
   },
   {
     "hash": "00168C4E6E78F202",
-    "path": "",
+    "path": "[assembly:/animationnetworks/hitman01/disguiseacts/blendin/disguiseblendinbrushoffsuit.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11366,7 +11366,7 @@
   },
   {
     "hash": "007A55B1F5F9C239",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_leanside_1m_right.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11376,7 +11376,7 @@
   },
   {
     "hash": "003BF365D64058B7",
-    "path": "",
+    "path": "[assembly:/animationnetworks/hitman01/contextactions/caralarm_thumptop.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11386,7 +11386,7 @@
   },
   {
     "hash": "005189D2A30C0E9F",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_rail_lean_03.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11406,7 +11406,7 @@
   },
   {
     "hash": "003A360A795B3744",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_desk_paperwork.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11506,7 +11506,7 @@
   },
   {
     "hash": "00A1DF393D5E9864",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/maleregular/mr_stand_leanside_1m_l.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11536,7 +11536,7 @@
   },
   {
     "hash": "006470FAE8AD44A2",
-    "path": "",
+    "path": "[assembly:/animationnetworks/hitman01/contextactions/caralarm_thumpside.aln].pc_rtn",
     "gameFlags": 128
   },
   {
@@ -11621,7 +11621,7 @@
   },
   {
     "hash": "00EF12231DD7C465",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/fullbody/femaleregular/fr_kneel_idle.aln].pc_rtn",
     "gameFlags": 128
   },
   {

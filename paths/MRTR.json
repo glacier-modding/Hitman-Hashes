@@ -4271,7 +4271,7 @@
   },
   {
     "hash": "00309B1724086021",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_backwards_high.xmd?/hatch_close.xmdtake].pc_rtr",
     "gameFlags": 128
   },
   {
@@ -4281,32 +4281,32 @@
   },
   {
     "hash": "00F02E5BAA48230A",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_forward_high.xmd?/hatch_open.xmdtake].pc_rtr",
     "gameFlags": 128
   },
   {
     "hash": "00FD383754E22B48",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_forwards_low.xmd?/hatch_open.xmdtake].pc_rtr",
     "gameFlags": 128
   },
   {
     "hash": "00448A7682D02469",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_enter_high.xmd?/hatch_open.xmdtake].pc_rtr",
     "gameFlags": 128
   },
   {
     "hash": "001510CD60336946",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_enter_low.xmd?/hatch_open.xmdtake].pc_rtr",
     "gameFlags": 128
   },
   {
     "hash": "00F413EC5934BDF3",
-    "path": "",
+    "path": "[assembly:/animations/vehicle_and_prop_animation/01_explodingcars/hopecara_01_explosion.xmd?/body.xmdtake].pc_rtr",
     "gameFlags": 128
   },
   {
     "hash": "006597E4A11FEEEC",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_backwards_low.xmd?/hatch_open.xmdtake].pc_rtr",
     "gameFlags": 128
   }
 ]

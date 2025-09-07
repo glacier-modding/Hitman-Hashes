@@ -5531,12 +5531,12 @@
   },
   {
     "hash": "00004D3BB706EDB6",
-    "path": "",
+    "path": "[[assembly:/materials/scene/l03/l03_furniture_color_changer.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "00A1E50B5B6FB43B",
-    "path": "",
+    "path": "[[assembly:/materials/basicmaterials/metal/l05b_colorcode_metal.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
@@ -5566,22 +5566,22 @@
   },
   {
     "hash": "00A3FE05B7955C3F",
-    "path": "",
+    "path": "[[assembly:/materials/basicmaterials/basicmaterial_vertex_softalpha.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "004A2D5457214E4E",
-    "path": "",
+    "path": "[[assembly:/materials/characters/charactertattoo_01.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "002FEB4FCBF72FD2",
-    "path": "",
+    "path": "[[assembly:/materials/scene/l10/basic_top_blend_vertexalpha_mapblend.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "004248D516555F2D",
-    "path": "",
+    "path": "[[assembly:/materials/basicmaterials/expensive/basicmaterial_af.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
@@ -5591,7 +5591,7 @@
   },
   {
     "hash": "0069011E5DDEBE1D",
-    "path": "",
+    "path": "[[assembly:/materials/effects_classes/fx_glass_real_norefract_breakable_01.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
@@ -5601,22 +5601,22 @@
   },
   {
     "hash": "0056C442FD262B02",
-    "path": "",
+    "path": "[[assembly:/materials/effects_classes/fx_glass_real_01.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "00176CDD993871BC",
-    "path": "",
+    "path": "[[assembly:/materials/cloth/standardcloth_hair_01.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "00ADF51040706E0A",
-    "path": "",
+    "path": "[[assembly:/materials/basicmaterials/basicmaterial_hardalpha_diffusespecular.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "00AA1D06F5E2D38E",
-    "path": "",
+    "path": "[[assembly:/materials/decals/wall/hippie_flower_decals.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
@@ -5631,12 +5631,12 @@
   },
   {
     "hash": "0070EEB1EB915CEA",
-    "path": "",
+    "path": "[[assembly:/materials/vehicles/carmaterial_paint_colortoggler.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
     "hash": "0027D6836A92399D",
-    "path": "",
+    "path": "[[assembly:/materials/vehicles/carmaterial_decal.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {

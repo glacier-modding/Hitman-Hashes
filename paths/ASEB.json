@@ -29301,7 +29301,7 @@
   },
   {
     "hash": "00FC3B02EA2E9B4E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zcompositeentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {

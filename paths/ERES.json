@@ -1496,7 +1496,7 @@
   },
   {
     "hash": "0056B22C0D19B58C",
-    "path": "",
+    "path": "[assembly:/templates/materialdescriptors/sound_metal_no_decal_01.template?/sound_metal_no_decal_01.entitytemplate].pc_entityresource",
     "gameFlags": 128
   },
   {
@@ -1591,7 +1591,7 @@
   },
   {
     "hash": "00C41A6139973EFA",
-    "path": "",
+    "path": "[assembly:/templates/markup/actor/outfittokens.template?/token_outfit_hitmansuit.entitytemplate].pc_entityresource",
     "gameFlags": 128
   },
   {
@@ -1681,7 +1681,7 @@
   },
   {
     "hash": "00DCE9543B7A2FB0",
-    "path": "",
+    "path": "[assembly:/templates/materialdescriptors/bgnd_wood_awesome.template?/bgnd_wood_awesome.entitytemplate].pc_entityresource",
     "gameFlags": 128
   },
   {
