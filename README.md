@@ -1,13 +1,13 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.15%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.16%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.67%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.44%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.95%25-green.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.81%25-red.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.82%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.43%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-86.30%25-yellow.svg)
@@ -46,7 +46,7 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |358903         |355295       |98.99%            |0    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
-|GFXI     |12375          |11994        |96.92%            |2    |0.02%          |
+|GFXI     |12375          |12034        |97.24%            |2    |0.02%          |
 |GFXV     |328            |267          |81.40%            |55   |16.77%         |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
