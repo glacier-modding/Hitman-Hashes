@@ -29376,7 +29376,7 @@
   },
   {
     "hash": "00768F797734EF70",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zboxvolumeentity.class].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
