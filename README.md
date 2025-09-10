@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.87%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.43%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.46%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.64%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -42,7 +42,7 @@
 |ECPB     |2869           |2868         |99.97%            |0    |0.00%          |
 |ECPT     |2869           |2868         |99.97%            |0    |0.00%          |
 |ENUM     |2              |2            |100.00%           |0    |0.00%          |
-|ERES     |407            |277          |68.06%            |0    |0.00%          |
+|ERES     |407            |406          |99.75%            |0    |0.00%          |
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |358903         |355295       |98.99%            |0    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
