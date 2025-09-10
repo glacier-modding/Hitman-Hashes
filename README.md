@@ -5,9 +5,9 @@
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.72%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.45%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.95%25-green.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.87%25-red.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.46%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.96%25-green.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.88%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.43%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.64%25-yellow.svg)
@@ -86,7 +86,7 @@
 |WSWT     |68             |68           |100.00%           |0    |0.00%          |
 |WWEM     |385665         |281309       |72.94%            |75383|19.55%         |
 |WWES     |188410         |188410       |100.00%           |0    |0.00%          |
-|WWEV     |27463          |26130        |95.15%            |121  |0.44%          |
+|WWEV     |27463          |26143        |95.19%            |108  |0.39%          |
 |WWFX     |18803          |17235        |91.66%            |0    |0.00%          |
 |YSHP     |4              |4            |100.00%           |0    |0.00%          |
 <!-- STATISTICS_TABLE_END -->
