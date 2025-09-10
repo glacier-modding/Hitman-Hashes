@@ -816,9 +816,8 @@
   },
   {
     "hash": "00EB1A932F360EEF",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "freestarterpack_music.fl.usm"
+    "path": "[assembly:/_pro/video/freestarterpack/freestarterpack.lvid].pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0054AB56B5BC9C96",
