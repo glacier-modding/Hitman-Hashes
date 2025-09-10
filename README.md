@@ -1,10 +1,10 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.24%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.25%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.72%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.73%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.46%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.96%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.88%25-red.svg)
@@ -47,7 +47,7 @@
 |FXAS     |358903         |355295       |98.99%            |0    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
 |GFXI     |12375          |12127        |98.00%            |2    |0.02%          |
-|GFXV     |328            |267          |81.40%            |55   |16.77%         |
+|GFXV     |328            |321          |97.87%            |1    |0.30%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
 |JSON     |3226           |2190         |67.89%            |790  |24.49%         |
@@ -86,7 +86,7 @@
 |WSWT     |68             |68           |100.00%           |0    |0.00%          |
 |WWEM     |385665         |281309       |72.94%            |75383|19.55%         |
 |WWES     |188410         |188410       |100.00%           |0    |0.00%          |
-|WWEV     |27463          |26143        |95.19%            |108  |0.39%          |
+|WWEV     |27463          |26144        |95.20%            |107  |0.39%          |
 |WWFX     |18803          |17235        |91.66%            |0    |0.00%          |
 |YSHP     |4              |4            |100.00%           |0    |0.00%          |
 <!-- STATISTICS_TABLE_END -->
