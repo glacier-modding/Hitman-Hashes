@@ -521,9 +521,8 @@
   },
   {
     "hash": "00ACDB18F90BD918",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "a_guilded_cage_jap.fl.wav"
+    "path": "[assembly:/_pro/video/marrakesh/agildedcage/briefing_agildedcage_subs_eng.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00B28A39EA2C5328",
@@ -552,9 +551,8 @@
   },
   {
     "hash": "001C452545E81D33",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "bloody_mary_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/bangkok/bloody_mary/bloody_mary.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00BFD05FB2FB21F1",
@@ -563,9 +561,8 @@
   },
   {
     "hash": "004CECA2468E95A7",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "brass_monkey_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/bangkok/brassmonkey/brassmonkey.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00E7B245F3E07351",
@@ -634,9 +631,8 @@
   },
   {
     "hash": "00FEB14431DF01E0",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "briefing_octopus_sound_jap.fl.usm"
+    "path": "[assembly:/_pro/video/sapienza/world_of_tomorrow/briefing_octopus_subs_eng.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "004E2D15ED2A196C",
@@ -665,9 +661,8 @@
   },
   {
     "hash": "000D3DF5E82DBE78",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "briefing_theshowstopper_sound_jap.fl.usm"
+    "path": "[assembly:/_pro/video/paris/theshowstopper/briefing_theshowstopper_subs_eng.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00DACA58E85D1F2C",
@@ -686,9 +681,8 @@
   },
   {
     "hash": "007C28D7901C2551",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "bushwhacker_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/colorado/bushwhacker/bushwhacker.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "006A71825F555066",
@@ -697,9 +691,8 @@
   },
   {
     "hash": "006E9466EEBBD385",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "caipirinha_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/sapienza/caipirinha/caipirinha.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0051802F32D2260B",
@@ -708,9 +701,8 @@
   },
   {
     "hash": "00DFFC57CA44EF8A",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "club_27_jap.fl.usm"
+    "path": "[assembly:/_pro/video/bangkok/club27/briefing_club27_subs_eng.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0097EE4AB67C2377",
@@ -719,9 +711,8 @@
   },
   {
     "hash": "00667E56CBCF0ABC",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "copperhead_jap.fl.usm"
+    "path": "[assembly:/_pro/video/bonusmissions/copperhead/copperhead.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "007F12799A042F55",
@@ -735,9 +726,8 @@
   },
   {
     "hash": "00FBE80AE7CEB7A4",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "cosmopolitan_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/marrakesh/cosmopolitan/cosmopolitan.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00EF4A3A2C876AA5",
@@ -751,9 +741,8 @@
   },
   {
     "hash": "007E34062125161E",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "dirty_octopus_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/hokkaido/dirtyoctopus/dirtyoctopus.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00692D6EF3EBA856",
@@ -772,9 +761,8 @@
   },
   {
     "hash": "008AEF2FA8A39B96",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "ebola_jap.fl.usm"
+    "path": "[assembly:/_pro/video/whitespider/ebola/ebola.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "007B91CC0386F4CB",
@@ -783,9 +771,8 @@
   },
   {
     "hash": "0043457B11AD2C67",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "epilogue_jap.fl.usm"
+    "path": "[assembly:/_pro/video/whitespider/epilogue/epilogue.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00DB1F59FC5148A1",
@@ -804,9 +791,8 @@
   },
   {
     "hash": "0044530A0748A986",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "flirtini_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/colorado/flirtini/flirtini.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00649CF16B972677",
@@ -815,9 +801,8 @@
   },
   {
     "hash": "002604F532258E75",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "flu_jap.fl.usm"
+    "path": "[assembly:/_pro/video/whitespider/flu/flu.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0039E53652D5CCBA",
@@ -826,9 +811,8 @@
   },
   {
     "hash": "0003974748ADDE1F",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "freedom_fighters_jap.fl.usm"
+    "path": "[assembly:/_pro/video/colorado/freedomfighters/briefing_freedomfighters_subs_eng.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00EB1A932F360EEF",
@@ -873,9 +857,8 @@
   },
   {
     "hash": "0069E29795513E91",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "harvey_wallbanger_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/sapienza/harveywallbanger/harveywallbanger.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "006829018C8D7933",
@@ -889,9 +872,8 @@
   },
   {
     "hash": "00DD9B1853A9046C",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "hot_toddy_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/marrakesh/hottoddy/hottoddy.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00CF07BACF0B9058",
@@ -905,9 +887,8 @@
   },
   {
     "hash": "00B7AADD6091A873",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "intermission1_jap.fl.usm"
+    "path": "[assembly:/_pro/video/tutorial/intermission1.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0043A8EF76790218",
@@ -916,9 +897,8 @@
   },
   {
     "hash": "008443F2C03903BB",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "intermission2_jap.fl.usm"
+    "path": "[assembly:/_pro/video/tutorial/intermission2.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00380B5F8E16D7C1",
@@ -927,9 +907,8 @@
   },
   {
     "hash": "00332AFBDC225C97",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "intermission3_jap.fl.usm"
+    "path": "[assembly:/_pro/video/tutorial/intermission3.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00ADC858998F86B7",
@@ -938,9 +917,8 @@
   },
   {
     "hash": "00C4FEA6C3D7AE3D",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "intro_jap.fl.usm"
+    "path": "[assembly:/_pro/video/tutorial/intro.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00BF0574202C546A",
@@ -954,9 +932,8 @@
   },
   {
     "hash": "0010B36524C90F2C",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "kamikaze_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/kamikaze/kamikaze.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "007081C8559D380A",
@@ -965,9 +942,8 @@
   },
   {
     "hash": "0081648FEEDA2211",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "kir_royal_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/kirroyal/kirroyal.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "007521C96656E194",
@@ -991,9 +967,8 @@
   },
   {
     "hash": "0027C4FA57C2271E",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "lumumba_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/lumumba/lumumba.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00698E22E8709F83",
@@ -1002,9 +977,8 @@
   },
   {
     "hash": "00F00B0D706EFAC7",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "mai_tai_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/marrakesh/mai_tai/mai_tai.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00D9C913706C8CC6",
@@ -1013,9 +987,8 @@
   },
   {
     "hash": "00D4086DEE11E53C",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "mamba_jap.fl.usm"
+    "path": "[assembly:/_pro/video/bonusmissions/mamba/mamba.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0075FBE5F2C42607",
@@ -1029,9 +1002,8 @@
   },
   {
     "hash": "00FD6B8859BC3B59",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "margarita_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/margarita/margarita.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "004ABB458E55ABA3",
@@ -1040,15 +1012,13 @@
   },
   {
     "hash": "0069FDBBA69DA8D0",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "martini_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/bangkok/martini/martini.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00DED5F9B8158513",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "mint_julep_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/sapienza/mintjulep/mintjulep.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00436B054A46AC1A",
@@ -1062,9 +1032,8 @@
   },
   {
     "hash": "00AA3B5303E3234B",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "mojito_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/mojito/mojito.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00ADA52C9B3BC670",
@@ -1078,9 +1047,8 @@
   },
   {
     "hash": "0096CA4B4680C97F",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "moscow_mule_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/hokkaido/moscow_mule/moscow_mule.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0026D8A1A35CEA25",
@@ -1089,9 +1057,8 @@
   },
   {
     "hash": "008CDE1EA44EE30F",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "negroni_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/marrakesh/negroni/negroni.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "000481753B459FBD",
@@ -1105,15 +1072,13 @@
   },
   {
     "hash": "00E2A3516A3B7A6E",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "outro_free_jap.fl.usm"
+    "path": "[assembly:/_pro/video/tutorial/outro_free.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00373FB88EC392C7",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "outro_jap.fl.usm"
+    "path": "[assembly:/_pro/video/tutorial/outro.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00B1F19022F28098",
@@ -1127,9 +1092,8 @@
   },
   {
     "hash": "00422E42E0AD6CE0",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "pisco_sour_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/sapienza/piscosour/piscosour.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0034432C52330A1E",
@@ -1143,9 +1107,8 @@
   },
   {
     "hash": "000855EF2535A662",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "python_jap.fl.usm"
+    "path": "[assembly:/_pro/video/bonusmissions/python/python.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00F05BFB95B5B194",
@@ -1154,9 +1117,8 @@
   },
   {
     "hash": "00D542D9B6EC2006",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "quadruplerumandcoke_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/sapienza/quadruplerumandcoke/quadruplerumandcoke.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "004E26CBF53B4B03",
@@ -1165,9 +1127,8 @@
   },
   {
     "hash": "0037EBE8AFC977EF",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "rabies_jap.fl.usm"
+    "path": "[assembly:/_pro/video/whitespider/rabies/rabies.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00EAA9AD776415D1",
@@ -1196,9 +1157,8 @@
   },
   {
     "hash": "0085B3E5D967F8A4",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sakini_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/sakini/sakini.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00E57D674735357B",
@@ -1217,9 +1177,8 @@
   },
   {
     "hash": "0015F28AE89C5C45",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sazerac_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/sapienza/sazerac/sazerac.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "008BFECF9B0E6ACE",
@@ -1228,9 +1187,8 @@
   },
   {
     "hash": "000A54CC112E44C4",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sc01_cinematic_peacock_jap.fl.usm"
+    "path": "[assembly:/_pro/video/cinematics/sc01_cinematic_peacock.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00155281941EA411",
@@ -1244,9 +1202,8 @@
   },
   {
     "hash": "0045469E7348E3A6",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sc02_cinematic_octopus_jap.fl.usm"
+    "path": "[assembly:/_pro/video/cinematics/sc02_cinematic_octopus.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "005158BD5556BA95",
@@ -1260,9 +1217,8 @@
   },
   {
     "hash": "003E6ED6A25D30E0",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sc03_cinematic_spider_jap.fl.usm"
+    "path": "[assembly:/_pro/video/cinematics/sc03_cinematic_spider.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00D061085874D29F",
@@ -1276,9 +1232,8 @@
   },
   {
     "hash": "00D80BC31F593FEC",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sc04_cinematic_tiger_jap.fl.usm"
+    "path": "[assembly:/_pro/video/cinematics/sc04_cinematic_tiger.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "000C52BBD5413E6E",
@@ -1292,9 +1247,8 @@
   },
   {
     "hash": "0011212D660A1739",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sc05_cinematic_bull_jap.fl.usm"
+    "path": "[assembly:/_pro/video/cinematics/sc05_cinematic_bull.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00C8776AE2A8C7C1",
@@ -1308,9 +1262,8 @@
   },
   {
     "hash": "007660E86091AE53",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sc06_cinematic_snowcrane_jap.fl.usm"
+    "path": "[assembly:/_pro/video/cinematics/sc06_cinematic_snowcrane.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0028504D1B62B724",
@@ -1324,9 +1277,8 @@
   },
   {
     "hash": "00CDAFB71B0B14D6",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "sc07_cinematic_secretroom_jap.fl.usm"
+    "path": "[assembly:/_pro/video/cinematics/sc07_cinematic_secretroom.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00FC03265536CE30",
@@ -1345,9 +1297,8 @@
   },
   {
     "hash": "00C05ACFE3A63D3F",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "screwdriver_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/marrakesh/screwdriver/screwdriver.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "006F9E66D3380077",
@@ -1366,9 +1317,8 @@
   },
   {
     "hash": "00ED42CEACB28C72",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "shandy_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/shandy/shandy.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00FA299DD9F1F8CB",
@@ -1377,9 +1327,8 @@
   },
   {
     "hash": "00983BA0FDEA5056",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "situs_inversus_jap.fl.usm"
+    "path": "[assembly:/_pro/video/hokkaido/situsinversus/briefing_situsinversus_subs_eng.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "0049FF7C86D55948",
@@ -1388,9 +1337,8 @@
   },
   {
     "hash": "00F6E00015DC5980",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "tequila_sunrise_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/tequilasunrise/tequilasunrise.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00D425F2092556EC",
@@ -1404,9 +1352,8 @@
   },
   {
     "hash": "00131F8FBB1FF154",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "white_russian_jap.fl.usm"
+    "path": "[assembly:/_pro/video/elusivetargets/paris/whiterussian/whiterussian.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "000AFA8749C6C1A5",
@@ -1430,9 +1377,8 @@
   },
   {
     "hash": "00515C4A3337698C",
-    "path": "",
-    "gameFlags": 2,
-    "hint": "zika_jap.fl.usm"
+    "path": "[assembly:/_pro/video/whitespider/zika/zika.lvid](jp).pc_gfxv",
+    "gameFlags": 2
   },
   {
     "hash": "00106522215A894C",
