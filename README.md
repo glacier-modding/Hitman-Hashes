@@ -1,14 +1,14 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.25%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.28%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.73%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.80%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.46%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.96%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.90%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.43%25-green.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.44%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.65%25-yellow.svg)
 <!-- BADGES_END -->
@@ -29,7 +29,7 @@
 |ASVA     |285            |281          |98.60%            |0    |0.00%          |
 |ATMD     |18026          |17051        |94.59%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
-|BMSK     |59             |56           |94.92%            |0    |0.00%          |
+|BMSK     |59             |57           |96.61%            |0    |0.00%          |
 |BORG     |7264           |7006         |96.45%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2696           |2696         |100.00%           |0    |0.00%          |
@@ -44,7 +44,7 @@
 |ENUM     |2              |2            |100.00%           |0    |0.00%          |
 |ERES     |407            |406          |99.75%            |0    |0.00%          |
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
-|FXAS     |358903         |355295       |98.99%            |0    |0.00%          |
+|FXAS     |358903         |355770       |99.13%            |0    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
 |GFXI     |12375          |12127        |98.00%            |2    |0.02%          |
 |GFXV     |328            |322          |98.17%            |0    |0.00%          |
