@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.28%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.30%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.80%25-yellow.svg)
@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.90%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.44%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.66%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.09%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -27,7 +27,7 @@
 |ASEB     |5890           |5852         |99.35%            |0    |0.00%          |
 |ASET     |13737          |13511        |98.35%            |0    |0.00%          |
 |ASVA     |285            |281          |98.60%            |0    |0.00%          |
-|ATMD     |18026          |17051        |94.59%            |0    |0.00%          |
+|ATMD     |18026          |17363        |96.32%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |59             |57           |96.61%            |0    |0.00%          |
 |BORG     |7264           |7006         |96.45%            |0    |0.00%          |
