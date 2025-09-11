@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.90%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.43%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.64%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.65%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -26,7 +26,7 @@
 |ALOC     |26962          |26603        |98.67%            |0    |0.00%          |
 |ASEB     |5890           |5852         |99.35%            |0    |0.00%          |
 |ASET     |13737          |13511        |98.35%            |0    |0.00%          |
-|ASVA     |285            |276          |96.84%            |0    |0.00%          |
+|ASVA     |285            |281          |98.60%            |0    |0.00%          |
 |ATMD     |18026          |17051        |94.59%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |59             |56           |94.92%            |0    |0.00%          |
