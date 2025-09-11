@@ -85196,12 +85196,12 @@
   },
   {
     "hash": "004043CAEFD78487",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_blendin_eatsushi.amd?/hm_eat_sush_exit.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
     "hash": "00C01B30CC784FB3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_blendin_eatsushi.amd?/hm_eat_sushi_enter.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
@@ -85236,7 +85236,7 @@
   },
   {
     "hash": "00630418B2BA83DE",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/007_disguise/hm_disguise_blendin_eatsushi.amd?/hm_eat_sush_idle.atmd].pc_atmd",
     "gameFlags": 2
   },
   {
@@ -85341,12 +85341,12 @@
   },
   {
     "hash": "005B228F6A7C7C42",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol_02.amd?/guard01_covershoot_stepl_pistol_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "000FDF17B4416C27",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_ambient_alerted_strangesound_l90.amd?/mr_reaction_ambient_alerted_strangesound_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85356,7 +85356,7 @@
   },
   {
     "hash": "00063C68DA795133",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol_02.amd?/guard01_covershoot_stepr_pistol_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85386,22 +85386,22 @@
   },
   {
     "hash": "005CE6CE72847D85",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_90r.amd?/hm_sneak_turninplace_90r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "003A49621F602D18",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/cop_pistol_combat_walk_slow_f.amd?/cop_pistol_combat_walk_slow_f.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00B318DF6D0C9878",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/swat_cover_classspecific_enter_forward_smg.amd?/swat_cover_classspecific_enter_forward_smg.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "008CEE6889CCE05B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchlow_rifle_aggressive.amd?/huntact_searchlow_rifle_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85416,7 +85416,7 @@
   },
   {
     "hash": "004F58B2ED10285A",
-    "path": "",
+    "path": "[assembly:/animations/npc/001_ambient/mr_ambient_stand_turn_0.amd?/mr_ambient_turn_on_spot_l0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85436,12 +85436,12 @@
   },
   {
     "hash": "006B05B18E98A6E2",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_combataim_combataim_0.amd?/guard01_pistol_reaction_large_combataim_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00B4A8F37C5A605C",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combatstand_l90.amd?/guard01_pistol_reaction_medium_stand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85461,7 +85461,7 @@
   },
   {
     "hash": "0019ECC9EEEE485B",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_combatstand_combataim_r180.amd?/guard01_smg_reaction_medium_combatstand_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85476,7 +85476,7 @@
   },
   {
     "hash": "00CD53C3F3063C71",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchleft_pistol_aggressive.amd?/generic/huntact_searchleft_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85486,7 +85486,7 @@
   },
   {
     "hash": "00805110E5FA18A5",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/002_run/hm_sprint_loop.amd?/hm_sprint_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85506,7 +85506,7 @@
   },
   {
     "hash": "00EB3C8963FB67F4",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_rail_smoke.amd?/loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85516,7 +85516,7 @@
   },
   {
     "hash": "0090BB5CB29A1305",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_table_lean.amd?/mr_stand_table_lean_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85526,7 +85526,7 @@
   },
   {
     "hash": "005C94D2DAE7D199",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol_03.amd?/guard01_covershoot_lowr_step_pistol_03_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85536,7 +85536,7 @@
   },
   {
     "hash": "00B982ED9C49CC28",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_smg_lookaround_02.amd?/guard01_smg_lookaround_02.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85561,22 +85561,22 @@
   },
   {
     "hash": "00A1EE9AA04F9A62",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_smg_02.amd?/guard01_covershoot_lowr_step_smg_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00EC74C178ECDA6C",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_stand_combatstand_0.amd?/guard01_smg_reaction_large_stand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "000FAE8808CC3FD1",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_stand_combatstand_l180.amd?/guard01_smg_reaction_large_stand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "005F1BCBDA8601F7",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_highl_blindfire_smg.amd?/guard01_covershoot_highl_blindfire_smg_start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85596,7 +85596,7 @@
   },
   {
     "hash": "005022AE39E6DEE5",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkcorner_pistol_left_aggressive.amd?/huntact_checkcorner_pistol_left_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85621,7 +85621,7 @@
   },
   {
     "hash": "002BF5978030ABFD",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_combat_hunt_losttarget.amd?/guard01_pistol_reaction_combat_hunt_losttarget.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85656,22 +85656,22 @@
   },
   {
     "hash": "00529292C47E7126",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_smg_02.amd?/guard01_covershoot_lowl_step_smg_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D8AD0094C99D2C",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkhighcover_rifle_left_aggressive.amd?/huntact_checkhighcover_rifle_left_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "002D8DCF43D17EAB",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_wallleanback_standtolean.amd?/mr_stand_wall_lean_back_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00EE6665E57C387A",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combatstand_l180.amd?/cop_pistol_reaction_medium_stand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85686,12 +85686,12 @@
   },
   {
     "hash": "00FF16378C07BB64",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_drink_coffee.amd?/coffee_drink_02.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00B8ABE24D3D14B1",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_stand_turn_r180.amd?/mr_alerted_stand_turn_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85706,7 +85706,7 @@
   },
   {
     "hash": "00BA3D7F5FC60A2F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol_03.amd?/guard01_covershoot_lowr_step_pistol_03_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85726,12 +85726,12 @@
   },
   {
     "hash": "0095DE117A7A0B1D",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_combatstand_combataim_r180.amd?/cop_pistol_reaction_medium_combatstand_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0020A9E194B64805",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_drink_coffee.amd?/coffee_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85761,7 +85761,7 @@
   },
   {
     "hash": "00D2F1F6CF2BF36E",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_smg_02.amd?/guard01_covershoot_stepr_smg_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85771,7 +85771,7 @@
   },
   {
     "hash": "00C2607342A6D727",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_step_140_f.amd?/mr_alerted_step_140_f.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85781,12 +85781,12 @@
   },
   {
     "hash": "0059AE92D7A15004",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_combataim_combataim_l180.amd?/guard01_smg_reaction_large_combataim_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0007FDACAE315B65",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_smg.amd?/guard01_covershoot_stepl_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85816,7 +85816,7 @@
   },
   {
     "hash": "00E68FAE2E2600A8",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_blindfire_pistol.amd?/guard01_covershoot_stepl_blindfire_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85836,7 +85836,7 @@
   },
   {
     "hash": "00046F217290DE6F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_cover_dive_enter_forward_pistol.amd?/guard01_cover_dive_enter_forward_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85856,12 +85856,12 @@
   },
   {
     "hash": "00AEE405408FCEAF",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_blindfire_pistol.amd?/guard01_covershoot_lowr_blindfire_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "002AD928731E8D95",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkcorner_rifle_left_aggressive.amd?/huntact_checkcorner_rifle_left_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85876,7 +85876,7 @@
   },
   {
     "hash": "00C14551DE23D950",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_smg_combat_stand_aim_turnl.amd?/guard01_smg_combat_stand_aim_turnl.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85906,7 +85906,7 @@
   },
   {
     "hash": "00C9ED98F3429E5E",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combataim_0.amd?/guard01_smg_reaction_medium_stand_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85936,7 +85936,7 @@
   },
   {
     "hash": "007790056C0B8DFF",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/018_contextactions/hm_caralarm_thumptop.amd?/hm_caralarm_thumptop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85951,12 +85951,12 @@
   },
   {
     "hash": "0032716388CDF69B",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_combataim_combataim_r90.amd?/cop_pistol_reaction_large_combataim_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0028E8B9536CC22E",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchright_pistol_agg.amd?/huntact_searchright_pistol_agg.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85966,7 +85966,7 @@
   },
   {
     "hash": "008D3EB35EF981EA",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_walktostand_0_l.amd?/mr_alerted_walktostand_0_l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85976,17 +85976,17 @@
   },
   {
     "hash": "0095A51EEEFF0377",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_hunt_act_checkwindow_pistol.amd?/guard01_hunt_act_checkwindow_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00F37CEC07B390F0",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_smg_02.amd?/guard01_covershoot_lowr_step_smg_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00437595FED6B2EA",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_table_lean.amd?/mr_stand_table_lean_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85996,12 +85996,12 @@
   },
   {
     "hash": "00EF9FBD0E7A48F6",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_stand_combatstand_0.amd?/cop_pistol_reaction_large_stand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00B0716F4E619D40",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol.amd?/guard01_covershoot_lowr_step_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86051,12 +86051,12 @@
   },
   {
     "hash": "00F18A91F6869564",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_wallleanback_leantostand.amd?/mr_stand_wall_lean_back_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "009FD392473814F8",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_combataim_stand.amd?/cop_pistol_reaction_combataim_stand.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86076,7 +86076,7 @@
   },
   {
     "hash": "00E0C25377E91F78",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_small_combatstand_combatstand_r90.amd?/cop_pistol_reaction_small_combatstand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86101,7 +86101,7 @@
   },
   {
     "hash": "009C0492435C920E",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_blindfire_smg.amd?/guard01_covershoot_lowr_blindfire_smg_start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86116,7 +86116,7 @@
   },
   {
     "hash": "00EC83099225EC18",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/008_throwobject/hm_normalthrow_sneak.amd?/hm_normalthrow_sneak.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86131,7 +86131,7 @@
   },
   {
     "hash": "00B456A835C7E2FD",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_combataim_combataim_r180.amd?/cop_pistol_reaction_large_combataim_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86156,7 +86156,7 @@
   },
   {
     "hash": "0031ECDAAAC8C667",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_standtowalk_0.amd?/mr_alerted_standtowalk_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86176,7 +86176,7 @@
   },
   {
     "hash": "0057972956003E36",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_rail_lean_03.amd?/mr_stand_rail_lean_03_idle1.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86186,12 +86186,12 @@
   },
   {
     "hash": "008CD022523060D4",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_drink_coffee.amd?/coffee_shiftweight.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "002E23E2472D78DE",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_highl_blindfire_smg.amd?/guard01_covershoot_highl_blindfire_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86201,7 +86201,7 @@
   },
   {
     "hash": "0033DB431B651DB4",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_combataim_combataim_r180.amd?/guard01_pistol_reaction_large_combataim_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86211,7 +86211,7 @@
   },
   {
     "hash": "00807637749875A0",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_smg.amd?/guard01_covershoot_over_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86261,7 +86261,7 @@
   },
   {
     "hash": "000386EE9F0249EB",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_small_combatstand_combatstand_r90.amd?/guard01_pistol_reaction_small_combatstand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86271,7 +86271,7 @@
   },
   {
     "hash": "000743A8F7383F5D",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combatstand_0.amd?/cop_pistol_reaction_medium_stand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86281,12 +86281,12 @@
   },
   {
     "hash": "008588372C85CD4C",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchup_pistol_aggressive.amd?/start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0092E7A344AED2D9",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchup_rifle_aggressive.amd?/start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86316,7 +86316,7 @@
   },
   {
     "hash": "00557EA59EB195F2",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_pistol_combat_talkonradio_talktostand.amd?/guard01_pistol_combat_talkonradio_talktostand.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86346,7 +86346,7 @@
   },
   {
     "hash": "00E28148182BD23C",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_smg_combat_step_aim_140_f_b.amd?/guard01_smg_combat_step_aim_140_b.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86366,12 +86366,12 @@
   },
   {
     "hash": "00CF701B53D33F9C",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_ambient_alerted_trespassing_0.amd?/mr_reaction_ambient_alerted_trespassing_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "003E403305C219BE",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_pistol_02.amd?/guard01_covershoot_over_pistol_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86381,7 +86381,7 @@
   },
   {
     "hash": "00F5FDCB3873240C",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_smg_02.amd?/guard01_covershoot_stepr_smg_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86406,7 +86406,7 @@
   },
   {
     "hash": "003172ADC17E559F",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_stand_combatstand_l90.amd?/cop_pistol_reaction_large_stand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86421,7 +86421,7 @@
   },
   {
     "hash": "00CF052594A32339",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_drink_coffee.amd?/coffee_drink.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86446,7 +86446,7 @@
   },
   {
     "hash": "00106E8F9178CE51",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_combatstand_combataim_l90.amd?/cop_pistol_reaction_medium_combatstand_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86456,7 +86456,7 @@
   },
   {
     "hash": "005152732665D232",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/008_throwobject/hm_normalthrow_stand.amd?/hm_normalthrow_stand.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86471,7 +86471,7 @@
   },
   {
     "hash": "00843B3D5CD32E29",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkcorner_rifle_right_aggressive.amd?/huntact_checkcorner_rifle_right_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86486,27 +86486,27 @@
   },
   {
     "hash": "004458BD76E3BEB3",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_stand_combatstand_r90.amd?/guard01_smg_reaction_large_stand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00C767A7162FE940",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol_03.amd?/guard01_covershoot_stepl_pistol_03_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "004EFCCA0E5B2F56",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_blindfire_pistol.amd?/guard01_covershoot_stepl_blindfire_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00177C06DF80F22F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_smg.amd?/guard01_covershoot_stepl_smg_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0028AF6E967974FF",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_blindfire_smg.amd?/guard01_covershoot_lowr_blindfire_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86516,7 +86516,7 @@
   },
   {
     "hash": "0053C74557B1C902",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_pistol_02.amd?/guard01_covershoot_over_pistol_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86551,17 +86551,17 @@
   },
   {
     "hash": "00AF2FFAFBD8360F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_smg.amd?/guard01_covershoot_lowr_step_smg_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00318B1EF3979104",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkhighcover_rifle_right_aggressive.amd?/huntact_checkhighcover_rifle_right_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00E0299F6A38F3F9",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol.amd?/guard01_covershoot_stepl_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86606,7 +86606,7 @@
   },
   {
     "hash": "0007B55F26887AFA",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_combatstand_combataim_r90.amd?/cop_pistol_reaction_medium_combatstand_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86626,17 +86626,17 @@
   },
   {
     "hash": "007B2E97AAA54FBF",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_hunt_act_checkcloset_pistol.amd?/guard01_hunt_act_checkcloset_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00C29386998B909A",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol_03.amd?/guard01_covershoot_lowr_step_pistol_03_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0032E97DE7805D81",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_small_combatstand_combatstand_r180.amd?/cop_pistol_reaction_small_combatstand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86646,7 +86646,7 @@
   },
   {
     "hash": "00F83A82C7700069",
-    "path": "",
+    "path": "[assembly:/animations/npc/001_ambient/mr_ambient_walk_bank_l.amd?/mr_ambient_walk_bank_l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86656,7 +86656,7 @@
   },
   {
     "hash": "0040DB0F701CE1B4",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol_02.amd?/guard01_covershoot_lowr_step_pistol_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86681,7 +86681,7 @@
   },
   {
     "hash": "00776F179A35ED95",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_sittocombatstand_l90.amd?/guard01_pistol_reaction_medium_sittocombatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86696,7 +86696,7 @@
   },
   {
     "hash": "008C579F4113E7CB",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_combatstand_combataim_l90.amd?/guard01_pistol_reaction_medium_combatstand_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86711,7 +86711,7 @@
   },
   {
     "hash": "00AEEB7522BA6603",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combataim_r90.amd?/guard01_smg_reaction_medium_stand_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86731,27 +86731,27 @@
   },
   {
     "hash": "00683D31EA3897D6",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_desk_paperwork.amd?/enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00BA41CCA8295815",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_rail_lean_03.amd?/mr_stand_rail_lean_03_stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00ECB9A01C1C0BCF",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_smg_02.amd?/guard01_covershoot_stepr_smg_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "000D42E421468A26",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_smg.amd?/guard01_covershoot_over_smg_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "008B1CDD21D2B221",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_wallleanback_idle.amd?/mr_stand_wall_lean_back_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86771,7 +86771,7 @@
   },
   {
     "hash": "00A6F93C907A8923",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combatstand_r180.amd?/cop_pistol_reaction_medium_stand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86781,22 +86781,22 @@
   },
   {
     "hash": "00E8CBF3C5944F14",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_textmsg_pistol.amd?/huntact_textmsg_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00FE7114205D0FFA",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_alerted_ambient_strangesound.amd?/mr_reaction_alerted_ambient_strangesound.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00478728F5A01E3C",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_small_combatstand_combatstand_0.amd?/cop_pistol_reaction_small_combatstand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "006F4AC12D5C16BE",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_stand_turn_0.amd?/mr_alerted_stand_turn_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86856,7 +86856,7 @@
   },
   {
     "hash": "0056162C33E418EA",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_combataim_combataim_r90.amd?/guard01_smg_reaction_large_combataim_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86866,12 +86866,12 @@
   },
   {
     "hash": "00564B9F7D792D9E",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_stand_combatstand_0.amd?/guard01_pistol_reaction_large_stand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D5092C5CD4CBCC",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_cover_enter_slide_over.amd?/guard01_cover_enter_slide_over.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86901,7 +86901,7 @@
   },
   {
     "hash": "00E4C64D9C4C3123",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combatstand_r180.amd?/guard01_pistol_reaction_medium_stand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86911,7 +86911,7 @@
   },
   {
     "hash": "006693D5AEBDE3DD",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_small_combatstand_combatstand_l180.amd?/cop_pistol_reaction_small_combatstand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86936,7 +86936,7 @@
   },
   {
     "hash": "008F7E22BED34E41",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_cover_enter_crawl_over.amd?/guard01_cover_enter_crawl_over.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86946,7 +86946,7 @@
   },
   {
     "hash": "009220A1E2874B02",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkhighcover_pistol_right_aggressive.amd?/huntact_checkhighcover_pistol_right_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86961,17 +86961,17 @@
   },
   {
     "hash": "001CF0DCDF0C9584",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_small_combatstand_combatstand_r90.amd?/guard01_smg_reaction_small_combatstand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00B643333369A687",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_smg.amd?/guard01_covershoot_lowr_step_smg_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "003C8254F665854F",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_combat_hunt_losttarget.amd?/guard01_smg_reaction_combat_hunt_losttarget.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86981,7 +86981,7 @@
   },
   {
     "hash": "007BFCA846B14CEB",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_shotgun_combat_reload.amd?/guard01_shotgun_combat_reload.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86996,7 +86996,7 @@
   },
   {
     "hash": "001860FA7E6F88ED",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_combataim_stand.amd?/guard01_smg_reaction_combataim_stand.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87016,7 +87016,7 @@
   },
   {
     "hash": "006D62A832038A82",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_small_combatstand_combatstand_r180.amd?/guard01_smg_reaction_small_combatstand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87026,7 +87026,7 @@
   },
   {
     "hash": "0003E06329AC8675",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_stand_combatstand_r180.amd?/guard01_smg_reaction_large_stand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87051,22 +87051,22 @@
   },
   {
     "hash": "00E846C26453A75F",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchright_rifle_agg.amd?/huntact_searchright_rifle_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00A5A3C88EF6114D",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_small_combatstand_combatstand_0.amd?/guard01_pistol_reaction_small_combatstand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00021746F69C6591",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_stand_turn_l180.amd?/mr_alerted_stand_turn_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "002F3EFBBCD5C8F4",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_pistol_blindfire.amd?/guard01_covershoot_over_pistol_blindfire_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87081,7 +87081,7 @@
   },
   {
     "hash": "002C8465104C3142",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_combataim_combataim_l180.amd?/guard01_pistol_reaction_large_combataim_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87091,7 +87091,7 @@
   },
   {
     "hash": "002699D315B79B5E",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combatstand_r90.amd?/guard01_pistol_reaction_medium_stand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87126,7 +87126,7 @@
   },
   {
     "hash": "005A7D8D6FE4AEB2",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_blindfire_smg.amd?/guard01_covershoot_over_blindfire_smg_start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87136,12 +87136,12 @@
   },
   {
     "hash": "0028C8F46E744E72",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_small_combatstand_combatstand_l180.amd?/guard01_pistol_reaction_small_combatstand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0084ECAF041496B8",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_leanside_1m_l.amd?/mr_stand_leanside_1m_l_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87151,12 +87151,12 @@
   },
   {
     "hash": "00F91AC69D443B1E",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_combataim_combataim_l90.amd?/guard01_pistol_reaction_large_combataim_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0060CB1576AF951C",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combatstand_r90.amd?/cop_pistol_reaction_medium_stand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87181,7 +87181,7 @@
   },
   {
     "hash": "0080B0CA694E0BB9",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_rail_smoke.amd?/out.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87201,17 +87201,17 @@
   },
   {
     "hash": "001BC15EDB4385D3",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_highl_blindfire_smg.amd?/guard01_covershoot_highl_blindfire_smg_stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0002915355A08A76",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_smg_02.amd?/guard01_covershoot_lowl_step_smg_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "002DB17DFFE0D52C",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_pistol_combat_talkonradio_standtotalk.amd?/guard01_pistol_combat_talkonradio_standtotalk.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87221,12 +87221,12 @@
   },
   {
     "hash": "00DE4EC1BCF5B688",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol.amd?/guard01_covershoot_stepl_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "008CCD524518A7AB",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol.amd?/guard01_covershoot_lowl_step_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87261,22 +87261,22 @@
   },
   {
     "hash": "0033F9B8E772F770",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_smg_combat_stand_aim_turnr.amd?/guard01_smg_combat_stand_aim_turnr.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0037B780BAC86746",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_highr_blindfire_smg.amd?/guard01_covershoot_highr_blindfire_smg_start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00B3B71C0665E6BF",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_smg_lookaround_03.amd?/guard01_smg_lookaround_03.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "000B13C3CDDE56E8",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_combatstand_combataim_l180.amd?/guard01_smg_reaction_medium_combatstand_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87311,12 +87311,12 @@
   },
   {
     "hash": "00E4E93D71AD6C78",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol.amd?/guard01_covershoot_lowr_step_pistol_recoil.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D3BECEFAB2346A",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_pistol_02.amd?/guard01_covershoot_over_pistol_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87361,12 +87361,12 @@
   },
   {
     "hash": "0056AA73A58C3CB0",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_hunt_act_checkunder_pistol.amd?/guard01_hunt_act_under_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "006F1F48C08C76C3",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_ambient_alerted_strangesound_0.amd?/mr_reaction_ambient_alerted_strangesound_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87376,12 +87376,12 @@
   },
   {
     "hash": "00FBA8F9B261FE47",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_combatstand_combataim_0.amd?/guard01_smg_reaction_medium_combatstand_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00397DEEB1D2D2F0",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol_03.amd?/guard01_covershoot_stepl_pistol_03_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87391,22 +87391,22 @@
   },
   {
     "hash": "004079B703F9689E",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_combataim_combataim_l90.amd?/cop_pistol_reaction_large_combataim_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00540F9F1494DEE5",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol_03.amd?/guard01_covershoot_lowl_step_pistol_03_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00533FD1ED01E6CA",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchleft_rifle_aggressive.amd?/start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00F39542212D1606",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_combatstand_combataim_0.amd?/cop_pistol_reaction_medium_combatstand_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87426,7 +87426,7 @@
   },
   {
     "hash": "0000349FF542F49C",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_90l.amd?/hm_sneak_turninplace_90l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87436,7 +87436,7 @@
   },
   {
     "hash": "004C2661B691690F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_blindfire_pistol.amd?/guard01_covershoot_lowl_blindfire_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87451,7 +87451,7 @@
   },
   {
     "hash": "001A5C66D02C62CF",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combatstand_0.amd?/guard01_smg_reaction_medium_stand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87466,32 +87466,32 @@
   },
   {
     "hash": "00562362EAE09DC9",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combataim_l90.amd?/guard01_smg_reaction_medium_stand_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00FB89D2860C10A9",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/reaction_ambient_alerted_sittostand_l90.amd?/reaction_ambient_alerted_sittostand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0073619A3646F8BA",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol_02.amd?/guard01_covershoot_stepr_pistol_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00119ECF33F878AA",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_stand_combatstand_l90.amd?/guard01_pistol_reaction_large_stand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00EDD554284424C5",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_highr_blindfire_smg.amd?/guard01_covershoot_highr_blindfire_smg_stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D889990D3CB490",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/mr_reaction_medium_stand_alertedstand_l90.amd?/mr_reaction_medium_stand_alertedstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87501,12 +87501,12 @@
   },
   {
     "hash": "00AA504E117CD3BE",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_sittocombatstand_r90.amd?/guard01_pistol_reaction_medium_sittocombatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00A22C2E2BA2B2AF",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_rail_lean_03.amd?/mr_stand_rail_lean_03_start.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87536,7 +87536,7 @@
   },
   {
     "hash": "00C18D10C3B07DA3",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combataim_r90.amd?/cop_pistol_reaction_medium_stand_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87546,7 +87546,7 @@
   },
   {
     "hash": "00A84A15CBF2160A",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combataim_r180.amd?/guard01_pistol_reaction_medium_stand_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87566,7 +87566,7 @@
   },
   {
     "hash": "005B25F5B0BE56E7",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol.amd?/guard01_covershoot_lowr_step_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87586,12 +87586,12 @@
   },
   {
     "hash": "0011B71BBEC2CC44",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_highr_blindfire_smg.amd?/guard01_covershoot_highr_blindfire_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00DD53C34AD05557",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over02_smg.amd?/guard01_covershoot_over02_smg_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87601,7 +87601,7 @@
   },
   {
     "hash": "000A01AF7FDAB6DF",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combataim_0.amd?/cop_pistol_reaction_medium_stand_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87616,7 +87616,7 @@
   },
   {
     "hash": "00054A6984DDD718",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_stand_combatstand_r180.amd?/cop_pistol_reaction_large_stand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87626,7 +87626,7 @@
   },
   {
     "hash": "008770308069329F",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_smg_combat_talkonradio_talktostand.amd?/guard01_smg_combat_talkonradio_talktostand.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87646,12 +87646,12 @@
   },
   {
     "hash": "00E86BADED433C60",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over02_smg.amd?/guard01_covershoot_over02_smg_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D9F29C395CAA06",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol_03.amd?/guard01_covershoot_stepr_pistol_03_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87661,7 +87661,7 @@
   },
   {
     "hash": "00DC6967AF6F7109",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_stand_combatstand_r90.amd?/guard01_pistol_reaction_large_stand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87686,12 +87686,12 @@
   },
   {
     "hash": "00372F4D68BC95F1",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol_02.amd?/guard01_covershoot_lowl_step_pistol_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0040DDBA88222F5D",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol_02.amd?/guard01_covershoot_lowl_step_pistol_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87706,7 +87706,7 @@
   },
   {
     "hash": "0050884989E29EC4",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_leanside_1m_l.amd?/mr_stand_leanside_1m_l_stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87716,7 +87716,7 @@
   },
   {
     "hash": "00816922E74EDCFF",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_drink_coffee.amd?/coffee_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87731,7 +87731,7 @@
   },
   {
     "hash": "00E7D9B8CA089BAC",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_pistol_blindfire.amd?/guard01_covershoot_over_pistol_blindfire_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87751,7 +87751,7 @@
   },
   {
     "hash": "00031AC99186B30F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol_02.amd?/guard01_covershoot_lowr_step_pistol_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87781,7 +87781,7 @@
   },
   {
     "hash": "00213D6D1B813D0F",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_small_combatstand_combatstand_r180.amd?/guard01_pistol_reaction_small_combatstand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87791,22 +87791,22 @@
   },
   {
     "hash": "00426B39C5601E76",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_combatstand_combataim_r90.amd?/guard01_pistol_reaction_medium_combatstand_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00C06048B352A231",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_combataim_combataim_r180.amd?/guard01_smg_reaction_large_combataim_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00469804B39D4BBE",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_combatstand_combataim_l90.amd?/guard01_smg_reaction_medium_combatstand_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "009FC14C717B1F35",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_blindfire_pistol.amd?/guard01_covershoot_steprl_blindfire_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87876,7 +87876,7 @@
   },
   {
     "hash": "00EC42C254259EE6",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol_02.amd?/guard01_covershoot_lowl_step_pistol_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87886,22 +87886,22 @@
   },
   {
     "hash": "0029C9FD4A3D8E86",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/mr_combat_reload_smg_ub.amd?/mr_combat_reload_smg_ub.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0090199B4C55B6B6",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combataim_l90.amd?/guard01_pistol_reaction_medium_stand_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "006B09566D92D59D",
-    "path": "",
+    "path": "[assembly:/animations/npc/001_ambient/mr_ambient_walk_bank_r.amd?/mr_ambient_walk_bank_r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "001CE3358C958587",
-    "path": "",
+    "path": "[assembly:/animations/npc/001_ambient/elite_guard_ambient_walk.amd?/elite_guard_ambient_walk.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87911,7 +87911,7 @@
   },
   {
     "hash": "00AE59D9B4128E9C",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_180l.amd?/hm_sneak_turninplace_180l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87926,7 +87926,7 @@
   },
   {
     "hash": "00394D83482C21F5",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_seachunder_rifle_aggressive.amd?/huntact_seachunder_rifle_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87936,7 +87936,7 @@
   },
   {
     "hash": "00FBFDFF2B51B232",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol_02.amd?/guard01_covershoot_stepl_pistol_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87971,12 +87971,12 @@
   },
   {
     "hash": "003F051F7DEF6EB8",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_smg.amd?/guard01_covershoot_lowr_step_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D014489AB64C3E",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_cover_enter_forward_high_smg.amd?/guard01_cover_enter_forward_high_smg.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88006,17 +88006,17 @@
   },
   {
     "hash": "00C752EDC3539F2B",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol.amd?/guard01_covershoot_stepr_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00091FD25CBBF71F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_smg_02.amd?/guard01_covershoot_lowl_step_smg_02_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00C0A4CCBF398075",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/fr_kneel_idle.amd?/fr_kneel_idle_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88041,17 +88041,17 @@
   },
   {
     "hash": "0028450618E57E62",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combataim_l180.amd?/guard01_pistol_reaction_medium_stand_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0017F6C3B1B2EA89",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_stand_combatstand_l180.amd?/cop_pistol_reaction_large_stand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00446BFB4F07EFD7",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_combatstand_combataim_0.amd?/guard01_pistol_reaction_medium_combatstand_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88061,12 +88061,12 @@
   },
   {
     "hash": "007537657CE5533D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/fr_kneel_idle.amd?/fr_kneel_idle_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0011857512A28D37",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_pistol_blindfire.amd?/guard01_covershoot_over_pistol_blindfire_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88076,17 +88076,17 @@
   },
   {
     "hash": "007B68ECC30F3A20",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_smg_combat_talkonradio_idle.amd?/guard01_smg_combat_talkonradio_idle.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "007C3919D8BD6FE3",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol_02.amd?/guard01_covershoot_stepl_pistol_02_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "001F216EA531AD15",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_textmsg_rifle.amd?/generic/huntact_textmsg_rifle.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88146,7 +88146,7 @@
   },
   {
     "hash": "00109A6EBE9B8870",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_desk_paperwork.amd?/idle.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88156,7 +88156,7 @@
   },
   {
     "hash": "004CB97DC27FF234",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_blindfire_pistol.amd?/guard01_covershoot_lowl_blindfire_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88171,12 +88171,12 @@
   },
   {
     "hash": "00649E0EFCECA377",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_blindfire_pistol.amd?/guard01_covershoot_lowr_blindfire_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "008428C54B0D7C70",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_smg_03.amd?/guard01_covershoot_stepr_smg_03_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88196,7 +88196,7 @@
   },
   {
     "hash": "00D06259BEE9775A",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol_03.amd?/guard01_covershoot_stepl_pistol_03_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88216,27 +88216,27 @@
   },
   {
     "hash": "00F61E5CA676CC59",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_smg_03.amd?/guard01_covershoot_stepl_smg_03_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00702B1E89C90C5C",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_smg.amd?/guard01_covershoot_lowl_step_smg_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "005C883B71742168",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_combatstand_stand.amd?/cop_pistol_reaction_combatstand.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0050855BA7508ED7",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_rail_smoke.amd?/ind.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D024A769844AE1",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_pistol_lookaround_03.amd?/guard01_pistol_lookaround_03.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88246,7 +88246,7 @@
   },
   {
     "hash": "004F8BB5AAB0B730",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_leanside_1m_l.amd?/mr_stand_leanside_1m_l_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88271,12 +88271,12 @@
   },
   {
     "hash": "008464CCA4D6EFF5",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_smg.amd?/guard01_covershoot_stepl_smg_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "005179E3618F30B6",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_combataim_combataim_l180.amd?/cop_pistol_reaction_large_combataim_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88316,12 +88316,12 @@
   },
   {
     "hash": "00F6B87B377E0A12",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_blindfire_pistol.amd?/guard01_covershoot_lowl_blindfire_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00A7442F98B4D59F",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_smg_03.amd?/guard01_covershoot_stepr_smg_03_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88331,7 +88331,7 @@
   },
   {
     "hash": "0082C43D85AEEE7E",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_blindfire_pistol.amd?/guard01_covershoot_lowr_blindfire_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88341,12 +88341,12 @@
   },
   {
     "hash": "00DDBB8459E12B49",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_blindfire_pistol.amd?/guard01_covershoot_steprl_blindfire_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00F5F74E2D79A80A",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_stand_turn_r90.amd?/mr_alerted_stand_turn_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88356,17 +88356,17 @@
   },
   {
     "hash": "00FC680E351FF007",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_combatstand_combataim_l180.amd?/guard01_pistol_reaction_medium_combatstand_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00EB304D02918A61",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_smg_03.amd?/guard01_covershoot_stepr_smg_03_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00BAE55F385BC418",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkcorner_pistol_right_aggressive.amd?/huntact_checkcorner_pistol_right_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88386,12 +88386,12 @@
   },
   {
     "hash": "0085F0F4F9261278",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_desk_paperwork.amd?/act_1.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "009F599DA14E6629",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_smg_combat_step_aim_140_l_r.amd?/guard01_smg_combat_step_aim_140_l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88401,17 +88401,17 @@
   },
   {
     "hash": "000D4B85D7E4BD75",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/020_miscellaneous/018_contextactions/hm_caralarm_thumpside.amd?/hm_caralarm_thumpside.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0011C0B3FA0B7F3A",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_small_combatstand_combatstand_0.amd?/guard01_smg_reaction_small_combatstand_combatstand_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "0064D3E7CA85ECFF",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_pistol_lookaround_02.amd?/guard01_pistol_lookaround_02.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88446,7 +88446,7 @@
   },
   {
     "hash": "007740B67E669284",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol_02.amd?/guard01_covershoot_stepr_pistol_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88466,7 +88466,7 @@
   },
   {
     "hash": "00D7C9536BFE80CD",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol_03.amd?/guard01_covershoot_lowl_step_pistol_03_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88476,7 +88476,7 @@
   },
   {
     "hash": "00F1C8D5F8964E29",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combatstand_r180.amd?/guard01_smg_reaction_medium_stand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88496,12 +88496,12 @@
   },
   {
     "hash": "0024E65EAA4B7C04",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combatstand_l180.amd?/guard01_smg_reaction_medium_stand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00E212A8FAA5C085",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_smg_03.amd?/guard01_covershoot_stepl_smg_03_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88521,17 +88521,17 @@
   },
   {
     "hash": "00A1B07DB5C91F80",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_table_lean.amd?/mr_stand_table_lean_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "004CDB39862CCDE0",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/mr_reaction_ambient_alerted_strangesound_r90.amd?/mr_reaction_ambient_alerted_strangesound_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "000D333CFD5A4892",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/civ_male_reaction_ambient_alerted_deadbody_0.amd?/civ_male_reaction_ambient_alerted_deadbody_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88546,7 +88546,7 @@
   },
   {
     "hash": "00CBEEF93BE76A66",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_combataim_combataim_0.amd?/guard01_smg_reaction_large_combataim_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88571,7 +88571,7 @@
   },
   {
     "hash": "002FB47AEC640B26",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_stand_combatstand_l90.amd?/guard01_smg_reaction_large_stand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88581,7 +88581,7 @@
   },
   {
     "hash": "00343A49E39B773B",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_smg_combat_talkonradio_standtotalk.amd?/guard01_smg_combat_talkonradio_standtotalk.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88596,7 +88596,7 @@
   },
   {
     "hash": "00F4BC9DF320F82A",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/reaction_ambient_alerted_sittostand_r90.amd?/reaction_ambient_alerted_sittostand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88606,17 +88606,17 @@
   },
   {
     "hash": "002B169340FC54AF",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_cover_enter_forward_high_pistol.amd?/guard01_cover_enter_forward_high_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00F7CE984C64BCCB",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_combataim_combataim_0.amd?/guard01_pistol_reaction_medium_combataim_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00D38C34A76BA427",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combataim_r180.amd?/cop_pistol_reaction_medium_stand_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88651,7 +88651,7 @@
   },
   {
     "hash": "00578A43B3DCAB6A",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_seachunder_pistol_aggressive.amd?/huntact_seachunder_pistol_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88661,7 +88661,7 @@
   },
   {
     "hash": "00EAAAC2ECFAE826",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combataim_l90.amd?/cop_pistol_reaction_medium_stand_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88691,12 +88691,12 @@
   },
   {
     "hash": "00F50DFEC512F096",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_large_combataim_combataim_l90.amd?/guard01_smg_reaction_large_combataim_combataim_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "004A85FCDDD16A03",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_smg_02.amd?/guard01_covershoot_lowr_step_smg_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88736,12 +88736,12 @@
   },
   {
     "hash": "006B3E16CD1DF85F",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combatstand_l90.amd?/guard01_smg_reaction_medium_stand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00E225323AF28B9F",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_small_combatstand_combatstand_l90.amd?/cop_pistol_reaction_small_combatstand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88761,7 +88761,7 @@
   },
   {
     "hash": "0028848B33F50CF9",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol_03.amd?/guard01_covershoot_stepr_pistol_03_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88781,7 +88781,7 @@
   },
   {
     "hash": "0034132186E254C7",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_desk_paperwork.amd?/exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88796,7 +88796,7 @@
   },
   {
     "hash": "00086DD3A2AD5682",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_combatstand_combataim_r180.amd?/guard01_pistol_reaction_medium_combatstand_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88811,7 +88811,7 @@
   },
   {
     "hash": "0000966AD8B84335",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_combatstand_combataim_r90.amd?/guard01_smg_reaction_medium_combatstand_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88836,12 +88836,12 @@
   },
   {
     "hash": "006A89382AD9CE42",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol.amd?/guard01_covershoot_lowl_step_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "008E13042B9D3E9C",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_small_combatstand_combatstand_l180.amd?/guard01_smg_reaction_small_combatstand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88851,22 +88851,22 @@
   },
   {
     "hash": "003CD1AED23B7614",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_combatstand_combataim_l180.amd?/cop_pistol_reaction_medium_combatstand_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00ED1612E5E114E3",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol_02.amd?/guard01_covershoot_lowr_step_pistol_02_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "008A1AE6F216B1DF",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_smg.amd?/guard01_covershoot_lowl_step_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "008C257DEC0322DC",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_stand_combatstand_r90.amd?/cop_pistol_reaction_large_stand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88886,7 +88886,7 @@
   },
   {
     "hash": "007AE35B8B95B34B",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_combatstand_stand.amd?/guard01_smg_reaction_combatstand_stand.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88901,7 +88901,7 @@
   },
   {
     "hash": "00983621713B7B68",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_checkdeadbody_crouch.amd?/guard01_checkdeadbody_crouch.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88916,7 +88916,7 @@
   },
   {
     "hash": "00EF7C3DBC016CAF",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol_03.amd?/guard01_covershoot_lowl_step_pistol_03_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88936,17 +88936,17 @@
   },
   {
     "hash": "00F060C4575053E0",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_blindfire_smg.amd?/guard01_covershoot_lowr_blindfire_smg_stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00E68F62A950B7D0",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_smg_combat_step_aim_140_l_r.amd?/guard01_smg_combat_step_aim_140_r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "000EE0300B734F9C",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_blindfire_smg.amd?/guard01_covershoot_over_blindfire_smg_stop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88956,7 +88956,7 @@
   },
   {
     "hash": "002FA86A2F0AAE16",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_180r.amd?/hm_sneak_turninplace_180r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88976,7 +88976,7 @@
   },
   {
     "hash": "00E607944C8EFF52",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over02_smg.amd?/guard01_covershoot_over02_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88991,7 +88991,7 @@
   },
   {
     "hash": "00274AE229B1AD41",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/nuns_cover_classspecific_enter_forward_pistol.amd?/nuns_cover_classspecific_enter_forward_pistol.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89001,7 +89001,7 @@
   },
   {
     "hash": "005E6E393B4470C3",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_walk.amd?/mr_alerted_walk.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89016,7 +89016,7 @@
   },
   {
     "hash": "002D4BC05552EF92",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_searchlow_pistol_aggressive.amd?/huntact_searchlow_pistol_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89031,7 +89031,7 @@
   },
   {
     "hash": "00DAE096FB56B735",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_pistol.amd?/guard01_covershoot_lowl_step_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89046,7 +89046,7 @@
   },
   {
     "hash": "00CB8AB5814056D3",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowl_step_smg.amd?/guard01_covershoot_lowl_step_smg_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89061,7 +89061,7 @@
   },
   {
     "hash": "0006731419977FCD",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_stand_combatstand_r180.amd?/guard01_pistol_reaction_large_stand_combatstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89071,7 +89071,7 @@
   },
   {
     "hash": "00B4127606E2469F",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_stand_drink_coffee.amd?/coffee_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89091,7 +89091,7 @@
   },
   {
     "hash": "007759DC24F3599A",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol.amd?/guard01_covershoot_stepr_pistol_exit.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89121,7 +89121,7 @@
   },
   {
     "hash": "00D95B561EE44EE0",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combatstand_r90.amd?/guard01_smg_reaction_medium_stand_combatstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89136,7 +89136,7 @@
   },
   {
     "hash": "0016BE6173D2134A",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_small_combatstand_combatstand_l90.amd?/guard01_pistol_reaction_small_combatstand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89166,7 +89166,7 @@
   },
   {
     "hash": "00B28E796D50C285",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/mr_alerted_investigate_confused.amd?/mr_alerted_investigate_confused.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89176,7 +89176,7 @@
   },
   {
     "hash": "00A0AE52034699AE",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol.amd?/guard01_covershoot_stepr_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89186,7 +89186,7 @@
   },
   {
     "hash": "0016CAD60D283153",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/mr_reaction_medium_stand_alertedstand_r90.amd?/mr_reaction_medium_stand_alertedstand_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89211,7 +89211,7 @@
   },
   {
     "hash": "00237F0E3A5570FB",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_large_combataim_combataim_0.amd?/cop_pistol_reaction_large_combataim_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89231,7 +89231,7 @@
   },
   {
     "hash": "0082731DC3983055",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_stand_turn_l90.amd?/mr_alerted_stand_turn_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89241,7 +89241,7 @@
   },
   {
     "hash": "007589B616D0DFAA",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_pistol_03.amd?/guard01_covershoot_stepr_pistol_03_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89251,7 +89251,7 @@
   },
   {
     "hash": "00D9700150A2EFFB",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combataim_r180.amd?/guard01_smg_reaction_medium_stand_combataim_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89261,7 +89261,7 @@
   },
   {
     "hash": "008C04CBDC142755",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_smg_combat_step_aim_140_f_b.amd?/guard01_smg_combat_step_aim_140_f.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89286,7 +89286,7 @@
   },
   {
     "hash": "00E14CA81AEE3014",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combataim_l180.amd?/cop_pistol_reaction_medium_stand_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89301,7 +89301,7 @@
   },
   {
     "hash": "00B824A93070B108",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepr_blindfire_pistol.amd?/guard01_covershoot_steprl_blindfire_pistol_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89311,17 +89311,17 @@
   },
   {
     "hash": "00105A7A3F51A941",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_blindfire_smg.amd?/guard01_covershoot_over_blindfire_smg_loop.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00DF6BAD6BCC522D",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/guard01_hunt_act_lookaround_smg.amd?/guard01_hunt_act_lookaround_smg.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00B42FA9880FF473",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_smg_03.amd?/guard01_covershoot_stepl_smg_03_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89356,12 +89356,12 @@
   },
   {
     "hash": "006C112B1F3DCDEE",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_over_smg.amd?/guard01_covershoot_over_smg_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00F05F452314FE52",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/mr_reaction_medium_stand_alertedstand_l180.amd?/mr_reaction_medium_stand_alertedstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89371,7 +89371,7 @@
   },
   {
     "hash": "00B55807C5D1B180",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/huntact_checkhighcover_pistol_left_aggressive.amd?/huntact_checkhighcover_pistol_left_aggressive.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89401,7 +89401,7 @@
   },
   {
     "hash": "00262BB89D47CD32",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combatstand_l180.amd?/guard01_pistol_reaction_medium_stand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89411,12 +89411,12 @@
   },
   {
     "hash": "00AE7949B949DA4D",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_stand_combatstand_l180.amd?/guard01_pistol_reaction_large_stand_combatstand_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "004C4B47A0741F97",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_lowr_step_pistol.amd?/guard01_covershoot_lowr_step_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89431,7 +89431,7 @@
   },
   {
     "hash": "00BAD6A5512D8B3B",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combataim_r90.amd?/guard01_pistol_reaction_medium_stand_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89441,7 +89441,7 @@
   },
   {
     "hash": "00060756E220D317",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_small_combatstand_combatstand_l90.amd?/guard01_smg_reaction_small_combatstand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89451,12 +89451,12 @@
   },
   {
     "hash": "00CC96940D2CAC8B",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_pistol.amd?/guard01_covershoot_stepl_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00FB805714BD184F",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/mr_reaction_medium_stand_alertedstand_r180.amd?/mr_reaction_medium_stand_alertedstand_r180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89476,7 +89476,7 @@
   },
   {
     "hash": "00208F05211EB00E",
-    "path": "",
+    "path": "[assembly:/animations/npc/006_combat/guard01_covershoot_stepl_blindfire_pistol.amd?/guard01_covershoot_stepr_blindfire_pistol_enter.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89511,7 +89511,7 @@
   },
   {
     "hash": "008A660D30124997",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/cop_pistol_reaction_medium_stand_combatstand_l90.amd?/cop_pistol_reaction_medium_stand_combatstand_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89526,7 +89526,7 @@
   },
   {
     "hash": "002BBB2B60266D0B",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_medium_stand_combataim_0.amd?/guard01_pistol_reaction_medium_stand_combataim_0.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89536,7 +89536,7 @@
   },
   {
     "hash": "00DE5952F7B77A92",
-    "path": "",
+    "path": "[assembly:/animations/npc/009_acts/generic/fr_kneel_idle.amd?/fr_kneel_idle_1.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89556,7 +89556,7 @@
   },
   {
     "hash": "00347C3776C990E2",
-    "path": "",
+    "path": "[assembly:/animations/npc/008_reactions/guard01_pistol_reaction_large_combataim_combataim_r90.amd?/guard01_pistol_reaction_large_combataim_combataim_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89571,12 +89571,12 @@
   },
   {
     "hash": "0064EA8AE9953C24",
-    "path": "",
+    "path": "[assembly:/animations/npc/007_bridges/guard01_smg_reaction_medium_stand_combataim_l180.amd?/guard01_smg_reaction_medium_stand_combataim_l180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "002EFE39BA9356FC",
-    "path": "",
+    "path": "[assembly:/animations/npc/002_alerted/mr_alerted_walktostand_0_r.amd?/mr_alerted_walktostand_0_r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
