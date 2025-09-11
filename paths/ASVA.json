@@ -1311,7 +1311,7 @@
   },
   {
     "hash": "002246C497623D21",
-    "path": "",
+    "path": "[assembly:/animations/animationdatabases/hm5_weapons.aset?/prop_policebaton.asva].pc_asva",
     "gameFlags": 18
   },
   {
@@ -1391,7 +1391,7 @@
   },
   {
     "hash": "00F6DBDB92F3932D",
-    "path": "",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_cop_pistol.asva].pc_asva",
     "gameFlags": 128
   },
   {
@@ -1401,12 +1401,12 @@
   },
   {
     "hash": "007103050E98E12E",
-    "path": "",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_cop_shootgun.asva].pc_asva",
     "gameFlags": 128
   },
   {
     "hash": "00CAE41A2E0379B6",
-    "path": "",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_cop_smg.asva].pc_asva",
     "gameFlags": 128
   },
   {
@@ -1421,7 +1421,7 @@
   },
   {
     "hash": "0003B8DB23AF4E2E",
-    "path": "",
+    "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_guard_pistol.asva].pc_asva",
     "gameFlags": 128
   }
 ]
