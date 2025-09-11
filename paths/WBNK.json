@@ -4096,9 +4096,8 @@
   },
   {
     "hash": "00437FC7532E9122",
-    "path": "",
-    "gameFlags": 16,
-    "hint": "play_foley_wrench_equipped"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/itemtemplateevents/item_wrench/play_foley_wrench_equipped.wwiseevent].pc_wwisebank",
+    "gameFlags": 16
   },
   {
     "hash": "001AB11A3E06A3FE",
