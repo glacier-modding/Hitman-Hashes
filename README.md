@@ -7,7 +7,7 @@
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.73%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.46%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.96%25-green.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.88%25-red.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.90%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.43%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-87.64%25-yellow.svg)
@@ -78,7 +78,7 @@
 |UICT     |477            |475          |99.58%            |0    |0.00%          |
 |VIDB     |100            |100          |100.00%           |0    |0.00%          |
 |VTXD     |11307          |11292        |99.87%            |0    |0.00%          |
-|WBNK     |1550           |939          |60.58%            |0    |0.00%          |
+|WBNK     |1550           |957          |61.74%            |1    |0.06%          |
 |WMDA     |9              |9            |100.00%           |0    |0.00%          |
 |WSGB     |145            |145          |100.00%           |0    |0.00%          |
 |WSGT     |145            |145          |100.00%           |0    |0.00%          |
