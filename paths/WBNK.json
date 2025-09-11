@@ -4046,12 +4046,12 @@
   },
   {
     "hash": "00D767FA6CC70BF7",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/fol_item_glassjar/play_fol_item_glassjar_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "006B351FDA1494F1",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_suitcase_metal/play_foley_suitcase_metal_unequipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
@@ -4061,17 +4061,17 @@
   },
   {
     "hash": "0010911D7B963D3C",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_plasticdevice/play_plastic_device_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "001A74950CA53571",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_leadpipe/play_fol_leadpipe_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "00792B81E22C9E4E",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/gui_events/ingame_gui/contractobjective/play_gui_objective_new.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
@@ -4081,32 +4081,33 @@
   },
   {
     "hash": "00A0050516C49238",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/fol_item_katana/fol_item_katana_foley_item_equipped_play.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "002B0444177B5062",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_suitcase_leather/play_foley_suitcase_unequipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "00841EE25A4A752B",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_ammo_copperhead/play_fol_item_ammo_equipped_copperhead.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "00437FC7532E9122",
     "path": "",
-    "gameFlags": 16
+    "gameFlags": 16,
+    "hint": "play_foley_wrench_equipped"
   },
   {
     "hash": "001AB11A3E06A3FE",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_policebaton/play_foley_policebaton_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "000A4C9DA70C1265",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_poolball/play_fol_item_poolball_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
@@ -4116,7 +4117,7 @@
   },
   {
     "hash": "0005A6CECF61D92A",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_fireextinguisher/play_fol_fireextinguisher_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
@@ -4131,17 +4132,17 @@
   },
   {
     "hash": "002C6C6809BDB3DF",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_mine/play_items_mine_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "006265451BF138B4",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_flowers/play_items_flowers_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "00DC4EA6969CB84B",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_cansoda/play_fol_item_cansoda_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
@@ -4161,17 +4162,17 @@
   },
   {
     "hash": "006BB29D484CFAA0",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_suitcase_leather/play_foley_suitcase_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "00B7AF84E33CD379",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_suitcase_metal/play_foley_suitecase_metal_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
     "hash": "0072063918576727",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/fol_item_glassjar/play_fol_item_glassjar_unequipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
@@ -4181,7 +4182,7 @@
   },
   {
     "hash": "00CBD9510AFD5E8F",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_scissors/play_scissors_equipped.wwiseevent].pc_wwisebank",
     "gameFlags": 16
   },
   {
