@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.91%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.44%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.09%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.16%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -54,10 +54,10 @@
 |LINE     |33358          |32270        |96.74%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10534          |7408         |70.32%            |0    |0.00%          |
-|MATB     |5577           |5570         |99.87%            |0    |0.00%          |
+|MATB     |5577           |5573         |99.93%            |0    |0.00%          |
 |MATE     |1131           |1069         |94.52%            |0    |0.00%          |
-|MATI     |19057          |18951        |99.44%            |2    |0.01%          |
-|MATT     |5576           |5569         |99.87%            |0    |0.00%          |
+|MATI     |19057          |18990        |99.65%            |64   |0.34%          |
+|MATT     |5576           |5572         |99.93%            |0    |0.00%          |
 |MJBA     |20789          |20081        |96.59%            |0    |0.00%          |
 |MRTN     |2336           |2289         |97.99%            |0    |0.00%          |
 |MRTR     |862            |842          |97.68%            |0    |0.00%          |
