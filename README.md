@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.91%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.44%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.54%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.56%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -72,8 +72,8 @@
 |TBLU     |57523          |57343        |99.69%            |140  |0.24%          |
 |TELI     |65725          |34674        |52.76%            |0    |0.00%          |
 |TEMP     |87960          |87329        |99.28%            |191  |0.22%          |
-|TEXD     |49811          |48737        |97.84%            |7    |0.01%          |
-|TEXT     |45127          |44184        |97.91%            |7    |0.02%          |
+|TEXD     |49811          |48743        |97.86%            |7    |0.01%          |
+|TEXT     |45127          |44187        |97.92%            |7    |0.02%          |
 |UICB     |477            |475          |99.58%            |0    |0.00%          |
 |UICT     |477            |475          |99.58%            |0    |0.00%          |
 |VIDB     |100            |100          |100.00%           |0    |0.00%          |
