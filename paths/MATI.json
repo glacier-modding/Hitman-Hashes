@@ -93894,9 +93894,8 @@
   },
   {
     "hash": "006129CAB5DC3520",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "civiliana_female_acccessories"
+    "path": "[assembly:/_pro/characters/assets/civilians/_placeholders/civiliana_female/materials/civiliana_female_acccessories.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "002D8C4ACA1DE991",
@@ -93925,9 +93924,8 @@
   },
   {
     "hash": "00390084CAB57BCD",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "civiliana_female_hair"
+    "path": "[assembly:/_pro/characters/assets/civilians/_placeholders/civiliana_female/materials/civiliana_female_hair.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0039B37752805723",
@@ -93977,9 +93975,8 @@
   },
   {
     "hash": "005B35632150D5C9",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguarda_male_suit"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguarda_male/materials/bodyguarda_male_suit.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00168263942EE6FB",
@@ -94044,9 +94041,8 @@
   },
   {
     "hash": "0005B39803D9F3D1",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguarda_accessories_02"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguarda_male/materials/bodyguarda_accessories_02.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00A12C9FF20A874B",
@@ -94146,9 +94142,8 @@
   },
   {
     "hash": "004D605472E68D0A",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "civiliana_female_shirt"
+    "path": "[assembly:/_pro/characters/assets/civilians/_placeholders/civiliana_female/materials/civiliana_female_shirt.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "001AF522567D27B0",
@@ -94298,9 +94293,8 @@
   },
   {
     "hash": "002C642B6EF4DF36",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguarda_accessories_01"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguarda_male/materials/bodyguarda_accessories_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "007A99C7E0883EC9",
@@ -94319,9 +94313,8 @@
   },
   {
     "hash": "005152E25BC48CD8",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguarda_accessories_glass"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguarda_male/materials/bodyguarda_accessories_glass.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "000160218DF42AF0",
@@ -94345,9 +94338,8 @@
   },
   {
     "hash": "00B78030C81DE75F",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguardb_accessories_glass"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguardb_male/materials/bodyguardb_accessories_glass.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00B1FE6D146E7913",
@@ -94523,9 +94515,8 @@
   },
   {
     "hash": "00FD27683E18E11F",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguardb_shirt"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguardb_male/materials/bodyguardb_shirt.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0077B137835F696C",
@@ -94554,9 +94545,8 @@
   },
   {
     "hash": "00BAC243D0E514CD",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "civiliana_female_eyelashes"
+    "path": "[assembly:/_pro/characters/assets/civilians/_placeholders/civiliana_female/materials/civiliana_female_eyelashes.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00CED918961F391A",
@@ -94597,9 +94587,8 @@
   },
   {
     "hash": "00016498FD948118",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "civiliana_female_skirt"
+    "path": "[assembly:/_pro/characters/assets/civilians/_placeholders/civiliana_female/materials/civiliana_female_skirt.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "006730BE240F3A25",
@@ -94668,9 +94657,8 @@
   },
   {
     "hash": "00919EDC58120C27",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguardb_vest"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguardb_male/materials/bodyguardb_vest.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00647BD3AFDE1864",
@@ -94679,9 +94667,8 @@
   },
   {
     "hash": "003BB326F83BECEC",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguardb_accessories_02"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguardb_male/materials/bodyguardb_accessories_02.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "006EF017396BD8C3",
@@ -94750,9 +94737,8 @@
   },
   {
     "hash": "00D933F62056A180",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguardb_accessories_01"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguardb_male/materials/bodyguardb_accessories_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0053544E40C575E0",
@@ -94786,9 +94772,8 @@
   },
   {
     "hash": "008AA07A54F2ED28",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguardb_face"
+    "path": "[assembly:/_pro/characters/assets/guards/_placeholders/bodyguardb_male/materials/bodyguardb_face.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "005375DA647956BB",
@@ -94899,9 +94884,8 @@
   },
   {
     "hash": "00D3ED69E16619EB",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "civiliana_female_body"
+    "path": "[assembly:/_pro/characters/assets/civilians/_placeholders/civiliana_female/materials/civiliana_female_body.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00D077E33A9B26C6",
