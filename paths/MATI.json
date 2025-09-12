@@ -5018,7 +5018,7 @@
     "hash": "004E797059965609",
     "path": "",
     "gameFlags": 4,
-    "hint": "[unknown:/*/male_reg_hostage_head.mi].pc_mi"
+    "hint": "male_reg_hostage_head"
   },
   {
     "hash": "0030062AAAA2AA82",
@@ -5579,7 +5579,7 @@
     "hash": "00B635FC080195C5",
     "path": "",
     "gameFlags": 2,
-    "hint": "[unknown:/*/male_reg_soldier_head_01.mi].pc_mi"
+    "hint": "male_reg_soldier_head_01"
   },
   {
     "hash": "0038131D241A2895",
@@ -90673,12 +90673,12 @@
   },
   {
     "hash": "00B58702C11C6EF0",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/glow/fx_glow_fakevolumelight_a.mi].pc_mi",
     "gameFlags": 2
   },
   {
     "hash": "00E5C41737B8F877",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/lamps/studio_light_support _a.mi].pc_mi",
     "gameFlags": 2
   },
   {
@@ -90688,12 +90688,12 @@
   },
   {
     "hash": "0068A173DC868C37",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/marrakesh/movieset_minionmonster_inviscoli_a.mi].pc_mi",
     "gameFlags": 2
   },
   {
     "hash": "0043895445B38BD7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/backdrop/sky/sky_mamba_sunset_a.mi].pc_mi",
     "gameFlags": 2
   },
   {

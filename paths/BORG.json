@@ -22936,7 +22936,7 @@
   },
   {
     "hash": "0082CBB775EA88C8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/elitesoldier_01/geometry/male_regular_elitesoldier_01.wl2?/helmet_01.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -25511,7 +25511,7 @@
   },
   {
     "hash": "00A0A3430A2C21B2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/market_salesman/males/geomerty/male_reg_marketsalesman01.wl2?/upbody.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
@@ -27461,7 +27461,7 @@
   },
   {
     "hash": "00B64FB147C47E00",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/soldiers/elitesoldier_01/geometry/male_regular_elitesoldier_01.wl2?/helmet_02.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 2
   },
   {
