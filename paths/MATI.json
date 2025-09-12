@@ -94555,9 +94555,8 @@
   },
   {
     "hash": "00108F57A8F3444C",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "cleaner_suit_01"
+    "path": "[assembly:/materials/characters/supportingcast/cleaner/cleaner_suit_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00D12070A7E65C5A",
@@ -95005,9 +95004,8 @@
   },
   {
     "hash": "00B2805F70093D06",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "cleaner_female_01_lod"
+    "path": "[assembly:/materials/characters/supportingcast/cleaner/cleaner_female_01_lod.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "004FA8267DEDF990",
