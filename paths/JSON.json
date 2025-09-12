@@ -662,9 +662,8 @@
   },
   {
     "hash": "009B7BD3FEE4DBFF",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) black russian"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_colorado_blackrussian__1c82c1e3-fe61-4001-a173-81fa11023460.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "006B26616272FF21",
@@ -740,15 +739,13 @@
   },
   {
     "hash": "001CB19F24040451",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) bloody mary"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_bloodymary__87f8293a-29cd-4cb1-ade7-dd6bb056d38e.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00DA1D3DCE003800",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) blue blazer"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_blueblazer__dd906289-7c32-427f-b689-98ae645b407f.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00825990F1BBB6FE",
@@ -782,15 +779,13 @@
   },
   {
     "hash": "00AEB6397F4C91B2",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) brass monkey"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_brassmonkey__b0bed170-8652-4188-8b9a-92caf9f97e5b.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0008A96EEAD7AE07",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) bronx"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_hokkaido_bronx__c4c233d6-0b4d-4266-a72b-fd30c9a405fe.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00F05FEF7C746A88",
@@ -816,9 +811,8 @@
   },
   {
     "hash": "00F12F88F9B4429C",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) bushwacker"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_colorado_bushwacker__550c4d75-ca87-4be7-a18e-caf30e6c8136.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "008720D1720B11CD",
@@ -1169,9 +1163,8 @@
   },
   {
     "hash": "00002AF0A2C4CD53",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) dirty octopus"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_hokkaido_dirtyoctopus__deace35f-ab6d-44c9-b1a6-98757e854f74.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "003DC46912E7758E",
@@ -1241,9 +1234,8 @@
   },
   {
     "hash": "00268C93364DFBA1",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) flirtini"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_colorado_flirtini__655c5a57-69d1-48b6-a14b-2ae396c16174.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00E5CEE00EB79788",
@@ -1332,9 +1324,8 @@
   },
   {
     "hash": "001DEFC0B987FCF6",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) gimlet"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_gimlet__30c3546d-9881-45fa-8c7a-8b2c76b03e59.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "002C147F67F1679D",
@@ -1407,9 +1398,8 @@
   },
   {
     "hash": "0015DDCCB4C7C1FA",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) harvey wallbanger"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_harveywallbanger__0dc242ce-084e-4f6d-980f-e65885cd6955.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "008A378A99A9AD39",
@@ -1684,9 +1674,8 @@
   },
   {
     "hash": "00BEAA0FB1C2AC2D",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) kamikaze"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_kamikaze__2b928d67-c244-4601-bafb-7af664fb17bb.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00B3715D6BFC4689",
@@ -1700,9 +1689,8 @@
   },
   {
     "hash": "00536A213F457E9B",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) kir royal"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_kirroyal__a9d93d2a-c541-49ab-8ba1-9e345cf7e806.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0050715E38C4ACA1",
@@ -1826,9 +1814,8 @@
   },
   {
     "hash": "00F5EB9EF1D8D72C",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) lumumba"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_lumumba__5dc115d3-e5d4-4023-a11a-27c6f7194bea.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00734469020AFE98",
@@ -1914,9 +1901,8 @@
   },
   {
     "hash": "00195D014BF57CAE",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) margarita"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_margarita__158b600a-6448-45d3-907f-77351b9656ee.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00402826A723D858",
@@ -1950,9 +1936,8 @@
   },
   {
     "hash": "004573D7B850A67F",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) martini"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_martini__b0b8995c-7b3f-4fa6-91a2-be4bc8edc046.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00CB2B1920BE8E82",
@@ -1986,21 +1971,18 @@
   },
   {
     "hash": "00CA19A71BD99673",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) mimosa"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_mimosa__350ceea9-cfa9-4639-a66b-0d4de586eeee.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "007A09D0791F2CB0",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) mint julep"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_mintjulep__ff188c8b-e1eb-4c59-af75-6b6fe3da5955.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00C1DD98DDC51553",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) mojito"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_mojito__0fea5e55-9aec-41ef-9e5b-4e5e5f536f82.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "008E38DBA2BFDA9F",
@@ -2044,15 +2026,13 @@
   },
   {
     "hash": "00CD815E305EC43C",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) moscow mule"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_hokkaido_moscowmule__1c0377f3-6e32-4563-8baf-9677cdb3bb60.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00ED73AAF95B58EE",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) mudslide"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_mudslide__436cfc2a-c6d0-49bb-b916-2d0c782edb04.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00D9B4C4C90CE8E4",
@@ -2292,15 +2272,13 @@
   },
   {
     "hash": "00D58E391ACB5441",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) pink panther"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_pinkpanther__55281eef-35c3-4aa8-8217-7bacd015e80f.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0013EFE9C5DDDD81",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) pisco sour"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_piscosour__e87217e3-4809-4855-80d5-74bed66be58d.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00F2F02056AD9926",
@@ -2422,9 +2400,8 @@
   },
   {
     "hash": "0047479C0FA7A2FB",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) quadruple rum and coke"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_quadruplerumandcoke__8f13ea71-b207-4955-9eb8-ede757f3baa6.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00ABC96DF68ACA5D",
@@ -2498,9 +2475,8 @@
   },
   {
     "hash": "0052F105DBBEC291",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) sakini"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_sakini__92a87b10-a230-4986-bb35-06f16e84b11f.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00691772FD712E52",
@@ -2586,15 +2562,13 @@
   },
   {
     "hash": "0012A7A5CCE4FF80",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) sangria"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_sangria__509bfe25-3bb2-451a-a1b1-2c3f3afce747.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "007F157490581E97",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) sazerac"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_sazerac__0fd17346-bcb4-4bcc-acc3-5e1b6b184ef4.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00CFE2C47967D3E3",
@@ -2604,15 +2578,13 @@
   },
   {
     "hash": "0013AFE94105E342",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) sea breeze"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_hokkaido_seabreeze__781c68ca-9318-40bf-9cc1-232007be02bf.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "000EC0A774608C10",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) shandy"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_shandy__13680605-83ed-4b8c-a44d-30cc5b4fb17a.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00B0F0CE75644253",
@@ -2626,9 +2598,8 @@
   },
   {
     "hash": "007D94EC2C046AB8",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) sidecar"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_sidecar__a3c4fc6a-8892-4453-982a-bbd46f848ef3.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00E4170F9C602348",
@@ -2678,9 +2649,8 @@
   },
   {
     "hash": "001C2AE9BC528562",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) snakebite"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_colorado_snakebite__f1695db1-3193-439f-8122-851cbee40a2a.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0095C7FE1CE1B52A",
@@ -2763,9 +2733,8 @@
   },
   {
     "hash": "00642A0703BDDB84",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) spritzer"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_spritzer__4d0fad2e-7e00-4be3-a679-34ad895205ec.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00617C74601685EB",
@@ -2805,15 +2774,13 @@
   },
   {
     "hash": "00478FFAB8E26533",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) tamagozake"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_bangkok_tamagozake__e3d44520-dde7-446c-b414-ef6ce484ab4f.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "003EFE632517687E",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) tequila sunrise"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_tequilasunrise__8813e0a4-08ac-494f-a847-687a2da3582f.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00AD9D6C2C57EADD",
@@ -2962,9 +2929,8 @@
   },
   {
     "hash": "00DDE8E827E1A2CD",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) white russian"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_paris_whiterussian__16d78245-5392-413c-b3db-989d6685c32a.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00EA693FA0DA79AB",
@@ -3044,9 +3010,8 @@
   },
   {
     "hash": "0007D75820825050",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) zombie"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_zombie__94f9ace4-3ecb-41ab-8f62-910eeb0ee34d.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00EE3A82DB4CED70",
