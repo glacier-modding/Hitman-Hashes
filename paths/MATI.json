@@ -93860,9 +93860,8 @@
   },
   {
     "hash": "00D7A97666634480",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fashiondesigner_head_occ"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/materials/fashiondesigner_head_occ.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00709DB795656A7D",
@@ -93876,9 +93875,8 @@
   },
   {
     "hash": "0028C67BEA4B3F02",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fashiondesigner_glasses_glass"
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/fashiondesigner/materials/fashiondesigner_glasses_glass.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00EDFFACF10990A7",
@@ -93923,9 +93921,8 @@
   },
   {
     "hash": "0079B96D3EADD1C0",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "observatory_telescope_lens_glass_a"
+    "path": "[assembly:/_pro/_test/julienh/materials/observatory_telescope_lens_glass_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00390084CAB57BCD",
@@ -93994,9 +93991,8 @@
   },
   {
     "hash": "0097FF5468CC09F8",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "chipmunk_maskot_plastic_02"
+    "path": "[assembly:/materials/characters/supportingcast/chipmunk_maskot/chipmunk_maskot_plastic_02.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00078E04BAE96E75",
@@ -94077,9 +94073,8 @@
   },
   {
     "hash": "00DFBD236C12BB7F",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_fire_muzzleflash_core_01"
+    "path": "[assembly:/_pro/effects/materials/fire/fx_fire_muzzleflash_core_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00C7B7C036181A23",
@@ -94110,9 +94105,8 @@
   },
   {
     "hash": "0038718479E4632F",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguard_head_02_eyes"
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_head_02_eyes.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "002A1200EDC3529F",
@@ -94168,9 +94162,8 @@
   },
   {
     "hash": "007DFB4A9537FB11",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "backdrop_misc_a"
+    "path": "[assembly:/_pro/_test/alanb/materials/backdrop_misc_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00A0080B219A34FA",
@@ -94179,9 +94172,8 @@
   },
   {
     "hash": "00B962434C1E8EB0",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_par_smoke_4t_8x4_impact_02"
+    "path": "[assembly:/_pro/effects/materials/smoke/fx_par_smoke_4t_8x4_impact_02.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0058493BE64D6CDE",
@@ -94195,9 +94187,8 @@
   },
   {
     "hash": "008A008CCFD533B9",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "male_utilityworker_02_headskin_01"
+    "path": "[assembly:/_pro/characters/assets/workers/utilityworkers_02/materials/male_utilityworker_02_headskin_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00F95485E2AADC05",
@@ -94212,9 +94203,8 @@
   },
   {
     "hash": "00E471637682CCB9",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_par_liquid_splash_4tracks_8x4_blood"
+    "path": "[assembly:/_pro/effects/materials/liquid/fx_par_liquid_splash_4tracks_8x4_blood.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00DDF10C9B143C67",
@@ -94250,9 +94240,8 @@
   },
   {
     "hash": "00B13A075A71316F",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "observatory_telescope_lens_a"
+    "path": "[assembly:/_pro/_test/julienh/materials/observatory_telescope_lens_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "000BB48589B21B82",
@@ -94271,9 +94260,8 @@
   },
   {
     "hash": "006C5DD224632688",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_decal_liquid_rupture_8x3_coffee"
+    "path": "[assembly:/_pro/effects/materials/liquid/fx_decal_liquid_rupture_8x3_coffee.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00302B5471402935",
@@ -94350,9 +94338,8 @@
   },
   {
     "hash": "0051964B39D1E3D5",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "library_bookshelf_ornate_glass_a"
+    "path": "[assembly:/_pro/environment/materials/props/furniture/library_bookshelf_ornate_glass_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00C14CBEEC0769AE",
@@ -94361,9 +94348,8 @@
   },
   {
     "hash": "00EEBEE608068DD5",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "green_unlight"
+    "path": "[assembly:/_pro/_test/piotrm/materials/green_unlight.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00B78030C81DE75F",
@@ -94395,9 +94381,8 @@
   },
   {
     "hash": "00090F0A130A779D",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguard_head_03_eyes"
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_head_03_eyes.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00FB244D97B09A76",
@@ -94428,15 +94413,13 @@
   },
   {
     "hash": "002C317C189A7EED",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "female_casual_01_trousers_04"
+    "path": "[assembly:/_pro/environment/materials/props/clothing/female_casual_01_trousers_04.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00536EA7ACDC2606",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "prototype_material_doublesided"
+    "path": "[assembly:/_pro/_test/julienh/materials/prototype_material_doublesided.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "007B2A6B9D73AA39",
@@ -94463,15 +94446,13 @@
   },
   {
     "hash": "00643A537C134F0A",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "checker_a_emissive"
+    "path": "[assembly:/_pro/_test/julienh/materials/checker_a_emissive.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00B5039FAA0CD4F6",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguard_lowerbody"
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_lowerbody.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00478DBA2B7D9423",
@@ -94480,9 +94461,8 @@
   },
   {
     "hash": "0099621C4DEF273A",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_par_liquid_dryice_8x8"
+    "path": "[assembly:/_pro/effects/materials/liquid/fx_par_liquid_dryice_8x8.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00A336D8A09309D8",
@@ -94513,15 +94493,13 @@
   },
   {
     "hash": "001BEB6680F07293",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "male_utilityworker_02_eyeball"
+    "path": "[assembly:/_pro/characters/assets/workers/utilityworkers_02/materials/male_utilityworker_02_eyeball.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00CCE64CC6271C35",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "trim_grass_park_a_scatter_to_gravel"
+    "path": "[assembly:/_pro/environment/materials/decals/trims/trim_grass_park_a_scatter_to_gravel.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0092C53657AFBEFA",
@@ -94530,9 +94508,8 @@
   },
   {
     "hash": "00B42CA9743C5D25",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "cabletray_tileset_a"
+    "path": "[assembly:/_pro/environment/materials/props/electronic/cabletray_tileset_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0065751C63E66A13",
@@ -94565,15 +94542,13 @@
   },
   {
     "hash": "0077B137835F696C",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "crowd_female_test"
+    "path": "[assembly:/_pro/characters/assets/crowd/_placeholders/pro_crowd_female_fashionshow/materials/crowd_female_test.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0040AACF40D95A2A",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_par_glow_dust_bokeh_01"
+    "path": "[assembly:/_pro/effects/materials/glow/fx_par_glow_dust_bokeh_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00DC5DA7090CD011",
@@ -94687,9 +94662,8 @@
   },
   {
     "hash": "007E92FC350AB163",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "leaves_hanging_a"
+    "path": "[assembly:/_pro/environment/materials/foliage/leaves_hanging_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00363719EB4D5724",
@@ -94726,9 +94700,8 @@
   },
   {
     "hash": "006EF017396BD8C3",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "pig_handler_regular_male_01_lod"
+    "path": "[assembly:/materials/characters/supportingcast/pig_handler/pig_handler_regular_male_01_lod.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00DD656F7CC8474F",
@@ -94737,9 +94710,8 @@
   },
   {
     "hash": "009C952DE3BD2D04",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "ice_bubbles_a"
+    "path": "[assembly:/_pro/environment/materials/generic/ice/ice_bubbles_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "006C5D70EE49E087",
@@ -94784,9 +94756,8 @@
   },
   {
     "hash": "00A407713C9486C3",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_smoke_dryice"
+    "path": "[assembly:/_pro/effects/materials/smoke/fx_smoke_dryice.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0087B2DFA1196F43",
@@ -94826,9 +94797,8 @@
   },
   {
     "hash": "006BA639A049FBA5",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "chipmunk_maskot_body_02"
+    "path": "[assembly:/materials/characters/supportingcast/chipmunk_maskot/chipmunk_maskot_body_02.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "008AA07A54F2ED28",
@@ -94881,15 +94851,13 @@
   },
   {
     "hash": "00BDA973574D3098",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "pig_handler_regular_male_face_01"
+    "path": "[assembly:/materials/characters/supportingcast/pig_handler/pig_handler_regular_male_face_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00E841D25C7F1184",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "street_tiles_modern_a"
+    "path": "[assembly:/_pro/environment/materials/generic/ground/street_tiles_modern_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "004F607FBE8576E2",
@@ -94920,9 +94888,8 @@
   },
   {
     "hash": "0086B28EFE7485CC",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "checker_a_blue_reflective"
+    "path": "[assembly:/_pro/_test/janusk/materials/checker_a_blue_reflective.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00030ACEB2ECA355",
@@ -94974,9 +94941,8 @@
   },
   {
     "hash": "0033233AE21120A1",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fx_water_sea_italycoasttown"
+    "path": "[assembly:/_pro/effects/materials/water/fx_water_sea_italycoasttown.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00E927AEE746A9F6",
@@ -95018,9 +94984,8 @@
   },
   {
     "hash": "0027F8D53FF3662B",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "signs_fashionshow_entrance"
+    "path": "[assembly:/_pro/environment/materials/decals/signs/signs_fashionshow_entrance.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "005F29434346B47B",
@@ -95040,9 +95005,8 @@
   },
   {
     "hash": "00727ED25B7536A2",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "mockup_pillar_a"
+    "path": "[assembly:/_pro/_test/alanb/materials/mockup_pillar_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0045CB97F626B9E8",
@@ -95051,9 +95015,8 @@
   },
   {
     "hash": "00375903859F4F63",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "tomato_a"
+    "path": "[assembly:/_pro/environment/materials/props/food/tomato_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0025744A9E822ABA",
@@ -95062,9 +95025,8 @@
   },
   {
     "hash": "00D2174340776ACB",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fashionshow_photowall_noncloth_a"
+    "path": "[assembly:/_pro/environment/materials/props/fabric/fashionshow_photowall_noncloth_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00A96C7A354F7928",
@@ -95121,9 +95083,8 @@
   },
   {
     "hash": "00083505E43F9A05",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "bodyguard_head_01_eyes"
+    "path": "[assembly:/_pro/characters/assets/guards/bodyguards_01/materials/bodyguard_head_01_eyes.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00D4CA2C0026A36E",

@@ -27676,7 +27676,7 @@
   },
   {
     "hash": "00778BE2C4F3334D",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/fire/fx_fire_muzzleflash_core_01.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -27686,12 +27686,12 @@
   },
   {
     "hash": "003A5E33F0F22A63",
-    "path": "",
+    "path": "[assembly:/_pro/_test/piotrm/materials/green_unlight.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00E741CDB0C83696",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/water/fx_water_sea_italycoasttown.mi].pc_entityblueprint",
     "gameFlags": 128
   },
   {
