@@ -371,9 +371,8 @@
   },
   {
     "hash": "00BEEB81703B0186",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) adonis"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_sheep_adonis_44fd7474-d7be-4d3d-b944-6c1cf6ca09d1.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "008F555631C0DAE5",
@@ -382,9 +381,8 @@
   },
   {
     "hash": "00F13BA55B2129EA",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) alabama slammer"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_skunk_alabamaslammer_332e588b-80a3-4cb0-abc6-dc8de3d89e83.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "00BF3A8851B1B9A2",
@@ -823,9 +821,8 @@
   },
   {
     "hash": "0067B256E444F77A",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) caipirinha"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_caipirinha__b555d6a4-8b4d-4e1e-b6bd-ebd135ad1e01.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00E9AF7B0B94E127",
@@ -889,9 +886,8 @@
   },
   {
     "hash": "00624EF05331305D",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) cheeky vimto"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_northsea_cheekyvimto__541ddf3a-9a9a-4bc0-9e01-2edc9123c520.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "00A73E90F97F5EF7",
@@ -1016,9 +1012,8 @@
   },
   {
     "hash": "00477FB51EA51F0E",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) cosmopolitan"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_marrakesh_cosmopolitan__ad549098-eb3d-4132-8ef8-fe77c6afbbaa.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "008CD6B61164F275",
@@ -1174,9 +1169,8 @@
   },
   {
     "hash": "00873632246EE597",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) ectoplasm"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_mumbai_ectoplasm_4d4a4f24-b927-40c3-bb28-27329fa9e8cc.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "004551C984D2D40B",
@@ -1325,9 +1319,8 @@
   },
   {
     "hash": "002C147F67F1679D",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) gin fizz"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_marrakesh_ginfizz__59966a7f-3348-48da-a56c-4447aa548c85.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "003C16B400C417C9",
@@ -1336,9 +1329,8 @@
   },
   {
     "hash": "00A19D17D4A12942",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) golden doublet"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_northsea_goldendoublet__263eca3d-d25d-40ce-ba0a-48a221cd0b9e.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "008D0BE5863CF819",
@@ -1485,9 +1477,8 @@
   },
   {
     "hash": "007D703B3F2194F7",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) highball"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_colombia_highball__01e38e22-b8d8-4266-af3b-f3330c41e6f2.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "0041BE0AD5B284E4",
@@ -1531,9 +1522,8 @@
   },
   {
     "hash": "00E2576257BF73B5",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) hot toddy"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_marrakesh_hottoddy__c3c7126e-32cd-4502-b5ce-90b5ae436806.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00334619EB926231",
@@ -1662,9 +1652,8 @@
   },
   {
     "hash": "00837FCD091F1759",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) kabuki"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_mumbai_kabuki_430cc315-99a4-4ca7-8c35-496f033baa75.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "00BEAA0FB1C2AC2D",
@@ -1858,9 +1847,8 @@
   },
   {
     "hash": "00771BF3A431800A",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) mai tai"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_marrakesh_maitai__2e2c3f33-92ad-412f-a351-b7267697ff70.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00F17EB4C6301FDB",
@@ -2169,9 +2157,8 @@
   },
   {
     "hash": "00BFE60AAC0A8227",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) paloma"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_marrakesh_paloma__ad28204e-6b69-44d8-aefa-f5af13b67918.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0052084BF9B5188B",
@@ -2259,9 +2246,8 @@
   },
   {
     "hash": "004F21037A951FCA",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) pilsner"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_marrakesh_pilsner_2d581774-6647-42b0-acb7-bea6316abf00.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00D58E391ACB5441",
@@ -2564,9 +2550,8 @@
   },
   {
     "hash": "00CFE2C47967D3E3",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) screwdriver"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_marrakesh_screwdriver__0d938ef9-05c7-4eb8-89cc-ae79b73c6992.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "0013AFE94105E342",
@@ -2595,9 +2580,8 @@
   },
   {
     "hash": "00E4170F9C602348",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) skittle bomb"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_northsea_skittlebomb__cbc86bed-51ce-4699-89d4-0ded8f200cbc.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "0081941EB6409C43",
@@ -2776,9 +2760,8 @@
   },
   {
     "hash": "00AD9D6C2C57EADD",
-    "path": "",
-    "gameFlags": 6,
-    "hint": "(mission_contract) the last word"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_coastaltown_thelastword__6f61b8cb-2ba1-478a-9d4d-2b825767b12b.contract.json].pc_json",
+    "gameFlags": 6
   },
   {
     "hash": "00133FC73055BE8C",
@@ -2915,9 +2898,8 @@
   },
   {
     "hash": "0059F14F8862FF13",
-    "path": "",
-    "gameFlags": 4,
-    "hint": "(mission_contract) white man's burden"
+    "path": "[assembly:/_pro/online/default/contracts/seed/et_colombia_whitemansburden_179563a4-727a-4072-b354-c9fff4e8bff0.contract.json].pc_json",
+    "gameFlags": 4
   },
   {
     "hash": "00DDE8E827E1A2CD",
