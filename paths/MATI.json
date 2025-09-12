@@ -93934,9 +93934,8 @@
   },
   {
     "hash": "00C964358206982E",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "priest_dead_jacket_01"
+    "path": "[assembly:/materials/characters/supportingcast/priest_dead/priest_dead_jacket_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00BF721F36013A9C",
@@ -93980,9 +93979,8 @@
   },
   {
     "hash": "00168263942EE6FB",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "priest_pants_01"
+    "path": "[assembly:/materials/characters/supportingcast/priest_dead/priest_pants_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0097FF5468CC09F8",
@@ -94353,9 +94351,8 @@
   },
   {
     "hash": "00C82EF2337F3251",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "priest_dead_face_01"
+    "path": "[assembly:/materials/characters/supportingcast/priest_dead/priest_dead_face_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "003D954073599727",
@@ -94570,9 +94567,8 @@
   },
   {
     "hash": "00BD61E165C55FE0",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "priest_dead_01_lod"
+    "path": "[assembly:/materials/characters/supportingcast/priest_dead/priest_dead_01_lod.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0068B8FB19F2E524",

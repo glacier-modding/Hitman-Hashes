@@ -27651,7 +27651,7 @@
   },
   {
     "hash": "001F449E37BECA5B",
-    "path": "",
+    "path": "[assembly:/materials/characters/supportingcast/priest_dead/priest_dead_face_01.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
@@ -27666,7 +27666,7 @@
   },
   {
     "hash": "00D1AD36F11E37ED",
-    "path": "",
+    "path": "[assembly:/materials/characters/supportingcast/cleaner/cleaner_suit_01.mi].pc_entitytype",
     "gameFlags": 128
   },
   {
