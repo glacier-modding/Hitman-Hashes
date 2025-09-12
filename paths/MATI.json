@@ -93854,9 +93854,8 @@
   },
   {
     "hash": "00404C0FFE7ED31A",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "agencytruckb_01_ml"
+    "path": "[assembly:/materials/vehicles/agencytruckb_01_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00D7A97666634480",
@@ -93958,9 +93957,8 @@
   },
   {
     "hash": "006EF8E792A0629A",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_c_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_c_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "001A3CE9EC59262E",
@@ -94067,9 +94065,8 @@
   },
   {
     "hash": "00BF6B318DEC77E5",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "blackwater_masterbeda_01_ml"
+    "path": "[assembly:/materials/furniture/blackwater_masterbeda_01_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00DFBD236C12BB7F",
@@ -94094,9 +94091,8 @@
   },
   {
     "hash": "00103C571F66C95D",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_a_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_a_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00AF088892C24BA8",
@@ -94125,9 +94121,8 @@
   },
   {
     "hash": "000C8296F8291FCB",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "l06b_roadsign_b_ml"
+    "path": "[assembly:/materials/props/outside/l06b_roadsign_b_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "003BBC642E8AB44D",
@@ -94197,9 +94192,8 @@
   },
   {
     "hash": "0010DD3C860B1C44",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_e_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_e_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00E471637682CCB9",
@@ -94224,9 +94218,8 @@
   },
   {
     "hash": "008628E67BF1CBEF",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "blackwater_masterbeda_01_norefl"
+    "path": "[assembly:/materials/furniture/blackwater_masterbeda_01_norefl.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0004C126370F50B0",
@@ -94300,9 +94293,8 @@
   },
   {
     "hash": "00AF636AD49042E4",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_d_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_d_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "002C642B6EF4DF36",
@@ -94392,9 +94384,8 @@
   },
   {
     "hash": "00D934940B60A245",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_logo_02"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_logo_02.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00A4DCEF16AC64B5",
@@ -94429,9 +94420,8 @@
   },
   {
     "hash": "00C86933BA7BFC66",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_g_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_g_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00CA2224D86AB16D",
@@ -94466,9 +94456,8 @@
   },
   {
     "hash": "00A336D8A09309D8",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "v_usa_plane_md11_ml_c"
+    "path": "[assembly:/_pro/ui/materials/v_usa_plane_md11_ml_c.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "008D6104CA03BCB6",
@@ -94487,9 +94476,8 @@
   },
   {
     "hash": "000323F866B47E15",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "coffin_a_01_ml"
+    "path": "[assembly:/materials/furniture/coffin_a_01_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "001BEB6680F07293",
@@ -94525,9 +94513,8 @@
   },
   {
     "hash": "00DF7B4EDE3D36B9",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_logo_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_logo_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "004230C1D4B3DCD9",
@@ -94646,9 +94633,8 @@
   },
   {
     "hash": "00139F6B67294173",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "sanchez_hat_01"
+    "path": "[assembly:/materials/characters/maincast/sanchez/sanchez_hat_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00B5C52A62DF48A0",
@@ -94677,9 +94663,8 @@
   },
   {
     "hash": "0084180384208A06",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "old_drawersmirror_ml_reflection"
+    "path": "[assembly:/materials/furniture/old_drawersmirror_ml_reflection.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00919EDC58120C27",
@@ -94720,9 +94705,8 @@
   },
   {
     "hash": "00E24E7F3FB62007",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_f_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_f_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00C216D502DD0330",
@@ -94818,15 +94802,13 @@
   },
   {
     "hash": "009CDDAFB1B685CE",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "l02b_agility_walkway_a"
+    "path": "[assembly:/materials/props/outside/l02b_agility_walkway_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "002C2A7E5CB398A5",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "metal_f03_boeing_b_01"
+    "path": "[assembly:/_pro/ui/materials/metal_f03_boeing_b_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "009EC6047F3A6AC1",
@@ -94835,9 +94817,8 @@
   },
   {
     "hash": "0015655FDAC3EB56",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "sticker_silver"
+    "path": "[assembly:/materials/_test/jamieb/sticker_silver.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0061092A5D07C14B",
@@ -94866,9 +94847,8 @@
   },
   {
     "hash": "00FD7D541E529CFD",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "woodbarrel_big_a_01_ml"
+    "path": "[assembly:/materials/props/outside/woodbarrel_big_a_01_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00F1F54BAD55E6DF",
@@ -94903,9 +94883,8 @@
   },
   {
     "hash": "00C0C0DD158BFDCC",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "fireextinguisher_01_a"
+    "path": "[assembly:/materials/props/general/fireextinguisher_01_a.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "007B74CE79501A68",
@@ -94957,9 +94936,8 @@
   },
   {
     "hash": "0077561874F31BEE",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "agencytruckb_01_decal_ml"
+    "path": "[assembly:/materials/vehicles/agencytruckb_01_decal_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "001DDD51EBDC0171",
@@ -94978,9 +94956,8 @@
   },
   {
     "hash": "00DFDD0CA63F4B31",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "sticker_gold"
+    "path": "[assembly:/materials/_test/jamieb/sticker_gold.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0027F8D53FF3662B",
@@ -94989,9 +94966,8 @@
   },
   {
     "hash": "005F29434346B47B",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "sticker_bronze"
+    "path": "[assembly:/materials/_test/jamieb/sticker_bronze.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "009EF4578711A5AA",
@@ -95056,9 +95032,8 @@
   },
   {
     "hash": "009AA65B487896D9",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "poster_sapienza_01"
+    "path": "[assembly:/materials/_test/jamieb/poster_sapienza_01.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "009B3039A4CEB033",
@@ -95072,9 +95047,8 @@
   },
   {
     "hash": "000217629483E396",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "v_usa_plane_md11_ml"
+    "path": "[assembly:/_pro/ui/materials/v_usa_plane_md11_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00B1BC3D931AD3E1",
@@ -95088,9 +95062,8 @@
   },
   {
     "hash": "00D4CA2C0026A36E",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "l10_ruins_a_coffin_01_1"
+    "path": "[assembly:/materials/props/outside/l10_ruins_a_coffin_01_1.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "0095880DDBF1A77B",
@@ -95104,9 +95077,8 @@
   },
   {
     "hash": "00862A6AB741852C",
-    "path": "",
-    "gameFlags": 128,
-    "hint": "alley_dumpsterb_01_ml"
+    "path": "[assembly:/materials/props/outside/alley_dumpsterb_01_ml.mi].pc_mi",
+    "gameFlags": 128
   },
   {
     "hash": "00EF8CA365290F6F",
