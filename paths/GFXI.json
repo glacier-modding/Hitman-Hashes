@@ -42452,7 +42452,7 @@
   },
   {
     "hash": "008166A91173EB42",
-    "path": "",
+    "path": "[assembly:/ui/images/bootflow/gradient.png].pc_gfx",
     "gameFlags": 34
   },
   {
@@ -45988,7 +45988,7 @@
   },
   {
     "hash": "00D13F17F0336933",
-    "path": "",
+    "path": "[assembly:/_pro/ui/common/questitems/colorado/colorado_questitem_masterkey.jpg].pc_gfx",
     "gameFlags": 2
   },
   {
@@ -48608,7 +48608,7 @@
   },
   {
     "hash": "002DFE7583953016",
-    "path": "",
+    "path": "[assembly:/_pro/ui/common/questitems/marrakesh/spider/marrakesh_questitem_deliverytruck.jpg].pc_gfx",
     "gameFlags": 2
   },
   {
