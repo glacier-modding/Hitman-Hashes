@@ -1,14 +1,14 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.34%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.35%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.81%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.47%25-green.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.82%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.49%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.96%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.91%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.44%25-green.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.45%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.77%25-yellow.svg)
 <!-- BADGES_END -->
@@ -50,7 +50,7 @@
 |GFXV     |328            |322          |98.17%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3226           |2251         |69.78%            |729  |22.60%         |
+|JSON     |3226           |2259         |70.02%            |724  |22.44%         |
 |LINE     |33358          |32270        |96.74%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10534          |7408         |70.32%            |0    |0.00%          |
@@ -64,7 +64,7 @@
 |NAVP     |82             |82           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |145            |145          |100.00%           |0    |0.00%          |
-|PRIM     |44433          |43009        |96.80%            |3    |0.01%          |
+|PRIM     |44433          |43113        |97.03%            |3    |0.01%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |146            |141          |96.58%            |3    |2.05%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
