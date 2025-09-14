@@ -60,6 +60,14 @@ for json_file in json_files:
                     if entry.get('hint') and entry['hint'] != "":
                         extra_str = f" ({entry['wemId']})" if 'wemId' in entry else ''
 
+                if resource_type == 'JSON' and "contractId" in entry:
+                    contract_type = entry.get("contractType", "")
+                    contract_title = entry.get("contractTitle", "")
+                    contract_id = entry.get("contractId", "")
+                    
+                    extra_str = f"({contract_type}) {contract_title} - {contract_id}"
+
+
             total_hashes += 1
             calculated_hash = ioi_hash(path)
             if calculated_hash == entry['hash']:
