@@ -8,6 +8,7 @@ parser.add_argument('--overwrite-hints', action='store_true', help="Overwrite ex
 parser.add_argument('--add-line-hashes', action='store_true', help="Add line hashes to the LINE paths file.")
 parser.add_argument('--add-wemids', action='store_true', help="Add Wem IDs to the WWEM paths file.")
 parser.add_argument('--add-entity-subtypes', action='store_true', help="Add subtype information to TEMP/TBLU path files.")
+parser.add_argument('--add-contractmetadata', action='store_true', help="Add contract metadata information to the JSON path file.")
 args = parser.parse_args()
 
 output_directory = "paths"
@@ -46,8 +47,16 @@ def update_data(data, hash_val, path_val):
         if args.add_wemids:
             entry["wemId"] = path_val
             modified_types.add(hash_type)
+        if args.add_contractmetadata:
+            contract_id, contract_title, contract_location, contract_scene_path, contract_type = path_val.split("*")
+            entry["contractId"] = contract_id
+            entry["contractTitle"] = contract_title
+            entry["contractLocation"] = contract_location
+            entry["contractScenePath"] = contract_scene_path
+            entry["contractType"] = contract_type
+            modified_types.add(hash_type)
 
-        if not args.add_entity_subtypes and not args.add_line_hashes and not args.add_wemids:
+        if not args.add_entity_subtypes and not args.add_line_hashes and not args.add_wemids and not args.add_contractmetadata:
             if "path" in entry and entry["path"] != "":
                 return
             else:
