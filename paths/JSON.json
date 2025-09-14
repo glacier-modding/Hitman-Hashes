@@ -18246,7 +18246,7 @@
   },
   {
     "hash": "00A3150893CB4416",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/vs_race_sapienza__e0faa99e-d87e-4646-b1ee-e395b436925a.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "e0faa99e-d87e-4646-b1ee-e395b436925a",
     "contractTitle": "ui_contract_vs_race_name",
@@ -20536,7 +20536,7 @@
   },
   {
     "hash": "00FB635BD11C10E1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/vs_race_miami__c854d9c7-8991-42db-a2e4-3cf93e645e81.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "c854d9c7-8991-42db-a2e4-3cf93e645e81",
     "contractTitle": "ui_contract_vs_race_name",
