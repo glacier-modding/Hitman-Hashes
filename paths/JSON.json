@@ -661,7 +661,12 @@
     "hash": "006571A701F36B3F",
     "path": "",
     "gameFlags": 2,
-    "hint": "(featured_contract) a fruitful endeavor (h2016)"
+    "hint": "(featured_contract) a fruitful endeavor (h2016)",
+    "contractId": "1fe2cfe2-c0e9-443d-a99b-702a3b4e7a2a",
+    "contractTitle": "a fruitful endeavour (demo test)",
+    "contractLocation": "location_colorado",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colorado_2/_scene_bull.entity",
+    "contractType": "featured"
   },
   {
     "hash": "0073BF759AEAC41D",
@@ -1477,7 +1482,12 @@
     "hash": "000C435FCDE3CE5A",
     "path": "",
     "gameFlags": 2,
-    "hint": "(mission_contract) bull pro1 (h2016)"
+    "hint": "(mission_contract) bull pro1 (h2016)",
+    "contractId": "69b58abc-6535-4092-9afe-c046b26303e6",
+    "contractTitle": "ui_contract_bull_title",
+    "contractLocation": "location_colorado",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colorado_2/_scene_mission_bull.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00F12F88F9B4429C",
@@ -3933,7 +3943,12 @@
     "hash": "0052792EE7070BB4",
     "path": "",
     "gameFlags": 2,
-    "hint": "(mission_contract) octopus pro1 (h2016)"
+    "hint": "(mission_contract) octopus pro1 (h2016)",
+    "contractId": "644d36bd-1f88-44f9-9fed-14a51e5e3f6b",
+    "contractTitle": "ui_contract_octopus_title",
+    "contractLocation": "location_coastaltown",
+    "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/mission01.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00CB73EAD785D7B8",
@@ -4095,7 +4110,12 @@
     "hash": "0028949AAB069DA7",
     "path": "",
     "gameFlags": 2,
-    "hint": "(mission_contract) peacock pro1 (h2016)"
+    "hint": "(mission_contract) peacock pro1 (h2016)",
+    "contractId": "5ee4d771-6ab3-41fa-ab4f-04970d0ca327",
+    "contractTitle": "ui_contract_peacock_title",
+    "contractLocation": "location_paris",
+    "contractScenePath": "assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0015CB1543980460",
@@ -4953,7 +4973,12 @@
     "hash": "0064A73F8A864AFC",
     "path": "",
     "gameFlags": 2,
-    "hint": "(mission_contract) snow crane pro1 (h2016)"
+    "hint": "(mission_contract) snow crane pro1 (h2016)",
+    "contractId": "3d885714-fa9a-4438-9e0f-c58dbcaab8b8",
+    "contractTitle": "ui_contract_snow_crane_title",
+    "contractLocation": "location_hokkaido",
+    "contractScenePath": "assembly:/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00EB30F5C1FE8598",
@@ -5045,7 +5070,12 @@
     "hash": "001E864C26B31304",
     "path": "",
     "gameFlags": 2,
-    "hint": "(mission_contract) spider pro1 (h2016)"
+    "hint": "(mission_contract) spider pro1 (h2016)",
+    "contractId": "7b2d5500-7853-4ad0-b68a-14be791cfba2",
+    "contractTitle": "ui_contract_spider_title",
+    "contractLocation": "location_marrakech",
+    "contractScenePath": "assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00642A0703BDDB84",
@@ -5253,7 +5283,12 @@
     "hash": "00139402A5146A18",
     "path": "",
     "gameFlags": 2,
-    "hint": "(mission_contract) tiger pro1 (h2016)"
+    "hint": "(mission_contract) tiger pro1 (h2016)",
+    "contractId": "ad5f9051-045d-4b8e-8a4d-d84429f467f8",
+    "contractTitle": "ui_contract_tiger_title",
+    "contractLocation": "location_bangkok",
+    "contractScenePath": "assembly:/_pro/scenes/missions/bangkok/_scene_mission_tiger.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00EC84C823736B01",
@@ -16262,7 +16297,7 @@
     "hash": "00378F743CD179A1",
     "path": "",
     "gameFlags": 6,
-    "contractId": "8db48a19-2ddc-4edd-8d3a-fe0660b757b6",
+    "contractId": "01f96c29-8532-478e-be2e-56c583f85309",
     "contractTitle": "i need the bathroom !",
     "contractLocation": "location_hokkaido",
     "contractScenePath": "assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane.entity",
@@ -16553,7 +16588,7 @@
     "hash": "00444205C7730A95",
     "path": "",
     "gameFlags": 6,
-    "contractId": "bd8f7b40-50c7-4da6-83d6-3693d7883156",
+    "contractId": "830eb869-219e-4613-834e-832e0caccd75",
     "contractTitle": "closed!",
     "contractLocation": "location_coastaltown_night",
     "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/_scene_mamba.entity",
@@ -17122,7 +17157,7 @@
     "hash": "005E1ED6A56A297D",
     "path": "",
     "gameFlags": 6,
-    "contractId": "d61390ca-822e-437e-8f8a-8d07d043a309",
+    "contractId": "28b92f49-951b-40c3-ac15-0c16fe342bf1",
     "contractTitle": "sapper stalker drummer spy",
     "contractLocation": "location_bangkok",
     "contractScenePath": "assembly:/_pro/scenes/missions/bangkok/_scene_tiger.entity",
@@ -18051,7 +18086,7 @@
     "hash": "0083379C9C9ACCA1",
     "path": "",
     "gameFlags": 6,
-    "contractId": "b53d5f02-fc5b-40c7-ac25-8c5c0b24d238",
+    "contractId": "db352874-4ac6-46e9-b99c-274b3c1d7184",
     "contractTitle": "the great virus robbery",
     "contractLocation": "location_coastaltown",
     "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity",
@@ -18514,7 +18549,7 @@
     "hash": "0099C1D59A3EBFAC",
     "path": "",
     "gameFlags": 6,
-    "contractId": "8e559883-b5ee-45c5-8a45-2d7fcbbaa55f",
+    "contractId": "c8974ad3-f084-42dc-bdfa-ebce4e89664c",
     "contractTitle": "band of blackguards ii",
     "contractLocation": "location_paris",
     "contractScenePath": "assembly:/_pro/scenes/missions/paris/_scene_paris.entity",
@@ -18584,7 +18619,7 @@
     "hash": "009CF6B0046EF493",
     "path": "",
     "gameFlags": 6,
-    "contractId": "2045e4a1-c1dc-40a0-9183-69592b7d9db1",
+    "contractId": "5dea0882-ab18-4cc3-b9df-5c3643e0f97c",
     "contractTitle": "american haunting",
     "contractLocation": "location_colorado",
     "contractScenePath": "assembly:/_pro/scenes/missions/colorado_2/_scene_bull.entity",
@@ -20074,7 +20109,7 @@
     "hash": "00D26ED608A41023",
     "path": "",
     "gameFlags": 6,
-    "contractId": "d3860697-e221-4453-82d2-4513bf876670",
+    "contractId": "ddb4aaa7-b8fc-472e-8ecd-4c03ada90da3",
     "contractTitle": "the swedish infiltration",
     "contractLocation": "location_marrakech",
     "contractScenePath": "assembly:/_pro/scenes/missions/marrakesh/_scene_spider.entity",
@@ -20178,7 +20213,7 @@
     "hash": "00D702F299A2B16F",
     "path": "",
     "gameFlags": 6,
-    "contractId": "6b6f0ecd-c5df-4a2e-a788-a74b8d955b8b",
+    "contractId": "3caa17ed-ffa6-45a0-8722-5da0286e3f14",
     "contractTitle": "scorpio",
     "contractLocation": "location_coastaltown",
     "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity",
@@ -20193,7 +20228,7 @@
     "hash": "00D758208F0C8A78",
     "path": "",
     "gameFlags": 6,
-    "contractId": "b42d88aa-ce98-40a7-864a-d2b49d9ceaa4",
+    "contractId": "17a4e116-0777-4b44-8941-a256bd089197",
     "contractTitle": "prostate exam",
     "contractLocation": "location_hokkaido",
     "contractScenePath": "assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane.entity",
@@ -20951,7 +20986,7 @@
     "hash": "00F135BD3C949262",
     "path": "",
     "gameFlags": 6,
-    "contractId": "c2f891d6-740e-4450-b194-77f83595371b",
+    "contractId": "01bf7a0e-5858-48b5-bcd6-9329d28d7b93",
     "contractTitle": "nighty letally",
     "contractLocation": "location_marrakech_night",
     "contractScenePath": "assembly:/_pro/scenes/missions/marrakesh/_scene_python.entity",
