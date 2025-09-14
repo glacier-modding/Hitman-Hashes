@@ -12,7 +12,12 @@
   {
     "hash": "001D77BFEC20EA2F",
     "path": "[assembly:/_pro/online/default/contracts/seed/whitespider/c_ws_group_3d407b2b-e2f2-4204-9c08-7da67baa78fd.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "3d407b2b-e2f2-4204-9c08-7da67baa78fd",
+    "contractTitle": "ui_contract_campaign_patient_zero_title",
+    "contractLocation": "location_bangkok",
+    "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/_scene_copperhead.entity",
+    "contractType": "campaign"
   },
   {
     "hash": "005C988AED034D4B",
@@ -877,12 +882,22 @@
   {
     "hash": "002FB0AA87939A7E",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/colombia_anaconda_179563a4-727a-4072-b354-c9fff4e8bff0.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "179563a4-727a-4072-b354-c9fff4e8bff0",
+    "contractTitle": "ui_contract_anaconda_title",
+    "contractLocation": "location_colombia_anaconda",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colombia/scene_anaconda.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00F1C98E21AC5D76",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/ancestral_bulldog_755984a8-fb0b-4673-8637-95cfe7d34e0f.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "755984a8-fb0b-4673-8637-95cfe7d34e0f",
+    "contractTitle": "ui_contract_bulldog_title",
+    "contractLocation": "location_ancestral_bulldog",
+    "contractScenePath": "assembly:/_pro/scenes/missions/ancestral/scene_bulldog.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0087857AA5F2604E",
@@ -1440,7 +1455,12 @@
   {
     "hash": "00EDD07D6E516646",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/colorado__mission__42bac555-bbb9-429d-a8ce-f1ffdf94211c.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "42bac555-bbb9-429d-a8ce-f1ffdf94211c",
+    "contractTitle": "ui_contract_bull_title",
+    "contractLocation": "location_colorado",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colorado_2/_scene_mission_bull.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00E1B662E8E25ED5",
@@ -1482,7 +1502,12 @@
   {
     "hash": "00193A08D431AD85",
     "path": "[assembly:/_pro/online/default/contracts/seed/sniper/sc_caged_falcon_25b20d86-bb5a-4ebd-b6bb-81ed2779c180.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "25b20d86-bb5a-4ebd-b6bb-81ed2779c180",
+    "contractTitle": "ui_contract_falcon_title",
+    "contractLocation": "location_caged_falcon",
+    "contractScenePath": "assembly:/_pro/scenes/missions/caged/mission_falcon/scene_falcon_sniper.entity",
+    "contractType": "sniper"
   },
   {
     "hash": "0067B256E444F77A",
@@ -1822,7 +1847,12 @@
   {
     "hash": "0047ADE4EFBE0867",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/copperhead_10000006.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "00000000-0000-0000-0001-000000000006",
+    "contractTitle": "ui_contract_copperhead_title",
+    "contractLocation": "location_coastaltown_movieset",
+    "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/_scene_mission_copperhead.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00AE31699595CE31",
@@ -1859,7 +1889,12 @@
   {
     "hash": "0031903EA9340BC6",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/miami_cottonmouth_f1ba328f-e3dd-4ef8-bb26-0363499fdd95.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "f1ba328f-e3dd-4ef8-bb26-0363499fdd95",
+    "contractTitle": "ui_contract_cottonmouth_title",
+    "contractLocation": "location_miami_cottonmouth",
+    "contractScenePath": "assembly:/_pro/scenes/missions/miami/scene_cottonmouth.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00FE91E9EB0CFD0E",
@@ -2115,7 +2150,12 @@
   {
     "hash": "003D13C98D33FD3A",
     "path": "[assembly:/_pro/online/default/contracts/seed/whitespider/c_ws_ebola_7e3f758a-2435-42de-93bd-d8f0b72c63a4.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "7e3f758a-2435-42de-93bd-d8f0b72c63a4",
+    "contractTitle": "ui_contract_ebola_title",
+    "contractLocation": "location_coastaltown_ebola",
+    "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/scene_ebola.entity",
+    "contractType": "campaign"
   },
   {
     "hash": "00873632246EE597",
@@ -2185,12 +2225,22 @@
   {
     "hash": "0042477F6A0D4651",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/edgy_mission_fox__ebcd14b2-0786-4ceb-a2a4-e771f60d0125.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "ebcd14b2-0786-4ceb-a2a4-e771f60d0125",
+    "contractTitle": "ui_contract_fox_main_title",
+    "contractLocation": "location_edgy_fox",
+    "contractScenePath": "assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00C27E02CD7CD328",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/elegant_llama_d42f850f-ca55-4fc9-9766-8c6a2b5c3129.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "d42f850f-ca55-4fc9-9766-8c6a2b5c3129",
+    "contractTitle": "ui_contract_llama_title",
+    "contractLocation": "location_elegant_llama",
+    "contractScenePath": "assembly:/_pro/scenes/missions/elegant/scene_llama.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0022596E590046BC",
@@ -2205,7 +2255,12 @@
   {
     "hash": "0042F970E6C25DFE",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/miami__mission__flamingo__c1d015b4-be08-4e44-808e-ada0f387656f.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "c1d015b4-be08-4e44-808e-ada0f387656f",
+    "contractTitle": "ui_contract_flamingo_title",
+    "contractLocation": "location_miami",
+    "contractScenePath": "assembly:/_pro/scenes/missions/miami/scene_flamingo.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00268C93364DFBA1",
@@ -2240,7 +2295,12 @@
   {
     "hash": "009E6D387F52F286",
     "path": "[assembly:/_pro/online/default/contracts/seed/whitespider/c_ws_flu_a2befcec-7799-4987-9215-6a152cb6a320.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "a2befcec-7799-4987-9215-6a152cb6a320",
+    "contractTitle": "ui_contract_flu_title",
+    "contractLocation": "location_hokkaido_flu",
+    "contractScenePath": "assembly:/_pro/scenes/missions/hokkaido/_scene_flu.entity",
+    "contractType": "campaign"
   },
   {
     "hash": "00D3A7F085511D2E",
@@ -2310,7 +2370,12 @@
   {
     "hash": "0023AE7538BD74B0",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/skunk_gartersnake_0b616e62-af0c-495b-82e3-b778e82b5912.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "0b616e62-af0c-495b-82e3-b778e82b5912",
+    "contractTitle": "ui_contract_gartersnake_title",
+    "contractLocation": "location_northamerica_gartersnake",
+    "contractScenePath": "assembly:/_pro/scenes/missions/skunk/scene_gartersnake.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "0079FBF8A2171D5A",
@@ -2420,7 +2485,12 @@
   {
     "hash": "003ACDFAA2D796C3",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/golden_mission_gecko__7d85f2b0-80ca-49be-a2b7-d56f67faf252.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "7d85f2b0-80ca-49be-a2b7-d56f67faf252",
+    "contractTitle": "ui_contract_gecko_title",
+    "contractLocation": "location_golden_gecko",
+    "contractScenePath": "assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic.entity",
+    "contractType": "mission"
   },
   {
     "hash": "009FA1497F5CB597",
@@ -2490,7 +2560,12 @@
   {
     "hash": "00460450C806133B",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/greedy__raccoon__7a03a97d-238c-48bd-bda0-e5f279569cce.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "7a03a97d-238c-48bd-bda0-e5f279569cce",
+    "contractTitle": "ui_contract_raccoon_title",
+    "contractLocation": "location_greedy_raccoon",
+    "contractScenePath": "assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0015DDCCB4C7C1FA",
@@ -2515,7 +2590,12 @@
   {
     "hash": "00F97A33A016B37F",
     "path": "[assembly:/_pro/online/default/contracts/seed/sniper/sc_austria_hawk_ff9f46cf-00bd-4c12-b887-eac491c3a96d.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "ff9f46cf-00bd-4c12-b887-eac491c3a96d",
+    "contractTitle": "ui_contract_hawk_title",
+    "contractLocation": "location_austria",
+    "contractScenePath": "assembly:/_pro/scenes/missions/hawk/scene_hawk.entity",
+    "contractType": "sniper"
   },
   {
     "hash": "00F386D0592178FD",
@@ -2683,7 +2763,12 @@
   {
     "hash": "001004DF074AD315",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/colombia__mission__hippo__422519be-ed2e-44df-9dac-18f739d44fd9.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "422519be-ed2e-44df-9dac-18f739d44fd9",
+    "contractTitle": "ui_contract_hippo_title",
+    "contractLocation": "location_colombia",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colombia/scene_hippo.entity",
+    "contractType": "mission"
   },
   {
     "hash": "000F3851DEAB047C",
@@ -2863,7 +2948,12 @@
   {
     "hash": "001B9AB86203E8AD",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/colombia_jaguar__80f00389-a509-47d4-b049-f62c02bc909f.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "80f00389-a509-47d4-b049-f62c02bc909f",
+    "contractTitle": "ui_contract_jaguar_title",
+    "contractLocation": "location_colombia",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colombia/scene_jaguar.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00935B602858D582",
@@ -3008,7 +3098,12 @@
   {
     "hash": "00710ADA0817B8BD",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/mumbai_kingcobra_a8036782-de0a-4353-b522-0ab7a384bade.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "a8036782-de0a-4353-b522-0ab7a384bade",
+    "contractTitle": "ui_contract_kingcobra_title",
+    "contractLocation": "location_mumbai_kingcobra",
+    "contractScenePath": "assembly:/_pro/scenes/missions/mumbai/scene_kingcobra.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00536A213F457E9B",
@@ -3308,7 +3403,12 @@
   {
     "hash": "00EBA9412278AA09",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/vermont_lynx_1f227b14-da23-433a-9b02-290ca2396b2f.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "1f227b14-da23-433a-9b02-290ca2396b2f",
+    "contractTitle": "ui_contract_skunk_title",
+    "contractLocation": "location_northamerica",
+    "contractScenePath": "assembly:/_pro/scenes/missions/skunk/scene_lynx/scene_lynx.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00C95D80FA1126EA",
@@ -3323,7 +3423,12 @@
   {
     "hash": "00517B1957A342C4",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/theark_magpie_ui_contract_0d225edf-40cd-4f20-a30f-b62a373801d3.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "0d225edf-40cd-4f20-a30f-b62a373801d3",
+    "contractTitle": "ui_contract_magpie_title",
+    "contractLocation": "location_northsea",
+    "contractScenePath": "assembly:/_pro/scenes/missions/theark/scene_magpie.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00771BF3A431800A",
@@ -3358,7 +3463,12 @@
   {
     "hash": "005333DCA5D1AABB",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/mamba_10000005.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "00000000-0000-0000-0001-000000000005",
+    "contractTitle": "ui_contract_mamba_title",
+    "contractLocation": "location_coastaltown_night",
+    "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00F226C74808C4CE",
@@ -3384,7 +3494,12 @@
   {
     "hash": "002E189B60596180",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/hokkaido__mission__mamushi__c414a084-a7b9-43ce-b6ca-590620acd87e.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "c414a084-a7b9-43ce-b6ca-590620acd87e",
+    "contractTitle": "ui_contract_mamushi_title",
+    "contractLocation": "location_hokkaido_mamushi",
+    "contractScenePath": "assembly:/_pro/scenes/missions/hokkaido/scene_mamushi.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00195D014BF57CAE",
@@ -3559,7 +3674,12 @@
   {
     "hash": "006CD45EB591D57A",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/mumbai_mission__mongoose__0fad48d7-3d0f-4c66-8605-6cbe9c3a46d7.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "0fad48d7-3d0f-4c66-8605-6cbe9c3a46d7",
+    "contractTitle": "ui_contract_mongoose_title",
+    "contractLocation": "location_mumbai",
+    "contractScenePath": "assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00F400227FF67D1C",
@@ -3780,7 +3900,12 @@
   {
     "hash": "008B6C7914D2D461",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/worldoftomorrow_00000600.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "00000000-0000-0000-0000-000000000600",
+    "contractTitle": "ui_contract_octopus_title",
+    "contractLocation": "location_coastaltown",
+    "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/mission01.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00340ECAC2E685C5",
@@ -3823,7 +3948,12 @@
   {
     "hash": "00E9C518F01B071C",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/opulent__stingray__095261b5-e15b-4ca1-9bb7-001fb85c5aaa.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "095261b5-e15b-4ca1-9bb7-001fb85c5aaa",
+    "contractTitle": "ui_contract_stingray_title",
+    "contractLocation": "location_opulent_stingray",
+    "contractScenePath": "assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_basic.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0058842B55CCC5FE",
@@ -3913,7 +4043,12 @@
   {
     "hash": "00E30A4818B41A8D",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/theshowstopper_noel_00000200.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "4e45e91a-94ca-4d89-89fc-1b250e608e73",
+    "contractTitle": "ui_contract_parisnoel_title",
+    "contractLocation": "location_paris_noel",
+    "contractScenePath": "assembly:/_pro/scenes/missions/paris/_scene_paris.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00DFFC5385461912",
@@ -3938,7 +4073,12 @@
   {
     "hash": "0045BC2D7CB77F68",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/theshowstopper_00000200.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "00000000-0000-0000-0000-000000000200",
+    "contractTitle": "ui_contract_peacock_title",
+    "contractLocation": "location_paris",
+    "contractScenePath": "assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00A881B37BD52CC4",
@@ -4088,7 +4228,12 @@
   {
     "hash": "00745B1A299686FE",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/thefacility__mission__polarbear_arrival_firsttime_1436cbe4-164b-450f-ad2c-77dec88f53dd.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "1436cbe4-164b-450f-ad2c-77dec88f53dd",
+    "contractTitle": "ui_contract_polarbear_arrival_title_firsttime",
+    "contractLocation": "location_ica_facility_arrival",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_intro_firsttime.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "005451F1108A0615",
@@ -4103,7 +4248,12 @@
   {
     "hash": "00DEF6CC9864B276",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/polarbear_module005_ada5f2b1.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "ada5f2b1-8529-48bb-a596-717f75f5eacb",
+    "contractTitle": "ui_contract_polarbear_graduation_title",
+    "contractLocation": "location_ica_facility",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_005.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "00898AED0A1C1925",
@@ -4129,7 +4279,12 @@
   {
     "hash": "00769459086D820A",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/polarbear_module002_1d241b00.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "1d241b00-f585-4e3d-bc61-3095af1b96e2",
+    "contractTitle": "ui_contract_polarbear_module_002_title",
+    "contractLocation": "location_ica_facility_ship",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "001D3E7CD232DF85",
@@ -4144,7 +4299,12 @@
   {
     "hash": "001843F7C2B99591",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/thefacility__mission_polarbear_module_b573932d-7a34-44f1-bcf4-ea8f79f75710.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "b573932d-7a34-44f1-bcf4-ea8f79f75710",
+    "contractTitle": "ui_contract_polarbear_module_002_b_title",
+    "contractLocation": "location_ica_facility_ship",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002_b.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "00956D7F7DE827FC",
@@ -4159,17 +4319,32 @@
   {
     "hash": "00D6239F51AD804E",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/thefacility__mission_polarbear_module_e74c54ce-bbb1-4f31-89e0-46df62eb2066.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "e74c54ce-bbb1-4f31-89e0-46df62eb2066",
+    "contractTitle": "ui_contract_polarbear_module_002_c_title",
+    "contractLocation": "location_ica_facility_ship",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002_c.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "009333EF5D24991D",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/thefacility__mission__polarbear_pcvr_tutorial_2d106f47-ee07-45f6-862e-77ae02d38725.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "2d106f47-ee07-45f6-862e-77ae02d38725",
+    "contractTitle": "ui_contract_polarbear_vr_tutorial_title",
+    "contractLocation": "location_ica_facility",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_005_vr_tutorial.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "00A77A62864BCD36",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/thefacility__mission__polarbear_vr_tutorial_e7d87739-d09b-4e01-99a6-d1c634ab9c0c.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "e7d87739-d09b-4e01-99a6-d1c634ab9c0c",
+    "contractTitle": "ui_contract_polarbear_vr_tutorial_title",
+    "contractLocation": "location_ica_facility",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_005_vr_tutorial.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "00E1B4F6314F4C48",
@@ -4239,7 +4414,12 @@
   {
     "hash": "007979558A4DFD5E",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/python_9e781e81.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "ced93d8f-9535-425a-beb9-ef219e781e81",
+    "contractTitle": "ui_contract_python_title",
+    "contractLocation": "location_marrakech_night",
+    "contractScenePath": "assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python.entity",
+    "contractType": "flashback"
   },
   {
     "hash": "00E74D891A60533D",
@@ -4275,7 +4455,12 @@
   {
     "hash": "00426F952252D4CB",
     "path": "[assembly:/_pro/online/default/contracts/seed/whitespider/c_ws_rabies_ada6205e-6ee8-4189-9cdb-4947cccd84f4.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "ada6205e-6ee8-4189-9cdb-4947cccd84f4",
+    "contractTitle": "ui_contract_rabies_title",
+    "contractLocation": "location_colorado_rabies",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colorado_2/scene_rabies.entity",
+    "contractType": "campaign"
   },
   {
     "hash": "008E3E3C752E1F00",
@@ -4476,7 +4661,12 @@
   {
     "hash": "008B2B7390E3F79A",
     "path": "[assembly:/_pro/online/default/contracts/seed/sniper/sc_salty_seagull_00e57709-e049-44c9-a2c3-7655e19884fb.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "00e57709-e049-44c9-a2c3-7655e19884fb",
+    "contractTitle": "ui_contract_seagull_title",
+    "contractLocation": "location_salty_seagull",
+    "contractScenePath": "assembly:/_pro/scenes/missions/salty/mission_seagull/scene_seagull.entity",
+    "contractType": "sniper"
   },
   {
     "hash": "000C09F5AA9D8E3D",
@@ -4606,7 +4796,12 @@
   {
     "hash": "000F585FC7EE3AF8",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/newzealand_sheep_ui_contract_c65019e5-43a8-4a33-8a2a-84c750a5eeb3.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "c65019e5-43a8-4a33-8a2a-84c750a5eeb3",
+    "contractTitle": "ui_contract_sheep_title",
+    "contractLocation": "location_newzealand",
+    "contractScenePath": "assembly:/_pro/scenes/missions/sheep/scene_sheep.entity",
+    "contractType": "mission"
   },
   {
     "hash": "007D94EC2C046AB8",
@@ -4696,7 +4891,12 @@
   {
     "hash": "004BDB40699F7D72",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/washington__mission__skunk_82f55837-e26c-41bf-bc6e-fa97b7981fbc.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "82f55837-e26c-41bf-bc6e-fa97b7981fbc",
+    "contractTitle": "ui_contract_skunk_title",
+    "contractLocation": "location_northamerica",
+    "contractScenePath": "assembly:/_pro/scenes/missions/skunk/scene_skunk.entity",
+    "contractType": "mission"
   },
   {
     "hash": "001C2AE9BC528562",
@@ -4731,7 +4931,12 @@
   {
     "hash": "003354A644B72E43",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/hokkaido__mission__0e81a82e-b409-41e9-9e3b-5f82e57f7a12.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "0e81a82e-b409-41e9-9e3b-5f82e57f7a12",
+    "contractTitle": "ui_contract_snow_crane_title",
+    "contractLocation": "location_hokkaido",
+    "contractScenePath": "assembly:/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0047C65C2F949385",
@@ -4818,7 +5023,12 @@
   {
     "hash": "00AFD536960F606B",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/toobigforjail_00000400.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "00000000-0000-0000-0000-000000000400",
+    "contractTitle": "ui_contract_spider_title",
+    "contractLocation": "location_marrakech",
+    "contractScenePath": "assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00829D0C8676C1DC",
@@ -5021,7 +5231,12 @@
   {
     "hash": "008E98659BE939A9",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/bangkok_tiger_db341d9f-58a4-411d-be57-0bc4ed85646b.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "db341d9f-58a4-411d-be57-0bc4ed85646b",
+    "contractTitle": "ui_contract_tiger_title",
+    "contractLocation": "location_bangkok",
+    "contractScenePath": "assembly:/_pro/scenes/missions/bangkok/_scene_mission_tiger.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0099E21504B8CF2E",
@@ -5076,7 +5291,12 @@
   {
     "hash": "00A8C67C8316EF20",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/trapped_wolverine_a3e19d55-64a6-4282-bb3c-d18c3f3e6e29.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "a3e19d55-64a6-4282-bb3c-d18c3f3e6e29",
+    "contractTitle": "ui_contract_wolverine_title",
+    "contractLocation": "location_trapped_wolverine",
+    "contractScenePath": "assembly:/_pro/scenes/missions/trapped/scene_wolverine.entity",
+    "contractType": "mission"
   },
   {
     "hash": "00C212129F2909B6",
@@ -5169,7 +5389,12 @@
   {
     "hash": "0092633EE2D15990",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/wet__rat__ea233825-9d14-436c-a97b-bec054c89b66.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "3d0cbb8c-2a80-442a-896b-fea00e98768c",
+    "contractTitle": "ui_contract_rat_title",
+    "contractLocation": "location_wet_rat",
+    "contractScenePath": "assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity",
+    "contractType": "mission"
   },
   {
     "hash": "0059F14F8862FF13",
@@ -5314,7 +5539,12 @@
   {
     "hash": "001F0DDCA1CD152D",
     "path": "[assembly:/_pro/online/default/contracts/seed/whitespider/c_ws_zika_024b6964-a3bb-4457-b085-08f9a7dc7fb7.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "024b6964-a3bb-4457-b085-08f9a7dc7fb7",
+    "contractTitle": "ui_contract_zika_title",
+    "contractLocation": "location_bangkok_zika",
+    "contractScenePath": "assembly:/_pro/scenes/missions/bangkok/scene_zika.entity",
+    "contractType": "campaign"
   },
   {
     "hash": "00D8D47E66DF7E0F",
@@ -5545,7 +5775,12 @@
   {
     "hash": "005DB46BA07B4804",
     "path": "[assembly:/_pro/online/default/contracts/seed/sniper/scoringdefinition_sc.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "27cbf549-743a-4f3e-8c62-8d958ae1fc91",
+    "contractTitle": "",
+    "contractLocation": "location_austria",
+    "contractScenePath": "",
+    "contractType": "sniper"
   },
   {
     "hash": "006C4D7214B42031",
@@ -21276,7 +21511,12 @@
   {
     "hash": "006B7E2A4743B4B4",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/rocky_dugong_b2aac100-dfc7-4f85-b9cd-528114436f6c.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "b2aac100-dfc7-4f85-b9cd-528114436f6c",
+    "contractTitle": "ui_contract_dugong_title",
+    "contractLocation": "location_rocky_dugong",
+    "contractScenePath": "assembly:/_pro/scenes/missions/rocky/scene_dugong.entity",
+    "contractType": "mission"
   },
   {
     "hash": "007A24517D8D3E8E",
@@ -21521,12 +21761,22 @@
   {
     "hash": "001538B2F7B0F483",
     "path": "[assembly:/_pro/online/default/contracts/seed/sarajevosix/s6_hokkaido_seabreeze__781c68ca-9318-40bf-9cc1-232007be02bf.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "781c68ca-9318-40bf-9cc1-232007be02bf",
+    "contractTitle": "ui_contract_seabreeze_title",
+    "contractLocation": "location_hokkaido",
+    "contractScenePath": "assembly:/_pro/scenes/missions/hokkaido/_scene_snowcrane.entity",
+    "contractType": "orbis"
   },
   {
     "hash": "00162212DF103F29",
     "path": "[assembly:/_pro/online/default/contracts/seed/sarajevosix/s6_bangkok_gimlet__30c3546d-9881-45fa-8c7a-8b2c76b03e59.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "30c3546d-9881-45fa-8c7a-8b2c76b03e59",
+    "contractTitle": "ui_contract_gimlet_title",
+    "contractLocation": "location_bangkok",
+    "contractScenePath": "assembly:/_pro/scenes/missions/bangkok/_scene_tiger.entity",
+    "contractType": "orbis"
   },
   {
     "hash": "0041F8722DF44958",
@@ -21536,17 +21786,32 @@
   {
     "hash": "0065B3B7F4A6D0C3",
     "path": "[assembly:/_pro/online/default/contracts/seed/sarajevosix/s6_colorado_blackrussian__1c82c1e3-fe61-4001-a173-81fa11023460.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "1c82c1e3-fe61-4001-a173-81fa11023460",
+    "contractTitle": "ui_contract_blackrussian_title",
+    "contractLocation": "location_colorado",
+    "contractScenePath": "assembly:/_pro/scenes/missions/colorado_2/_scene_bull.entity",
+    "contractType": "orbis"
   },
   {
     "hash": "009415BD6642C216",
     "path": "[assembly:/_pro/online/default/contracts/seed/sarajevosix/s6_paris_blueblazer__dd906289-7c32-427f-b689-98ae645b407f.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "dd906289-7c32-427f-b689-98ae645b407f",
+    "contractTitle": "ui_contract_blue_blazer_title",
+    "contractLocation": "location_paris",
+    "contractScenePath": "assembly:/_pro/scenes/missions/paris/_scene_paris.entity",
+    "contractType": "orbis"
   },
   {
     "hash": "009CC90D4C2FBDB3",
     "path": "[assembly:/_pro/online/default/contracts/seed/sarajevosix/s6_coastaltown_mimosa__350ceea9-cfa9-4639-a66b-0d4de586eeee.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "350ceea9-cfa9-4639-a66b-0d4de586eeee",
+    "contractTitle": "ui_contract_mimosa_title",
+    "contractLocation": "location_coastaltown",
+    "contractScenePath": "assembly:/_pro/scenes/missions/coastaltown/_scene_octopus.entity",
+    "contractType": "orbis"
   },
   {
     "hash": "00A3D6297CEB2A9E",
@@ -21556,7 +21821,12 @@
   {
     "hash": "00B10FBB72AA7A31",
     "path": "[assembly:/_pro/online/default/contracts/seed/sarajevosix/s6_marrakesh_ginfizz__59966a7f-3348-48da-a56c-4447aa548c85.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "59966a7f-3348-48da-a56c-4447aa548c85",
+    "contractTitle": "ui_contract_ginfizz_title",
+    "contractLocation": "location_marrakech",
+    "contractScenePath": "assembly:/_pro/scenes/missions/marrakesh/_scene_spider.entity",
+    "contractType": "orbis"
   },
   {
     "hash": "00B8B5A37DAF7E93",
@@ -21801,7 +22071,12 @@
   {
     "hash": "00CCC81B5E4DB1F2",
     "path": "[assembly:/_pro/online/default/contracts/seed/missions/thefacility__mission__polarbear_neovr_tutorial_47fdffe9-c453-45ad-ad96-ac6f63494c40.contract.json]([assembly:/_pro/online/default/offlineconfig/config.unlockables].pc_unlockables).pc_json",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "contractId": "47fdffe9-c453-45ad-ad96-ac6f63494c40",
+    "contractTitle": "ui_contract_polarbear_neo_vr_tutorial_title",
+    "contractLocation": "location_ica_facility_ship",
+    "contractScenePath": "assembly:/_pro/scenes/missions/thefacility/scene_vrtutorial.entity",
+    "contractType": "tutorial"
   },
   {
     "hash": "00305C961431FB04",
