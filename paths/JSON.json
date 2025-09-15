@@ -14836,7 +14836,7 @@
   },
   {
     "hash": "000ADF529764B83D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/vs_race_sa_sapienza__6226211f-f858-4eb5-a7b9-f1c142b46a8a.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "6226211f-f858-4eb5-a7b9-f1c142b46a8a",
     "contractTitle": "ui_contract_vs_race_sa_name",
@@ -14986,7 +14986,7 @@
   },
   {
     "hash": "0011B602B1D68B66",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/vs_race_frantic_sapienza__e3e619e3-520d-4319-acab-5bdf86d8e24e.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "e3e619e3-520d-4319-acab-5bdf86d8e24e",
     "contractTitle": "ui_contract_vs_race_frantic_name",
@@ -16536,7 +16536,7 @@
   },
   {
     "hash": "005576F00A0A88FE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/vs_race_sa_miami__a9cde088-fe06-4acd-b92a-967d0b59654d.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "a9cde088-fe06-4acd-b92a-967d0b59654d",
     "contractTitle": "ui_contract_vs_race_name",
@@ -17231,7 +17231,7 @@
   },
   {
     "hash": "00757228D2BCFCC8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/fc_w21_paris_iotravis.json].pc_json",
     "gameFlags": 6,
     "contractId": "b0001e3b-f76c-46c2-8bd1-0ca531b91879",
     "contractTitle": "get salty",
@@ -18106,7 +18106,7 @@
   },
   {
     "hash": "009FB86446A778F7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/vs_race_sapienza_p2p_2e0295f7-aa24-4ac7-ba92-c5e2b7b8ec0f.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "2e0295f7-aa24-4ac7-ba92-c5e2b7b8ec0f",
     "contractTitle": "ui_contract_vs_race_p2p_name",
