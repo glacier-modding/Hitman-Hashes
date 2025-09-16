@@ -2926,7 +2926,7 @@
   },
   {
     "hash": "0017CFA288B94703",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_destruction_book_page.materialclass].fx](dx11).pc_mate",
     "gameFlags": 8
   },
   {
@@ -5551,7 +5551,7 @@
   },
   {
     "hash": "006DF43930D04ACA",
-    "path": "",
+    "path": "[[assembly:/_pro/effects/materialclasses/custom/fx_smoke_dryice.materialclass].fx](dx11).pc_mate",
     "gameFlags": 128
   },
   {
