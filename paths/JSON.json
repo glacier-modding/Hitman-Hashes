@@ -12446,9 +12446,8 @@
   },
   {
     "hash": "00A737F7A93A787B",
-    "path": "",
-    "gameFlags": 32,
-    "hint": "[unknown:/lists.json](sniperchallenge).pc_json"
+    "path": "[assembly:/_pro/online/sniperchallenge/lists/lists.json].pc_json",
+    "gameFlags": 32
   },
   {
     "hash": "00B7C0E06A8B062A",
