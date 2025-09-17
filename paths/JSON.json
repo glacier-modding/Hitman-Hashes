@@ -17625,7 +17625,7 @@
   },
   {
     "hash": "00870359CEBA7B59",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/skunk_myrtle_group_74e6b561-ff1a-4742-9a7b-890b7818c796.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "74e6b561-ff1a-4742-9a7b-890b7818c796",
     "contractTitle": "ui_contract_myrtle_group_title",
@@ -17740,7 +17740,7 @@
   },
   {
     "hash": "008C1506834C7EE6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/skunk_myrtle_level1_246b802f-2e9d-42a7-b9b7-7ef55beb3110.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "246b802f-2e9d-42a7-b9b7-7ef55beb3110",
     "contractTitle": "ui_contract_myrtle_level_1_name",
@@ -18475,7 +18475,7 @@
   },
   {
     "hash": "00AC265D24B3F850",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/skunk_myrtle_level3_d7bc0701-e9c9-465c-a1af-561863697fca.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "d7bc0701-e9c9-465c-a1af-561863697fca",
     "contractTitle": "ui_contract_myrtle_level_3_name",
@@ -19710,7 +19710,7 @@
   },
   {
     "hash": "00DB236DFF367CF4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/skunk_myrtle_level2_a3d5cd5e-a47f-40ac-8ba9-77fea52ee995.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "a3d5cd5e-a47f-40ac-8ba9-77fea52ee995",
     "contractTitle": "ui_contract_myrtle_level_2_name",
