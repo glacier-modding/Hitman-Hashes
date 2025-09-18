@@ -31,7 +31,7 @@
   },
   {
     "hash": "0071C02367631FA2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__group__7151ef94-a1e5-4b61-a542-cafa19c49a70.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7151ef94-a1e5-4b61-a542-cafa19c49a70",
     "contractTitle": "ui_contract_amaryllis_group_title",
@@ -41,7 +41,7 @@
   },
   {
     "hash": "0003345E2965F78C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__anemone__group__77c7b56f-2410-4919-a4bc-64435c6cff55.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "77c7b56f-2410-4919-a4bc-64435c6cff55",
     "contractTitle": "ui_contract_anemone_group_title",
@@ -71,7 +71,7 @@
   },
   {
     "hash": "00FB072CA1635A33",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bamboo__group__162e9039-cb05-418c-ba8f-792fc6cc5165.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "162e9039-cb05-418c-ba8f-792fc6cc5165",
     "contractTitle": "ui_contract_bamboo_group_title",
@@ -101,7 +101,7 @@
   },
   {
     "hash": "009EADFD8B92311B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__blackthorn__group__d6961637-effe-4c39-b99a-f2df4402657d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d6961637-effe-4c39-b99a-f2df4402657d",
     "contractTitle": "ui_contract_blackthorn_group_title",
@@ -121,7 +121,7 @@
   },
   {
     "hash": "007BFCB93E80938B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bluebell__group__5746f21e-efa1-4787-a9ca-99a5f233f507.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5746f21e-efa1-4787-a9ca-99a5f233f507",
     "contractTitle": "ui_contract_bluebell_group_title",
@@ -181,7 +181,7 @@
   },
   {
     "hash": "00AC1286A7B585E1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__cyclamen__group__39f03892-a841-4775-91ac-f8c91b485505.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "39f03892-a841-4775-91ac-f8c91b485505",
     "contractTitle": "ui_contract_cyclamen_group_title",
@@ -231,7 +231,7 @@
   },
   {
     "hash": "00F78F0178286C66",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__foxglove__group__ebf8e5b5-3bf0-487e-8d1b-9473aee61291.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ebf8e5b5-3bf0-487e-8d1b-9473aee61291",
     "contractTitle": "ui_contract_foxglove_group_title",
@@ -251,7 +251,7 @@
   },
   {
     "hash": "00A259FDF96238F6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__goosefoot__group__bfb0d544-b4c9-4533-bed4-4562a43a3f40.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "bfb0d544-b4c9-4533-bed4-4562a43a3f40",
     "contractTitle": "ui_contract_goosefoot_group_title",
@@ -261,7 +261,7 @@
   },
   {
     "hash": "002A77E77D8CC521",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__hawthorn__group__e6be23e8-8602-42c8-a014-17ffbfa053f5.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e6be23e8-8602-42c8-a014-17ffbfa053f5",
     "contractTitle": "ui_contract_hawthorn_group_title",
@@ -331,7 +331,7 @@
   },
   {
     "hash": "009C581ECE118220",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__juniper__group__e01113e6-f27d-4ea1-a8ba-93062335bbf5.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e01113e6-f27d-4ea1-a8ba-93062335bbf5",
     "contractTitle": "ui_contract_juniper_group_title",
@@ -351,7 +351,7 @@
   },
   {
     "hash": "003D80CB3B2DBF3B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__larkspur__group__51038604-c3f4-41e9-889b-25d9d5de93c6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "51038604-c3f4-41e9-889b-25d9d5de93c6",
     "contractTitle": "ui_contract_larkspur_group_title",
@@ -391,7 +391,7 @@
   },
   {
     "hash": "007AF83F0C9D242B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__marigold__group__ced3ecb8-70ab-40b0-b033-6f6235c61900.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ced3ecb8-70ab-40b0-b033-6f6235c61900",
     "contractTitle": "ui_contract_marigold_group_title",
@@ -421,7 +421,7 @@
   },
   {
     "hash": "00DE79639AA22621",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nicotiana__group__c1db299f-3037-4726-b9fc-5cd951c45812.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c1db299f-3037-4726-b9fc-5cd951c45812",
     "contractTitle": "ui_contract_nicotiana_group_title",
@@ -431,7 +431,7 @@
   },
   {
     "hash": "00B6750650AF8BB7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nightshade__group__0e5c23b1-4678-458b-ad98-8b55c268e90a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0e5c23b1-4678-458b-ad98-8b55c268e90a",
     "contractTitle": "ui_contract_nightshade_group_title",
@@ -451,7 +451,7 @@
   },
   {
     "hash": "0066CF21E18E7F9E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__peony__group__e75663c8-afca-45a1-af18-25fe3e663848.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e75663c8-afca-45a1-af18-25fe3e663848",
     "contractTitle": "ui_contract_peony_group_title",
@@ -461,7 +461,7 @@
   },
   {
     "hash": "006A39772D185B1A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__primrose__group__2e365b7c-817d-4213-8fb1-496fa8067e7b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "2e365b7c-817d-4213-8fb1-496fa8067e7b",
     "contractTitle": "ui_contract_primrose_group_title",
@@ -521,7 +521,7 @@
   },
   {
     "hash": "002FDEC9AEFE3C35",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__snowdrop__group__aee6a16f-6525-4d63-a37f-225e293c6118.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "aee6a16f-6525-4d63-a37f-225e293c6118",
     "contractTitle": "ui_contract_snowdrop_group_title",
@@ -551,7 +551,7 @@
   },
   {
     "hash": "0036396AA0081DDB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__torenia__group__4f6ee6ec-b6d7-4958-9838-0352c10294a0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4f6ee6ec-b6d7-4958-9838-0352c10294a0",
     "contractTitle": "ui_contract_torenia_group_title",
@@ -561,7 +561,7 @@
   },
   {
     "hash": "00F2011DDBB91D37",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__tulip__group__a1e7fdb4-88a4-4dbd-9ef2-d9bd1762cec2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a1e7fdb4-88a4-4dbd-9ef2-d9bd1762cec2",
     "contractTitle": "ui_contract_tulip_group_title",
@@ -581,7 +581,7 @@
   },
   {
     "hash": "00375363A39B7DF3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__wisteria__group__54e6c794-2855-4ecf-acc2-d7710d5d96d1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "54e6c794-2855-4ecf-acc2-d7710d5d96d1",
     "contractTitle": "ui_contract_wisteria_group_title",
@@ -591,7 +591,7 @@
   },
   {
     "hash": "003F7799147B5B9F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__wolfsbane__gruop__c469d91d-01fc-4314-b22c-71cb804e92c0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c469d91d-01fc-4314-b22c-71cb804e92c0",
     "contractTitle": "ui_contract_wolfsbane_group_title",
@@ -701,7 +701,7 @@
   },
   {
     "hash": "00698628F6DEF8EB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level1__d9b7717e-2de5-4a79-abdd-ba1ed0e0ebaf.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d9b7717e-2de5-4a79-abdd-ba1ed0e0ebaf",
     "contractTitle": "ui_contract_amaryllis_level_1_title",
@@ -711,7 +711,7 @@
   },
   {
     "hash": "006DDB19F16D1250",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level10__d5ec5ada-6d2a-444e-a136-f1bd6ea3ff86.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d5ec5ada-6d2a-444e-a136-f1bd6ea3ff86",
     "contractTitle": "ui_contract_amaryllis_level_10_title",
@@ -721,7 +721,7 @@
   },
   {
     "hash": "00304BD73153E8FD",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level2__8faccff7-db0a-4bd3-bc86-0894d9938d40.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8faccff7-db0a-4bd3-bc86-0894d9938d40",
     "contractTitle": "ui_contract_amaryllis_level_2_title",
@@ -731,7 +731,7 @@
   },
   {
     "hash": "00148A27CC9889CE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level3__8fdd00d2-34f7-4710-9c66-a548d465757a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8fdd00d2-34f7-4710-9c66-a548d465757a",
     "contractTitle": "ui_contract_amaryllis_level_3_title",
@@ -741,7 +741,7 @@
   },
   {
     "hash": "00A6267ED2CDD8AE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level4__ae523b25-3597-4c22-814f-afc0b1636064.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ae523b25-3597-4c22-814f-afc0b1636064",
     "contractTitle": "ui_contract_amaryllis_level_4_title",
@@ -751,7 +751,7 @@
   },
   {
     "hash": "00ECA9C8A000AA31",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level5__06a3c945-6d8f-4091-92a1-ef16c04e6886.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "06a3c945-6d8f-4091-92a1-ef16c04e6886",
     "contractTitle": "ui_contract_amaryllis_level_5_title",
@@ -761,7 +761,7 @@
   },
   {
     "hash": "0045AB5675E6118F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level6__74b41ac7-bd16-402f-b738-f89c3bfac3d4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "74b41ac7-bd16-402f-b738-f89c3bfac3d4",
     "contractTitle": "ui_contract_amaryllis_level_6_title",
@@ -771,7 +771,7 @@
   },
   {
     "hash": "0077228BF6150D4D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level7_8ed9e405-2a8f-496f-955a-a13b0019ca65.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8ed9e405-2a8f-496f-955a-a13b0019ca65",
     "contractTitle": "ui_contract_amaryllis_level_7_title",
@@ -781,7 +781,7 @@
   },
   {
     "hash": "00690A8604B9D9EB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level8__ecaac70b-e22c-4afe-a610-0d1f44516fe2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ecaac70b-e22c-4afe-a610-0d1f44516fe2",
     "contractTitle": "ui_contract_amaryllis_level_8_title",
@@ -791,7 +791,7 @@
   },
   {
     "hash": "009B633284A8FDFC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__amaryllis__level9__accd2587-4d32-45d6-9bd5-a3d6bb146b08.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "accd2587-4d32-45d6-9bd5-a3d6bb146b08",
     "contractTitle": "ui_contract_amaryllis_level_9_title",
@@ -831,7 +831,7 @@
   },
   {
     "hash": "0087857AA5F2604E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__anemone__level1__80b099d6-ab46-4505-8415-c9971022cac3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "80b099d6-ab46-4505-8415-c9971022cac3",
     "contractTitle": "ui_contract_anemone_level_1_title",
@@ -841,7 +841,7 @@
   },
   {
     "hash": "00C081F1DD42D24D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__anemone__level2__29d25fb4-27b0-4738-94c5-f9e361ad9b53.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "29d25fb4-27b0-4738-94c5-f9e361ad9b53",
     "contractTitle": "ui_contract_anemone_level_2_title",
@@ -851,7 +851,7 @@
   },
   {
     "hash": "00B8E5DD6D3BA39E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__anemone__level3__b68d2e29-d524-48bc-8aae-9f3004b1b5cf.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b68d2e29-d524-48bc-8aae-9f3004b1b5cf",
     "contractTitle": "ui_contract_anemone_level_3_title",
@@ -861,7 +861,7 @@
   },
   {
     "hash": "00A6BAE71DA54145",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__anemone__level4__9f91d926-eed8-4c3c-928f-055de1822a2d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9f91d926-eed8-4c3c-928f-055de1822a2d",
     "contractTitle": "ui_contract_anemone_level_4_title",
@@ -871,7 +871,7 @@
   },
   {
     "hash": "00BF33FF7A3E1185",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__anemone__level5__a08d65bc-3a72-4202-8d8e-c03444d2ba51.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a08d65bc-3a72-4202-8d8e-c03444d2ba51",
     "contractTitle": "ui_contract_anemone_level_5_title",
@@ -981,7 +981,7 @@
   },
   {
     "hash": "0016E06DF178820E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bamboo__level1__8dbc9542-8eca-45ea-9471-36002e5eded7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8dbc9542-8eca-45ea-9471-36002e5eded7",
     "contractTitle": "ui_contract_bamboo_level_1_title",
@@ -991,7 +991,7 @@
   },
   {
     "hash": "00F54C044D7A3751",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bamboo__level2__dc3a4e81-c13f-497c-8e31-05d90d29e837.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "dc3a4e81-c13f-497c-8e31-05d90d29e837",
     "contractTitle": "ui_contract_bamboo_level_2_title",
@@ -1001,7 +1001,7 @@
   },
   {
     "hash": "0023DF7E8B044DD5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bamboo__level3__ad80e67c-fa4c-4c29-b834-9b1f23bcf02a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ad80e67c-fa4c-4c29-b834-9b1f23bcf02a",
     "contractTitle": "ui_contract_bamboo_level_3_title",
@@ -1131,7 +1131,7 @@
   },
   {
     "hash": "000703D5B4F37349",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__blackthorn__level1__30f4a862-35f8-4f34-ba0d-552ac87ccbbe.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "30f4a862-35f8-4f34-ba0d-552ac87ccbbe",
     "contractTitle": "ui_contract_blackthorn_level_1_title",
@@ -1141,7 +1141,7 @@
   },
   {
     "hash": "0036989CB76BB996",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__blackthorn__level2__1e307dd6-74cb-4e4a-9829-50106a95c3ef.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1e307dd6-74cb-4e4a-9829-50106a95c3ef",
     "contractTitle": "ui_contract_blackthorn_level_2_title",
@@ -1151,7 +1151,7 @@
   },
   {
     "hash": "004A16497255ACC4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__blackthorn__level3__6cc11563-1101-4c63-9d24-483fca17915b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "6cc11563-1101-4c63-9d24-483fca17915b",
     "contractTitle": "ui_contract_blackthorn_level_3_title",
@@ -1161,7 +1161,7 @@
   },
   {
     "hash": "00779B7D68A2BF7B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__blackthorn__level4__dbd36aab-ed98-47e2-823a-867ba6e070d1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "dbd36aab-ed98-47e2-823a-867ba6e070d1",
     "contractTitle": "ui_contract_blackthorn_level_4_title",
@@ -1171,7 +1171,7 @@
   },
   {
     "hash": "008C2B208A5D37F3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__blackthorn__level5__4aba4161-608c-4f2c-b1b7-e6669a5eac44.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4aba4161-608c-4f2c-b1b7-e6669a5eac44",
     "contractTitle": "ui_contract_blackthorn_level_5_title",
@@ -1261,7 +1261,7 @@
   },
   {
     "hash": "00825990F1BBB6FE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bluebell__level1__b4870ab6-b2c8-45b1-a1f0-9cb617bb7433.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b4870ab6-b2c8-45b1-a1f0-9cb617bb7433",
     "contractTitle": "ui_contract_bluebell_level_1_title",
@@ -1271,7 +1271,7 @@
   },
   {
     "hash": "00B98936B87D8833",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bluebell__level2__bd45480b-29d6-4e15-ae2a-d64eab54a00c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "bd45480b-29d6-4e15-ae2a-d64eab54a00c",
     "contractTitle": "ui_contract_bluebell_level_2_title",
@@ -1281,7 +1281,7 @@
   },
   {
     "hash": "005C7455F3861B84",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bluebell__level3__85c5c73b-eae2-4fcb-9791-68671ea595aa.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "85c5c73b-eae2-4fcb-9791-68671ea595aa",
     "contractTitle": "ui_contract_bluebell_level_3_title",
@@ -1291,7 +1291,7 @@
   },
   {
     "hash": "0066892542FB4517",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bluebell__level4__2c170d4f-89d2-430b-8812-bd3a38be7f59.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "2c170d4f-89d2-430b-8812-bd3a38be7f59",
     "contractTitle": "ui_contract_bluebell_level_4_title",
@@ -1301,7 +1301,7 @@
   },
   {
     "hash": "00D3D510E065E3E7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__bluebell__level5__6d60b35a-c41a-45a3-bfc8-16b6959ffdb9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "6d60b35a-c41a-45a3-bfc8-16b6959ffdb9",
     "contractTitle": "ui_contract_bluebell_level_5_title",
@@ -1771,7 +1771,7 @@
   },
   {
     "hash": "0029EA7A6360F96D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__cyclamen__level1__c6440643-0e2f-4321-8de4-6b877f015147.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c6440643-0e2f-4321-8de4-6b877f015147",
     "contractTitle": "ui_contract_cyclamen_level_1_title",
@@ -1781,7 +1781,7 @@
   },
   {
     "hash": "00C90AFC803F2D52",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__cyclamen__level2__eb340d27-39fa-4e42-baf1-216363dbcdfc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "eb340d27-39fa-4e42-baf1-216363dbcdfc",
     "contractTitle": "ui_contract_cyclamen_level_2_title",
@@ -1791,7 +1791,7 @@
   },
   {
     "hash": "000A559BA58C392E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__cyclamen__level3__38effc92-c5db-4cc4-b0fa-43f4dfa34995.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "38effc92-c5db-4cc4-b0fa-43f4dfa34995",
     "contractTitle": "ui_contract_cyclamen_level_3_title",
@@ -1801,7 +1801,7 @@
   },
   {
     "hash": "00A1BA466163388F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__cyclamen__level4__01d00202-c08a-4fa3-acd6-4a17eeaee2a1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "01d00202-c08a-4fa3-acd6-4a17eeaee2a1",
     "contractTitle": "ui_contract_cyclamen_level_4_title",
@@ -1811,7 +1811,7 @@
   },
   {
     "hash": "00066E81EB8B0E6D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__cyclamen__level5__49b24fc5-582b-4314-88a5-f282171b9a56.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "49b24fc5-582b-4314-88a5-f282171b9a56",
     "contractTitle": "ui_contract_cyclamen_level_5_title",
@@ -2141,7 +2141,7 @@
   },
   {
     "hash": "00D3A7F085511D2E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__foxglove__level1__c6ccb4ef-0feb-40d9-8f1b-80fd6ad06e08.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c6ccb4ef-0feb-40d9-8f1b-80fd6ad06e08",
     "contractTitle": "ui_contract_foxglove_level_1_title",
@@ -2151,7 +2151,7 @@
   },
   {
     "hash": "00B1F94254AA6316",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__foxglove__level2__b8b55d97-dfe9-4776-8f64-1cfcd2dfa20a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b8b55d97-dfe9-4776-8f64-1cfcd2dfa20a",
     "contractTitle": "ui_contract_foxglove_level_2_title",
@@ -2161,7 +2161,7 @@
   },
   {
     "hash": "00B873A872639ECD",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__foxglove__level3__62f17649-be17-4b2d-aeef-be6689251915.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "62f17649-be17-4b2d-aeef-be6689251915",
     "contractTitle": "ui_contract_foxglove_level_3_title",
@@ -2171,7 +2171,7 @@
   },
   {
     "hash": "00D7D7E356CD0817",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__foxglove__level4__7413e00d-29b7-46c5-8cab-969c3660281c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7413e00d-29b7-46c5-8cab-969c3660281c",
     "contractTitle": "ui_contract_foxglove_level_4_title",
@@ -2181,7 +2181,7 @@
   },
   {
     "hash": "007EAEBB539CE9E5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__foxglove__level5__739e624b-2851-4925-bb5c-f86e8d196aeb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "739e624b-2851-4925-bb5c-f86e8d196aeb",
     "contractTitle": "ui_contract_foxglove_level_5_title",
@@ -2321,7 +2321,7 @@
   },
   {
     "hash": "009FA1497F5CB597",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__goosefoot__level1__e22b9844-8b4b-47e9-8401-4938bc1e038d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e22b9844-8b4b-47e9-8401-4938bc1e038d",
     "contractTitle": "ui_contract_goosefoot_level_1_title",
@@ -2331,7 +2331,7 @@
   },
   {
     "hash": "00FAC7EF477FDB0D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__goosefoot__level2__e4d4c3fa-e65f-4c03-b1ad-3cd550696f5c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e4d4c3fa-e65f-4c03-b1ad-3cd550696f5c",
     "contractTitle": "ui_contract_goosefoot_level_2_title",
@@ -2341,7 +2341,7 @@
   },
   {
     "hash": "00198A6BBA509E92",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__goosefoot__level3__9a10bdf7-f289-4a88-972a-c31d5a860ff9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9a10bdf7-f289-4a88-972a-c31d5a860ff9",
     "contractTitle": "ui_contract_goosefoot_level_3_title",
@@ -2351,7 +2351,7 @@
   },
   {
     "hash": "0099A93C5E12C7CD",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__goosefoot__level4__81e33608-8fe6-43a2-b55b-26b50b64bc32.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "81e33608-8fe6-43a2-b55b-26b50b64bc32",
     "contractTitle": "ui_contract_goosefoot_level_4_title",
@@ -2361,7 +2361,7 @@
   },
   {
     "hash": "0042DE171BFA95E2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__goosefoot__level5__3e5d074c-ec66-4b27-bacf-9e96a01cdd62.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3e5d074c-ec66-4b27-bacf-9e96a01cdd62",
     "contractTitle": "ui_contract_goosefoot_level_5_title",
@@ -2421,7 +2421,7 @@
   },
   {
     "hash": "00F386D0592178FD",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__hawthorn__level1__3554ebd7-b190-4cb5-a267-46f3bda8cdde.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3554ebd7-b190-4cb5-a267-46f3bda8cdde",
     "contractTitle": "ui_contract_hawthorn_level_1_title",
@@ -2431,7 +2431,7 @@
   },
   {
     "hash": "005BF6A343186B38",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__hawthorn__level2__1039e6e9-2961-4595-bf1b-c456a82c2653.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1039e6e9-2961-4595-bf1b-c456a82c2653",
     "contractTitle": "ui_contract_hawthorn_level_2_title",
@@ -2441,7 +2441,7 @@
   },
   {
     "hash": "0057467F87E50F09",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__hawthorn__level3__bd3c6179-42bc-4844-85c1-e01a6a1ea821.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "bd3c6179-42bc-4844-85c1-e01a6a1ea821",
     "contractTitle": "ui_contract_hawthorn_level_3_title",
@@ -2451,7 +2451,7 @@
   },
   {
     "hash": "000C045075DC2525",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__hawthorn__level4__a02562b8-1d33-41d4-b3f6-0338b90eaae0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a02562b8-1d33-41d4-b3f6-0338b90eaae0",
     "contractTitle": "ui_contract_hawthorn_level_4_title",
@@ -2461,7 +2461,7 @@
   },
   {
     "hash": "0042342EB5B76D18",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__hawthorn__level5__541bcd99-44dc-4e0a-8520-15a528223cac.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "541bcd99-44dc-4e0a-8520-15a528223cac",
     "contractTitle": "ui_contract_hawthorn_level_5_title",
@@ -2801,7 +2801,7 @@
   },
   {
     "hash": "00FAE43B64BF1A4D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__juniper__level1__5fa7fc7d-daf4-4c6e-84bc-fd854c8c2ebe.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5fa7fc7d-daf4-4c6e-84bc-fd854c8c2ebe",
     "contractTitle": "ui_contract_juniper_level_1_title",
@@ -2811,7 +2811,7 @@
   },
   {
     "hash": "004BCCCD3CDD4C05",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__juniper__level2__08a5b11b-5b04-42f3-98c4-b12fdd4097fc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "08a5b11b-5b04-42f3-98c4-b12fdd4097fc",
     "contractTitle": "ui_contract_juniper_level_2_title",
@@ -2821,7 +2821,7 @@
   },
   {
     "hash": "00302D6E42550787",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__juniper__level3__4e9c89d2-8acc-48af-b147-20aafb6df8dd.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4e9c89d2-8acc-48af-b147-20aafb6df8dd",
     "contractTitle": "ui_contract_juniper_level_3_title",
@@ -2831,7 +2831,7 @@
   },
   {
     "hash": "00A927EF922F3A1A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__juniper__level4__63ac5e2c-d634-4b11-8a57-d1bb03d41b1e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "63ac5e2c-d634-4b11-8a57-d1bb03d41b1e",
     "contractTitle": "ui_contract_juniper_level_4_title",
@@ -2841,7 +2841,7 @@
   },
   {
     "hash": "00C67196ED444DBB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__juniper__level5__150cfa6d-6be8-4b79-930d-07bd3ccde952.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "150cfa6d-6be8-4b79-930d-07bd3ccde952",
     "contractTitle": "ui_contract_juniper_level_5_title",
@@ -2951,7 +2951,7 @@
   },
   {
     "hash": "00A155AF38EED6A3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__larkspur__level1__9d8814dc-ed19-4b4a-8590-2bb9f957ba29.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9d8814dc-ed19-4b4a-8590-2bb9f957ba29",
     "contractTitle": "ui_contract_larkspur_level_1_title",
@@ -2961,7 +2961,7 @@
   },
   {
     "hash": "00029454FD607336",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__larkspur__level2__00881a0d-7eeb-4329-a733-fc23e59a5dc1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "00881a0d-7eeb-4329-a733-fc23e59a5dc1",
     "contractTitle": "ui_contract_larkspur_level_2_title",
@@ -2971,7 +2971,7 @@
   },
   {
     "hash": "0029687D812C266F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__larkspur__level3__89d637e6-5a3f-4266-a8f1-32c8d804ae06.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "89d637e6-5a3f-4266-a8f1-32c8d804ae06",
     "contractTitle": "ui_contract_larkspur_level_3_title",
@@ -2981,7 +2981,7 @@
   },
   {
     "hash": "0001DBE0E7DD0CF7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__larkspur__level4__5792ca6f-7bb4-4b16-af21-15f5f4398aa7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5792ca6f-7bb4-4b16-af21-15f5f4398aa7",
     "contractTitle": "ui_contract_larkspur_level_4_title",
@@ -2991,7 +2991,7 @@
   },
   {
     "hash": "0044D94CAF37FD86",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__larkspur__level5__da459b80-2cb2-4c99-b57d-9531c10e34ac.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "da459b80-2cb2-4c99-b57d-9531c10e34ac",
     "contractTitle": "ui_contract_larkspur_level_5_title",
@@ -3271,7 +3271,7 @@
   },
   {
     "hash": "00402826A723D858",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__marigold__level1__871eb4fc-6572-4f2e-948c-377ee4339927.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "871eb4fc-6572-4f2e-948c-377ee4339927",
     "contractTitle": "ui_contract_marigold_level_1_title",
@@ -3281,7 +3281,7 @@
   },
   {
     "hash": "009D637EBBF8E815",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__marigold__level2__5a67d839-18f2-4925-90c3-f6639b9b8728.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5a67d839-18f2-4925-90c3-f6639b9b8728",
     "contractTitle": "ui_contract_marigold_level_2_title",
@@ -3291,7 +3291,7 @@
   },
   {
     "hash": "003705B291528EF7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__marigold__level3_11839cdf-ac4e-46a9-9004-8c5e93d231cc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "11839cdf-ac4e-46a9-9004-8c5e93d231cc",
     "contractTitle": "ui_contract_marigold_level_3_title",
@@ -3301,7 +3301,7 @@
   },
   {
     "hash": "0031F8592341E61E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__marigold__level4__34db98fe-7d3f-45a4-b37a-097410449423.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "34db98fe-7d3f-45a4-b37a-097410449423",
     "contractTitle": "ui_contract_marigold_level_4_title",
@@ -3311,7 +3311,7 @@
   },
   {
     "hash": "008DDB5F372D09D1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__marigold__level5__8e16b428-5de7-4c56-a3ab-a1e244488ebc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8e16b428-5de7-4c56-a3ab-a1e244488ebc",
     "contractTitle": "ui_contract_marigold_level_5_title",
@@ -3511,7 +3511,7 @@
   },
   {
     "hash": "006FC49D1C3639B3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nicotiana__level1__09d63e1b-39f2-4d1f-b212-a60980734f41.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "09d63e1b-39f2-4d1f-b212-a60980734f41",
     "contractTitle": "ui_contract_nicotiana_level_1_title",
@@ -3521,7 +3521,7 @@
   },
   {
     "hash": "0085F73C6AA77D9C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nicotiana__level2__434b17c5-8666-4b60-9a63-076c71ebfdc5.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "434b17c5-8666-4b60-9a63-076c71ebfdc5",
     "contractTitle": "ui_contract_nicotiana_level_2_title",
@@ -3531,7 +3531,7 @@
   },
   {
     "hash": "00D1DD1833D760F1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nicotiana__level3__7e70e579-726f-4ebf-a409-84efb6be4f5a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7e70e579-726f-4ebf-a409-84efb6be4f5a",
     "contractTitle": "ui_contract_nicotiana_level_3_title",
@@ -3541,7 +3541,7 @@
   },
   {
     "hash": "00FAC014F5857EDC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nicotiana__level4__4d5950b9-5baa-4d29-a627-b4ecd7930744.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4d5950b9-5baa-4d29-a627-b4ecd7930744",
     "contractTitle": "ui_contract_nicotiana_level_4_title",
@@ -3551,7 +3551,7 @@
   },
   {
     "hash": "00FD2D1BFA9BC4D2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nicotiana__level5__0aac363d-3e5d-4e9e-8d27-b890c0a8d3b5.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0aac363d-3e5d-4e9e-8d27-b890c0a8d3b5",
     "contractTitle": "ui_contract_nicotiana_level_5_title",
@@ -3561,7 +3561,7 @@
   },
   {
     "hash": "00C5FF61462B9E8A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nightshade__level1__329617f2-7454-4cb7-95e4-e02725263bb1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "329617f2-7454-4cb7-95e4-e02725263bb1",
     "contractTitle": "ui_contract_nightshade_level_1_title",
@@ -3571,7 +3571,7 @@
   },
   {
     "hash": "00D0D10511348ECA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nightshade__level2__ce869624-c9e0-4778-b053-e86be6d07bc2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ce869624-c9e0-4778-b053-e86be6d07bc2",
     "contractTitle": "ui_contract_nightshade_level_2_title",
@@ -3581,7 +3581,7 @@
   },
   {
     "hash": "009546449E063F08",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nightshade__level3__3a9fddda-43a6-4f0b-8cf0-bc68098143fd.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3a9fddda-43a6-4f0b-8cf0-bc68098143fd",
     "contractTitle": "ui_contract_nightshade_level_3_title",
@@ -3591,7 +3591,7 @@
   },
   {
     "hash": "00505DA0DD9C0984",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nightshade__level4__79db896f-2141-470b-b25b-fd603a7e347d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "79db896f-2141-470b-b25b-fd603a7e347d",
     "contractTitle": "ui_contract_nightshade_level_4_title",
@@ -3601,7 +3601,7 @@
   },
   {
     "hash": "00B2C4CB8C2C8392",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__nightshade__level5__4b30ac0d-be8b-43f0-8894-277ad4bb8074.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4b30ac0d-be8b-43f0-8894-277ad4bb8074",
     "contractTitle": "ui_contract_nightshade_level_5_title",
@@ -3831,7 +3831,7 @@
   },
   {
     "hash": "0015CB1543980460",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__peacock_silent_assassin__9746e6d7-54c8-42eb-81b9-8573af3c6db8.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9746e6d7-54c8-42eb-81b9-8573af3c6db8",
     "contractTitle": "ui_contract_silent_assassin_showstopper_title",
@@ -3851,7 +3851,7 @@
   },
   {
     "hash": "00FFBADE0E8DE311",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__peony__level1__9f2af10d-1826-4fe5-bea6-de8c23f2c651.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9f2af10d-1826-4fe5-bea6-de8c23f2c651",
     "contractTitle": "ui_contract_peony_level_1_title",
@@ -3861,7 +3861,7 @@
   },
   {
     "hash": "00A85C825101FFED",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__peony__level2__3d15a639-f5cb-484d-a167-ae5ababd6739.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3d15a639-f5cb-484d-a167-ae5ababd6739",
     "contractTitle": "ui_contract_peony_level_2_title",
@@ -3871,7 +3871,7 @@
   },
   {
     "hash": "00E190FDA207AE04",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__peony__level3__48d58415-938a-444a-89c0-4b722d217c28.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "48d58415-938a-444a-89c0-4b722d217c28",
     "contractTitle": "ui_contract_peony_level_3_title",
@@ -3881,7 +3881,7 @@
   },
   {
     "hash": "00C6A414B5A18B96",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__peony__level4__b3076a7d-247b-4252-8c2b-eabddae71ef2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b3076a7d-247b-4252-8c2b-eabddae71ef2",
     "contractTitle": "ui_contract_peony_level_4_title",
@@ -3891,7 +3891,7 @@
   },
   {
     "hash": "005E92A830B45C51",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__peony__level5__7bf14497-f478-4cd7-b35f-b04933ca80bb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7bf14497-f478-4cd7-b35f-b04933ca80bb",
     "contractTitle": "ui_contract_peony_level_5_title",
@@ -4071,7 +4071,7 @@
   },
   {
     "hash": "00E1B4F6314F4C48",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__primrose__level1__b7fb6444-1675-461b-b966-4a46657d8f5b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b7fb6444-1675-461b-b966-4a46657d8f5b",
     "contractTitle": "ui_contract_primrose_level_1_title",
@@ -4081,7 +4081,7 @@
   },
   {
     "hash": "0037CE8F516A175C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__primrose__level2__4324c417-9200-4e72-a3fe-a3e65500a2a9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4324c417-9200-4e72-a3fe-a3e65500a2a9",
     "contractTitle": "ui_contract_primrose_level_2_title",
@@ -4091,7 +4091,7 @@
   },
   {
     "hash": "0004264BAE6D10DB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__primrose__level3__0ca20c81-83f7-4850-ad39-dee34f3aaf22.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0ca20c81-83f7-4850-ad39-dee34f3aaf22",
     "contractTitle": "ui_contract_primrose_level_3_title",
@@ -4101,7 +4101,7 @@
   },
   {
     "hash": "00C589462F9AA999",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__primrose__level4__87532edc-a71b-40f7-86f5-bef01e87d0fc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "87532edc-a71b-40f7-86f5-bef01e87d0fc",
     "contractTitle": "ui_contract_primrose_level_4_title",
@@ -4111,7 +4111,7 @@
   },
   {
     "hash": "004FB6A9251B966B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__primrose__level5__29bc2f85-79ea-45b3-a9e0-bd4abcee1e67.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "29bc2f85-79ea-45b3-a9e0-bd4abcee1e67",
     "contractTitle": "ui_contract_primrose_level_5_title",
@@ -4651,7 +4651,7 @@
   },
   {
     "hash": "00EB30F5C1FE8598",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__snowdrop__level1__2506636a-8b25-492c-b3e1-676ff6d8474a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "2506636a-8b25-492c-b3e1-676ff6d8474a",
     "contractTitle": "ui_contract_snowdrop_level_1_title",
@@ -4661,7 +4661,7 @@
   },
   {
     "hash": "009D05617CE61A2F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__snowdrop__level2__ccd2ffef-cc0c-4b95-a549-51cecc415cab.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ccd2ffef-cc0c-4b95-a549-51cecc415cab",
     "contractTitle": "ui_contract_snowdrop_level_2_title",
@@ -4671,7 +4671,7 @@
   },
   {
     "hash": "009CC135B12BC0C2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__snowdrop__level3__0f971019-c2cc-4b61-8404-3b394b41dc2c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0f971019-c2cc-4b61-8404-3b394b41dc2c",
     "contractTitle": "ui_contract_snowdrop_level_3_title",
@@ -4681,7 +4681,7 @@
   },
   {
     "hash": "00284AF7CFBA3161",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__snowdrop__level4__33a14cc8-e922-4b65-9945-516dc2768426.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "33a14cc8-e922-4b65-9945-516dc2768426",
     "contractTitle": "ui_contract_snowdrop_level_4_title",
@@ -4691,7 +4691,7 @@
   },
   {
     "hash": "00E609F628B26A1A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__snowdrop__level5__e71bb57e-cba6-4b47-bdb1-2c89319d7e45.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e71bb57e-cba6-4b47-bdb1-2c89319d7e45",
     "contractTitle": "ui_contract_snowdrop_level_5_title",
@@ -4941,7 +4941,7 @@
   },
   {
     "hash": "00EC84C823736B01",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__torenia__level1__f89027eb-8ed9-49e3-8bb4-a6306f72e3d9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "f89027eb-8ed9-49e3-8bb4-a6306f72e3d9",
     "contractTitle": "ui_contract_torenia_level_1_title",
@@ -4951,7 +4951,7 @@
   },
   {
     "hash": "0045D8C664FEDA4B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__torenia__level2__2eb41963-a140-4ecb-9a05-327d4fd65408.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "2eb41963-a140-4ecb-9a05-327d4fd65408",
     "contractTitle": "ui_contract_torenia_level_2_title",
@@ -4961,7 +4961,7 @@
   },
   {
     "hash": "002FED27A446A7B0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__torenia__level3__5cb1a153-3b56-417a-8e75-10066bf397b6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5cb1a153-3b56-417a-8e75-10066bf397b6",
     "contractTitle": "ui_contract_torenia_level_3_title",
@@ -4981,7 +4981,7 @@
   },
   {
     "hash": "00C212129F2909B6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__tulip__level1__e853782d-6484-48d4-a941-4a9821763802.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e853782d-6484-48d4-a941-4a9821763802",
     "contractTitle": "ui_contract_tulip_level_1_title",
@@ -4991,7 +4991,7 @@
   },
   {
     "hash": "0034B57C95A185CA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__tulip__level2__172803e8-28fa-4288-941c-a7dd6e1cea2e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "172803e8-28fa-4288-941c-a7dd6e1cea2e",
     "contractTitle": "ui_contract_tulip_level_2_title",
@@ -5001,7 +5001,7 @@
   },
   {
     "hash": "0066E3B1BC8AA381",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__tulip__level3__16a0120d-413a-4a78-a6da-e013899569fe.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "16a0120d-413a-4a78-a6da-e013899569fe",
     "contractTitle": "ui_contract_tulip_level_3_title",
@@ -5011,7 +5011,7 @@
   },
   {
     "hash": "00DC0AB4AF0905EB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__tulip__level4__9c0d6a91-d3c6-4393-9cd8-960fd44d7360.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9c0d6a91-d3c6-4393-9cd8-960fd44d7360",
     "contractTitle": "ui_contract_tulip_level_4_title",
@@ -5021,7 +5021,7 @@
   },
   {
     "hash": "00A60CA1F9FAD01F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__tulip__level5__23ded45d-c08c-4077-bdc8-ec4118bc70ce.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "23ded45d-c08c-4077-bdc8-ec4118bc70ce",
     "contractTitle": "ui_contract_tulip_level_5_title",
@@ -5091,7 +5091,7 @@
   },
   {
     "hash": "00EA693FA0DA79AB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__wisteria__level1__46a1144c-238d-40c5-8a6e-2dd5283f32e4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "46a1144c-238d-40c5-8a6e-2dd5283f32e4",
     "contractTitle": "ui_contract_wisteria_level_1_title",
@@ -5101,7 +5101,7 @@
   },
   {
     "hash": "00498548A60E20DC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__wisteria__level2__ab9f0e85-c489-4852-9fa4-ddafbbfc2be8.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ab9f0e85-c489-4852-9fa4-ddafbbfc2be8",
     "contractTitle": "ui_contract_wisteria_level_2_title",
@@ -5111,7 +5111,7 @@
   },
   {
     "hash": "00CA92A107907139",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__wisteria__level3__c4272d39-5e2d-4c21-9db6-7359a29d2d6f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c4272d39-5e2d-4c21-9db6-7359a29d2d6f",
     "contractTitle": "ui_contract_wisteria_level_3_title",
@@ -5121,7 +5121,7 @@
   },
   {
     "hash": "000D9BFB425E3FC9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__wisteria__level4__15e2b1e0-2929-4f89-b166-cf44e1736a80.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "15e2b1e0-2929-4f89-b166-cf44e1736a80",
     "contractTitle": "ui_contract_wisteria_level_4_title",
@@ -5131,7 +5131,7 @@
   },
   {
     "hash": "0042A4E10C784C16",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__wisteria__level5__390c756e-9fce-4100-8063-4b89eebfd91b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "390c756e-9fce-4100-8063-4b89eebfd91b",
     "contractTitle": "ui_contract_wisteria_level_5_title",
@@ -5141,7 +5141,7 @@
   },
   {
     "hash": "006B942D3290DB4A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__wolfsbane__level1__d4883292-d0b8-4a5c-8711-f5a3a1ae58f6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d4883292-d0b8-4a5c-8711-f5a3a1ae58f6",
     "contractTitle": "ui_contract_wolfsbane_level_1_title",
@@ -5151,7 +5151,7 @@
   },
   {
     "hash": "005590FF3EEC395C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__wolfsbane__level2__a562b31c-7b80-4cbb-88e1-6980ed6824ea.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a562b31c-7b80-4cbb-88e1-6980ed6824ea",
     "contractTitle": "ui_contract_wolfsbane_level_2_title",
@@ -5161,7 +5161,7 @@
   },
   {
     "hash": "00D85807A0663C88",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__wolfsbane__level3__d318f06b-d8a7-49b8-ac4a-69982fe90b39.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d318f06b-d8a7-49b8-ac4a-69982fe90b39",
     "contractTitle": "ui_contract_wolfsbane_level_3_title",
@@ -5171,7 +5171,7 @@
   },
   {
     "hash": "0048B454F6E8FDD3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__wolfsbane__level4__b33e1f43-0143-44ab-9146-f030a9775a2b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b33e1f43-0143-44ab-9146-f030a9775a2b",
     "contractTitle": "ui_contract_wolfsbane_level_4_title",
@@ -5181,7 +5181,7 @@
   },
   {
     "hash": "002D66748EAB813F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/thefacility__wolfsbane__level5__dac764bf-d07f-461b-8f51-a511ed64a20a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "dac764bf-d07f-461b-8f51-a511ed64a20a",
     "contractTitle": "ui_contract_wolfsbane_level_5_title",
@@ -19845,7 +19845,7 @@
   },
   {
     "hash": "00E1077463275520",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__ass_race__37bd1cd6-181c-433e-8a72-46a140c478eb.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "37bd1cd6-181c-433e-8a72-46a140c478eb",
     "contractTitle": "ui_contract_octopus_assassination_race_title",
