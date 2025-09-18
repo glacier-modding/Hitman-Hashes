@@ -171,7 +171,7 @@
   },
   {
     "hash": "0097F5AAAB6B4650",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__clover__group__edeca4db-7394-4e93-9b6d-00581f16d6c1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "edeca4db-7394-4e93-9b6d-00581f16d6c1",
     "contractTitle": "ui_contract_clover_group_title",
@@ -1621,7 +1621,7 @@
   },
   {
     "hash": "00A5A2AB4770D924",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__clover__level1__a8b5f606-99fa-4d50-a650-9598a121cf4b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a8b5f606-99fa-4d50-a650-9598a121cf4b",
     "contractTitle": "ui_contract_clover_level_1_title",
@@ -1631,7 +1631,7 @@
   },
   {
     "hash": "004B5620929B7D21",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__clover__level2__324cdd81-a870-494e-8ca1-b8a4ce251676.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "324cdd81-a870-494e-8ca1-b8a4ce251676",
     "contractTitle": "ui_contract_clover_level_2_title",
@@ -1641,7 +1641,7 @@
   },
   {
     "hash": "00520F6FCC79382A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__clover__level3__12dc3bb7-3397-423d-aba0-2bab51362879.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "12dc3bb7-3397-423d-aba0-2bab51362879",
     "contractTitle": "ui_contract_clover_level_3_title",
@@ -1651,7 +1651,7 @@
   },
   {
     "hash": "00F837F18D9C6341",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__clover__level4__3c9927ee-c231-412b-a461-7b2884606b45.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3c9927ee-c231-412b-a461-7b2884606b45",
     "contractTitle": "ui_contract_clover_level_4_title",
@@ -1661,7 +1661,7 @@
   },
   {
     "hash": "00C3AF1DA920DFE0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/paris__clover__level5__0ec2eabf-a9a5-4660-a143-ec194abe27ea.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0ec2eabf-a9a5-4660-a143-ec194abe27ea",
     "contractTitle": "ui_contract_clover_level_5_title",
