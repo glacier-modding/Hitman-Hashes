@@ -61,7 +61,7 @@
   },
   {
     "hash": "009F90A4A178911C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__asagao__group__a1e5f4f4-ea9c-4a42-b826-50a212026d50.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a1e5f4f4-ea9c-4a42-b826-50a212026d50",
     "contractTitle": "ui_contract_asagao_group_title",
@@ -341,7 +341,7 @@
   },
   {
     "hash": "007B45773FC81567",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__kosumosu__group__88451dd9-4b57-441e-9eab-e20b9879bafa.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "88451dd9-4b57-441e-9eab-e20b9879bafa",
     "contractTitle": "ui_contract_kosumosu_group_title",
@@ -491,7 +491,7 @@
   },
   {
     "hash": "008C11BC5C33BB8D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__sakura__group__85a2b618-2e3c-444f-931c-b89d566e45f7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "85a2b618-2e3c-444f-931c-b89d566e45f7",
     "contractTitle": "ui_contract_sakura_group_title",
@@ -541,7 +541,7 @@
   },
   {
     "hash": "0023B652023770BB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado_thistle_group_4186dd23-1cfc-4ba0-9863-9f19f7cba249.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4186dd23-1cfc-4ba0-9863-9f19f7cba249",
     "contractTitle": "ui_contract_thistle_group_title",
@@ -571,7 +571,7 @@
   },
   {
     "hash": "00E779D8F78EEC47",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__tumbleweed__group__e96fb040-a13f-466c-9d96-c8f3b2b8a09a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e96fb040-a13f-466c-9d96-c8f3b2b8a09a",
     "contractTitle": "ui_contract_tumbleweed_group_title",
@@ -931,7 +931,7 @@
   },
   {
     "hash": "003823655927D62B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__asagao__level1__278a7377-dc8f-4fa4-961a-8e96733dcd52.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "278a7377-dc8f-4fa4-961a-8e96733dcd52",
     "contractTitle": "ui_contract_asagao_level_1_title",
@@ -941,7 +941,7 @@
   },
   {
     "hash": "00F9B41CC7505B8A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__asagao__level2__a9b9dbc5-3e90-444c-8883-5c323d9180cc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a9b9dbc5-3e90-444c-8883-5c323d9180cc",
     "contractTitle": "ui_contract_asagao_level_2_title",
@@ -951,7 +951,7 @@
   },
   {
     "hash": "004257AC634D106C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__asagao__level3__db8a396a-bd15-4d05-b1e3-ac767a5d60bb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "db8a396a-bd15-4d05-b1e3-ac767a5d60bb",
     "contractTitle": "ui_contract_asagao_level_3_title",
@@ -961,7 +961,7 @@
   },
   {
     "hash": "0048F793DCBA755A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__asagao__level4__0a93e6bd-1cbb-41a5-8f8e-368e19633f87.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0a93e6bd-1cbb-41a5-8f8e-368e19633f87",
     "contractTitle": "ui_contract_asagao_level_4_title",
@@ -971,7 +971,7 @@
   },
   {
     "hash": "0038134CE0C52376",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__asagao__level5__35ed4c87-e6af-4279-8555-22d167b59197.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "35ed4c87-e6af-4279-8555-22d167b59197",
     "contractTitle": "ui_contract_asagao_level_5_title",
@@ -2901,7 +2901,7 @@
   },
   {
     "hash": "0050715E38C4ACA1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__kosumosu__level1__3919b190-0ed3-455e-a98a-c048b00dc6da.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3919b190-0ed3-455e-a98a-c048b00dc6da",
     "contractTitle": "ui_contract_kosumosu_level_1_title",
@@ -2911,7 +2911,7 @@
   },
   {
     "hash": "0073B2FE94CC1668",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__kosumosu__level2__ebdb2f68-4abf-481e-a501-6db34612584f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ebdb2f68-4abf-481e-a501-6db34612584f",
     "contractTitle": "ui_contract_kosumosu_level_2_title",
@@ -2921,7 +2921,7 @@
   },
   {
     "hash": "00D1DD5887BBBBB6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__kosumosu__level3__c16896e5-b3e5-4570-9c2e-ecb655cdf127.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c16896e5-b3e5-4570-9c2e-ecb655cdf127",
     "contractTitle": "ui_contract_kosumosu_level_3_title",
@@ -2931,7 +2931,7 @@
   },
   {
     "hash": "00D64705E8B23898",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__kosumosu__level4__7fd115ca-a3ab-4997-9284-99843b1ffb4e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7fd115ca-a3ab-4997-9284-99843b1ffb4e",
     "contractTitle": "ui_contract_kosumosu_level_4_title",
@@ -2941,7 +2941,7 @@
   },
   {
     "hash": "0030DAA04826C40E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__kosumosu__level5__7ec4bbd5-6c02-4640-b5dd-4e604081b4d2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7ec4bbd5-6c02-4640-b5dd-4e604081b4d2",
     "contractTitle": "ui_contract_kosumosu_level_5_title",
@@ -4291,7 +4291,7 @@
   },
   {
     "hash": "00691772FD712E52",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__sakura__level1__ae4db4c3-32bb-4717-8df3-83d8f77a6d0f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ae4db4c3-32bb-4717-8df3-83d8f77a6d0f",
     "contractTitle": "ui_contract_sakura_level_1_title",
@@ -4301,7 +4301,7 @@
   },
   {
     "hash": "0064353EC472B925",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__sakura__level2__7f5d1e2a-9c89-48c2-a370-85d851c3cc21.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7f5d1e2a-9c89-48c2-a370-85d851c3cc21",
     "contractTitle": "ui_contract_sakura_level_2_title",
@@ -4311,7 +4311,7 @@
   },
   {
     "hash": "003F9C86453A002F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__sakura__level3__6b1fcdc7-e2c9-48c4-b1fb-0a8dd817f3b2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "6b1fcdc7-e2c9-48c4-b1fb-0a8dd817f3b2",
     "contractTitle": "ui_contract_sakura_level_3_title",
@@ -4321,7 +4321,7 @@
   },
   {
     "hash": "00CD84E689082FC2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__sakura__level4__d80abc24-f7d5-4e6b-a6c2-fd318135d160.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d80abc24-f7d5-4e6b-a6c2-fd318135d160",
     "contractTitle": "ui_contract_sakura_level_4_title",
@@ -4331,7 +4331,7 @@
   },
   {
     "hash": "005EBD1F8E63A9CA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__sakura__level5__b007a400-66b8-43c3-a919-3195e343f7b1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b007a400-66b8-43c3-a919-3195e343f7b1",
     "contractTitle": "ui_contract_sakura_level_5_title",
@@ -4841,7 +4841,7 @@
   },
   {
     "hash": "00133FC73055BE8C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado_thistle_level1_237cdfdc-6877-4172-ba01-1eb694c88607.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "237cdfdc-6877-4172-ba01-1eb694c88607",
     "contractTitle": "ui_contract_thistle_level_1_title",
@@ -4851,7 +4851,7 @@
   },
   {
     "hash": "009CF022D5D1D0D3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado_thistle_level2_747b25ba-8b20-4426-9108-a3639fb92f60.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "747b25ba-8b20-4426-9108-a3639fb92f60",
     "contractTitle": "ui_contract_thistle_level_2_title",
@@ -4861,7 +4861,7 @@
   },
   {
     "hash": "0023198763089870",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado_thistle_level3_dddcac6e-49d1-4634-bf81-e6976a5225d3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "dddcac6e-49d1-4634-bf81-e6976a5225d3",
     "contractTitle": "ui_contract_thistle_level_3_title",
@@ -4871,7 +4871,7 @@
   },
   {
     "hash": "00B15D9C36EA6671",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado_thistle_level4_9cd62772-df2a-4e17-a09b-d24477947a8a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9cd62772-df2a-4e17-a09b-d24477947a8a",
     "contractTitle": "ui_contract_thistle_level_4_title",
@@ -4881,7 +4881,7 @@
   },
   {
     "hash": "00D1076BB028FB9B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado_thistle_level5_fc6ec4fe-59c7-4c2f-8dd1-00635e29239f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "fc6ec4fe-59c7-4c2f-8dd1-00635e29239f",
     "contractTitle": "ui_contract_thistle_level_5_title",
@@ -5031,7 +5031,7 @@
   },
   {
     "hash": "00E88A37E44FF748",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__tumbleweed__level1__d5e97d48-e58b-4d43-be35-ec29a51df452.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d5e97d48-e58b-4d43-be35-ec29a51df452",
     "contractTitle": "ui_contract_tumbleweed_level_1_title",
@@ -5041,7 +5041,7 @@
   },
   {
     "hash": "007CAFED6CF6DB8F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__tumbleweed__level2__3e94d080-c6e4-4a2d-9a7d-74322440c877.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3e94d080-c6e4-4a2d-9a7d-74322440c877",
     "contractTitle": "ui_contract_tumbleweed_level_2_title",
@@ -5051,7 +5051,7 @@
   },
   {
     "hash": "009C32FB18F387A8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__tumbleweed__level3__5db4c764-7ab7-40c1-8688-e2b98176fa35.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5db4c764-7ab7-40c1-8688-e2b98176fa35",
     "contractTitle": "ui_contract_tumbleweed_level_3_title",
@@ -16180,7 +16180,7 @@
   },
   {
     "hash": "0046AFD150914707",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__ass_race__2e425403-484b-455b-99bc-bab1bd9c1b43.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "2e425403-484b-455b-99bc-bab1bd9c1b43",
     "contractTitle": "ui_contract_octopus_assassination_race_title",
@@ -19985,7 +19985,7 @@
   },
   {
     "hash": "00E5F887E6458E9D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/hokkaido__ass_race__827f88d0-d799-4929-bf34-389c07cdc2c8.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "827f88d0-d799-4929-bf34-389c07cdc2c8",
     "contractTitle": "ui_contract_octopus_assassination_race_title",
