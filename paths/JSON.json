@@ -51,7 +51,7 @@
   },
   {
     "hash": "00C73701E30738BA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__artemisia__group__994540ee-3900-4a41-9544-17b2196a4b1a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "994540ee-3900-4a41-9544-17b2196a4b1a",
     "contractTitle": "ui_contract_artemisia_group_title",
@@ -81,7 +81,7 @@
   },
   {
     "hash": "007146D15740EAC9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__begonia__group__95bb86f8-fbbf-4eb0-b2fa-bd379c0a4878.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "95bb86f8-fbbf-4eb0-b2fa-bd379c0a4878",
     "contractTitle": "ui_contract_begonia_group_title",
@@ -91,7 +91,7 @@
   },
   {
     "hash": "007038D6285A66F9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__bergamot__group__5a8bdb42-b11e-47d1-bc57-b4bf7efa9eda.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5a8bdb42-b11e-47d1-bc57-b4bf7efa9eda",
     "contractTitle": "ui_contract_bergamot_group_title",
@@ -111,7 +111,7 @@
   },
   {
     "hash": "00446DF3F74BF321",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__blood_lily__group__45c831c4-b455-4d21-90f3-6f09b28ee01b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "45c831c4-b455-4d21-90f3-6f09b28ee01b",
     "contractTitle": "ui_contract_blood_lily_group_title",
@@ -151,7 +151,7 @@
   },
   {
     "hash": "00DC241228DD0652",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__chrysantemum__group__d43600cd-1128-4d59-bf87-075c73ae9776.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d43600cd-1128-4d59-bf87-075c73ae9776",
     "contractTitle": "ui_contract_chrysantemum_group_title",
@@ -191,7 +191,7 @@
   },
   {
     "hash": "0073AE73D48BD3D7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__daffodil_group__3d9dcf91-1708-4e22-88b3-41d184bcc8c3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3d9dcf91-1708-4e22-88b3-41d184bcc8c3",
     "contractTitle": "ui_contract_daffodil_group_title",
@@ -211,7 +211,7 @@
   },
   {
     "hash": "00D15BD1525A62B4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__delphinium__group__f425e64f-99df-4ebf-9f7d-909a65a26aef.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "f425e64f-99df-4ebf-9f7d-909a65a26aef",
     "contractTitle": "ui_contract_delphinium_group_title",
@@ -221,7 +221,7 @@
   },
   {
     "hash": "001F07EAAC93821D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__edelweiss__group__0c4c6ce2-09d5-4fff-a946-099ced0558ea.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0c4c6ce2-09d5-4fff-a946-099ced0558ea",
     "contractTitle": "ui_contract_edelweiss_group_title",
@@ -241,7 +241,7 @@
   },
   {
     "hash": "0077C0544BF93D44",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__geranium__group__1f785def-03b7-4340-af7e-2f5831e77eb5.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1f785def-03b7-4340-af7e-2f5831e77eb5",
     "contractTitle": "ui_contract_geranium_group_title",
@@ -281,7 +281,7 @@
   },
   {
     "hash": "006EF82DCA2FC9AF",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__hibiscus__group__ccbde3e2-67e7-4534-95ec-e9bd7ef65273.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ccbde3e2-67e7-4534-95ec-e9bd7ef65273",
     "contractTitle": "ui_contract_hibiscus_group_title",
@@ -301,7 +301,7 @@
   },
   {
     "hash": "00B5D61FB753AFE0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__hyacinth__group__ee7e831b-f7ea-4803-8eba-80b42d020a7c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ee7e831b-f7ea-4803-8eba-80b42d020a7c",
     "contractTitle": "ui_contract_hyacinth_group_title",
@@ -321,7 +321,7 @@
   },
   {
     "hash": "003F6715A7D6275B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__jasmine__group__641656f8-ab16-49c5-a09b-952738154b64.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "641656f8-ab16-49c5-a09b-952738154b64",
     "contractTitle": "ui_contract_jasmine_group_title",
@@ -361,7 +361,7 @@
   },
   {
     "hash": "008FAD2BF4D7E624",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lavender__group__525bd318-04e6-4672-9d01-6bba74362fc5.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "525bd318-04e6-4672-9d01-6bba74362fc5",
     "contractTitle": "ui_contract_lavender_group_title",
@@ -371,7 +371,7 @@
   },
   {
     "hash": "00678F41CEE18B22",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lilac__group__fab808f9-e88b-4775-aadb-a462c86bf2d9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "fab808f9-e88b-4775-aadb-a462c86bf2d9",
     "contractTitle": "ui_contract_lilac_group_title",
@@ -411,7 +411,7 @@
   },
   {
     "hash": "0056457983E12E3E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__copperhead__moon_flower__group__74739eda-6ed5-4318-a501-2fa0bd53ef5a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "74739eda-6ed5-4318-a501-2fa0bd53ef5a",
     "contractTitle": "ui_contract_moon_flower_group_title",
@@ -441,7 +441,7 @@
   },
   {
     "hash": "003DCD86B5777903",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__orchid__group__f08934c0-73f3-460c-a612-231035131c96.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "f08934c0-73f3-460c-a612-231035131c96",
     "contractTitle": "ui_contract_orchid_group_title",
@@ -481,7 +481,7 @@
   },
   {
     "hash": "00FE1B8E6DD24D40",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__mamba__rose__group__8dec1e62-bbf9-438c-8495-24559c884466.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8dec1e62-bbf9-438c-8495-24559c884466",
     "contractTitle": "ui_contract_rose_group_title",
@@ -531,7 +531,7 @@
   },
   {
     "hash": "008AFF82EA261153",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__sunflower__group__4b6739eb-bcdb-48ad-8c45-a829794175e1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4b6739eb-bcdb-48ad-8c45-a829794175e1",
     "contractTitle": "ui_contract_sunflower_group_title",
@@ -881,7 +881,7 @@
   },
   {
     "hash": "00E0DB6318408BA5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__artemisia__level1__e4030267-53db-4776-ad58-21332ab39835.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e4030267-53db-4776-ad58-21332ab39835",
     "contractTitle": "ui_contract_artemisia_level_1_title",
@@ -891,7 +891,7 @@
   },
   {
     "hash": "00CBD3510CEF4AD5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__artemisia__level2__2cbce64b-0d9a-4993-9a22-f39710c412d0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "2cbce64b-0d9a-4993-9a22-f39710c412d0",
     "contractTitle": "ui_contract_artemisia_level_2_title",
@@ -901,7 +901,7 @@
   },
   {
     "hash": "001D95A5B4CE28E7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__artemisia__level3__480950c6-ab74-487c-bddc-d1ad763b3a11.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "480950c6-ab74-487c-bddc-d1ad763b3a11",
     "contractTitle": "ui_contract_artemisia_level_3_title",
@@ -911,7 +911,7 @@
   },
   {
     "hash": "00C5D18EF2776E75",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__artemisia__level4__837e5158-4d6a-4091-8dcf-4040d1e83750.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "837e5158-4d6a-4091-8dcf-4040d1e83750",
     "contractTitle": "ui_contract_artemisia_level_4_title",
@@ -921,7 +921,7 @@
   },
   {
     "hash": "00EFE935667D7EA5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__artemisia__level5__8500f8dc-d6d8-4fb1-9df2-e8159d8a740e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8500f8dc-d6d8-4fb1-9df2-e8159d8a740e",
     "contractTitle": "ui_contract_artemisia_level_5_title",
@@ -1011,7 +1011,7 @@
   },
   {
     "hash": "00DB9C3B90FF91A9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__begonia__level1__089e1ef0-d620-4f6a-9dca-4cc75cc4cf86.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "089e1ef0-d620-4f6a-9dca-4cc75cc4cf86",
     "contractTitle": "ui_contract_begonia_level_1_title",
@@ -1021,7 +1021,7 @@
   },
   {
     "hash": "009034CB3CADEC67",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__begonia__level2__de18866c-8cd8-475e-99be-becaed1d2b0a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "de18866c-8cd8-475e-99be-becaed1d2b0a",
     "contractTitle": "ui_contract_begonia_level_2_title",
@@ -1031,7 +1031,7 @@
   },
   {
     "hash": "00476AB4755079DF",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__begonia__level3__28b063b8-3f11-42da-abc9-46ca08736f37.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "28b063b8-3f11-42da-abc9-46ca08736f37",
     "contractTitle": "ui_contract_begonia_level_3_title",
@@ -1041,7 +1041,7 @@
   },
   {
     "hash": "00D82351D87C70C1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__begonia__level4__7b08ab7e-0310-430e-8b1f-66351eeacdca.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7b08ab7e-0310-430e-8b1f-66351eeacdca",
     "contractTitle": "ui_contract_begonia_level_4_title",
@@ -1051,7 +1051,7 @@
   },
   {
     "hash": "007EAB86456F55A4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__begonia__level5__220d41ad-105f-44a4-b532-3f1942da88c3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "220d41ad-105f-44a4-b532-3f1942da88c3",
     "contractTitle": "ui_contract_begonia_level_5_title",
@@ -1061,7 +1061,7 @@
   },
   {
     "hash": "0064EF50691B3A02",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__bergamot__level1__5d77ad4f-77e2-4cee-842f-5297add740f3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5d77ad4f-77e2-4cee-842f-5297add740f3",
     "contractTitle": "ui_contract_bergamot_level_1_title",
@@ -1071,7 +1071,7 @@
   },
   {
     "hash": "00004CB971A97AFA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__bergamot__level2__cfc1a7d0-3a86-4a11-bae9-efad95752db9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "cfc1a7d0-3a86-4a11-bae9-efad95752db9",
     "contractTitle": "ui_contract_bergamot_level_2_title",
@@ -1081,7 +1081,7 @@
   },
   {
     "hash": "00AA9C9B80093432",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__bergamot__level3__00561b3a-81fa-48eb-83e5-c83275d2b114.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "00561b3a-81fa-48eb-83e5-c83275d2b114",
     "contractTitle": "ui_contract_bergamot_level_3_title",
@@ -1091,7 +1091,7 @@
   },
   {
     "hash": "0098B46542A9C37D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__bergamot__level4__6abced1a-41de-4bf8-8701-bfe1ed9d948b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "6abced1a-41de-4bf8-8701-bfe1ed9d948b",
     "contractTitle": "ui_contract_bergamot_level_4_title",
@@ -1101,7 +1101,7 @@
   },
   {
     "hash": "00CCDB9C94C23E21",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__bergamot__level5__bff960fb-8206-47b7-8163-6dcd71c781f4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "bff960fb-8206-47b7-8163-6dcd71c781f4",
     "contractTitle": "ui_contract_bergamot_level_5_title",
@@ -1181,7 +1181,7 @@
   },
   {
     "hash": "00EC8A4B06D0A791",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__blood_lily__level1__c0604552-7a5d-448c-9944-1c3fc7982162.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c0604552-7a5d-448c-9944-1c3fc7982162",
     "contractTitle": "ui_contract_blood_lily_level_1_title",
@@ -1191,7 +1191,7 @@
   },
   {
     "hash": "00D7BAC701291AF9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__blood_lily__level2__eafeed34-340e-489c-bae2-5017de8d19ba.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "eafeed34-340e-489c-bae2-5017de8d19ba",
     "contractTitle": "ui_contract_blood_lily_level_2_title",
@@ -1201,7 +1201,7 @@
   },
   {
     "hash": "00505F87431A7008",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__blood_lily__level3__18b5ad80-1f48-4712-bd50-6e7298046b3f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "18b5ad80-1f48-4712-bd50-6e7298046b3f",
     "contractTitle": "ui_contract_blood_lily_level_3_title",
@@ -1211,7 +1211,7 @@
   },
   {
     "hash": "008893E9491CCD60",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__blood_lily__level4__9d96898e-318e-4994-bdbe-c5f081d466f1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9d96898e-318e-4994-bdbe-c5f081d466f1",
     "contractTitle": "ui_contract_blood_lily_level_4_title",
@@ -1221,7 +1221,7 @@
   },
   {
     "hash": "0011C5383071DB7A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__blood_lily__level5__de38d516-b4ab-4539-b9b1-89b475f372bb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "de38d516-b4ab-4539-b9b1-89b475f372bb",
     "contractTitle": "ui_contract_blood_lily_level_5_title",
@@ -1521,7 +1521,7 @@
   },
   {
     "hash": "00A73E90F97F5EF7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__chrysantemum__level1__ec1d3527-8a6d-4ac6-b105-46f1b0f1ce48.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ec1d3527-8a6d-4ac6-b105-46f1b0f1ce48",
     "contractTitle": "ui_contract_chrysantemum_level_1_title",
@@ -1531,7 +1531,7 @@
   },
   {
     "hash": "00102E4DD4DB967F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__chrysantemum__level2__0903a955-230b-4792-967c-a801ef135844.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0903a955-230b-4792-967c-a801ef135844",
     "contractTitle": "ui_contract_chrysantemum_level_2_title",
@@ -1541,7 +1541,7 @@
   },
   {
     "hash": "009B29EBAC4649D3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__chrysantemum__level3__ef1bd7f9-5605-4232-af0c-050416589ac6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ef1bd7f9-5605-4232-af0c-050416589ac6",
     "contractTitle": "ui_contract_chrysantemum_level_3_title",
@@ -1551,7 +1551,7 @@
   },
   {
     "hash": "00014082672CF803",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__chrysantemum__level4__61e9cab1-50a0-41d7-95f5-147a16244cf7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "61e9cab1-50a0-41d7-95f5-147a16244cf7",
     "contractTitle": "ui_contract_chrysantemum_level_4_title",
@@ -1561,7 +1561,7 @@
   },
   {
     "hash": "00955DDCE5C08C77",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__chrysantemum__level5__cdf92d1d-b08d-4427-aa40-56bbfa5a10d3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "cdf92d1d-b08d-4427-aa40-56bbfa5a10d3",
     "contractTitle": "ui_contract_chrysantemum_level_5_title",
@@ -1821,7 +1821,7 @@
   },
   {
     "hash": "00EC42C21A499E0B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__daffodil_level1__fffda772-d51d-46e2-86fe-44c72e38bac4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "fffda772-d51d-46e2-86fe-44c72e38bac4",
     "contractTitle": "ui_contract_daffodil_level_1_title",
@@ -1831,7 +1831,7 @@
   },
   {
     "hash": "00847027290DF7F3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__daffodil_level2__e6fb9365-1c13-4fe7-8e69-b287dc4526c7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e6fb9365-1c13-4fe7-8e69-b287dc4526c7",
     "contractTitle": "ui_contract_daffodil_level_2_title",
@@ -1841,7 +1841,7 @@
   },
   {
     "hash": "009234571A2AAD25",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__daffodil_level3__e87ecf0e-e918-4521-927b-1a97ae4583aa.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e87ecf0e-e918-4521-927b-1a97ae4583aa",
     "contractTitle": "ui_contract_daffodil_level_3_title",
@@ -1851,7 +1851,7 @@
   },
   {
     "hash": "00D72358F750001D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__daffodil_level4__ded3b862-7626-43ff-8510-e2758121bf00.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ded3b862-7626-43ff-8510-e2758121bf00",
     "contractTitle": "ui_contract_daffodil_level_4_title",
@@ -1861,7 +1861,7 @@
   },
   {
     "hash": "00F305D0303A20AE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__daffodil_level5__d3ea9e2e-85dc-41f1-b1bf-a478879ff8ba.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d3ea9e2e-85dc-41f1-b1bf-a478879ff8ba",
     "contractTitle": "ui_contract_daffodil_level_5_title",
@@ -1921,7 +1921,7 @@
   },
   {
     "hash": "006EBA2F69F4F431",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__delphinium__level1__a3caa4a2-c53c-4704-a02f-cf7a5065d7ce.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a3caa4a2-c53c-4704-a02f-cf7a5065d7ce",
     "contractTitle": "ui_contract_delphinium_level_1_title",
@@ -1931,7 +1931,7 @@
   },
   {
     "hash": "00EBA26047EB99BA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__delphinium__level2__63295d98-4cfb-4491-ab7d-04368dcad083.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "63295d98-4cfb-4491-ab7d-04368dcad083",
     "contractTitle": "ui_contract_delphinium_level_2_title",
@@ -1941,7 +1941,7 @@
   },
   {
     "hash": "00122B94C3FB6EDB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__delphinium__level3__8bea845b-0f3e-4494-bfa3-aba04287c95b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8bea845b-0f3e-4494-bfa3-aba04287c95b",
     "contractTitle": "ui_contract_delphinium_level_3_title",
@@ -1951,7 +1951,7 @@
   },
   {
     "hash": "00036E6766AAC3F7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__delphinium__level4__803448c1-b263-4831-b36e-49255fd0d108.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "803448c1-b263-4831-b36e-49255fd0d108",
     "contractTitle": "ui_contract_delphinium_level_4_title",
@@ -1961,7 +1961,7 @@
   },
   {
     "hash": "0060F69E8CB3EB30",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__delphinium__level5__e33119f9-074c-40ab-bcdc-a814c94af747.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e33119f9-074c-40ab-bcdc-a814c94af747",
     "contractTitle": "ui_contract_delphinium_level_5_title",
@@ -2011,7 +2011,7 @@
   },
   {
     "hash": "004551C984D2D40B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__edelweiss__level1__5cb0a941-6db4-4923-a7b3-dc7902a17b06.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5cb0a941-6db4-4923-a7b3-dc7902a17b06",
     "contractTitle": "ui_contract_edelweiss_level_1_title",
@@ -2021,7 +2021,7 @@
   },
   {
     "hash": "0015624F3BDEE87C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__edelweiss__level2__0272d94e-8f97-4a3d-88ca-be8eb61bd0a9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0272d94e-8f97-4a3d-88ca-be8eb61bd0a9",
     "contractTitle": "ui_contract_edelweiss_level_2_title",
@@ -2031,7 +2031,7 @@
   },
   {
     "hash": "00AE3286F739D3D1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__edelweiss__level3__85131a19-2737-4446-b9b0-5742d6f66521.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "85131a19-2737-4446-b9b0-5742d6f66521",
     "contractTitle": "ui_contract_edelweiss_level_3_title",
@@ -2041,7 +2041,7 @@
   },
   {
     "hash": "005B87A1093B93D5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__edelweiss__level4__6157c2d0-b344-4441-900e-056a98507079.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "6157c2d0-b344-4441-900e-056a98507079",
     "contractTitle": "ui_contract_edelweiss_level_4_title",
@@ -2051,7 +2051,7 @@
   },
   {
     "hash": "006005787C623759",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__edelweiss__level5__59b2c722-9728-4e8f-a432-3ccb1d6a31f6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "59b2c722-9728-4e8f-a432-3ccb1d6a31f6",
     "contractTitle": "ui_contract_edelweiss_level_5_title",
@@ -2211,7 +2211,7 @@
   },
   {
     "hash": "0079FBF8A2171D5A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__geranium__level1__7a158429-6cad-4cf5-ae28-561417ee4985.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7a158429-6cad-4cf5-ae28-561417ee4985",
     "contractTitle": "ui_contract_geranium_level_1_title",
@@ -2221,7 +2221,7 @@
   },
   {
     "hash": "0030E99FD074A13E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__geranium__level2__168fcb36-bc80-47fc-bf99-05acee0a0f89.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "168fcb36-bc80-47fc-bf99-05acee0a0f89",
     "contractTitle": "ui_contract_geranium_level_2_title",
@@ -2231,7 +2231,7 @@
   },
   {
     "hash": "00FE5AA57AAC3263",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__geranium__level3__4206e31b-4eaa-4519-8be3-1eeb1f514c8c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4206e31b-4eaa-4519-8be3-1eeb1f514c8c",
     "contractTitle": "ui_contract_geranium_level_3_title",
@@ -2241,7 +2241,7 @@
   },
   {
     "hash": "0084E132A49E9F17",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__geranium__level4__08fd97eb-5ac1-4586-a562-2141050abc0e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "08fd97eb-5ac1-4586-a562-2141050abc0e",
     "contractTitle": "ui_contract_geranium_level_4_title",
@@ -2251,7 +2251,7 @@
   },
   {
     "hash": "00D38650FBE002EB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__geranium__level5__8039ecb0-d903-4b7c-bfed-63c70f895e6f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8039ecb0-d903-4b7c-bfed-63c70f895e6f",
     "contractTitle": "ui_contract_geranium_level_5_title",
@@ -2501,7 +2501,7 @@
   },
   {
     "hash": "00C5FE283223BFB9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__hibiscus__level1__3c93370d-e6d2-48b3-b37a-8fa27f63027c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "3c93370d-e6d2-48b3-b37a-8fa27f63027c",
     "contractTitle": "ui_contract_hibiscus_level_1_title",
@@ -2511,7 +2511,7 @@
   },
   {
     "hash": "0056E982B0357775",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__hibiscus__level2__4e1cac0d-0f16-4c58-ad8c-f5dc003fe368.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4e1cac0d-0f16-4c58-ad8c-f5dc003fe368",
     "contractTitle": "ui_contract_hibiscus_level_2_title",
@@ -2521,7 +2521,7 @@
   },
   {
     "hash": "003B7CCDAAB37249",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__hibiscus__level3__ed54d12a-51e3-470d-b712-cb2a364c95d0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ed54d12a-51e3-470d-b712-cb2a364c95d0",
     "contractTitle": "ui_contract_hibiscus_level_3_title",
@@ -2531,7 +2531,7 @@
   },
   {
     "hash": "00941CD9E5B38807",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__hibiscus__level4__79511294-9054-409d-8062-c24d66fb1ff0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "79511294-9054-409d-8062-c24d66fb1ff0",
     "contractTitle": "ui_contract_hibiscus_level_4_title",
@@ -2541,7 +2541,7 @@
   },
   {
     "hash": "00A5192A36C499CA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__hibiscus__level5__2e83eda3-230f-429c-965a-c89e7ada97e3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "2e83eda3-230f-429c-965a-c89e7ada97e3",
     "contractTitle": "ui_contract_hibiscus_level_5_title",
@@ -2641,7 +2641,7 @@
   },
   {
     "hash": "00334619EB926231",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__hyacinth__level1__579942d4-5df2-4342-8c04-26840aa996e1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "579942d4-5df2-4342-8c04-26840aa996e1",
     "contractTitle": "ui_contract_hyacinth_level_1_title",
@@ -2651,7 +2651,7 @@
   },
   {
     "hash": "00F59F70BB32CA68",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__hyacinth__level2__1134bcdb-6cb7-454f-b02c-69806ac826e7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1134bcdb-6cb7-454f-b02c-69806ac826e7",
     "contractTitle": "ui_contract_hyacinth_level_2_title",
@@ -2661,7 +2661,7 @@
   },
   {
     "hash": "00A2C6DC74D6D0AC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__hyacinth__level3__902eb6ba-00c2-49ff-b51f-bd0a99f8ab3c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "902eb6ba-00c2-49ff-b51f-bd0a99f8ab3c",
     "contractTitle": "ui_contract_hyacinth_level_3_title",
@@ -2671,7 +2671,7 @@
   },
   {
     "hash": "0098310829B94D71",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__hyacinth__level4__67dd233f-a311-494e-90ca-df4fc2bc80b7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "67dd233f-a311-494e-90ca-df4fc2bc80b7",
     "contractTitle": "ui_contract_hyacinth_level_4_title",
@@ -2681,7 +2681,7 @@
   },
   {
     "hash": "002951DEE8BC07A1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__hyacinth__level5__40b08d95-82cf-4053-869e-0a110beb6dbb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "40b08d95-82cf-4053-869e-0a110beb6dbb",
     "contractTitle": "ui_contract_hyacinth_level_5_title",
@@ -2751,7 +2751,7 @@
   },
   {
     "hash": "00935B602858D582",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__jasmine__level1__f00e7bc4-11bf-4413-a8d2-64db6afd7ad4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "f00e7bc4-11bf-4413-a8d2-64db6afd7ad4",
     "contractTitle": "ui_contract_jasmine_level_1_title",
@@ -2761,7 +2761,7 @@
   },
   {
     "hash": "0055B2E78AEA3650",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__jasmine__level2__bae8f1c2-ecb5-4db1-ab4f-970a54cc3fbb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "bae8f1c2-ecb5-4db1-ab4f-970a54cc3fbb",
     "contractTitle": "ui_contract_jasmine_level_2_title",
@@ -2771,7 +2771,7 @@
   },
   {
     "hash": "000F73CD89D20592",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__jasmine__level3__623dfe20-a903-4444-9c5a-a09743b58d22.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "623dfe20-a903-4444-9c5a-a09743b58d22",
     "contractTitle": "ui_contract_jasmine_level_3_title",
@@ -2781,7 +2781,7 @@
   },
   {
     "hash": "001BB55B674CC327",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__jasmine__level4__ede26656-f04d-41f3-804e-0f5875b91ea4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ede26656-f04d-41f3-804e-0f5875b91ea4",
     "contractTitle": "ui_contract_jasmine_level_4_title",
@@ -2791,7 +2791,7 @@
   },
   {
     "hash": "0041FECD8093E71A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__jasmine__level5__0519bc57-8666-49c5-aaef-52423707c3a7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0519bc57-8666-49c5-aaef-52423707c3a7",
     "contractTitle": "ui_contract_jasmine_level_5_title",
@@ -3001,7 +3001,7 @@
   },
   {
     "hash": "0068FAB24CE86615",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lavender__level1__162c0a51-e3bc-4de6-a468-521f516de15e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "162c0a51-e3bc-4de6-a468-521f516de15e",
     "contractTitle": "ui_contract_lavender_level_1_title",
@@ -3011,7 +3011,7 @@
   },
   {
     "hash": "00114F0CABD5103E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lavender__level2__7bebfc98-89c9-440e-af52-9040abad36a1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7bebfc98-89c9-440e-af52-9040abad36a1",
     "contractTitle": "ui_contract_lavender_level_2_title",
@@ -3021,7 +3021,7 @@
   },
   {
     "hash": "005F6C7F4CBC5525",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lavender__level3__666516e4-9527-4925-8d4e-6e230fcb2ee7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "666516e4-9527-4925-8d4e-6e230fcb2ee7",
     "contractTitle": "ui_contract_lavender_level_3_title",
@@ -3031,7 +3031,7 @@
   },
   {
     "hash": "004D6B4606A16BBE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lavender__level4__ff1c0065-3d05-4cbf-a8b1-c5d9b5b94ed6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ff1c0065-3d05-4cbf-a8b1-c5d9b5b94ed6",
     "contractTitle": "ui_contract_lavender_level_4_title",
@@ -3041,7 +3041,7 @@
   },
   {
     "hash": "006AD19F01CA90B2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lavender__level5__e2d7929f-9774-499a-bee6-7484719db474.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e2d7929f-9774-499a-bee6-7484719db474",
     "contractTitle": "ui_contract_lavender_level_5_title",
@@ -3051,7 +3051,7 @@
   },
   {
     "hash": "007577B347A9D9B6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lilac__level1__15c0cc5b-5873-4a8c-9447-f576abda8b96.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "15c0cc5b-5873-4a8c-9447-f576abda8b96",
     "contractTitle": "ui_contract_lilac_level_1_title",
@@ -3061,7 +3061,7 @@
   },
   {
     "hash": "00ABE632071EA8F2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lilac__level2__691d16fe-2f83-4f9f-8a3c-39b4dca15093.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "691d16fe-2f83-4f9f-8a3c-39b4dca15093",
     "contractTitle": "ui_contract_lilac_level_2_title",
@@ -3071,7 +3071,7 @@
   },
   {
     "hash": "00FDD73518348E19",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lilac__level3__ab7e7b06-3fcd-41ba-b185-0775dfb3e24e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ab7e7b06-3fcd-41ba-b185-0775dfb3e24e",
     "contractTitle": "ui_contract_lilac_level_3_title",
@@ -3081,7 +3081,7 @@
   },
   {
     "hash": "007C3B779F76EAD3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lilac__level4__aec8fc1e-ca62-4acd-8be2-488935853f85.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "aec8fc1e-ca62-4acd-8be2-488935853f85",
     "contractTitle": "ui_contract_lilac_level_4_title",
@@ -3091,7 +3091,7 @@
   },
   {
     "hash": "00E2CEDB23F08DCE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__lilac__level5__689774c7-7059-42b5-96f8-a78f9fb31240.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "689774c7-7059-42b5-96f8-a78f9fb31240",
     "contractTitle": "ui_contract_lilac_level_5_title",
@@ -3431,7 +3431,7 @@
   },
   {
     "hash": "00F400227FF67D1C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__copperhead__moon_flower__level1__9943bcc6-8897-42b9-93eb-12ff5be8b7ac.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9943bcc6-8897-42b9-93eb-12ff5be8b7ac",
     "contractTitle": "ui_contract_moon_flower_level_1_title",
@@ -3441,7 +3441,7 @@
   },
   {
     "hash": "0001298EF3E54776",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__copperhead__moon_flower__level2__5548a549-3c55-4014-8cc7-47145f7f75d6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5548a549-3c55-4014-8cc7-47145f7f75d6",
     "contractTitle": "ui_contract_moon_flower_level_2_title",
@@ -3451,7 +3451,7 @@
   },
   {
     "hash": "00C5C71A5200888A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__copperhead__moon_flower__level3__bab3704b-0bbb-4d0d-b5bf-ebf715f419cd.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "bab3704b-0bbb-4d0d-b5bf-ebf715f419cd",
     "contractTitle": "ui_contract_moon_flower_level_3_title",
@@ -3461,7 +3461,7 @@
   },
   {
     "hash": "007D0A36C634F429",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__copperhead__moon_flower__level4__0434d0ac-5e74-4d1f-8aef-8abbadabd1aa.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0434d0ac-5e74-4d1f-8aef-8abbadabd1aa",
     "contractTitle": "ui_contract_moon_flower_level_4_title",
@@ -3471,7 +3471,7 @@
   },
   {
     "hash": "0019EBBF3F42E430",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__copperhead__moon_flower__level5__4ed3bdfe-ecfc-41ab-ba6d-25d053838e15.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4ed3bdfe-ecfc-41ab-ba6d-25d053838e15",
     "contractTitle": "ui_contract_moon_flower_level_5_title",
@@ -3641,7 +3641,7 @@
   },
   {
     "hash": "00340ECAC2E685C5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__assassination_race__75e407e2-acd6-4df4-bbb8-ccb3b83a3e50.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "75e407e2-acd6-4df4-bbb8-ccb3b83a3e50",
     "contractTitle": "ui_contract_octopus_assassination_race_title",
@@ -3691,7 +3691,7 @@
   },
   {
     "hash": "0058842B55CCC5FE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__orchid__level1__7e31a12e-0d6e-40c3-8db5-3bb4f79a939d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7e31a12e-0d6e-40c3-8db5-3bb4f79a939d",
     "contractTitle": "ui_contract_orchid_level_1_title",
@@ -3701,7 +3701,7 @@
   },
   {
     "hash": "0085234EF54E2E36",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__orchid__level2__a811e092-61c5-45d5-b5f9-2427e2256a3f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a811e092-61c5-45d5-b5f9-2427e2256a3f",
     "contractTitle": "ui_contract_orchid_level_2_title",
@@ -3711,7 +3711,7 @@
   },
   {
     "hash": "00EDD4D944448E35",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__orchid__level3__e918c6bf-0961-4ab9-b024-e9e1277c1506.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e918c6bf-0961-4ab9-b024-e9e1277c1506",
     "contractTitle": "ui_contract_orchid_level_3_title",
@@ -3721,7 +3721,7 @@
   },
   {
     "hash": "00569075A01490C2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__orchid__level4__62175a5b-824a-4be2-bffb-14a263e403ac.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "62175a5b-824a-4be2-bffb-14a263e403ac",
     "contractTitle": "ui_contract_orchid_level_4_title",
@@ -3731,7 +3731,7 @@
   },
   {
     "hash": "005F6288322142CB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__orchid__level5__5f96ef53-926c-4e49-b3ec-93b2fbe51ccf.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5f96ef53-926c-4e49-b3ec-93b2fbe51ccf",
     "contractTitle": "ui_contract_orchid_level_5_title",
@@ -4231,7 +4231,7 @@
   },
   {
     "hash": "00BEA067903DCEF9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__mamba__rose__level1__b32eb348-4604-4f30-8f36-39b5b1895cdb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b32eb348-4604-4f30-8f36-39b5b1895cdb",
     "contractTitle": "ui_contract_rose_level_1_title",
@@ -4241,7 +4241,7 @@
   },
   {
     "hash": "000793C44406B079",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__mamba__rose__level2__60028d72-deaf-4b03-9982-9d5caf838ef7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "60028d72-deaf-4b03-9982-9d5caf838ef7",
     "contractTitle": "ui_contract_rose_level_2_title",
@@ -4251,7 +4251,7 @@
   },
   {
     "hash": "00D3FFB9CC70E0D2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__mamba__rose__level3__48bb5917-53bb-4927-83c6-e2b41a8c769a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "48bb5917-53bb-4927-83c6-e2b41a8c769a",
     "contractTitle": "ui_contract_rose_level_3_title",
@@ -4261,7 +4261,7 @@
   },
   {
     "hash": "0077F763E93C30C8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__mamba__rose__level4__0844669e-4e9f-4696-9c3b-99e574f59496.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0844669e-4e9f-4696-9c3b-99e574f59496",
     "contractTitle": "ui_contract_rose_level_4_title",
@@ -4271,7 +4271,7 @@
   },
   {
     "hash": "005AD5E6B3106631",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__mamba__rose__level5__32c0c431-259c-45d7-ba47-5244a6b54818.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "32c0c431-259c-45d7-ba47-5244a6b54818",
     "contractTitle": "ui_contract_rose_level_5_title",
@@ -4761,7 +4761,7 @@
   },
   {
     "hash": "006DF9F74AA47C8C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__sunflower__level1__56684a64-70c1-4845-a2c4-b49ddd78a45e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "56684a64-70c1-4845-a2c4-b49ddd78a45e",
     "contractTitle": "ui_contract_sunflower_level_1_title",
@@ -4771,7 +4771,7 @@
   },
   {
     "hash": "0088FEE10614FD35",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__sunflower__level2__7d911fca-b4bb-4b31-8564-5f5fd7b82a9b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7d911fca-b4bb-4b31-8564-5f5fd7b82a9b",
     "contractTitle": "ui_contract_sunflower_level_2_title",
@@ -4781,7 +4781,7 @@
   },
   {
     "hash": "00C118892BEA86D4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__sunflower__level3__daf0ab18-dc1b-481b-9731-3aec536f231f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "daf0ab18-dc1b-481b-9731-3aec536f231f",
     "contractTitle": "ui_contract_sunflower_level_3_title",
@@ -4791,7 +4791,7 @@
   },
   {
     "hash": "00E8FF63D78776D3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__sunflower__level4__e11b70db-f436-4eee-ac69-8d76eb1d3e9d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e11b70db-f436-4eee-ac69-8d76eb1d3e9d",
     "contractTitle": "ui_contract_sunflower_level_4_title",
@@ -4801,7 +4801,7 @@
   },
   {
     "hash": "005903B6D6464C20",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/coastaltown__octopus__sunflower__level5__d48ed63e-2542-4215-8e6c-6ad3c29feb42.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d48ed63e-2542-4215-8e6c-6ad3c29feb42",
     "contractTitle": "ui_contract_sunflower_level_5_title",
