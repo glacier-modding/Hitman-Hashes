@@ -1741,7 +1741,7 @@
   },
   {
     "hash": "008CD6B61164F275",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/shanghi__mission__pangolin__82b7b8b6-1062-4129-8400-99d2fbbad3af.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "82b7b8b6-1062-4129-8400-99d2fbbad3af",
     "contractTitle": "ui_contract_pangolin_title",
@@ -17045,7 +17045,7 @@
   },
   {
     "hash": "006E954B006DA16B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/bangkok__ass_race__043541e0-8a20-48ec-aad2-57e3feb9163b.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "043541e0-8a20-48ec-aad2-57e3feb9163b",
     "contractTitle": "ui_contract_octopus_assassination_race_title",
