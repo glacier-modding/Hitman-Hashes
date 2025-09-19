@@ -21,7 +21,7 @@
   },
   {
     "hash": "005C988AED034D4B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__amaranth__group__c949817b-5212-42e8-9b06-9a2eb83de167.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c949817b-5212-42e8-9b06-9a2eb83de167",
     "contractTitle": "ui_contract_amaranth_group_title",
@@ -131,7 +131,7 @@
   },
   {
     "hash": "002E2428EA6EE9C2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__camellia__group__ebf8ab97-6ff3-4063-9737-c6f237031de7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ebf8ab97-6ff3-4063-9737-c6f237031de7",
     "contractTitle": "ui_contract_camellia_group_title",
@@ -141,7 +141,7 @@
   },
   {
     "hash": "00BF5073144ED3FC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__cereus__group__c2e16fb7-d49f-49ef-9d76-46b8b31b3389.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c2e16fb7-d49f-49ef-9d76-46b8b31b3389",
     "contractTitle": "ui_contract_cereus_group_title",
@@ -161,7 +161,7 @@
   },
   {
     "hash": "004FC2D7F866FCB5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__clematis__group__896233eb-e7c5-4915-bf2b-5867799d8bb4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "896233eb-e7c5-4915-bf2b-5867799d8bb4",
     "contractTitle": "ui_contract_clematis_group_title",
@@ -201,7 +201,7 @@
   },
   {
     "hash": "0033CA2D07BA9908",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__daisy__group__c5d88e8c-437b-476b-afe2-d94aa4293502.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c5d88e8c-437b-476b-afe2-d94aa4293502",
     "contractTitle": "ui_contract_daisy_group_title",
@@ -271,7 +271,7 @@
   },
   {
     "hash": "0013B017A3624331",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__hellebore__group__b49de2a1-fe8e-49c4-8331-17aaa9d65d32.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "b49de2a1-fe8e-49c4-8331-17aaa9d65d32",
     "contractTitle": "ui_contract_hellebore_group_title",
@@ -291,7 +291,7 @@
   },
   {
     "hash": "005AABF06700B0D6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__honeysuckle__group__c67a1ead-7489-4d88-bbd2-c68d735e5df0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c67a1ead-7489-4d88-bbd2-c68d735e5df0",
     "contractTitle": "ui_contract_honeysuckle_group_title",
@@ -311,7 +311,7 @@
   },
   {
     "hash": "002912F3C945EB9C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__iris__group__19660896-fc1f-49f9-b56b-2059137530e4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "19660896-fc1f-49f9-b56b-2059137530e4",
     "contractTitle": "ui_contract_iris_group_title",
@@ -381,7 +381,7 @@
   },
   {
     "hash": "00C2B79C6E45FD54",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__lupine__group__11c93649-6b00-46ac-bf2d-a3599a6ab3a9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "11c93649-6b00-46ac-bf2d-a3599a6ab3a9",
     "contractTitle": "ui_contract_lupine_group_title",
@@ -401,7 +401,7 @@
   },
   {
     "hash": "00627737F285D7B1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__milfoil__group__a6807292-1bc5-4fbb-9421-af3f5a2ee5d9.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a6807292-1bc5-4fbb-9421-af3f5a2ee5d9",
     "contractTitle": "ui_contract_milfoil_group_title",
@@ -471,7 +471,7 @@
   },
   {
     "hash": "002C52D785BF7485",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__rhododendron__group__45e6d255-f8e4-4170-ad7e-3416ab8a881d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "45e6d255-f8e4-4170-ad7e-3416ab8a881d",
     "contractTitle": "ui_contract_rhododendron_group_title",
@@ -501,7 +501,7 @@
   },
   {
     "hash": "00A059B67E70024E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__salvia__group__e359075e-a510-4b7c-a461-477b789ca7e4.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e359075e-a510-4b7c-a461-477b789ca7e4",
     "contractTitle": "ui_contract_salvia_group_title",
@@ -511,7 +511,7 @@
   },
   {
     "hash": "0084E69B83FE2232",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__skullcap__group__e6f4d3a4-9a33-4bd9-b761-da297069cf8c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e6f4d3a4-9a33-4bd9-b761-da297069cf8c",
     "contractTitle": "ui_contract_skullcap_group_title",
@@ -651,7 +651,7 @@
   },
   {
     "hash": "00BF3A8851B1B9A2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__amaranth__level1__11e67595-2500-4c55-a1dd-60714763d9cc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "11e67595-2500-4c55-a1dd-60714763d9cc",
     "contractTitle": "ui_contract_amaranth_level_1_title",
@@ -661,7 +661,7 @@
   },
   {
     "hash": "00A1A929A5088168",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__amaranth__level2__33300419-4aae-43ee-8c6a-7f01269abd6d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "33300419-4aae-43ee-8c6a-7f01269abd6d",
     "contractTitle": "ui_contract_amaranth_level_2_title",
@@ -671,7 +671,7 @@
   },
   {
     "hash": "00823D2B9921D3A2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__amaranth__level3__6687ad91-054e-48d4-b9d2-851633865d99.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "6687ad91-054e-48d4-b9d2-851633865d99",
     "contractTitle": "ui_contract_amaranth_level_3_title",
@@ -681,7 +681,7 @@
   },
   {
     "hash": "00A7DB75ECBD7482",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__amaranth__level4__56aac990-940c-4cd4-b828-0a74000d54a6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "56aac990-940c-4cd4-b828-0a74000d54a6",
     "contractTitle": "ui_contract_amaranth_level_4_title",
@@ -691,7 +691,7 @@
   },
   {
     "hash": "00956170627263AB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__amaranth__level5__15998e88-bf9e-490b-8f91-a218ee2a5739.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "15998e88-bf9e-490b-8f91-a218ee2a5739",
     "contractTitle": "ui_contract_amaranth_level_5_title",
@@ -1411,7 +1411,7 @@
   },
   {
     "hash": "00E9AF7B0B94E127",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__camellia__level1__96146d21-680b-4940-883f-b1cd399af6df.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "96146d21-680b-4940-883f-b1cd399af6df",
     "contractTitle": "ui_contract_camellia_level_1_title",
@@ -1421,7 +1421,7 @@
   },
   {
     "hash": "0055368C8DB83950",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__camellia__level2__848ff78d-7fe5-4a29-b175-e5fb27a7a8f0.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "848ff78d-7fe5-4a29-b175-e5fb27a7a8f0",
     "contractTitle": "ui_contract_camellia_level_2_title",
@@ -1431,7 +1431,7 @@
   },
   {
     "hash": "00E14183962D9460",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__camellia__level3__683578d2-9f30-4c0f-83ce-c12a1b8be278.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "683578d2-9f30-4c0f-83ce-c12a1b8be278",
     "contractTitle": "ui_contract_camellia_level_3_title",
@@ -1441,7 +1441,7 @@
   },
   {
     "hash": "003FE33D6D1090CC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__camellia__level4__1bdb49e8-2d79-41ed-9754-2495b656adf6.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1bdb49e8-2d79-41ed-9754-2495b656adf6",
     "contractTitle": "ui_contract_camellia_level_4_title",
@@ -1451,7 +1451,7 @@
   },
   {
     "hash": "00228C56BA7B62CD",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__camellia__level5__5f2e6507-61a8-4e9b-9965-39dbedd9f122.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5f2e6507-61a8-4e9b-9965-39dbedd9f122",
     "contractTitle": "ui_contract_camellia_level_5_title",
@@ -1461,7 +1461,7 @@
   },
   {
     "hash": "00F1CC9BD389D7E0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__cereus__level1__044cb8a3-bb83-4484-811a-7644ae1f7b8b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "044cb8a3-bb83-4484-811a-7644ae1f7b8b",
     "contractTitle": "ui_contract_cereus_level_1_title",
@@ -1471,7 +1471,7 @@
   },
   {
     "hash": "0056ACF96F1DE30A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__cereus__level2__c3322acb-bb6c-4f3f-a48d-a654aea83ec7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c3322acb-bb6c-4f3f-a48d-a654aea83ec7",
     "contractTitle": "ui_contract_cereus_level_2_title",
@@ -1481,7 +1481,7 @@
   },
   {
     "hash": "00D83787DD638D6F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__cereus__level3__a2e4d7e7-f9e3-4e37-ae56-6739a6f17a4f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a2e4d7e7-f9e3-4e37-ae56-6739a6f17a4f",
     "contractTitle": "ui_contract_cereus_level_3_title",
@@ -1491,7 +1491,7 @@
   },
   {
     "hash": "003ECDFAC70452A4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__cereus__level4__f4bec62f-0fd6-4071-9bc7-003a5260118b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "f4bec62f-0fd6-4071-9bc7-003a5260118b",
     "contractTitle": "ui_contract_cereus_level_4_title",
@@ -1501,7 +1501,7 @@
   },
   {
     "hash": "00A90EB0A2C92485",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__cereus__level5__8eed3a7f-b903-412d-85b6-e4262e7246d7.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "8eed3a7f-b903-412d-85b6-e4262e7246d7",
     "contractTitle": "ui_contract_cereus_level_5_title",
@@ -1571,7 +1571,7 @@
   },
   {
     "hash": "00A25B03C3BC9C8A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__clematis__level1__023f4657-55c8-4704-b8a0-4aa35be5ac74.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "023f4657-55c8-4704-b8a0-4aa35be5ac74",
     "contractTitle": "ui_contract_clematis_level_1_title",
@@ -1581,7 +1581,7 @@
   },
   {
     "hash": "00A1BC05616B94D8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__clematis__level2__1f916ebc-41aa-4f80-8144-fa5385c9ac7b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1f916ebc-41aa-4f80-8144-fa5385c9ac7b",
     "contractTitle": "ui_contract_clematis_level_2_title",
@@ -1591,7 +1591,7 @@
   },
   {
     "hash": "00E156BD5837AB42",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__clematis__level3__d6cb9151-93fe-4dfc-a08f-91f54832c898.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d6cb9151-93fe-4dfc-a08f-91f54832c898",
     "contractTitle": "ui_contract_clematis_level_3_title",
@@ -1601,7 +1601,7 @@
   },
   {
     "hash": "00E03B7C82C46F87",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__clematis__level4__118e5233-9f79-4853-b432-5718fb16738f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "118e5233-9f79-4853-b432-5718fb16738f",
     "contractTitle": "ui_contract_clematis_level_4_title",
@@ -1611,7 +1611,7 @@
   },
   {
     "hash": "0078754224B21FBE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__clematis__level5__cf8fc99a-a0d3-4e9c-871e-c01556ff3183.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "cf8fc99a-a0d3-4e9c-871e-c01556ff3183",
     "contractTitle": "ui_contract_clematis_level_5_title",
@@ -1871,7 +1871,7 @@
   },
   {
     "hash": "00A453CF99177D4A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__daisy__level1__7dcb6609-73ee-4501-ae42-4cad1efd4d35.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7dcb6609-73ee-4501-ae42-4cad1efd4d35",
     "contractTitle": "ui_contract_daisy_level_1_title",
@@ -1881,7 +1881,7 @@
   },
   {
     "hash": "0089A98B6BF1AD58",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__daisy__level2__1284d25b-9ca3-4a91-891c-f33ae26ca401.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1284d25b-9ca3-4a91-891c-f33ae26ca401",
     "contractTitle": "ui_contract_daisy_level_2_title",
@@ -1891,7 +1891,7 @@
   },
   {
     "hash": "000E9939E446D35B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__daisy__level3__a7032a55-02b0-4f79-b20f-0216d148d73a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a7032a55-02b0-4f79-b20f-0216d148d73a",
     "contractTitle": "ui_contract_daisy_level_3_title",
@@ -1901,7 +1901,7 @@
   },
   {
     "hash": "006B03BFC3FB0F08",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__daisy__level4__36013ae0-4ff2-4142-8625-a35f138d32fb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "36013ae0-4ff2-4142-8625-a35f138d32fb",
     "contractTitle": "ui_contract_daisy_level_4_title",
@@ -1911,7 +1911,7 @@
   },
   {
     "hash": "0028B6BEF9EFC478",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__daisy__level5__0a6f7d38-4bc3-49c2-ab06-7fd99b2bc6b3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0a6f7d38-4bc3-49c2-ab06-7fd99b2bc6b3",
     "contractTitle": "ui_contract_daisy_level_5_title",
@@ -2471,7 +2471,7 @@
   },
   {
     "hash": "00525EFE3E2DDF0D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__hellebore__level1__d201ebf6-adc7-4d6f-87a4-f3d37a116a1.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d201ebf6-adc7-4d6f-87a4-f3d37a116a1b",
     "contractTitle": "ui_contract_hellebore_level_1_title",
@@ -2481,7 +2481,7 @@
   },
   {
     "hash": "005D900DE40087E7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__hellebore__level2__ba68c0d7-d77d-44b4-9401-72b2ff2d73cb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "ba68c0d7-d77d-44b4-9401-72b2ff2d73cb",
     "contractTitle": "ui_contract_hellebore_level_2_title",
@@ -2491,7 +2491,7 @@
   },
   {
     "hash": "00FED43907E4800B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__python__hellebore__level3__e2dd58f3-f5ff-41b3-9ba9-4d0420fc773b.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e2dd58f3-f5ff-41b3-9ba9-4d0420fc773b",
     "contractTitle": "ui_contract_hellebore_level_3_title",
@@ -2581,7 +2581,7 @@
   },
   {
     "hash": "000F3851DEAB047C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__honeysuckle__level1__451cf387-b705-4700-a174-db2b11d5f57a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "451cf387-b705-4700-a174-db2b11d5f57a",
     "contractTitle": "ui_contract_honeysuckle_level_1_title",
@@ -2591,7 +2591,7 @@
   },
   {
     "hash": "005C846BE263ED0F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__honeysuckle__level2__1a8e5451-b888-450a-88d9-df038aed2750.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1a8e5451-b888-450a-88d9-df038aed2750",
     "contractTitle": "ui_contract_honeysuckle_level_2_title",
@@ -2601,7 +2601,7 @@
   },
   {
     "hash": "002C42754A90C576",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__honeysuckle__level3__17d32b7e-3ae2-4a77-ab5b-6415d2c34a33.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "17d32b7e-3ae2-4a77-ab5b-6415d2c34a33",
     "contractTitle": "ui_contract_honeysuckle_level_3_title",
@@ -2611,7 +2611,7 @@
   },
   {
     "hash": "00126471B3AAC22F",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__honeysuckle__level4__842f781a-ab23-4932-81d1-8e2ee66538cc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "842f781a-ab23-4932-81d1-8e2ee66538cc",
     "contractTitle": "ui_contract_honeysuckle_level_4_title",
@@ -2621,7 +2621,7 @@
   },
   {
     "hash": "003BDF6B82C23F18",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__honeysuckle__level5__0f71205e-689a-4bb4-b3cf-bc7808d2b048.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "0f71205e-689a-4bb4-b3cf-bc7808d2b048",
     "contractTitle": "ui_contract_honeysuckle_level_5_title",
@@ -2691,7 +2691,7 @@
   },
   {
     "hash": "0091C4CEA030CAAF",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__iris__level1__9d0539b6-1f3b-4186-b077-910719b1bf3c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "9d0539b6-1f3b-4186-b077-910719b1bf3c",
     "contractTitle": "ui_contract_iris_level_1_title",
@@ -2701,7 +2701,7 @@
   },
   {
     "hash": "00A507D46DF2A8A5",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__iris__level2__34511e96-28b8-43a8-a575-bce4c778fd9f.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "34511e96-28b8-43a8-a575-bce4c778fd9f",
     "contractTitle": "ui_contract_iris_level_2_title",
@@ -2711,7 +2711,7 @@
   },
   {
     "hash": "00216C0006E44536",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__iris__level3__d46d7214-16f2-4009-9d9c-a65c323baf08.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d46d7214-16f2-4009-9d9c-a65c323baf08",
     "contractTitle": "ui_contract_iris_level_3_title",
@@ -2721,7 +2721,7 @@
   },
   {
     "hash": "0032E689A10EAAAB",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__iris__level4__cf7420e6-5b35-442c-8ca7-62ad9ebde523.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "cf7420e6-5b35-442c-8ca7-62ad9ebde523",
     "contractTitle": "ui_contract_iris_level_4_title",
@@ -2731,7 +2731,7 @@
   },
   {
     "hash": "00A1004202337746",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__iris__level5__e6ec6b2e-4f6b-44c7-bb3d-ace5482471bc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e6ec6b2e-4f6b-44c7-bb3d-ace5482471bc",
     "contractTitle": "ui_contract_iris_level_5_title",
@@ -3111,7 +3111,7 @@
   },
   {
     "hash": "00734469020AFE98",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__lupine__level1__68d2a689-1129-468a-bd51-7e1e96a51883.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "68d2a689-1129-468a-bd51-7e1e96a51883",
     "contractTitle": "ui_contract_lupine_level_1_title",
@@ -3121,7 +3121,7 @@
   },
   {
     "hash": "0090C5F441157EBF",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__lupine__level2__d1683e6a-166c-479f-be31-8bb526e5e56a.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d1683e6a-166c-479f-be31-8bb526e5e56a",
     "contractTitle": "ui_contract_lupine_level_2_title",
@@ -3131,7 +3131,7 @@
   },
   {
     "hash": "00C916D1F90D1BCA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__lupine__level3__d043c13c-c689-409e-8001-c617086dcffc.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d043c13c-c689-409e-8001-c617086dcffc",
     "contractTitle": "ui_contract_lupine_level_3_title",
@@ -3141,7 +3141,7 @@
   },
   {
     "hash": "0067291C2A38CD86",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__lupine__level4__f16304ac-8953-4849-9bf2-afc51ca36729.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "f16304ac-8953-4849-9bf2-afc51ca36729",
     "contractTitle": "ui_contract_lupine_level_4_title",
@@ -3151,7 +3151,7 @@
   },
   {
     "hash": "00DDE9EE4C080222",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__lupine__level5__daa5596e-61a8-4a1b-b979-fb5501c3d956.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "daa5596e-61a8-4a1b-b979-fb5501c3d956",
     "contractTitle": "ui_contract_lupine_level_5_title",
@@ -3331,7 +3331,7 @@
   },
   {
     "hash": "00CB2B1920BE8E82",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__milfoil__level1__7bccc2b9-c4df-4a1c-9628-b8b698058adf.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "7bccc2b9-c4df-4a1c-9628-b8b698058adf",
     "contractTitle": "ui_contract_milfoil_level_1_title",
@@ -3341,7 +3341,7 @@
   },
   {
     "hash": "00D61D58D6557CA7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__milfoil__level2__da59d219-60f5-4e01-8e47-5fba444aaeab.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "da59d219-60f5-4e01-8e47-5fba444aaeab",
     "contractTitle": "ui_contract_milfoil_level_1_title",
@@ -3351,7 +3351,7 @@
   },
   {
     "hash": "0009D76AA1A88AC2",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__milfoil__level3__68b18dce-8380-465a-a34c-9f763bb6887e.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "68b18dce-8380-465a-a34c-9f763bb6887e",
     "contractTitle": "ui_contract_milfoil_level_3_title",
@@ -3361,7 +3361,7 @@
   },
   {
     "hash": "00C0EB9BD1251CCC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__milfoil__level4__5a838dbb-3c63-495e-9ce8-9f895e698fc5.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "5a838dbb-3c63-495e-9ce8-9f895e698fc5",
     "contractTitle": "ui_contract_milfoil_level_4_title",
@@ -3371,7 +3371,7 @@
   },
   {
     "hash": "001907AD947F5444",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__milfoil__level5__a6807292-1bc5-4fbb-9421-af3f5a2ee5d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "a6807292-1bc5-4fbb-9421-af3f5a2ee5d1",
     "contractTitle": "ui_contract_milfoil_level_5_title",
@@ -4181,7 +4181,7 @@
   },
   {
     "hash": "008E3E3C752E1F00",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__rhododendron__level1__6e739ee1-561c-4b94-a46d-054225481354.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "6e739ee1-561c-4b94-a46d-054225481354",
     "contractTitle": "ui_contract_rhododendron_level_1_title",
@@ -4191,7 +4191,7 @@
   },
   {
     "hash": "0071C8F02FE9BAC4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__rhododendron__level2__91bb0bfd-a3d6-4205-bdce-55d64d157bcb.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "91bb0bfd-a3d6-4205-bdce-55d64d157bcb",
     "contractTitle": "ui_contract_rhododendron_level_2_title",
@@ -4201,7 +4201,7 @@
   },
   {
     "hash": "00D29DC7DA8F2A5D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__rhododendron__level3__286b8947-d7d0-4968-a13f-abe0ac96ad78.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "286b8947-d7d0-4968-a13f-abe0ac96ad78",
     "contractTitle": "ui_contract_rhododendron_level_3_title",
@@ -4211,7 +4211,7 @@
   },
   {
     "hash": "006377FCE29DDC15",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__rhododendron__level4__286b8947-d7d0-4968-a13f-abe0ac96ad78.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "19f96d98-6e8c-4860-9995-a34db30b51ac",
     "contractTitle": "ui_contract_rhododendron_level_4_title",
@@ -4221,7 +4221,7 @@
   },
   {
     "hash": "00A93D729ECF16E9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__rhododendron__level5__911476b2-fd26-4e4e-a8c3-3201a27a6cc2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "911476b2-fd26-4e4e-a8c3-3201a27a6cc2",
     "contractTitle": "ui_contract_rhododendron_level_5_title",
@@ -4371,7 +4371,7 @@
   },
   {
     "hash": "000C09F5AA9D8E3D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__salvia__level1__46420edc-2eae-4399-b4c2-f1355e818744.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "46420edc-2eae-4399-b4c2-f1355e818744",
     "contractTitle": "ui_contract_salvia_level_1_title",
@@ -4381,7 +4381,7 @@
   },
   {
     "hash": "00DE4089BEFFC085",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__salvia__level2__854e1d09-ed26-43fe-9c24-b1766eeaca78.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "854e1d09-ed26-43fe-9c24-b1766eeaca78",
     "contractTitle": "ui_contract_salvia_level_2_title",
@@ -4391,7 +4391,7 @@
   },
   {
     "hash": "00FE92973224852B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__salvia__level3__4ab2babf-b5ce-44d8-a463-94bd70b8abff.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "4ab2babf-b5ce-44d8-a463-94bd70b8abff",
     "contractTitle": "ui_contract_salvia_level_3_title",
@@ -4401,7 +4401,7 @@
   },
   {
     "hash": "0011AC0894B3B65E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__salvia__level4__22f1fb46-11cd-4a95-9baa-d58144a27363.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "22f1fb46-11cd-4a95-9baa-d58144a27363",
     "contractTitle": "ui_contract_salvia_level_4_title",
@@ -4411,7 +4411,7 @@
   },
   {
     "hash": "00883316DF24C96D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/marrakesh__spider__salvia__level5__e1d60c32-e4aa-4461-8139-2a37e90b6eb3.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "e1d60c32-e4aa-4461-8139-2a37e90b6eb3",
     "contractTitle": "ui_contract_salvia_level_5_title",
@@ -4521,7 +4521,7 @@
   },
   {
     "hash": "0081941EB6409C43",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__skullcap__level1__c3c4a67d-891f-4de2-b47c-0a614369189c.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "c3c4a67d-891f-4de2-b47c-0a614369189c",
     "contractTitle": "ui_contract_skullcap_level_1_title",
@@ -4531,7 +4531,7 @@
   },
   {
     "hash": "00E8811EE8DC1BF6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__skullcap__level2__d797ff73-973c-4376-ab07-f17e47c0eb70.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d797ff73-973c-4376-ab07-f17e47c0eb70",
     "contractTitle": "ui_contract_skullcap_level_2_title",
@@ -4541,7 +4541,7 @@
   },
   {
     "hash": "00B888C408BD9B58",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__skullcap__level3__1604cbe1-8704-4d26-9fd2-2bcf6fc676b2.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "1604cbe1-8704-4d26-9fd2-2bcf6fc676b2",
     "contractTitle": "ui_contract_skullcap_level_3_title",
@@ -4551,7 +4551,7 @@
   },
   {
     "hash": "00C519FA23CB6259",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__skullcap__level4__d36e1af8-6169-45a5-a8f4-4bfd639b7d7d.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "d36e1af8-6169-45a5-a8f4-4bfd639b7d7d",
     "contractTitle": "ui_contract_skullcap_level_4_title",
@@ -4561,7 +4561,7 @@
   },
   {
     "hash": "00F04543F8DDB7F8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colorado__skullcap__level5__aa456df8-2294-4e29-a792-fc0f46576830.contract.json].pc_json",
     "gameFlags": 6,
     "contractId": "aa456df8-2294-4e29-a792-fc0f46576830",
     "contractTitle": "ui_contract_skullcap_level_5_title",
@@ -14590,7 +14590,7 @@
   },
   {
     "hash": "0000CB89B47BFCA8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/mumbai__mongoose__ashoka__group__ae0bd6cd-7062-4336-8cb0-5fafad3d0f4f.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "ae0bd6cd-7062-4336-8cb0-5fafad3d0f4f",
     "contractTitle": "ui_contract_ashoka_group_title",
@@ -14695,7 +14695,7 @@
   },
   {
     "hash": "00065BD2DC0A9125",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/newzealand_sheep_dodder_level3_36c70c7a-4bb3-44ac-b3c2-2887a2b45aa2.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "36c70c7a-4bb3-44ac-b3c2-2887a2b45aa2",
     "contractTitle": "ui_contract_dodder_level_3_title",
@@ -14745,7 +14745,7 @@
   },
   {
     "hash": "00085D00A640B126",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_snapdragon_level2_69b8a95b-03ff-4d4c-89b1-eb0ca4dbe6c0.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "69b8a95b-03ff-4d4c-89b1-eb0ca4dbe6c0",
     "contractTitle": "ui_contract_snapdragon_level_2_title",
@@ -14905,7 +14905,7 @@
   },
   {
     "hash": "000CDCE51A33597A",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_calluna_group_d336d894-024a-4cd4-9867-dee7de70ee79.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "d336d894-024a-4cd4-9867-dee7de70ee79",
     "contractTitle": "ui_contract_calluna_group_title",
@@ -15010,7 +15010,7 @@
   },
   {
     "hash": "00124E4480693465",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_titanumarum_level1_68ac028f-e83f-4496-95a2-eb3c5b8825c9.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "68ac028f-e83f-4496-95a2-eb3c5b8825c9",
     "contractTitle": "ui_contract_titanumarum_level_1_name",
@@ -15060,7 +15060,7 @@
   },
   {
     "hash": "0013B3EA0E99A14D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami_flamingo_bakerian_level2_8f25f1de-69bf-4677-b8f0-11f1026df140.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "8f25f1de-69bf-4677-b8f0-11f1026df140",
     "contractTitle": "ui_contract_bakerian_level_2_title",
@@ -15070,7 +15070,7 @@
   },
   {
     "hash": "0013F94AB6B59C82",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_holly_level1_42c11cac-309c-47ae-a293-ee8bde6918ab.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "42c11cac-309c-47ae-a293-ee8bde6918ab",
     "contractTitle": "ui_contract_holly_level_1_name",
@@ -15550,7 +15550,7 @@
   },
   {
     "hash": "002A106BDFA45241",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_verbena_level1_2f0e811c-492d-4bae-b612-4425797bb575.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "2f0e811c-492d-4bae-b612-4425797bb575",
     "contractTitle": "ui_contract_verbena_level_1_name",
@@ -15570,7 +15570,7 @@
   },
   {
     "hash": "002B040412127B8E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_poppy_level3_54bb9d25-5f56-4b22-ab10-cfecb79a762d.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "54bb9d25-5f56-4b22-ab10-cfecb79a762d",
     "contractTitle": "ui_contract_poppy_level_3_name",
@@ -15580,7 +15580,7 @@
   },
   {
     "hash": "002B2477BDB6C2D0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/newzealand_sheep_dodder_group_9b814457-1af2-43d7-872b-de69e1258bdb.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "9b814457-1af2-43d7-872b-de69e1258bdb",
     "contractTitle": "ui_contract_dodder_group_title",
@@ -15660,7 +15660,7 @@
   },
   {
     "hash": "002E27A5550E45B4",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_poppy_group_3e96f5b5-7a2f-476e-96b4-4aff4bb0efa5.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "3e96f5b5-7a2f-476e-96b4-4aff4bb0efa5",
     "contractTitle": "ui_contract_poppy_group_title",
@@ -15720,7 +15720,7 @@
   },
   {
     "hash": "003146659A53DE5C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_rafflesia_group_757fd132-0300-45ec-b5bd-bdd48c543b5c.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "757fd132-0300-45ec-b5bd-bdd48c543b5c",
     "contractTitle": "ui_contract_rafflesia_group_title",
@@ -15835,7 +15835,7 @@
   },
   {
     "hash": "00365082D58BBC66",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__crinum__group__719ee044-4b05-4bd9-b2bb-75029f6d2a35.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "719ee044-4b05-4bd9-b2bb-75029f6d2a35",
     "contractTitle": "ui_contract_crinum_group_title",
@@ -16000,7 +16000,7 @@
   },
   {
     "hash": "003E55C9217960F7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_titanumarum_group_be567ad3-23f4-4d0b-9d2e-b261ea845ef0.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "be567ad3-23f4-4d0b-9d2e-b261ea845ef0",
     "contractTitle": "ui_contract_titanumarum_group_title",
@@ -16240,7 +16240,7 @@
   },
   {
     "hash": "004A3EFB2DE8D9B1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_titanumarum_level3_79d966d9-5756-4a2f-b7e7-468a1a1ac351.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "79d966d9-5756-4a2f-b7e7-468a1a1ac351",
     "contractTitle": "ui_contract_titanumarum_level_3_name",
@@ -16375,7 +16375,7 @@
   },
   {
     "hash": "004DC70B38C7FB44",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/mumbai__mongoose__ashoka__level2__07787ef6-7f9a-4aa5-a5d8-2c385c708057.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "07787ef6-7f9a-4aa5-a5d8-2c385c708057",
     "contractTitle": "ui_contract_ashoka_level_2_title",
@@ -16425,7 +16425,7 @@
   },
   {
     "hash": "004F6DD9491D2D4C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_poppy_level2_4947fd6d-f89b-4152-b807-d30e50cc4116.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "4947fd6d-f89b-4152-b807-d30e50cc4116",
     "contractTitle": "ui_contract_poppy_level_2_name",
@@ -16455,7 +16455,7 @@
   },
   {
     "hash": "005287878768EC8B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__crinum__level2__b4a77622-5481-4084-88a5-a523c548a38e.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "b4a77622-5481-4084-88a5-a523c548a38e",
     "contractTitle": "ui_contract_crinum_level_2_title",
@@ -16515,7 +16515,7 @@
   },
   {
     "hash": "005446924B5BF60E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_rafflesia_level3_19623520-8a89-4cc5-93f1-a4356fda16b2.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "19623520-8a89-4cc5-93f1-a4356fda16b2",
     "contractTitle": "ui_contract_rafflesia_level_3_name",
@@ -16625,7 +16625,7 @@
   },
   {
     "hash": "005C2B5E71CCBF6E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_holly_group_390ba7b6-de27-464a-b8af-6d0ff54c2aec.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "390ba7b6-de27-464a-b8af-6d0ff54c2aec",
     "contractTitle": "ui_contract_holly_group_title",
@@ -16685,7 +16685,7 @@
   },
   {
     "hash": "005EB9178F5B6025",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_arrayan_level3_5d6f7b13-13be-414f-8010-3e97e5b7b490.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "5d6f7b13-13be-414f-8010-3e97e5b7b490",
     "contractTitle": "ui_contract_arrayan_level_3_title",
@@ -16725,7 +16725,7 @@
   },
   {
     "hash": "005FD85719DFBA9D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami_flamingo_bakerian_level3_c28beef7-e223-4057-9701-db855c05744f.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "c28beef7-e223-4057-9701-db855c05744f",
     "contractTitle": "ui_contract_bakerian_level_3_title",
@@ -16795,7 +16795,7 @@
   },
   {
     "hash": "0061DB181627B9AC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_arrayan_level1_cbdd649b-bada-441c-9b0d-1e2d7849b055.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "cbdd649b-bada-441c-9b0d-1e2d7849b055",
     "contractTitle": "ui_contract_arrayan_level_1_title",
@@ -16815,7 +16815,7 @@
   },
   {
     "hash": "00626B23817EDCD9",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_calluna_level1_9f18dff5-6412-4240-91e4-4170d816c0fe.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "9f18dff5-6412-4240-91e4-4170d816c0fe",
     "contractTitle": "ui_contract_calluna_level_1_title",
@@ -16825,7 +16825,7 @@
   },
   {
     "hash": "006332C1E46424A1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_calluna_level2_c976b9ea-1921-4ce9-8651-dce488ffeb36.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "c976b9ea-1921-4ce9-8651-dce488ffeb36",
     "contractTitle": "ui_contract_calluna_level_2_title",
@@ -16970,7 +16970,7 @@
   },
   {
     "hash": "006A69F08BE341FC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_titanumarum_level2_50a56b1f-668f-402d-a6b7-0f759b33ca56.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "50a56b1f-668f-402d-a6b7-0f759b33ca56",
     "contractTitle": "ui_contract_titanumarum_level_2_name",
@@ -17590,7 +17590,7 @@
   },
   {
     "hash": "0084281BDEB4D436",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_verbena_level2_6863b20e-0dd4-471b-9789-7dbc24b68b9a.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "6863b20e-0dd4-471b-9789-7dbc24b68b9a",
     "contractTitle": "ui_contract_verbena_level_2_desc",
@@ -18145,7 +18145,7 @@
   },
   {
     "hash": "00A038BD9E036CCE",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_rafflesia_level1_4e846e60-c98b-4581-9487-083c0353b5a7.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "4e846e60-c98b-4581-9487-083c0353b5a7",
     "contractTitle": "ui_contract_rafflesia_level_1_name",
@@ -18175,7 +18175,7 @@
   },
   {
     "hash": "00A14DE9426B2860",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_rafflesia_level2_af558186-5ca1-41b9-ab87-b854345b77b5.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "af558186-5ca1-41b9-ab87-b854345b77b5",
     "contractTitle": "ui_contract_rafflesia_level_2_name",
@@ -18215,7 +18215,7 @@
   },
   {
     "hash": "00A24D578970D43B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_calluna_level3_c03510ef-1932-4b59-997a-3d75ef6e8e8d.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "c03510ef-1932-4b59-997a-3d75ef6e8e8d",
     "contractTitle": "ui_contract_calluna_level_3_title",
@@ -18315,7 +18315,7 @@
   },
   {
     "hash": "00A70BD6E40B7220",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_holly_level3_a4013b71-f772-4e2a-8b35-6511ed132bcf.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "a4013b71-f772-4e2a-8b35-6511ed132bcf",
     "contractTitle": "ui_contract_holly_level_3_name",
@@ -18335,7 +18335,7 @@
   },
   {
     "hash": "00A7602D737D110E",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_arrayan_level2_0d84d2e9-9b2b-4801-bee6-80adf3afe5e6.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "0d84d2e9-9b2b-4801-bee6-80adf3afe5e6",
     "contractTitle": "ui_contract_arrayan_level_2_title",
@@ -18490,7 +18490,7 @@
   },
   {
     "hash": "00AC97A56A0A835B",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/mumbai__mongoose__ashoka__level1__36fc1e05-14fc-4e49-a626-2b64e642f1e7.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "36fc1e05-14fc-4e49-a626-2b64e642f1e7",
     "contractTitle": "ui_contract_ashoka_level_1_title",
@@ -18575,7 +18575,7 @@
   },
   {
     "hash": "00AF7DDFC6648938",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__crinum__level3__e5b6ccf4-1f29-4ec6-bfb8-2e9b78882c85.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "e5b6ccf4-1f29-4ec6-bfb8-2e9b78882c85",
     "contractTitle": "ui_contract_crinum_level_3_title",
@@ -18725,7 +18725,7 @@
   },
   {
     "hash": "00B43E95C0275ED0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_holly_level2_31516bfe-694d-418f-89eb-c9b4740af5dd.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "31516bfe-694d-418f-89eb-c9b4740af5dd",
     "contractTitle": "ui_contract_holly_level_2_name",
@@ -18935,7 +18935,7 @@
   },
   {
     "hash": "00BE1B0D28DFDE18",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/newzealand_sheep_dodder_level2_d5a415e4-9a19-4b4d-8eed-c76f330b3d10.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "d5a415e4-9a19-4b4d-8eed-c76f330b3d10",
     "contractTitle": "ui_contract_dodder_level_2_title",
@@ -18990,7 +18990,7 @@
   },
   {
     "hash": "00C03142C7A2D5F8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_arrayan_group_41ecf8ce-dfd4-4c08-8f44-52dedc3f089a.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "41ecf8ce-dfd4-4c08-8f44-52dedc3f089a",
     "contractTitle": "ui_contract_arrayan_group_title",
@@ -19100,7 +19100,7 @@
   },
   {
     "hash": "00C2284E68C3ED49",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__catchfly__group__066ce378-0418-452a-b02e-a5e4ee711096.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "066ce378-0418-452a-b02e-a5e4ee711096",
     "contractTitle": "ui_contract_catchfly_group_title",
@@ -19130,7 +19130,7 @@
   },
   {
     "hash": "00C3DB173BAADE46",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami_flamingo_bakerian_level1_f46a799f-1387-483b-abe1-25be8b5ffded.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "f46a799f-1387-483b-abe1-25be8b5ffded",
     "contractTitle": "ui_contract_bakerian_level_1_title",
@@ -19320,7 +19320,7 @@
   },
   {
     "hash": "00CCA69CC7DD37A3",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/mumbai__mongoose__ashoka__level3__2469e028-6d85-4b50-a54c-a32c36792241.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "2469e028-6d85-4b50-a54c-a32c36792241",
     "contractTitle": "ui_contract_ashoka_level_3_title",
@@ -19360,7 +19360,7 @@
   },
   {
     "hash": "00CE3BC23489D060",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_poppy_level1_c4d0fb86-70ae-46d6-a858-67e7a7a2fbfa.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "c4d0fb86-70ae-46d6-a858-67e7a7a2fbfa",
     "contractTitle": "ui_contract_poppy_level_1_name",
@@ -19380,7 +19380,7 @@
   },
   {
     "hash": "00CEA0E720621A11",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_snapdragon_level1_309eba43-f514-4ed1-ab9e-9f76547f4b6f.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "309eba43-f514-4ed1-ab9e-9f76547f4b6f",
     "contractTitle": "ui_contract_snapdragon_level_1_title",
@@ -19420,7 +19420,7 @@
   },
   {
     "hash": "00D063DE8F420FB1",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_snapdragon_group_70150cd2-ef76-4ba8-80cc-b1e63871b030.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "70150cd2-ef76-4ba8-80cc-b1e63871b030",
     "contractTitle": "ui_contract_snapdragon_group_title",
@@ -19540,7 +19540,7 @@
   },
   {
     "hash": "00D6CC2B26598BDA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_verbena_group_de03fccb-3d7b-45f2-85a5-8d2231e4c79a.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "de03fccb-3d7b-45f2-85a5-8d2231e4c79a",
     "contractTitle": "ui_contract_verbena_group_title",
@@ -19550,7 +19550,7 @@
   },
   {
     "hash": "00D6FE64B072C355",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/newzealand_sheep_dodder_level1_6cd16648-f5e6-431c-b1f5-a2b42c6850f6.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "6cd16648-f5e6-431c-b1f5-a2b42c6850f6",
     "contractTitle": "ui_contract_dodder_level_1_title",
@@ -19620,7 +19620,7 @@
   },
   {
     "hash": "00D8A4741DAB425D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__catchfly__level2__b0b3cc31-8cff-4042-ad85-1328860e42be.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "b0b3cc31-8cff-4042-ad85-1328860e42be",
     "contractTitle": "ui_contract_catchfly_level_2_title",
@@ -19630,7 +19630,7 @@
   },
   {
     "hash": "00D92DC33C3F0151",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__catchfly__level3__f57fd6a8-cf49-499c-b560-bd377a00ffcf.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "f57fd6a8-cf49-499c-b560-bd377a00ffcf",
     "contractTitle": "ui_contract_catchfly_level_3_title",
@@ -19955,7 +19955,7 @@
   },
   {
     "hash": "00E58DD8B0672C56",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__crinum__level1__78875559-8efb-428d-94d5-90494cede7e4.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "78875559-8efb-428d-94d5-90494cede7e4",
     "contractTitle": "ui_contract_crinum_level_1_title",
@@ -20085,7 +20085,7 @@
   },
   {
     "hash": "00EA2DE73A2C8528",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami_flamingo_bakerian_group_be3ea01f-ec56-4fcb-95ec-164a1d9980f3.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "be3ea01f-ec56-4fcb-95ec-164a1d9980f3",
     "contractTitle": "ui_contract_bakerian_group_title",
@@ -20115,7 +20115,7 @@
   },
   {
     "hash": "00EB5B54F741BEFC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_verbena_level3_60e06f66-acf9-4b5c-b74b-8cd4d78e799a.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "60e06f66-acf9-4b5c-b74b-8cd4d78e799a",
     "contractTitle": "ui_contract_verbena_level_3_name",
@@ -20155,7 +20155,7 @@
   },
   {
     "hash": "00EC5FCBE9C454BC",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/colombia_hippo_snapdragon_level3_e1e117f4-cf3e-4538-b085-4a226116f143.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "e1e117f4-cf3e-4538-b085-4a226116f143",
     "contractTitle": "ui_contract_snapdragon_level_3_title",
@@ -20565,7 +20565,7 @@
   },
   {
     "hash": "00FBC065AD46C76C",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/contracts/seed/miami__flamingo__catchfly__level1__48e2fa8d-e6bd-4eb6-9020-0d0191b49e29.contract.json].pc_json",
     "gameFlags": 4,
     "contractId": "48e2fa8d-e6bd-4eb6-9020-0d0191b49e29",
     "contractTitle": "ui_contract_catchfly_level_1_title",
