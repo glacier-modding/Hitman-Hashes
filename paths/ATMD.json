@@ -85371,7 +85371,7 @@
   },
   {
     "hash": "00D08D1FB58F06B3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/002_run/hm_sprint_bank_r.amd?/hm_sprint_bank_r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85491,7 +85491,7 @@
   },
   {
     "hash": "00B80BEAE6F85411",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep0_leftleg.amd?/hm_sneak_smallstep0_leftleg.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85796,7 +85796,7 @@
   },
   {
     "hash": "0073ABCBD6AD4180",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep90r.amd?/hm_sneak_smallstep90r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86401,7 +86401,7 @@
   },
   {
     "hash": "00383D020CFFDC56",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/002_run/hm_sprint_bank_l.amd?/hm_sprint_bank_l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87041,7 +87041,7 @@
   },
   {
     "hash": "004D075DACA3B163",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/010_climb/hm_pipe_mount_and_dismount_ledge_left.amd?/hm_ledge_mount_pipe_left.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87166,7 +87166,7 @@
   },
   {
     "hash": "00C2124080A0C872",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep45l.amd?/hm_sneak_smallstep45l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87306,7 +87306,7 @@
   },
   {
     "hash": "0020EB821A9E580D",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep0_rightleg.amd?/hm_sneak_smallstep0_rightleg.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87511,7 +87511,7 @@
   },
   {
     "hash": "0006E820DFAEA4A2",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep45r.amd?/hm_sneak_smallstep45r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87596,7 +87596,7 @@
   },
   {
     "hash": "00B23ED0480FB683",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_45r.amd?/hm_sneak_turninplace_45r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87736,12 +87736,12 @@
   },
   {
     "hash": "00716B403808A274",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/032_stairs/hm_sprint_slope_up.amd?/hm_sprint_slope_up.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00C6611E0C9C5AC3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep180r.amd?/hm_sneak_smallstep180r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87851,7 +87851,7 @@
   },
   {
     "hash": "001D017A1EC284A9",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_idle_exitact.amd?/hm_sneak_idle_exitact.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87881,7 +87881,7 @@
   },
   {
     "hash": "00DAA56ACE26F833",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_45l.amd?/hm_sneak_turninplace_45l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87906,7 +87906,7 @@
   },
   {
     "hash": "00B9F4ED94E24B70",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_135l.amd?/hm_sneak_turninplace_135l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88426,7 +88426,7 @@
   },
   {
     "hash": "003DB50909905ED9",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep90l.amd?/hm_sneak_smallstep90l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88686,7 +88686,7 @@
   },
   {
     "hash": "00AC97E22814D50D",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_smallstep180l.amd?/hm_sneak_smallstep180l.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88771,7 +88771,7 @@
   },
   {
     "hash": "003731C593D4AA48",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/032_stairs/hm_sprint_slope_down.amd?/hm_sprint_slope_down.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89491,7 +89491,7 @@
   },
   {
     "hash": "0042EE7F61972A1C",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/009_sneak/hm_sneak_turninplace_135r.amd?/hm_sneak_turninplace_135r.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
