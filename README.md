@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.40%25-green.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-28/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.91%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.60%25-green.svg)
@@ -26,10 +26,10 @@
 |ALOC     |26962          |26607        |98.68%            |0    |0.00%          |
 |ASEB     |5890           |5852         |99.35%            |0    |0.00%          |
 |ASET     |13737          |13512        |98.36%            |0    |0.00%          |
-|ASVA     |285            |281          |98.60%            |0    |0.00%          |
+|ASVA     |285            |285          |100.00%           |0    |0.00%          |
 |ATMD     |18026          |17363        |96.32%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
-|BMSK     |59             |57           |96.61%            |0    |0.00%          |
+|BMSK     |59             |58           |98.31%            |0    |0.00%          |
 |BORG     |7264           |7015         |96.57%            |0    |0.00%          |
 |BOXC     |41             |41           |100.00%           |0    |0.00%          |
 |CBLU     |2696           |2696         |100.00%           |0    |0.00%          |
@@ -50,7 +50,7 @@
 |GFXV     |328            |322          |98.17%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3226           |2996         |92.87%            |19   |0.59%          |
+|JSON     |3226           |2997         |92.90%            |19   |0.59%          |
 |LINE     |33358          |32272        |96.74%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10534          |7408         |70.32%            |0    |0.00%          |
