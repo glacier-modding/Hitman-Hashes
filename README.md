@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.91%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.46%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.77%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.83%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -27,7 +27,7 @@
 |ASEB     |5890           |5852         |99.35%            |0    |0.00%          |
 |ASET     |13737          |13512        |98.36%            |0    |0.00%          |
 |ASVA     |285            |285          |100.00%           |0    |0.00%          |
-|ATMD     |18026          |17363        |96.32%            |0    |0.00%          |
+|ATMD     |18026          |17381        |96.42%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |59             |58           |98.31%            |0    |0.00%          |
 |BORG     |7264           |7015         |96.57%            |0    |0.00%          |
@@ -58,7 +58,7 @@
 |MATE     |1131           |1071         |94.69%            |0    |0.00%          |
 |MATI     |19057          |19040        |99.91%            |14   |0.07%          |
 |MATT     |5576           |5574         |99.96%            |0    |0.00%          |
-|MJBA     |20789          |20081        |96.59%            |0    |0.00%          |
+|MJBA     |20789          |20099        |96.68%            |0    |0.00%          |
 |MRTN     |2336           |2289         |97.99%            |0    |0.00%          |
 |MRTR     |862            |842          |97.68%            |0    |0.00%          |
 |NAVP     |82             |82           |100.00%           |0    |0.00%          |
