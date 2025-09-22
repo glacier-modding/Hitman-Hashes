@@ -4771,7 +4771,7 @@
   },
   {
     "hash": "000908E1D0427751",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_amb_dnyntry_bdygrd03.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -4816,7 +4816,7 @@
   },
   {
     "hash": "00FA1A6D4086BBC6",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/foley/specific_foley/fol_cloth/play_fol_cloth_rustle.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -4836,7 +4836,7 @@
   },
   {
     "hash": "000DB0D0B861F7D4",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/acts/fol_tablet/play_fol_tablet_screenchange_singledigit.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -5436,7 +5436,7 @@
   },
   {
     "hash": "004AA967CE70BFA3",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_amb_frskpostfrsk_bdygrd03.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -5501,7 +5501,7 @@
   },
   {
     "hash": "00CB4EB9BB57D32E",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/foley/specific_foley/fol_cloth/play_fol_cloth_movement.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -5521,7 +5521,7 @@
   },
   {
     "hash": "00C641FC24E24DEB",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/foley/specific_foley/fol_cloth/play_fol_cloth_stretch.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -5821,12 +5821,12 @@
   },
   {
     "hash": "007C233681A39318",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/foley/specific_foley/slide_metalpipe/slide_metalpipe_02_play.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
     "hash": "0019A57B63DF6087",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/acts/fol_tablet/play_fol_tablet_buttons_switch.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -5956,7 +5956,7 @@
   },
   {
     "hash": "00A681EF2723DB3C",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_amb_frskack_bdygrd03.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -6257,7 +6257,7 @@
   },
   {
     "hash": "0073C8C0CACB4CC1",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_amb_frskdsgrqst_bdygrd03.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -6662,7 +6662,7 @@
   },
   {
     "hash": "0086EC19F3C310E0",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/foley/specific_foley/slide_metalpipe/slide_metalpipe_01_play.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
@@ -6747,7 +6747,7 @@
   },
   {
     "hash": "006EFE10A8DF7C1F",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/dialogue_events/ai/bdygrd03/play_amb_frskwpn_bdygrd03.wwiseevent].pc_wwisebank",
     "gameFlags": 128
   },
   {
