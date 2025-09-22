@@ -1,16 +1,16 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,595,821-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.40%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.46%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-28/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.91%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.60%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.96%25-green.svg)
-![Beta Badge](https://img.shields.io/badge/Beta%20Completion-53.91%25-red.svg)
+![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.74%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.46%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.83%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.85%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -53,7 +53,7 @@
 |JSON     |3226           |2997         |92.90%            |19   |0.59%          |
 |LINE     |33358          |32272        |96.74%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
-|LOCR     |10534          |7408         |70.32%            |0    |0.00%          |
+|LOCR     |10534          |7431         |70.54%            |0    |0.00%          |
 |MATB     |5577           |5575         |99.96%            |0    |0.00%          |
 |MATE     |1131           |1071         |94.69%            |0    |0.00%          |
 |MATI     |19057          |19040        |99.91%            |14   |0.07%          |
@@ -70,7 +70,7 @@
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |508            |506          |99.61%            |0    |0.00%          |
 |TBLU     |57523          |57343        |99.69%            |140  |0.24%          |
-|TELI     |65725          |34674        |52.76%            |0    |0.00%          |
+|TELI     |65725          |35694        |54.31%            |0    |0.00%          |
 |TEMP     |87960          |87332        |99.29%            |188  |0.21%          |
 |TEXD     |49811          |48833        |98.04%            |7    |0.01%          |
 |TEXT     |45127          |44220        |97.99%            |7    |0.02%          |
@@ -78,7 +78,7 @@
 |UICT     |477            |475          |99.58%            |0    |0.00%          |
 |VIDB     |100            |100          |100.00%           |0    |0.00%          |
 |VTXD     |11307          |11292        |99.87%            |0    |0.00%          |
-|WBNK     |1550           |958          |61.81%            |1    |0.06%          |
+|WBNK     |1550           |970          |62.58%            |1    |0.06%          |
 |WMDA     |9              |9            |100.00%           |0    |0.00%          |
 |WSGB     |145            |145          |100.00%           |0    |0.00%          |
 |WSGT     |145            |145          |100.00%           |0    |0.00%          |
@@ -87,7 +87,7 @@
 |WWEM     |385665         |281393       |72.96%            |75299|19.52%         |
 |WWES     |188410         |188410       |100.00%           |0    |0.00%          |
 |WWEV     |27463          |26148        |95.21%            |103  |0.38%          |
-|WWFX     |18803          |17235        |91.66%            |0    |0.00%          |
+|WWFX     |18803          |17240        |91.69%            |0    |0.00%          |
 |YSHP     |4              |4            |100.00%           |0    |0.00%          |
 <!-- STATISTICS_TABLE_END -->
 </details>
