@@ -12458,7 +12458,7 @@
     "hash": "004D46B53D4B9D67",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/missionconfig.json](sniperchallenge).pc_json"
+    "hint": "missionconfig.json"
   },
   {
     "hash": "0081B0BF7796D935",
@@ -12489,7 +12489,7 @@
     "hash": "00FD27E2AA4DE590",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/hub.json](sniperchallenge).pc_json"
+    "hint": "pages/agent47/hub.json"
   },
   {
     "hash": "008EE12A8406171D",
@@ -12505,7 +12505,7 @@
     "hash": "005E855834F2E99E",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/agent47/masteryunlockable.json](sniperchallenge).pc_json"
+    "hint": "pages/agent47/masteryunlockable.json"
   },
   {
     "hash": "000FC4F1F2667173",
@@ -12801,7 +12801,7 @@
     "hash": "002E4FD8AD892A11",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/contract_icon.json](sniperchallenge).pc_json"
+    "hint": "pages/common/data/contract_icon.json"
   },
   {
     "hash": "00980D61CA6672D7",
@@ -12927,7 +12927,7 @@
     "hash": "000E37A7D867BB19",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/data/isioiaccountavailable.json](sniperchallenge).pc_json"
+    "hint": "pages/common/data/isioiaccountavailable.json"
   },
   {
     "hash": "00E4FA2B0F7240A6",
@@ -13358,25 +13358,25 @@
     "hash": "007F745E83264970",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_live/contract.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/dashboard/dashboard_category_live/contract.json"
   },
   {
     "hash": "003E35DD3ED8EB77",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_live/goonline.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/dashboard/dashboard_category_live/goonline.json"
   },
   {
     "hash": "00D09B2628940ED3",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_live/nocontent.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/dashboard/dashboard_category_live/nocontent.json"
   },
   {
     "hash": "0019484E038041A1",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_live/template.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/dashboard/dashboard_category_live/template.json"
   },
   {
     "hash": "00CE31D590E1D01D",
@@ -13412,7 +13412,7 @@
     "hash": "002CBB80CDD1B4FA",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/dashboard/dashboard_category_story/contract.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/dashboard/dashboard_category_story/contract.json"
   },
   {
     "hash": "00958477D3139590",
@@ -13858,7 +13858,7 @@
     "hash": "003A90491B9377F3",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/controller.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/options/controller.json"
   },
   {
     "hash": "000D2E949A0F1BFD",
@@ -13889,19 +13889,19 @@
     "hash": "00F243FFC86733D5",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits/credits_hitmansniper.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/options/credits/credits_hitmansniper.json"
   },
   {
     "hash": "00C3C38E38A81FAC",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits/credits_legal.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/options/credits/credits_legal.json"
   },
   {
     "hash": "00E5FBA071890B23",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/credits_text.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/options/credits_text.json"
   },
   {
     "hash": "009D4F54F793BCAE",
@@ -13982,7 +13982,7 @@
     "hash": "000EDE61A7226C79",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/common/views/options/playeraid.json](sniperchallenge).pc_json"
+    "hint": "pages/common/views/options/playeraid.json"
   },
   {
     "hash": "00CAC9BA71BBD2A8",
@@ -14198,7 +14198,7 @@
     "hash": "001426501E1EDCED",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/dashboard.json](sniperchallenge).pc_json"
+    "hint": "pages/hub/dashboard.json"
   },
   {
     "hash": "00B80663E7C5A1FD",
@@ -14214,13 +14214,13 @@
     "hash": "00AEEDC09C43964E",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/dashboardgoonline.json](sniperchallenge).pc_json"
+    "hint": "pages/hub/dashboardgoonline.json"
   },
   {
     "hash": "005D32A87F41C2DD",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/pages/hub/dashboardhawk.json](sniperchallenge).pc_json"
+    "hint": "pages/hub/dashboardhawk.json"
   },
   {
     "hash": "007B924970D58B08",
@@ -14581,7 +14581,7 @@
     "hash": "002F8E90B7A25050",
     "path": "",
     "gameFlags": 32,
-    "hint": "[unknown:/storyconfig.json](sniperchallenge).pc_json"
+    "hint": "storyconfig.json"
   },
   {
     "hash": "003D7F33C803CD14",
