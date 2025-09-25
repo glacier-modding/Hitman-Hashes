@@ -2383,5 +2383,25 @@
     "hash": "002B08B438F7AE93",
     "path": "[assembly:/_pro/scenes/missions/coastaltown/maps/mission01/mission01.swf?/mission01.default_f8.uic].pc_entitytype",
     "gameFlags": 128
+  },
+  {
+    "hash": "000A32608646F506",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F866210F79EDF7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CA27302BC7D37F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00201DED72D510D4",
+    "path": "",
+    "gameFlags": 8
   }
 ]

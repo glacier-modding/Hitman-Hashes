@@ -723,5 +723,15 @@
     "hash": "001795467F4F80C4",
     "path": "[assembly:/_pro/scenes/missions/paris/_scene_frenchmartini.entity].pc_preload",
     "gameFlags": 8
+  },
+  {
+    "hash": "00D9876E5868F4B6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B221D0E413A477",
+    "path": "",
+    "gameFlags": 8
   }
 ]

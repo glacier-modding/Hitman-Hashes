@@ -723,5 +723,20 @@
     "hash": "00C90DD9499B10F3",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/paris/frenchmartini.wwisestategroup].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00CD21F25D2D2425",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00628698E0213F80",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000FDC13567C47DF",
+    "path": "",
+    "gameFlags": 8
   }
 ]

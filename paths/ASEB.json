@@ -29448,5 +29448,115 @@
     "hash": "00EAB2B9E3073D62",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/sculptures/sculpture_palace_c.wl2?/sculpture_drapedwoman_c_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "00037FC81D3AAEC6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0052EF8EA2B931EF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008B1CC07D517C30",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F13D52BB420B5A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F5ED511B1E0C45",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002081E0ACFC9D16",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004057D645F56D8B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007C4A192AC10DB8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006600BF201F90F5",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0029AAE5EA81374A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0097BEB26BA783F7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003C9CCE2FBF47EE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0023DE2ED78789FF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0049AD9434CA987A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0097101C47DDC76B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002C3D1583003E05",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0075269656B8B01D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005A3C4E8B67E015",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009B96739ED93986",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002DA6152CB3E33B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F9B265A4D78545",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009FF97F16BEC4F4",
+    "path": "",
+    "gameFlags": 8
   }
 ]

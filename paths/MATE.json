@@ -5653,5 +5653,15 @@
     "hash": "005D178CA03367A7",
     "path": "[[assembly:/_pro/characters/materialclasses/basic_eye_tintable.materialclass].fx](dx11).pc_mate",
     "gameFlags": 8
+  },
+  {
+    "hash": "005E1295AE293AC1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A370FDA67FAC8A",
+    "path": "",
+    "gameFlags": 8
   }
 ]

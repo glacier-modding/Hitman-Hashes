@@ -2538,5 +2538,10 @@
     "hash": "00132144391DAB32",
     "path": "[assembly:/sound/sounddefinitions/et_frentini.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "00D50376379040BB",
+    "path": "",
+    "gameFlags": 8
   }
 ]

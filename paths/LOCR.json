@@ -52668,5 +52668,35 @@
     "hash": "00DAAE0A47B0E180",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/arcade_s3/arcade_blackcurrant.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
+  },
+  {
+    "hash": "00E031282A673CF6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00232A587AEEDE7D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DA549CB3BEF103",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007C55EF571BF2AD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F345E3604B54BD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0013A446AFF37674",
+    "path": "",
+    "gameFlags": 8
   }
 ]

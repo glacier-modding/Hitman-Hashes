@@ -26082,7 +26082,7 @@
   {
     "hash": "00D3AE031F6E424A",
     "path": "",
-    "gameFlags": 4
+    "gameFlags": 12
   },
   {
     "hash": "00E8DC01E257D56B",
@@ -27877,6 +27877,176 @@
   {
     "hash": "009DD28243AEA879",
     "path": "[assembly:/_pro/characters/assets/individuals/diana_burnwood/materials/fem_reg_diana_s3_llama_dress.mi].pc_entitytype",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0025FDBF73839215",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006AA9BF503FD098",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0000E794EBE3D67E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CD63E1BEACE639",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A834E7C3BB478A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00952DC9A04F9021",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00947818820BBFA7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008F49F025F13B89",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F2F9875D93741E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009116376BDC8D4C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B115201C5A4410",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003162BDC9E338BD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00445EC16D9D0005",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CEBFD46119D2A1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007C6839EDF46630",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00551BB94AF961AA",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0099E8F70E3A71B8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0083370E273C3AD8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D8E06CBE78E0F5",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B8ED4242AD8DCF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008F9B094BF130C3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D293BBFC2CA0E1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000C81441647AC90",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A99465A3681142",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001368C52E55C578",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005C8217A7DB8C0E",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006A80A6DD6DF681",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005984747616A709",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000A1775C6DE01D4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00296F0029A4A8AC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0083FEA8E93120A1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00451CF38A4328B3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A6559CB8D27402",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F8DA344BD99049",
+    "path": "",
     "gameFlags": 8
   }
 ]
