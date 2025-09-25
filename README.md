@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,603,809-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.38%25-green.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-24/70-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.39%25-green.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.91%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.60%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.72%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.74%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.74%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.46%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -47,7 +47,7 @@
 |FXAS     |360516         |357383       |99.13%            |0    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
 |GFXI     |12529          |12260        |97.85%            |2    |0.02%          |
-|GFXV     |332            |325          |97.89%            |0    |0.00%          |
+|GFXV     |332            |326          |98.19%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
 |JSON     |3251           |3030         |93.20%            |19   |0.58%          |
@@ -66,17 +66,17 @@
 |PREL     |147            |146          |99.32%            |0    |0.00%          |
 |PRIM     |44601          |43149        |96.74%            |2    |0.00%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
-|RTLV     |147            |141          |95.92%            |3    |2.04%          |
+|RTLV     |147            |142          |96.60%            |3    |2.04%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |509            |506          |99.41%            |0    |0.00%          |
-|TBLU     |58367          |57933        |99.26%            |394  |0.68%          |
+|TBLU     |58367          |57997        |99.37%            |330  |0.57%          |
 |TELI     |65725          |35694        |54.31%            |0    |0.00%          |
-|TEMP     |88926          |87969        |98.92%            |442  |0.50%          |
+|TEMP     |88926          |88033        |99.00%            |378  |0.43%          |
 |TEXD     |49956          |48835        |97.76%            |7    |0.01%          |
 |TEXT     |45273          |44223        |97.68%            |7    |0.02%          |
 |UICB     |481            |478          |99.38%            |0    |0.00%          |
 |UICT     |481            |478          |99.38%            |0    |0.00%          |
-|VIDB     |101            |100          |99.01%            |0    |0.00%          |
+|VIDB     |101            |101          |100.00%           |0    |0.00%          |
 |VTXD     |11307          |11292        |99.87%            |0    |0.00%          |
 |WBNK     |1550           |970          |62.58%            |1    |0.06%          |
 |WMDA     |9              |9            |100.00%           |0    |0.00%          |
