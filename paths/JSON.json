@@ -21725,12 +21725,12 @@
   },
   {
     "hash": "00A500289175C534",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/pages/hub/hug_page_wrapper.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "00B0F71C75340A68",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivebaiju_title.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21740,7 +21740,7 @@
   },
   {
     "hash": "00E199523F7F0AF0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/elements/video/actions/video_defaultactions_woa.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21760,7 +21760,7 @@
   },
   {
     "hash": "00FDB9260282E68D",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/hwoastandardupgrade_title.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21770,7 +21770,7 @@
   },
   {
     "hash": "00296344FAA40EB8",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_hwoastandardupgrade.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21780,7 +21780,7 @@
   },
   {
     "hash": "0024197CD51DDFE6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivebaiju_image.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21790,7 +21790,7 @@
   },
   {
     "hash": "00A49302219F1475",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/not_available_action_woa.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21800,7 +21800,7 @@
   },
   {
     "hash": "00DF0349F08A27F0",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/hwoastandardupgrade_image.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21815,22 +21815,22 @@
   },
   {
     "hash": "00862B93486A72D7",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_h3elusivebaiju.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "0082F384B9EC4363",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/elements/contract/actions/contract_defaultactions_woa.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "009CB7DACC64DEA6",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/modal_downloadresources.json].pc_json",
     "gameFlags": 8
   },
   {
     "hash": "00E8633D29CE9C13",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/h3elusivebaiju_packageid.json].pc_json",
     "gameFlags": 8
   },
   {
@@ -21840,7 +21840,7 @@
   },
   {
     "hash": "00722C3F6741CDEA",
-    "path": "",
+    "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/bundles/hwoastandardupgrade_packageid.json].pc_json",
     "gameFlags": 8
   }
 ]
