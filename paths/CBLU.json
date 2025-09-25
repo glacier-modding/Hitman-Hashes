@@ -13521,7 +13521,7 @@
   },
   {
     "hash": "007008DE031FA77C",
-    "path": "",
+    "path": "[modules:/zdelayitemdroppedevententity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13556,7 +13556,7 @@
   },
   {
     "hash": "0048A3DD33A2EEF6",
-    "path": "",
+    "path": "[modules:/zmirrorspatialentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13641,7 +13641,7 @@
   },
   {
     "hash": "00C1787B5BE69DFC",
-    "path": "",
+    "path": "[modules:/zevergreengearpersistencehelper.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13691,12 +13691,12 @@
   },
   {
     "hash": "005ABF7567075863",
-    "path": "",
+    "path": "[modules:/zvrfadeblackentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0044EA10EB3D8B73",
-    "path": "",
+    "path": "[modules:/zdooractionentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13771,7 +13771,7 @@
   },
   {
     "hash": "00A0118A8595B127",
-    "path": "",
+    "path": "[modules:/zinputcantriggerphotomodeactionentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13801,12 +13801,12 @@
   },
   {
     "hash": "002DFC356E6C2C53",
-    "path": "",
+    "path": "[modules:/ztrajectorytrackvroverride.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002A4D6F6F11F3D5",
-    "path": "",
+    "path": "[modules:/zoverlaycontrollertextlabelentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13831,7 +13831,7 @@
   },
   {
     "hash": "00F8E5153F043EDF",
-    "path": "",
+    "path": "[modules:/zphysicsmodifierentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13846,7 +13846,7 @@
   },
   {
     "hash": "007D7CA69E4B125C",
-    "path": "",
+    "path": "[modules:/zispsvr1condition.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -13886,7 +13886,7 @@
   },
   {
     "hash": "00BCF0FAC814CDDE",
-    "path": "",
+    "path": "[modules:/zinputcanmovefocusedinteractionentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {

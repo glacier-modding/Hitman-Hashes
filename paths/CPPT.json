@@ -13516,7 +13516,7 @@
   },
   {
     "hash": "000552563B359148",
-    "path": "",
+    "path": "[modules:/zvrfadeblackentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13556,7 +13556,7 @@
   },
   {
     "hash": "00335AD3A69F974E",
-    "path": "",
+    "path": "[modules:/zevergreengearpersistencehelper.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13591,7 +13591,7 @@
   },
   {
     "hash": "004099BABF8AA1F1",
-    "path": "",
+    "path": "[modules:/zispsvr1condition.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13601,7 +13601,7 @@
   },
   {
     "hash": "0046445D1CB61430",
-    "path": "",
+    "path": "[modules:/zphysicsmodifierentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13671,7 +13671,7 @@
   },
   {
     "hash": "000355B74DF594EE",
-    "path": "",
+    "path": "[modules:/zinputcanmovefocusedinteractionentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13701,7 +13701,7 @@
   },
   {
     "hash": "00126B9217BB6F8F",
-    "path": "",
+    "path": "[modules:/zmirrorspatialentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13711,7 +13711,7 @@
   },
   {
     "hash": "0097CBDD03200F60",
-    "path": "",
+    "path": "[modules:/zoverlaycontrollertextlabelentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13726,7 +13726,7 @@
   },
   {
     "hash": "0056AADD4AFDB84A",
-    "path": "",
+    "path": "[modules:/zdelayitemdroppedevententity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13736,7 +13736,7 @@
   },
   {
     "hash": "004F802761F1AA6B",
-    "path": "",
+    "path": "[modules:/zinputcantriggerphotomodeactionentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13801,7 +13801,7 @@
   },
   {
     "hash": "000D22B6EF2DA335",
-    "path": "",
+    "path": "[modules:/ztrajectorytrackvroverride.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -13846,7 +13846,7 @@
   },
   {
     "hash": "00C8FF31817E451C",
-    "path": "",
+    "path": "[modules:/zdooractionentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
