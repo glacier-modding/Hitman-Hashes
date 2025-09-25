@@ -5656,12 +5656,12 @@
   },
   {
     "hash": "005E1295AE293AC1",
-    "path": "",
+    "path": "[assembly:/shaders/win32/glow.fx](dx11,fx50,_vr).pc_mate",
     "gameFlags": 8
   },
   {
     "hash": "00A370FDA67FAC8A",
-    "path": "",
+    "path": "[[assembly:/_pro/items/materialclasses/sniperscope_vrhelper_xhair.materialclass].fx](dx11).pc_mate",
     "gameFlags": 8
   }
 ]

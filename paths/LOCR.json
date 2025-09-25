@@ -52686,17 +52686,17 @@
   },
   {
     "hash": "007C55EF571BF2AD",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/quest_intel/quest_vrtutorial/vrtutorial_questitems.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00F345E3604B54BD",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/loading_tips/loadingtips_vr2.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "0013A446AFF37674",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_apple.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   }
 ]

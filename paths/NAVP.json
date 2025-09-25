@@ -411,12 +411,12 @@
   },
   {
     "hash": "009EFE8424D809A2",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/thefacility/scene_vrtutorial.navp].pc_navp",
     "gameFlags": 8
   },
   {
     "hash": "00BCBB6ACC908441",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/bangkok/scene_baiju.navp].pc_navp",
     "gameFlags": 8
   }
 ]

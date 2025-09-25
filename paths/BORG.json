@@ -36356,7 +36356,7 @@
   },
   {
     "hash": "005006C2B232D302",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_silverballer/pistol_silverballer.wl2?/gun_hardballer_clip.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -36531,7 +36531,7 @@
   },
   {
     "hash": "004EA14EC88A6367",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/ar_stealth/ar_stealth_a_mag_a.wl2?/ar_stealth_mag_a.linkedprim].pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -36671,7 +36671,7 @@
   },
   {
     "hash": "00BFA070E3C115E6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47/geometry/agent47_suitjacket_open_oversized.wl2?/jacket_open_oversized.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {

@@ -296,12 +296,12 @@
   },
   {
     "hash": "00F56BFDFBFD0B49",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/onlyground.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 8
   },
   {
     "hash": "00093A057CBE72DB",
-    "path": "",
+    "path": "[assembly:/animations/bonemasks/both_hands_and_ground.bonemask](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_bonemask",
     "gameFlags": 8
   }
 ]

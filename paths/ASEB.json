@@ -29451,7 +29451,7 @@
   },
   {
     "hash": "00037FC81D3AAEC6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/logic.template?/state.entitytemplate].entitytype,[modules:/zspatialentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29476,12 +29476,12 @@
   },
   {
     "hash": "002081E0ACFC9D16",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zlerpspatialentity.class].entitytype,[modules:/zapplytransformaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004057D645F56D8B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/logic.template?/state.entitytemplate].entitytype,[modules:/zboxvolumeentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29491,7 +29491,7 @@
   },
   {
     "hash": "006600BF201F90F5",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/logic.template?/compositestate.entitytemplate].entitytype,[modules:/zspatialentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29501,7 +29501,7 @@
   },
   {
     "hash": "0097BEB26BA783F7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zoverlaycontrollerentity.class].entitytype,[modules:/zuidataprovidercontrollayoutchangedhandleraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29536,7 +29536,7 @@
   },
   {
     "hash": "005A3C4E8B67E015",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.weaponselector.uic].entitytype,[modules:/zuicontrollayoutlegacyaspect.class].entitytype,[modules:/zuiinventoryselectornavigationentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {

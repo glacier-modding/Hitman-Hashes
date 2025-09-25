@@ -2391,17 +2391,17 @@
   },
   {
     "hash": "00F866210F79EDF7",
-    "path": "",
+    "path": "[assembly:/ui/controls/basic.swf?/basic.overlaycontroller.uic].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00CA27302BC7D37F",
-    "path": "",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.vrlaserpointer.uic].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00201DED72D510D4",
-    "path": "",
+    "path": "[assembly:/ui/controls/hud.swf?/hud.overlaycontroller.runbutton.uic].pc_entitytype",
     "gameFlags": 8
   }
 ]

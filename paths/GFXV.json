@@ -1641,7 +1641,7 @@
   },
   {
     "hash": "00196434C9E36B37",
-    "path": "",
+    "path": "[assembly:/_pro/effects/videos/vrtutorial/subdue.avi].pc_gfxv",
     "gameFlags": 8
   },
   {
@@ -1651,12 +1651,12 @@
   },
   {
     "hash": "00DB3B555452D7C8",
-    "path": "",
+    "path": "[assembly:/_pro/effects/videos/vrtutorial/precisionthrow.avi].pc_gfxv",
     "gameFlags": 8
   },
   {
     "hash": "005E269EBE971B5D",
-    "path": "",
+    "path": "[assembly:/_pro/effects/videos/vrtutorial/quickthrow.avi].pc_gfxv",
     "gameFlags": 8
   }
 ]

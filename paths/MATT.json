@@ -27921,7 +27921,7 @@
   },
   {
     "hash": "00F2F9875D93741E",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/accessories/scopes/xhairs/sniperscope_vr_xhair.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27956,7 +27956,7 @@
   },
   {
     "hash": "00551BB94AF961AA",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/ar_npc_shashka_a33/ar_npc_shashka_a33_wrath_clip_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -27986,12 +27986,12 @@
   },
   {
     "hash": "00D293BBFC2CA0E1",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/smg_lambic_a/smg_lambic_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "000C81441647AC90",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/custom/evergreen/black_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
