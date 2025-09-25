@@ -95301,7 +95301,8 @@
   {
     "hash": "001B2BA0A1CDD64C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "finger_spikes_01"
   },
   {
     "hash": "0052572A0F4B253B",
@@ -95310,73 +95311,78 @@
   },
   {
     "hash": "005D44B33BB5DF4F",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/poison/fogu_fish_poison_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00713425790B5EFA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fem_reg_head_competitor_c"
   },
   {
     "hash": "00D9F0DF7744921B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/gift_boxes_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0031E10A56121649",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/closequarterscombat/fx_vr_gameplay_pacify_stars.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00E375270BCFE5C5",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wood/panel_wood_polished_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00443D8FF57625BD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/rocks/stone_path_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003DA222382BB4DB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "balls"
   },
   {
     "hash": "002951FF0C708C70",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "yellow_shoe"
   },
   {
     "hash": "005D1ABD57EE3CC2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/markings/painted_line_brass_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003C66A56824B930",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/wooden_trims_b_polished.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00250C8783B2CBD6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "judge_dress"
   },
   {
     "hash": "00F7007A8675D703",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/decoration_wall_penthouse_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00603F23BB3B593C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/bonsai_spring_baiju_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "006608157BCF2C08",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_leonglunwai"
   },
   {
     "hash": "00F0EA31DA75E566",
@@ -95386,11 +95392,12 @@
   {
     "hash": "006DB7B29C790C8C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "yellow_suit"
   },
   {
     "hash": "008389C5B81A987D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/plate_food_fugu_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -95400,82 +95407,84 @@
   },
   {
     "hash": "00F8ED47102D4FAB",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/event_invitation_card_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0005E814C8198FE4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/office_props/bulletin_board_notes_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00618086DB0E152B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_concord_baiju_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A1054BE6089140",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_concord_baiju_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00BA69A14BD9513C",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/poison/poison_emeticvial_a_baiju.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0068E2482531DD0F",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/closequarterscombat/fx_vr_gameplay_pacify_lines.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0028F90D227E0B09",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/chinese_dragon_scissors.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0011631AB62CF9AA",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/token_prop_ezplosive_remote_rubberduck_dragon.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001057A65D013D5E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/bonsai_spring_ground_decal_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DF11D867928859",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/materials/props/food/quixel_food_pretzel_vcqhain_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002BA9C89A94F756",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/plastic/packing_chips_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002184BA3F3E7D84",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/jade_dagger_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007A918B57CF5097",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hairstrap"
   },
   {
     "hash": "00CC4C644CCDC926",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg_heads_unique/materials/male_reg_head_brucelee.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0073B394F4CDCCF3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_sanhung"
   },
   {
     "hash": "00A03538C5EE6FF0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/gold_hammered_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -95485,87 +95494,89 @@
   },
   {
     "hash": "00B889B90F1970DA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/japanese_arch_wood_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D2AD4928AEE67F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/xmas_decorations/japanese_wall_wood_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00461972C9956733",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_hoguuy"
   },
   {
     "hash": "004671A177816C48",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/fugu_sashimi_decal_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002DE03CB8EC7841",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/sailboat_model_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00EC3F727DDA2A97",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/closequarterscombat/fx_vr_gameplay_pacify_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008C62608F7A6475",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/signs/sign_baiju_bracket_board_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0078FDE43F12BD4F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/glass/generic_glass_a_dark.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00F4700C5056E890",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_concord_baiju_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0000CEAF4205F296",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/go_board_game_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0047FFBDF1176820",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_zedchen"
   },
   {
     "hash": "00A9E2356165CDE8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_ballarina_shoes.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0001351D11E643F5",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads/materials/fem_reg_head_asian_60s_01.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "005FA671C17781F8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/signs/banner_baiju_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001067660B42AD1E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/ceiling/ceiling_wooden_a_zmapped.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DD5AC54EAE65AA",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/poison/vial_poison_antidote.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00739995E5689D3A",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/kali_sticks_a.mi].pc_mi",
     "gameFlags": 8
   }
 ]
