@@ -24,11 +24,14 @@ for json_file in json_files:
 
         for entry in data:
             if args.glacierkit:
-                merged_data[entry['hash']] = {
-                    'resourceType': resource_type,
-                    'path': entry.get('path', ''),
-                    'hint': entry.get('hint', '')
+                data = {
+                    'resourceType': resource_type
                 }
+                for key in ('path', 'hint'):
+                    if key in entry and entry[key] != "":
+                        data[key] = entry[key]
+
+                merged_data[entry['hash']] = data
             else:
                 merged_data.append({
                     'hash': entry['hash'],
