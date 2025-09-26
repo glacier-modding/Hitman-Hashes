@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,603,809-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.41%25-green.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.91%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.60%25-green.svg)
@@ -31,7 +31,7 @@
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |61             |60           |98.36%            |0    |0.00%          |
 |BORG     |7337           |7018         |95.65%            |0    |0.00%          |
-|BOXC     |42             |41           |97.62%            |0    |0.00%          |
+|BOXC     |42             |42           |100.00%           |0    |0.00%          |
 |CBLU     |2783           |2783         |100.00%           |0    |0.00%          |
 |CLNG     |4              |4            |100.00%           |0    |0.00%          |
 |CPPT     |2783           |2783         |100.00%           |0    |0.00%          |
@@ -68,7 +68,7 @@
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |147            |142          |96.60%            |3    |2.04%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
-|SDEF     |509            |506          |99.41%            |0    |0.00%          |
+|SDEF     |509            |507          |99.61%            |0    |0.00%          |
 |TBLU     |58367          |58123        |99.58%            |204  |0.35%          |
 |TELI     |65725          |35694        |54.31%            |0    |0.00%          |
 |TEMP     |88926          |88159        |99.14%            |252  |0.28%          |
