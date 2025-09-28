@@ -29456,7 +29456,7 @@
   },
   {
     "hash": "0052EF8EA2B931EF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/carpet_penthouse_main_a.wl2?/carpet_penthouse_main_a_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29466,7 +29466,7 @@
   },
   {
     "hash": "00F13D52BB420B5A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/levels/smoothsnake/japanese_pagoda_smoothsnake_a.wl2?/japanese_pagoda_smoothsnake_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29486,7 +29486,7 @@
   },
   {
     "hash": "007C4A192AC10DB8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/carpet_penthouse_main_a.wl2?/carpet_penthouse_main_b_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29541,7 +29541,7 @@
   },
   {
     "hash": "009B96739ED93986",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/carpet_skylounge_gallery_a.wl2?/carpet_skylounge_gallery_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {

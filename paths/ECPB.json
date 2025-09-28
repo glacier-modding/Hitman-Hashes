@@ -14361,7 +14361,7 @@
   },
   {
     "hash": "002891976765FFBF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/smoothsnake/japanese_pagoda_smoothsnake_a.wl2?/japanese_pagoda_smoothsnake_a.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14371,12 +14371,12 @@
   },
   {
     "hash": "007921AA2FF577CD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/decorative/carpet_penthouse_main_a.wl2?/carpet_penthouse_main_b_00.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00CA9007F36A78F4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/decorative/carpet_skylounge_gallery_a.wl2?/carpet_skylounge_gallery_a.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14396,7 +14396,7 @@
   },
   {
     "hash": "00B88558E0EAEBD3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/decorative/carpet_penthouse_main_a.wl2?/carpet_penthouse_main_a_00.mat].pc_entityblueprint",
     "gameFlags": 8
   }
 ]

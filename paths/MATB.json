@@ -26081,7 +26081,7 @@
   },
   {
     "hash": "0088AD046B02BD51",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/civilians/seagull/hostage_m/materials/male_reg_hostage_head.mi].pc_entityblueprint",
     "gameFlags": 12
   },
   {
@@ -27896,7 +27896,7 @@
   },
   {
     "hash": "004C2055801AD324",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/ninja/materials/male_reg_ninja_string_white.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27906,7 +27906,7 @@
   },
   {
     "hash": "000A67F40A97F94A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/sun_shade_bangkok_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27916,7 +27916,7 @@
   },
   {
     "hash": "005D12C9A21B8751",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/paper/japanese_shoji_paper.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27926,22 +27926,22 @@
   },
   {
     "hash": "0008AD6C3833E89A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/rat/archivist/materials/archivist_knots.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "006F771EA10101D9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wall/bricks_medieval_big_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00AEF7F261A07F4F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/markings/tape_hazard_zone_bronx_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "008270D28E9401E2",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/xmas_shuriken_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27951,12 +27951,12 @@
   },
   {
     "hash": "0025C250894613B3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/picture_colombia_engraved_bronze_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003E5F30AF082230",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/pipes/pipefish_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27971,7 +27971,7 @@
   },
   {
     "hash": "00B5447D495B54F2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/scientist_01/materials/male_biolab_scientist _01_acc_01_glass.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -27991,7 +27991,7 @@
   },
   {
     "hash": "0005C34794DA972E",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/crowbar_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28011,7 +28011,7 @@
   },
   {
     "hash": "00DA423194122E2A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/apple_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28031,7 +28031,7 @@
   },
   {
     "hash": "008D3FE0861EDB10",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/gift_boxes_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28041,7 +28041,7 @@
   },
   {
     "hash": "008C311E09E9B647",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/bathroom_small_rug_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {

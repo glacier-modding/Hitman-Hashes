@@ -5016,9 +5016,8 @@
   },
   {
     "hash": "004E797059965609",
-    "path": "",
-    "gameFlags": 12,
-    "hint": "male_reg_hostage_head"
+    "path": "[assembly:/_pro/characters/assets/civilians/seagull/hostage_m/materials/male_reg_hostage_head.mi].pc_mi",
+    "gameFlags": 12
   },
   {
     "hash": "0030062AAAA2AA82",

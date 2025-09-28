@@ -11686,7 +11686,7 @@
   },
   {
     "hash": "00C7C0641EEA6DF7",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/acts_generic/mr/002_mr_sit/baiju_mr_sit_chair_armrests_applaud.aln].pc_rtn",
     "gameFlags": 8
   },
   {
@@ -11716,7 +11716,7 @@
   },
   {
     "hash": "00203F30E989FAC7",
-    "path": "",
+    "path": "[assembly:/animationnetworks/actors/acts/levels/bangkok/baiju_mr_judge_stand_armsback_step_in.aln].pc_rtn",
     "gameFlags": 8
   }
 ]
