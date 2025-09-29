@@ -29461,7 +29461,7 @@
   },
   {
     "hash": "008B1CC07D517C30",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/banner_race_hanging_a.wl2?/banner_race_rollup_a.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29506,12 +29506,12 @@
   },
   {
     "hash": "003C9CCE2FBF47EE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/levels/smoothsnake/japanese_pagoda_smoothsnake_a.wl2?/japanese_pagoda_smoothsnake_roof_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0023DE2ED78789FF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/banner_race_hanging_a.wl2?/banner_race_rollup_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29521,12 +29521,12 @@
   },
   {
     "hash": "0097101C47DDC76B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/sun_shade_bangkok_a.wl2?/sun_shade_bangkok_a_tent.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002C3D1583003E05",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/carpet_penthouse_lobby_a.wl2?/carpet_penthouse_lobby_a_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
