@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,603,809-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.42%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.43%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.92%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.79%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.80%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.74%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -51,9 +51,9 @@
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
 |JSON     |3251           |3030         |93.20%            |19   |0.58%          |
-|LINE     |33616          |32393        |96.36%            |0    |0.00%          |
+|LINE     |33616          |32466        |96.58%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
-|LOCR     |10540          |7434         |70.53%            |0    |0.00%          |
+|LOCR     |10540          |7437         |70.56%            |0    |0.00%          |
 |MATB     |5611           |5602         |99.84%            |0    |0.00%          |
 |MATE     |1133           |1073         |94.70%            |0    |0.00%          |
 |MATI     |19111          |19084        |99.86%            |24   |0.13%          |
