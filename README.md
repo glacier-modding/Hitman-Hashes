@@ -4,11 +4,11 @@
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.42%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.91%25-yellow.svg)
-![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.60%25-green.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.92%25-yellow.svg)
+![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.79%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.74%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.46%25-green.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-88.85%25-yellow.svg)
 <!-- BADGES_END -->
@@ -37,7 +37,7 @@
 |CPPT     |2783           |2783         |100.00%           |0    |0.00%          |
 |CRMD     |60             |60           |100.00%           |0    |0.00%          |
 |DITL     |4              |4            |100.00%           |0    |0.00%          |
-|DLGE     |51419          |51261        |99.69%            |0    |0.00%          |
+|DLGE     |51419          |51295        |99.76%            |0    |0.00%          |
 |DSWB     |5              |5            |100.00%           |0    |0.00%          |
 |ECPB     |2880           |2876         |99.86%            |0    |0.00%          |
 |ECPT     |2880           |2876         |99.86%            |0    |0.00%          |
