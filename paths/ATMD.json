@@ -85321,12 +85321,12 @@
   },
   {
     "hash": "00CFC148CC536D06",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_fast.amd?/fr_normal_walk_forward_fast.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00775D4CE9EE37D6",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnr20.amd?/fr_normal_walk_forward_turnr20.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85421,7 +85421,7 @@
   },
   {
     "hash": "0069DB1C91A7029E",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_to_stand_legr.amd?/fr_normal_walk_forward_to_stand_legr.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85451,12 +85451,12 @@
   },
   {
     "hash": "007EB34994CC37D0",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_forward_high.amd?/hatch_open.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "002C2B29A0D35929",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_turn/fr_normal_stand_turn_45.amd?/fr_normal_stand_turnl45.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85711,7 +85711,7 @@
   },
   {
     "hash": "008D7AE44D4AABC1",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_stand_to_normal_walk_forward_legr.amd?/fr_stand_to_normal_walk_forward_legr.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85901,7 +85901,7 @@
   },
   {
     "hash": "000A300FFEF50617",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_to_stand_legl.amd?/fr_normal_walk_forward_to_stand_legl.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -85916,7 +85916,7 @@
   },
   {
     "hash": "00D40A7C6CB5839E",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_turn/fr_normal_stand_turn_90.amd?/fr_normal_stand_turnl90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86111,7 +86111,7 @@
   },
   {
     "hash": "00F52AFB41EF586F",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_turn/fr_normal_stand_turn_20.amd?/fr_normal_stand_turnl20.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86241,7 +86241,7 @@
   },
   {
     "hash": "005FB4064E60C322",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_stand_to_normal_walk_forward_l135.amd?/fr_stand_to_normal_walk_forward_l135.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86311,7 +86311,7 @@
   },
   {
     "hash": "003A67140F0765B2",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_stand_to_normal_walk_forward_180.amd?/fr_stand_to_normal_walk_forward_180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86596,7 +86596,7 @@
   },
   {
     "hash": "004F5895AFF2209F",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnr135.amd?/fr_normal_walk_forward_turnr135.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86611,7 +86611,7 @@
   },
   {
     "hash": "00A8B7FFB80F8068",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_stand_to_slow_walk_forward_legr.amd?/fr_stand_to_slow_walk_forward_legr.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86776,7 +86776,7 @@
   },
   {
     "hash": "00E3A1B123D5238B",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_stand_to_normal_walk_forward_r135.amd?/fr_stand_to_normal_walk_forward_l135.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86851,7 +86851,7 @@
   },
   {
     "hash": "007DFC537B4890B4",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward_turnsharpl90.amd?/fr_slow_walk_forward_turnsharpl90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86886,7 +86886,7 @@
   },
   {
     "hash": "008825ED1F242047",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward_turnsharpr90.amd?/fr_slow_walk_forward_turnsharpr90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86941,7 +86941,7 @@
   },
   {
     "hash": "0089799FEDB1FDE6",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward_turnl20.amd?/fr_slow_walk_forward_turnl20.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -86986,7 +86986,7 @@
   },
   {
     "hash": "00498013C4DC6121",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward.amd?/fr_slow_walk_forward.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87431,7 +87431,7 @@
   },
   {
     "hash": "00116863AAC6869B",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_turn/fr_normal_stand_turn_20.amd?/fr_normal_stand_turnr20.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87676,7 +87676,7 @@
   },
   {
     "hash": "00C6126849565BD0",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_forwards_low.amd?/hatch_open.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87756,7 +87756,7 @@
   },
   {
     "hash": "0046BFA94B734E76",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_stand_to_slow_walk_forward_legl.amd?/fr_stand_to_slow_walk_forward_legl.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87831,7 +87831,7 @@
   },
   {
     "hash": "00D9BB2D1C54E63E",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnsharpr90.amd?/fr_normal_walk_forward_turnsharpr90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87966,7 +87966,7 @@
   },
   {
     "hash": "000ECC30E702DE9C",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turn180.amd?/fr_normal_walk_forward_turn180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -87986,7 +87986,7 @@
   },
   {
     "hash": "00603F0B8379F2F2",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward_turnr45.amd?/fr_slow_walk_forward_turnr45.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88161,7 +88161,7 @@
   },
   {
     "hash": "000C8BDE675A14D2",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_to_stand_legr.amd?/fr_slow_walk_to_stand_legr.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88256,7 +88256,7 @@
   },
   {
     "hash": "000A1A1FA8B84BB4",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward_turn180.amd?/fr_slow_walk_forward_turn180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88376,7 +88376,7 @@
   },
   {
     "hash": "00176F07A21C6893",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_turn/fr_normal_stand_turn_90.amd?/fr_normal_stand_turnr90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88456,7 +88456,7 @@
   },
   {
     "hash": "00FF93271BC081AA",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_stand_to_normal_walk_forward_legl.amd?/fr_stand_to_normal_walk_forward_legl.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88556,7 +88556,7 @@
   },
   {
     "hash": "0006FA7F81BFD609",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnl45.amd?/fr_normal_walk_forward_turnl45.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88621,7 +88621,7 @@
   },
   {
     "hash": "00A567E3F0B63DE2",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_stand_to_normal_walk_forward_r90.amd?/fr_stand_to_normal_walk_forward_r90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88641,7 +88641,7 @@
   },
   {
     "hash": "00807E38498EE005",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_backwards_high.amd?/hatch_close.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88671,7 +88671,7 @@
   },
   {
     "hash": "00D607F319C0C91F",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward_turnr20.amd?/fr_slow_walk_forward_turnr20.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88681,7 +88681,7 @@
   },
   {
     "hash": "00BEAB45DEFA1D09",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_idle/fr_normal_stand_idle.amd?/fr_normal_stand_idle.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88701,7 +88701,7 @@
   },
   {
     "hash": "0014B22D386FF360",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_stand_to_normal_walk_forward_l90.amd?/fr_stand_to_normal_walk_forward_l90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88776,7 +88776,7 @@
   },
   {
     "hash": "00CC6A622C921422",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnl20.amd?/fr_normal_walk_forward_turnl20.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -88921,7 +88921,7 @@
   },
   {
     "hash": "00AD476A9A7C64E5",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_enter_high.amd?/hatch_open.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89101,7 +89101,7 @@
   },
   {
     "hash": "001E6A8D11A3FF27",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_enter_low.amd?/hatch_open.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89131,7 +89131,7 @@
   },
   {
     "hash": "00AAB02FD005DFF9",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_backwards_low.amd?/hatch_open.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89171,7 +89171,7 @@
   },
   {
     "hash": "000768B1BA4D1A71",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_turn/fr_normal_stand_turn_45.amd?/fr_normal_stand_turnr45.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89226,7 +89226,7 @@
   },
   {
     "hash": "004A439D61FE2EC4",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnl135.amd?/fr_normal_walk_forward_turnl135.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89266,7 +89266,7 @@
   },
   {
     "hash": "002435A3BC1FF43D",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnr45.amd?/fr_normal_walk_forward_turnr45.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89421,7 +89421,7 @@
   },
   {
     "hash": "0093448F41A1BD6C",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_forward_turnl45.amd?/fr_slow_walk_forward_turnl45.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89481,12 +89481,12 @@
   },
   {
     "hash": "00007DFC0CEA5162",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward_turnsharpl90.amd?/fr_normal_walk_forward_turnsharpl90.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
     "hash": "00C4EA5A8021CBB9",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_slow_walk/fr_slow_walk_to_stand_legl.amd?/fr_slow_walk_to_stand_legl.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89496,7 +89496,7 @@
   },
   {
     "hash": "00D4538CE7B959E4",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_walk/fr_normal_walk_forward.amd?/fr_normal_walk_forward.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -89551,7 +89551,7 @@
   },
   {
     "hash": "00826B3E6318F783",
-    "path": "",
+    "path": "[assembly:/animations/npc/010_crowd/female_01/fr_normal_turn/fr_normal_stand_turn_180.amd?/fr_normal_stand_turn180.atmd].pc_atmd",
     "gameFlags": 128
   },
   {
@@ -90326,7 +90326,7 @@
   },
   {
     "hash": "0010648078A86A0B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/hm_fr_lay_bench_press_045cm.amd?/fr_press01_loop.atmd].pc_atmd",
     "gameFlags": 8
   },
   {
@@ -90491,7 +90491,7 @@
   },
   {
     "hash": "0064B074877273ED",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/hm_fr_lay_bench_press_045cm.amd?/fr_start.atmd].pc_atmd",
     "gameFlags": 8
   },
   {
@@ -90901,7 +90901,7 @@
   },
   {
     "hash": "005F2C9C5F5392D2",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/hm_fr_lay_bench_press_045cm.amd?/fr_layloop.atmd].pc_atmd",
     "gameFlags": 8
   },
   {
@@ -90911,7 +90911,7 @@
   },
   {
     "hash": "0002E913E9983D42",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/hm_fr_lay_bench_press_045cm.amd?/fr_pickup.atmd].pc_atmd",
     "gameFlags": 8
   },
   {
@@ -91011,7 +91011,7 @@
   },
   {
     "hash": "00A8CF2B6C808B6C",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/hm_fr_lay_bench_press_045cm.amd?/kill_fr.atmd].pc_atmd",
     "gameFlags": 8
   },
   {
@@ -91246,7 +91246,7 @@
   },
   {
     "hash": "0074D894601A4C01",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/s02_l08_stingray/hm_fr_lay_bench_press_045cm.amd?/mr_stop.atmd].pc_atmd",
     "gameFlags": 8
   },
   {
