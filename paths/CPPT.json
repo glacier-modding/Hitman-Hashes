@@ -13913,5 +13913,30 @@
     "hash": "0010333DB536B996",
     "path": "[modules:/zmultimenucondition.class].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "006C28B536626B8B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0017A2094B9B4EF8",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D3828637D9A8AE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C4AF9DA4DD31F3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0097EE770AFBE749",
+    "path": "",
+    "gameFlags": 8
   }
 ]

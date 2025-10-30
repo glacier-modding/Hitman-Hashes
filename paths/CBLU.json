@@ -13913,5 +13913,30 @@
     "hash": "0059FE7C32FEC829",
     "path": "[modules:/zhm5crippleboxcondition.class].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "007D687B03CDDCDD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EEF3AC15D2796D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CA65897D4ABD23",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007ACC75B60DC7BC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000F459B300198EB",
+    "path": "",
+    "gameFlags": 8
   }
 ]
