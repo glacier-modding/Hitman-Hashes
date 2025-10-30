@@ -13916,27 +13916,27 @@
   },
   {
     "hash": "006C28B536626B8B",
-    "path": "",
+    "path": "[modules:/zvrshakeinventoryitemdroppedentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0017A2094B9B4EF8",
-    "path": "",
+    "path": "[modules:/zsignalbranchconditionalvoidentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00D3828637D9A8AE",
-    "path": "",
+    "path": "[modules:/zvrinventoryshake.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C4AF9DA4DD31F3",
-    "path": "",
+    "path": "[modules:/zvrinventoryinhandentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0097EE770AFBE749",
-    "path": "",
+    "path": "[modules:/zsignallogicalparentinputpin.class].pc_entitytype",
     "gameFlags": 8
   }
 ]
