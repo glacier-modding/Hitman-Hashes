@@ -726,7 +726,7 @@
   },
   {
     "hash": "00CD21F25D2D2425",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/bangkok/states_mx_baiju_dojo_combat.wwisestategroup].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -736,7 +736,7 @@
   },
   {
     "hash": "000FDC13567C47DF",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/bangkok/states_mx_baiju.wwisestategroup].pc_entitytype",
     "gameFlags": 8
   }
 ]
