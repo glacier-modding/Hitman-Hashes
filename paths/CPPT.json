@@ -5077,7 +5077,7 @@
   {
     "hash": "00A64ADA44FDF299",
     "path": "[modules:/zaisoundeventmodifier.class].pc_entitytype",
-    "gameFlags": 4
+    "gameFlags": 12
   },
   {
     "hash": "00C95031EEE2BE8A",
@@ -13937,6 +13937,46 @@
   {
     "hash": "0097EE770AFBE749",
     "path": "[modules:/zsignallogicalparentinputpin.class].pc_entitytype",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FFD30B5BA22228",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00713347AC8D186A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006CD388951F96E7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001AAC30B81556A0",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002590BB7E8ABFFC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F2A648779CD652",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000AADB642C71D51",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F9B44346DB66C2",
+    "path": "",
     "gameFlags": 8
   }
 ]

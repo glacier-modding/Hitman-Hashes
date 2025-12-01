@@ -5663,5 +5663,25 @@
     "hash": "00A370FDA67FAC8A",
     "path": "[[assembly:/_pro/items/materialclasses/sniperscope_vrhelper_xhair.materialclass].fx](dx11).pc_mate",
     "gameFlags": 8
+  },
+  {
+    "hash": "00B18378AC3A5DDA",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00668085AA0B959F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0064066CEE8BDC6A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00397ED85370F50A",
+    "path": "",
+    "gameFlags": 8
   }
 ]

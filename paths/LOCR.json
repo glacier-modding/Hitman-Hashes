@@ -52698,5 +52698,20 @@
     "hash": "0013A446AFF37674",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_apple.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
+  },
+  {
+    "hash": "003CDD2A3B0C6EEF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B0B2DA91BC20E7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00125361EE37A330",
+    "path": "",
+    "gameFlags": 8
   }
 ]

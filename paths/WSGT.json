@@ -738,5 +738,10 @@
     "hash": "000FDC13567C47DF",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/bangkok/states_mx_baiju.wwisestategroup].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00CB9B640A291199",
+    "path": "",
+    "gameFlags": 8
   }
 ]

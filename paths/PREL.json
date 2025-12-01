@@ -733,5 +733,10 @@
     "hash": "00B221D0E413A477",
     "path": "[assembly:/_pro/scenes/missions/bangkok/scene_baiju.entity].pc_preload",
     "gameFlags": 8
+  },
+  {
+    "hash": "00C137DBC0334D15",
+    "path": "",
+    "gameFlags": 8
   }
 ]

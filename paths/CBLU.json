@@ -5077,7 +5077,7 @@
   {
     "hash": "00DDDC266521905E",
     "path": "[modules:/zaisoundeventmodifier.class].pc_entityblueprint",
-    "gameFlags": 4
+    "gameFlags": 12
   },
   {
     "hash": "0082E432FC56E5DE",
@@ -13937,6 +13937,46 @@
   {
     "hash": "000F459B300198EB",
     "path": "[modules:/zvrinventoryshake.class].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F419A14E31E5BB",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D7A7D621870F65",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A2A1963A88F58A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00810A6DA309262B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007976A80BBF5D84",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00698CC8EEDD23D2",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0016D7FD7B2BBF94",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00817D854750A06B",
+    "path": "",
     "gameFlags": 8
   }
 ]

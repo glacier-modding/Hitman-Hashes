@@ -2543,5 +2543,10 @@
     "hash": "00D50376379040BB",
     "path": "[assembly:/sound/sounddefinitions/et_baij.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "0020B0AE5A593C31",
+    "path": "",
+    "gameFlags": 8
   }
 ]
