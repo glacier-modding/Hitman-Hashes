@@ -13941,42 +13941,42 @@
   },
   {
     "hash": "00F419A14E31E5BB",
-    "path": "",
+    "path": "[modules:/zsetgeomentityresourceentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D7A7D621870F65",
-    "path": "",
+    "path": "[modules:/zgeteuleranglesentity_axisangle.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A2A1963A88F58A",
-    "path": "",
+    "path": "[modules:/zactorproviderfilterqueue.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00810A6DA309262B",
-    "path": "",
+    "path": "[modules:/zcurrentonlineenvironmententity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "007976A80BBF5D84",
-    "path": "",
+    "path": "[modules:/zheroclothaction.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00698CC8EEDD23D2",
-    "path": "",
+    "path": "[modules:/zdisablevrheadcollisionaspect.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0016D7FD7B2BBF94",
-    "path": "",
+    "path": "[modules:/zvaluevector3_entityproperty.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00817D854750A06B",
-    "path": "",
+    "path": "[modules:/zhm5variantconverterentity_svector3.class].pc_entityblueprint",
     "gameFlags": 8
   }
 ]

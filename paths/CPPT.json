@@ -13941,42 +13941,42 @@
   },
   {
     "hash": "00FFD30B5BA22228",
-    "path": "",
+    "path": "[modules:/zdisablevrheadcollisionaspect.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00713347AC8D186A",
-    "path": "",
+    "path": "[modules:/zhm5variantconverterentity_svector3.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006CD388951F96E7",
-    "path": "",
+    "path": "[modules:/zgeteuleranglesentity_axisangle.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001AAC30B81556A0",
-    "path": "",
+    "path": "[modules:/zheroclothaction.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "002590BB7E8ABFFC",
-    "path": "",
+    "path": "[modules:/zactorproviderfilterqueue.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F2A648779CD652",
-    "path": "",
+    "path": "[modules:/zvaluevector3_entityproperty.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "000AADB642C71D51",
-    "path": "",
+    "path": "[modules:/zcurrentonlineenvironmententity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F9B44346DB66C2",
-    "path": "",
+    "path": "[modules:/zsetgeomentityresourceentity.class].pc_entitytype",
     "gameFlags": 8
   }
 ]

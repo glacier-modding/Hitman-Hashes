@@ -28056,7 +28056,7 @@
   },
   {
     "hash": "005FC794AF44B7EA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/slimshady_mask.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28066,12 +28066,12 @@
   },
   {
     "hash": "00B4744E0DC27BBF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/plastic/resin_black_b_zmapped.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00282FCE1AADC2AB",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_tga_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28101,7 +28101,7 @@
   },
   {
     "hash": "00027D5B0EA8305E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/neckwear/materials/male_reg_cape_slimshady.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28126,7 +28126,7 @@
   },
   {
     "hash": "002463A57685800F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/em_marshall_pants.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28141,7 +28141,7 @@
   },
   {
     "hash": "001300337D88DB28",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/em_marshall_jacket.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28156,7 +28156,7 @@
   },
   {
     "hash": "00DEC67E0CDFBC47",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_tga_b.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28171,7 +28171,7 @@
   },
   {
     "hash": "00E32D669821B681",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronic/microphone_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28201,7 +28201,7 @@
   },
   {
     "hash": "00DB71D9DC2485A1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/mask_guard_bellini.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28251,7 +28251,7 @@
   },
   {
     "hash": "004C9E799B40BAE4",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fairywings_bellini.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28261,7 +28261,7 @@
   },
   {
     "hash": "00178233C672A250",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/fiberwire_tie_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28291,17 +28291,17 @@
   },
   {
     "hash": "005CA93800DC30DF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_dungerees_slimshady.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F31457154C4124",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_pants_thights_full.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "002446E9E64081BF",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/gameplay/fx_gameplay_invisibleshotnocoli.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28321,7 +28321,7 @@
   },
   {
     "hash": "000F9EDE72E937AF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/sneakers_slimshady.mi].pc_entitytype",
     "gameFlags": 8
   }
 ]

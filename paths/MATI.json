@@ -95580,377 +95580,390 @@
   },
   {
     "hash": "005FA75FFAE9BE01",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/metal_brushed_dirty_c_alpha.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007549328965B4BA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/misc/bodybag_prop_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "009FB04BD40817D1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_eminem_beard"
   },
   {
     "hash": "003B2EEF6F9D6BB7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_strait_jacket_buckles"
   },
   {
     "hash": "00FA36BC46F79F7C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/spaghetti_bolognese_bellini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D9F4D5C56B81DF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hair_emss"
   },
   {
     "hash": "0015FAAC3789F851",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "head_slim_shady"
   },
   {
     "hash": "00E47D2F9A85D448",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/chair_worn_simple_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00E186A616AEF536",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fairywings_bellini.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00ECE96DE6FFEBC1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "duck_pin_se3"
   },
   {
     "hash": "00956BE533A662D1",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/explosives/explosive_dynamite_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D8E1AFD2EE5573",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/hokkaido/hokkaido_donor_male_head_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D82951CE3F70D1",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/npc_pistol_standard/npc_pistol_standard_bellini.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0050E7500840FDCF",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/fiberwire_tie_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00CFFD03E64C0348",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/debris/fx_decal_debris_glitter_2x2.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A2D33507027029",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_tga_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003B4D241B12F9F7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/dirt/pigeon_droppings_bellini.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D39DCA95EBE748",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_dungerees_slimshady.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0002E73929F3880A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/neckwear/materials/male_reg_cape_slimshady.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0056EF5C1A278E6E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/bellini_wall_name_graffiti_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000DFADC67AC951B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/tablecloth_diner_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007C25B7DE85D977",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/slimshady_mask.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A37C3F36C5E5D7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/em_marshall_sneakers.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0092FC78874B1EE9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_bellini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00713743CAAA41FB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/metal_brushed_dirty_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DD0BBAEAB690BA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/christmastree_brooch.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0065BACABD36B14C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/mom_logo_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00F5875D26686F13",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/agentsmith/materials/base_male_agentsmith_flakes.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001541CCEC73CF8F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_bellini_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002574E1B6E8760A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/school/chainsaw_spring_rider_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007EB151933D86B7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/elf_hat.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000C648F5C2F316E",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/gameplay/fx_gameplay_invisibleshotnocoli.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0094213BDFF81035",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/bellini_tablecloth_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A51FBE63C87F7D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/bellini_wall_text_graffiti_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A27C76B078D1D3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/misc/black_void_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00049F9B3857B4F6",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/materials/props/food/quixel_bread_slice_tfxndfdpa_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0054C268988B2261",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/school/chainsaw_item_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D6D85B542A6773",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fx_bellini_mirror_dream_custom"
   },
   {
     "hash": "00DA2982EC705A93",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/napkin_diner_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00C8E3BF3529E443",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/sculpture_motorcycle_decals_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004ED62EA7405D51",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/fabric/padded_wall_bellini.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "005304948844E01A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_eminem"
   },
   {
     "hash": "00F01C4E3B9C15A2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/metal_brushed_a_dark.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007C1B068180BE35",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/jackets/materials/em_marshall_jacket.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00721DD2072F49DB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/papers/bellini_curse_paper_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007F87B0708FDC51",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/bellini_wall_face_graffiti_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000D153D736D7B69",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/trims_metal_diner_bellini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0036EE86471AB8DF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/sneakers_slimshady.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "005C5C67211791C3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_strait_jacket"
   },
   {
     "hash": "008540A6B984219F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/mom_logo_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007B59C0A655E7E2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/em_marshall_pants.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004AFCB64BAAB7F4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fx_bellini_panel_screen_custom_a"
   },
   {
     "hash": "00EEE4CA98E290DF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/mask_guard_bellini.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0081B5B1D70FC161",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/pants/materials/male_reg_pants_thights_full.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002AC2FD92959877",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/em_marshall_neckchain.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00996DEB584DB699",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/signs/sign_diner_bellini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0010818DDD5BF639",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/sign_mom_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00E5996BFDB7D0EF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/spagetti_jar_label_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0052B4D0BDFDCF4B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hospital_gown"
   },
   {
     "hash": "002ED58E518BD0AA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronic/loudspeaker_a_glow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0095F91495D2DF2A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/bellini_wall_text_graffiti_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0091D19AF4632D58",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/metal_painted_red_bellini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0020C8A248784620",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/hokkaido/hokkaido_donor_male_a_body.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00891501371D4FD2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/plastic/resin_black_b_zmapped.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00B8856845B75FEF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/slimshadyguard_overalls.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00869434A7E35C6B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronic/microphone_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0033D916DCE03BC7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/spagetti_jar_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D3AC57783A346B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/agentsmith/materials/base_male_agentsmith_snotciles.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FF97F5D1B98413",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/elf_ears.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DF4EBA38ED1F8A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/bellini_wall_name_graffiti_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D5C337D592AA82",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_tga_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DFAF835F2FDA5D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "eyetronics_head"
   },
   {
     "hash": "00F7B78D6339C8F1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_strait_jacket_straps"
   },
   {
     "hash": "0005017AD4732EA0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/accessories/nitrousgel_a_glass_bellini.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00E2CB75E0D9525A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "bellini_bodybag_cin_zipper_a"
   }
 ]
