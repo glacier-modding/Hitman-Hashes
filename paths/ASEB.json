@@ -10311,7 +10311,7 @@
   },
   {
     "hash": "0020653D5E58ED93",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/trees_colombia_existing_assets_a.template?/jungle_tree_d_a.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -14991,7 +14991,7 @@
   },
   {
     "hash": "005F8C7716C58D82",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/misc/race_merchandise_a.template?/football_helmet_a.entitytemplate].entitytype,[modules:/zglowinheritlinkedproxyaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -16646,7 +16646,7 @@
   },
   {
     "hash": "00769082536653B2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/trees_colombia_a.template?/jungle_tree_d_c.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -18051,7 +18051,7 @@
   },
   {
     "hash": "0088793428FA9105",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/tropical_jungle_tree_d_c.entitytemplate].entitytype,[modules:/zshadowlodaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -27141,7 +27141,7 @@
   },
   {
     "hash": "00FC75E145E88B3C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/trees_colombia_a.template?/jungle_tree_d_d.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 4
   },
   {
@@ -27501,7 +27501,7 @@
   },
   {
     "hash": "000CCA67C67A8C7B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/characters/templates/greenland/char_greenland_unique.template?/outfit_youngdiana_actor_v0.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect cutsequence only.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 16
   },
   {
@@ -29256,37 +29256,37 @@
   },
   {
     "hash": "000FF44C5CD4F2D7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zdeprecatedaspect.class].entitytype,[modules:/zspatialsaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
     "hash": "00E3395EDD333C39",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/scenes/missions/coastaltown/templates-mission_copperhead/copperhead_common.template?/movie_set_minion_monster_ammo_fake.entitytemplate].entitytype,[modules:/zvisibilitysaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
     "hash": "0021F3892C53C65E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 2
   },
   {
     "hash": "00215732180F4EDF",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.competitionpage.uic].entitytype,[modules:/game.ui.moduleinfo?zcompetitionsetupsettings.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "007389969870F3DD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/ui/controls/basiccontrols.template?/container.entitytemplate].entitytype,[modules:/game.ui.moduleinfo?zuiminimapnavigationentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "001380071D75228D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.playthroughdetailspage.uic].entitytype,[modules:/game.ui.moduleinfo?zplaythroughdetailscontroller.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "005B7D171AB4BD2E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.debriefingpage.uic].entitytype,[modules:/game.ui.moduleinfo?zdebriefingpagecontroller.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -29296,7 +29296,7 @@
   },
   {
     "hash": "00F6BFAEED24455C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.entity.moduleinfo?zentity.class].entitytype,[modules:/runtime.crowds.moduleinfo?zcrowdkillboxaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -29306,72 +29306,72 @@
   },
   {
     "hash": "00BCC191E67FC648",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/basic.swf?/basic.itembg.uic].entitytype,[modules:/game.ui.moduleinfo?zmenucheckboxnavigationentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0075C536F1BFC091",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.genericlistpage.uic].entitytype,[modules:/game.ui.moduleinfo?zselectfriendspagecontroller.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00F6D6E849D2BA1A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/items/firearm_tokens.template?/firearms_npc_assaultrifle01_standard_token.entitytemplate].entitytype,[modules:/runtime.morpheme.moduleinfo?zvariationresourceentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "004C3A446A244671",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/items/firearm_tokens.template?/firearms_npc_pistol01_standard_token.entitytemplate].entitytype,[modules:/runtime.morpheme.moduleinfo?zvariationresourceentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00864CACBE3377D8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplatekinematic.template?/kinematiclinkedphysicsentity.entitytemplate].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "004D72C9EDCC5B3B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplateshatter.template?/shattersystem.entitytemplate].entitytype,[modules:/runtime.crowds.moduleinfo?zcrowdkillboxaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "005BA1496CAA1FF6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/runtime.render.moduleinfo?zbodypartentity.class].entitytype,[modules:/runtime.physics.moduleinfo?zclothcharacterentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0027E48351C6C10A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplateshatter.template?/shattersystem.entitytemplate].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00350C8CF5FAB39F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.crowds.moduleinfo?zcrowdkillboxaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00A754C8D04ED4A1",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/items/firearm_tokens.template?/firearms_npc_smg01_standard_token.entitytemplate].entitytype,[modules:/runtime.morpheme.moduleinfo?zvariationresourceentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0007A4E08609577B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.itemdetailspage.uic].entitytype,[modules:/game.ui.moduleinfo?zitemdetailspagecontroller.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "006C34DE6463B4FC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/phone.swf?/phone.briefingpage.uic].entitytype,[modules:/game.ui.moduleinfo?zbriefingpagecontroller.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00627A6DD9F004B0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/runtime.render.moduleinfo?zboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00C9C055AF2E0184",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/game.item.moduleinfo?zrepositoryitemspawnerentity.class].entitytype,[modules:/hitman5.moduleinfo?zstashpointtrackeraspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -29381,32 +29381,32 @@
   },
   {
     "hash": "00F8980F2F15E929",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/hitman5.moduleinfo?zhm5animaudioemitter.class].entitytype,[modules:/runtime.audio.wwise.moduleinfo?zaudioemitterspatialaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0047094654FF0152",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/menu2.swf?/menu2.dynamicmenupage.uic].entitytype,[modules:/game.ui.moduleinfo?zleaderboardspagecontroller.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00B8A2DD81BC2F37",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/items/firearm_tokens.template?/firearms_npc_shotgun01_standard_token.entitytemplate].entitytype,[modules:/runtime.morpheme.moduleinfo?zvariationresourceentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0033050FAFDC3073",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplateshatter.template?/shattersystem.entitytemplate].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "00E0FF1CFB1C00E9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplatekinematic.template?/kinematiclinkedphysicsentity.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect cutsequence only.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
     "hash": "0092C777689733A7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/linkedtemplatekinematic.template?/kinematiclinkedphysicsentity.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype,[modules:/game.physics.moduleinfo?zmassimpulselistenerentity.class].entitytype,[modules:/game.ui.moduleinfo?zworldmapmarkerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 128
   },
   {
@@ -29471,7 +29471,7 @@
   },
   {
     "hash": "00F5ED511B1E0C45",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/decorative/sun_shade_bangkok_a.wl2?/sun_shade_bangkok_a_tent.prim](materials).entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29516,7 +29516,7 @@
   },
   {
     "hash": "0049AD9434CA987A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zboxvolumeentity.class].entitytype,[modules:/zperceptibleaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29546,7 +29546,7 @@
   },
   {
     "hash": "002DA6152CB3E33B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/curtains_palace_baiju.wl2?/curtains_palace_baiju.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29556,72 +29556,72 @@
   },
   {
     "hash": "009FF97F16BEC4F4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/architecture/windows/windows_classical_big.template?/shutters_hotel_square_b_00.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004C196CBADA2372",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/lamps/lamp_ice_ceiling_a.wl2?/curtain_hanger_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00EA9EAE8810A141",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zdebuggizmoentity.class].entitytype,[modules:/zactorboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00008756CFA09449",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/decorative/curtains_hotel_bangkok_a.template?/curtains_hotel_bangkok_j_left.entitytemplate].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E3FF7F0DB34D7C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zdisablevrheadcollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DFE95006A8A5D0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/industrial/hanging_chains_a.wl2?/hanging_chain_hook_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002C9E8F970FA7A3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zdisablevrheadcollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0083D62A27034787",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/decorative/curtains_hotel_bangkok_a.template?/curtains_hotel_bangkok_d_00.entitytemplate].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DF8750C74B050B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/characters/templates/hokkaido/char_hokkaido_elusivetarget_bellini.template?/outfit_bellini_helper_eminem_actor_v0.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A7D9A10F770C7B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/levels/wolverine/dream_sphere_a.wl2?/wolverine_dream_sphere_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E3789C15B082BC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/gift_box_baiju_a.wl2?/gift_box_baiju_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F29138CFB65D54",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/accessories/napkin_bar_a.wl2?/napkin_bar_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0054E649EDF2F721",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/zdisablevrheadcollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "008D5FCAE6C72739",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/decorative/curtains_hotel_bangkok_a.template?/curtains_hotel_bangkok_j_right.entitytemplate].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29631,77 +29631,77 @@
   },
   {
     "hash": "0075F5165E4690B6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/liquid/fx_liquid.template?/fx_e_blood_gardenshredder.entitytemplate].entitytype,[modules:/zboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00057CC899490DE2",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/kits/evergreen/lakehouse_a.wl2?/lakehouse_int_pillar_50x580_plain_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00FD42C8FFB67727",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/foliage/banyans_b.template?/banyan_large_b_v2.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype,[modules:/zdisablevrheadcollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A9763BC7495AA8",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/misc/fx_bloodsplatter.template?/fx_blood_splatter_burst_wall.entitytemplate].entitytype,[modules:/zboneattachaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E4887ADD23BA74",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/melee/umbrella_a.wl2?/umbrella_a_open.prim](materials).entitytype,[modules:/zdisablevrheadcollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "007D8F4341D6EEA6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/electronics/loudspeaker_a.wl2?/loudspeaker_a_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002ED295482472A9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zclothcustommeshentity.class].entitytype,[modules:/zdisablevrheadcollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00B83E99610E0E5D",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/characters/templates/hokkaido/char_hokkaido_unique.template?/outfit_ninjasuit_m_heroa_v0.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype,[modules:/zvisibilitysaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00BCC2606D255E73",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zclothcustommeshentity.class].entitytype,[modules:/zdisablevrheadcollisionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DCA2505E0BF199",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/decorative/gift_box_baiju_a.wl2?/gift_box_baiju_lid_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A9CDDC374A52F3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[assembly:/_pro/design/setpieces/unique/setpieces_bellini_unique.template?/setpiecehelper_bellini_mirrorportal_shardaspect.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A8521B7AD92F92",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/electronics/loudspeaker_a.wl2?/loudspeaker_b_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00FDB5E5E0D99A60",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/furniture/chair_worn_simple_a.wl2?/chair_worn_simple_a_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003B89CA776FC206",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/electronics/loudspeaker_a.wl2?/loudspeaker_e_00.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001BE6136C9AD8BC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/misc/fx_glitter.template?/fx_e_glitter_threecolors.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29711,12 +29711,12 @@
   },
   {
     "hash": "00DD28885F117EC7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/characters/templates/hokkaido/char_hokkaido_unique.template?/outfit_agentsmith_m_actor_v0.entitytemplate].entitytype,[assembly:/templates/_viewers/animplayeraspect.template?/anim player aspect.entitytemplate].entitytype,[modules:/zvisibilitysaveaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003EA0262B826F50",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/street_props/solar_panel_a.wl2?/solar_panel_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   }
 ]

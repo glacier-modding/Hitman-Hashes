@@ -28061,7 +28061,7 @@
   },
   {
     "hash": "00BB258D091774DC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/chefs_01/materials/male_chef_sapiensa_01_apron_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28076,27 +28076,27 @@
   },
   {
     "hash": "00097BD7867F9111",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/wall_clock_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0014DFF5AE336402",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/grandfather_clock_tuscan_a_glass.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "007C60B694F7DE61",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_hitmansuit.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "000DAB5AE8A1B2D9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/museum_display_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00B89492E87E5F17",
-    "path": "",
+    "path": "[assembly:/_pro/qa/materials/mockupblocks/mockup.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28106,22 +28106,22 @@
   },
   {
     "hash": "00168FE720E7E771",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/japanese_wall_wood_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00BFD5A27AB25B8F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/gameplay/traps/suspended_shark_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A44373328E47B9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/hokkaido_hospital_signs_b.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0099FDD85D28AE06",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/marrakesh/fortuneteller/materials/male_reg_fortuneteller_shoes_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28131,12 +28131,12 @@
   },
   {
     "hash": "00D58E6066C3857E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wood/panels_chestnut_a_v2.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "002093169CD2F652",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/ice/icicle_japan_b.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28176,17 +28176,17 @@
   },
   {
     "hash": "008F601143F1FA0A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/hokkaido/trims_wood_indoor_hokkaido_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008935891B67C948",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_hotel_bangkok_b.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00E843825D915D8D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/hokkaido_hospital_signs_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28196,7 +28196,7 @@
   },
   {
     "hash": "00647A44C74F44BB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/eyes/materials/agent47_eye.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28206,12 +28206,12 @@
   },
   {
     "hash": "001A8120E1C6CE73",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/planks_modern_birchwood_black_b.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00DD1D3F202BEA8E",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/token_prop_ezplosive_remote_rubberduck_dragon.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28221,17 +28221,17 @@
   },
   {
     "hash": "007EF792AAD91F88",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/containers/body_container_dumpster_metal_b_lid.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "004FDF5906B667E3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/curtains_hotel_bangkok_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00924BB4172154AD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/logos/hokkaido_hospital_logo_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28241,12 +28241,12 @@
   },
   {
     "hash": "00265B8AA81520C1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/hokkaido/morguedoctor/material/male_reg_morguedoctor_hat.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "000EDED3A895A7CA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/hokkaido/doctor/materials/doctor_coat.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28266,12 +28266,12 @@
   },
   {
     "hash": "00DB2F139B123144",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/resort_staff/female/materials/fem_reg_resort_staff_jacket.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008FC1F49A7E95A6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/garage_props/classic_fuel_pump_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28281,12 +28281,12 @@
   },
   {
     "hash": "00FD451BF565B884",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/humidor_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F9164C83D8162F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/gift_boxes_transperent_a.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -28306,7 +28306,7 @@
   },
   {
     "hash": "00EDBAB75AEC3A5D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/chefs_01/materials/male_chef_sapiensa_01_shirt_01.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
