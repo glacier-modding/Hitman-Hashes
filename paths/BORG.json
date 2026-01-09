@@ -36821,7 +36821,7 @@
   },
   {
     "hash": "0001FD974B1E2C54",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/printworker_04/geometry/male_reg_printworker_04.wl2?/feet.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {
@@ -36926,12 +36926,12 @@
   },
   {
     "hash": "000460354EA1E35E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/magpie/sentinel/geometry/male_reg_sentinel.wl2?/cape_hood_47.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {
     "hash": "00C6E18E816A3482",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/magpie/sentinel/geometry/male_reg_sentinel.wl2?/cape_47.weightedprim](bodypart).pc_bonerig",
     "gameFlags": 8
   },
   {
