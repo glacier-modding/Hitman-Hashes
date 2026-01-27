@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
-![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,608,802-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.42%25-green.svg)
+![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,608,845-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.43%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-27/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
@@ -23,7 +23,7 @@
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
 |AIRG     |57             |57           |100.00%           |0    |0.00%          |
-|ALOC     |27159          |26678        |98.23%            |0    |0.00%          |
+|ALOC     |27159          |26680        |98.24%            |0    |0.00%          |
 |ASEB     |5944           |5935         |99.85%            |0    |0.00%          |
 |ASET     |13880          |13740        |98.99%            |0    |0.00%          |
 |ASVA     |285            |285          |100.00%           |0    |0.00%          |
@@ -46,11 +46,11 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |361343         |358489       |99.21%            |6    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
-|GFXI     |12629          |12339        |97.70%            |2    |0.02%          |
+|GFXI     |12660          |12370        |97.71%            |2    |0.02%          |
 |GFXV     |334            |328          |98.20%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3273           |3053         |93.28%            |19   |0.58%          |
+|JSON     |3285           |3065         |93.30%            |19   |0.58%          |
 |LINE     |33714          |32469        |96.31%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10543          |7440         |70.57%            |0    |0.00%          |
@@ -64,14 +64,14 @@
 |NAVP     |85             |85           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |148            |148          |100.00%           |0    |0.00%          |
-|PRIM     |44818          |43211        |96.41%            |2    |0.00%          |
+|PRIM     |44818          |43213        |96.42%            |2    |0.00%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |149            |144          |96.64%            |3    |2.01%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |510            |508          |99.61%            |0    |0.00%          |
 |TBLU     |58895          |58651        |99.59%            |204  |0.35%          |
 |TELI     |65725          |35704        |54.32%            |0    |0.00%          |
-|TEMP     |89574          |88751        |99.08%            |243  |0.27%          |
+|TEMP     |89574          |88753        |99.08%            |243  |0.27%          |
 |TEXD     |50169          |49020        |97.71%            |7    |0.01%          |
 |TEXT     |45505          |44403        |97.58%            |7    |0.02%          |
 |UICB     |481            |479          |99.58%            |0    |0.00%          |
