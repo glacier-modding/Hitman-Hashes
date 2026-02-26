@@ -13981,122 +13981,122 @@
   },
   {
     "hash": "00CACD2A96FE9273",
-    "path": "",
+    "path": "[modules:/zactorspreadoutbreakinfectioncure.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C51029E0600CFE",
-    "path": "",
+    "path": "[modules:/zactorproviderfilterapproach.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00D340F2A5494957",
-    "path": "",
+    "path": "[modules:/zglowinheritentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00479601629EED2C",
-    "path": "",
+    "path": "[modules:/zactorspreadevaluatoroutbreak.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008834E42FCC3C5E",
-    "path": "",
+    "path": "[modules:/zactorpickerfiltersharedknowledge.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00DC570779B3C1AE",
-    "path": "",
+    "path": "[modules:/zherotransitionoperatormaterial.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0027DA0C6DE61316",
-    "path": "",
+    "path": "[modules:/zrendermaterialoverridefactorydebugger.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F2E6666A879C53",
-    "path": "",
+    "path": "[modules:/zsignalgateentity_svector3.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00232E211D887F9E",
-    "path": "",
+    "path": "[modules:/zactorproviderfiltercollection.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F0BA1FBA5213EC",
-    "path": "",
+    "path": "[modules:/zactorspreadinfectionlogic.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0049BD4028FC1DE1",
-    "path": "",
+    "path": "[modules:/zevergreenmenuentryinfopanelraddon.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "009A425373C5C10B",
-    "path": "",
+    "path": "[modules:/zactorprovidervolume.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0024F9B5A0A747DE",
-    "path": "",
+    "path": "[modules:/zspatialreferenceentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F8FF87E2F14590",
-    "path": "",
+    "path": "[modules:/zevergreenmenupageentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00795AC6A10EDED7",
-    "path": "",
+    "path": "[modules:/zactorspreadevaluatoroutbreakstage.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001A0B4A07BA15B5",
-    "path": "",
+    "path": "[modules:/zactortargetinfooverride.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0025A7C5C1A1EE3A",
-    "path": "",
+    "path": "[modules:/zactorproviderfilterdirect.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0065F214FF4798D3",
-    "path": "",
+    "path": "[modules:/zevergreenmenuentrypromptpaginationaction.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A11E18B28CFBBC",
-    "path": "",
+    "path": "[modules:/zactorspreadoutbreakinfectionstage.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0008C0457F97A669",
-    "path": "",
+    "path": "[modules:/zactorproviderfiltervoicevariation.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008C3ACFF4B6EB73",
-    "path": "",
+    "path": "[modules:/znpccrowddensityentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001BDCEFDB0F0235",
-    "path": "",
+    "path": "[modules:/znavmeshexportcontrolaspect.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001F5C567F47C7E5",
-    "path": "",
+    "path": "[modules:/zevergreenmenupagecontroller.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0067CE04883A24D6",
-    "path": "",
+    "path": "[modules:/zinfectedsituationconfigentity.class].pc_entitytype",
     "gameFlags": 8
   }
 ]
