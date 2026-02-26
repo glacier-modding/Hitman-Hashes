@@ -508,5 +508,10 @@
     "hash": "0030F8CF65EB1B15",
     "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_bellini.videodb].pc_videodb",
     "gameFlags": 8
+  },
+  {
+    "hash": "004357B3DDC8EB0A",
+    "path": "",
+    "gameFlags": 8
   }
 ]

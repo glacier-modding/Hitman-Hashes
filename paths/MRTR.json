@@ -4308,5 +4308,40 @@
     "hash": "006597E4A11FEEEC",
     "path": "[assembly:/animations/hitman01/movement/029_vents/hm_vent_exit_backwards_low.xmd?/hatch_open.xmdtake].pc_rtr",
     "gameFlags": 128
+  },
+  {
+    "hash": "00A94B5C10624160",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0094E1359A001ADB",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003D22414D71BD0C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D78E4D298F338A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004F511ED7D8A34A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B7D9F45E7D7BFA",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00018F7B6732A7B9",
+    "path": "",
+    "gameFlags": 8
   }
 ]

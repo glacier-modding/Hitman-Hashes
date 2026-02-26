@@ -743,5 +743,10 @@
     "hash": "00EBE8276CEF0B5E",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/levelspecific_states/bellini/states_mx_bellini.wwisestategroup].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "00F18B03867E7E20",
+    "path": "",
+    "gameFlags": 8
   }
 ]

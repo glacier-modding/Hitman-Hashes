@@ -1423,5 +1423,15 @@
     "hash": "0003B8DB23AF4E2E",
     "path": "[assembly:/animations/animationdatabases/hm5_animations.aset?/vri_guard_pistol.asva].pc_asva",
     "gameFlags": 128
+  },
+  {
+    "hash": "00BFDBEC1CF624BC",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000885D9A6C42CBE",
+    "path": "",
+    "gameFlags": 8
   }
 ]

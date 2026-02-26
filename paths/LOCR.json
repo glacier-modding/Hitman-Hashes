@@ -52713,5 +52713,20 @@
     "hash": "00125361EE37A330",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/arcade_s3/arcade_tamarillo.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
+  },
+  {
+    "hash": "00CC274EEEF310E7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DF7B76782F9DF1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DA1E3588EC8F61",
+    "path": "",
+    "gameFlags": 8
   }
 ]

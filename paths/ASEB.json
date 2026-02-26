@@ -29718,5 +29718,105 @@
     "hash": "003EA0262B826F50",
     "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/street_props/solar_panel_a.wl2?/solar_panel_a.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "002707F21011092F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009342CF664E49D7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003ADBB8601B9A93",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00098EAD645BE9C6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F418A2504A95A3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E07650318CE1F9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00448EED2EC6E557",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0070307805E36E25",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0084D75D0CE4C675",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005A672FC5B8A9F2",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0072029407826F81",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0099223D5F327E7F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005A81DAE0ECC428",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AC281FEC08651A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0015DAF79F6C76B3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004505B5600BE184",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0089E3A351D45E66",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0097BA23C31EECE4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0074B63D5958066C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0003B74A62E4B112",
+    "path": "",
+    "gameFlags": 8
   }
 ]

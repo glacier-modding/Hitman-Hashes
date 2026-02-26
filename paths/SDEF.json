@@ -2548,5 +2548,10 @@
     "hash": "0020B0AE5A593C31",
     "path": "[assembly:/sound/sounddefinitions/et_belini.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "007BC616E4138BFE",
+    "path": "",
+    "gameFlags": 8
   }
 ]
