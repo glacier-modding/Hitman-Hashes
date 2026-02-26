@@ -14461,12 +14461,12 @@
   },
   {
     "hash": "00BDFA176E3732E8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/levels/coastal_town_italy/tv_air_ramp_control.wl2?/movieset_crane_control_display_a.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003A7F5E2A18D13E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/hospital/hospital_lifesupport_b.wl2?/hospital_lifesupport_monitor_b.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14481,12 +14481,12 @@
   },
   {
     "hash": "006A3C83FC725664",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/architecture/windows/windows_modern_consulate.wl2?/consulate_windowsection_3x4m_b.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C279B56D05EFDE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_hightech_a_monitor_main_00.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14501,7 +14501,7 @@
   },
   {
     "hash": "004F287BE1E2D280",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/furniture/desk_laboratory_a.wl2?/desk_laboratory_hightech_monitor_main_francesca_00.mat].pc_entityblueprint",
     "gameFlags": 8
   }
 ]
