@@ -2,11 +2,11 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,616,168-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.34%25-green.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-23/70-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.44%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.45%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.75%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -32,9 +32,9 @@
 |BMSK     |61             |60           |98.36%            |0    |0.00%          |
 |BORG     |7458           |7034         |94.31%            |0    |0.00%          |
 |BOXC     |52             |52           |100.00%           |0    |0.00%          |
-|CBLU     |2820           |2796         |99.15%            |0    |0.00%          |
+|CBLU     |2820           |2820         |100.00%           |0    |0.00%          |
 |CLNG     |4              |4            |100.00%           |0    |0.00%          |
-|CPPT     |2820           |2796         |99.15%            |0    |0.00%          |
+|CPPT     |2820           |2820         |100.00%           |0    |0.00%          |
 |CRMD     |60             |60           |100.00%           |0    |0.00%          |
 |DITL     |4              |4            |100.00%           |0    |0.00%          |
 |DLGE     |52832          |52483        |99.34%            |0    |0.00%          |
