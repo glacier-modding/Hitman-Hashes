@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,616,168-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.37%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.39%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.50%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.53%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.75%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -37,7 +37,7 @@
 |CPPT     |2820           |2820         |100.00%           |0    |0.00%          |
 |CRMD     |60             |60           |100.00%           |0    |0.00%          |
 |DITL     |4              |4            |100.00%           |0    |0.00%          |
-|DLGE     |52832          |52484        |99.34%            |0    |0.00%          |
+|DLGE     |52832          |52708        |99.77%            |0    |0.00%          |
 |DSWB     |5              |5            |100.00%           |0    |0.00%          |
 |ECPB     |2901           |2894         |99.76%            |0    |0.00%          |
 |ECPT     |2901           |2894         |99.76%            |0    |0.00%          |
@@ -47,10 +47,10 @@
 |FXAS     |363281         |360427       |99.21%            |6    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
 |GFXI     |12736          |12422        |97.53%            |2    |0.02%          |
-|GFXV     |335            |328          |97.91%            |0    |0.00%          |
+|GFXV     |335            |329          |98.21%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3292           |3071         |93.29%            |19   |0.58%          |
+|JSON     |3292           |3072         |93.32%            |19   |0.58%          |
 |LINE     |33839          |32469        |95.95%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10546          |7441         |70.56%            |0    |0.00%          |
