@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,616,168-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.37%25-green.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/70-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
@@ -37,7 +37,7 @@
 |CPPT     |2820           |2820         |100.00%           |0    |0.00%          |
 |CRMD     |60             |60           |100.00%           |0    |0.00%          |
 |DITL     |4              |4            |100.00%           |0    |0.00%          |
-|DLGE     |52832          |52483        |99.34%            |0    |0.00%          |
+|DLGE     |52832          |52484        |99.34%            |0    |0.00%          |
 |DSWB     |5              |5            |100.00%           |0    |0.00%          |
 |ECPB     |2901           |2894         |99.76%            |0    |0.00%          |
 |ECPT     |2901           |2894         |99.76%            |0    |0.00%          |
@@ -85,7 +85,7 @@
 |WSWB     |63             |63           |100.00%           |0    |0.00%          |
 |WSWT     |68             |68           |100.00%           |0    |0.00%          |
 |WWEM     |385683         |281407       |72.96%            |75299|19.52%         |
-|WWES     |192788         |192787       |100.00%           |0    |0.00%          |
+|WWES     |192788         |192788       |100.00%           |0    |0.00%          |
 |WWEV     |27734          |26224        |94.56%            |298  |1.07%          |
 |WWFX     |18803          |17240        |91.69%            |0    |0.00%          |
 |YSHP     |4              |4            |100.00%           |0    |0.00%          |
