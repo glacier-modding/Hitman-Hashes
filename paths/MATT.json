@@ -27892,7 +27892,8 @@
   {
     "hash": "0000E794EBE3D67E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "judge_dress"
   },
   {
     "hash": "00CD63E1BEACE639",
@@ -27932,7 +27933,8 @@
   {
     "hash": "00B115201C5A4410",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "finger_spikes_01"
   },
   {
     "hash": "003162BDC9E338BD",
@@ -27942,7 +27944,8 @@
   {
     "hash": "00445EC16D9D0005",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "yellow_suit"
   },
   {
     "hash": "00CEBFD46119D2A1",
@@ -27952,7 +27955,8 @@
   {
     "hash": "007C6839EDF46630",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_leonglunwai"
   },
   {
     "hash": "00551BB94AF961AA",
@@ -27967,7 +27971,8 @@
   {
     "hash": "0083370E273C3AD8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_sanhung"
   },
   {
     "hash": "00D8E06CBE78E0F5",
@@ -28002,17 +28007,20 @@
   {
     "hash": "001368C52E55C578",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "balls"
   },
   {
     "hash": "005C8217A7DB8C0E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_zedchen"
   },
   {
     "hash": "006A80A6DD6DF681",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fem_reg_head_competitor_c"
   },
   {
     "hash": "005984747616A709",
@@ -28147,12 +28155,14 @@
   {
     "hash": "00EC3525C60E5AE4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "bellini_bodybag_cin_zipper_a"
   },
   {
     "hash": "00AD2BE6245A2DC3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_eminem_beard"
   },
   {
     "hash": "00DEC67E0CDFBC47",
@@ -28162,12 +28172,14 @@
   {
     "hash": "00C5D3F7C6A88C4E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_strait_jacket"
   },
   {
     "hash": "008D510F2FB7D494",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fx_bellini_mirror_dream_custom"
   },
   {
     "hash": "00E32D669821B681",
@@ -28192,7 +28204,8 @@
   {
     "hash": "00EFF0FC882AD204",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_strait_jacket_buckles"
   },
   {
     "hash": "00647A44C74F44BB",
@@ -28217,7 +28230,8 @@
   {
     "hash": "00132D21E5D11CB1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fx_bellini_panel_screen_custom_a"
   },
   {
     "hash": "007EF792AAD91F88",
@@ -28237,7 +28251,8 @@
   {
     "hash": "00B25EA5BBFACE55",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_strait_jacket_straps"
   },
   {
     "hash": "00265B8AA81520C1",
@@ -28257,7 +28272,8 @@
   {
     "hash": "00E6C75DEF422DFC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "head_slim_shady"
   },
   {
     "hash": "00178233C672A250",
@@ -28277,7 +28293,8 @@
   {
     "hash": "003EF4080099FA08",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "duck_pin_se3"
   },
   {
     "hash": "00FD451BF565B884",
@@ -28312,12 +28329,14 @@
   {
     "hash": "00F1FDAC464F893B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hair_emss"
   },
   {
     "hash": "00E894DCBBE5F4BA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_eminem"
   },
   {
     "hash": "000F9EDE72E937AF",
@@ -28326,28 +28345,31 @@
   },
   {
     "hash": "000F761247497BEB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/male_reg_filur_hazmatsuit.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0062A65833E3895C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_filur_coat_leather.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "009054DD63463EDC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "sign_diner_bellini_a"
   },
   {
     "hash": "00E36040718A9641",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "wood_herringbone_world_mapped_bulldog_a"
   },
   {
     "hash": "00C443C88E626CB6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "jacket_tuxedo"
   },
   {
     "hash": "00EE0E5653CF63EB",
@@ -28356,23 +28378,26 @@
   },
   {
     "hash": "00DF964ADC5C56BE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/rocks/colombia_big_rock_c_dirt.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00821BADD713A586",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "ether_a"
   },
   {
     "hash": "002598271EEED3A0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "english_suv_a_glass"
   },
   {
     "hash": "00768DE521BEFA37",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "female_reg_head_milla"
   },
   {
     "hash": "003996C8ABB3469B",
@@ -28382,126 +28407,137 @@
   {
     "hash": "006C521490F4BAF9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tiles_terracotta_a_projection"
   },
   {
     "hash": "0004027301E44700",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_earrings_filur.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00046EB5D7F9F1F8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/teeth/materials/base_nails.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "002C8939737CC9A9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "doors_italy_magpie_a"
   },
   {
     "hash": "001EDE2DB249C131",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "poison_emeticvial_sick_transparent"
   },
   {
     "hash": "006DBF1D1E179C45",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "lucyphilips_head"
   },
   {
     "hash": "00D48F8A56F0EF23",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "lucyphilips_tie"
   },
   {
     "hash": "00B56821948D6D4E",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/screens/fx_screen_filur_herb.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00FE6927F43096F2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "birchwood_floor_skunk_a_zmapped"
   },
   {
     "hash": "000826D3461C9E75",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "screwdriver_a"
   },
   {
     "hash": "00EE1809FF3B0B1D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg_heads_unique/materials/fem_reg_head_lechifre_girlfriend.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0024AD09C0971FD3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/rocks/colombia_small_rock_c_dirt.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00640A965668E74A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shirts/materials/male_reg_outbreak_turtleneck.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00D4501C38B5D56C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/male_reg_outbreak_harness.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00F3446ED5336FB9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/rocks/colombia_small_rock_a_dirt.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "003A95777B9DB273",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_necklace_filur.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006F421238CD2549",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/headwear/materials/male_reg_outbreak_gasmask.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C75770F6071749",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "pistol_dartgun_kalmer2_a"
   },
   {
     "hash": "0095DEF7639BCADC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/dresses/materials/fem_reg_dress_filur.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00CAACDAF556BA4D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "base_male_agentsmith_flakes"
   },
   {
     "hash": "00A4136652068ABA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/rocks/colombia_medium_rock_c_dirt.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "004A271794F92703",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/logos/ether_c_basicmaterial.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001A0D6E441F0B12",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tree_box_garden_b"
   },
   {
     "hash": "0064A5450197D0CC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/ground/decal_puddle_d.mi].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00BE550A9B24F30E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "lockers_laboratory_a"
   }
 ]
