@@ -6,7 +6,7 @@
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.53%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.54%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.75%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -54,10 +54,10 @@
 |LINE     |33839          |32469        |95.95%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10546          |7441         |70.56%            |0    |0.00%          |
-|MATB     |5702           |5648         |99.05%            |0    |0.00%          |
+|MATB     |5702           |5665         |99.35%            |36   |0.63%          |
 |MATE     |1139           |1073         |94.21%            |0    |0.00%          |
-|MATI     |19260          |19149        |99.42%            |37   |0.19%          |
-|MATT     |5701           |5647         |99.05%            |0    |0.00%          |
+|MATI     |19260          |19204        |99.71%            |53   |0.28%          |
+|MATT     |5701           |5664         |99.35%            |36   |0.63%          |
 |MJBA     |21317          |20142        |94.49%            |0    |0.00%          |
 |MRTN     |2376           |2292         |96.46%            |0    |0.00%          |
 |MRTR     |869            |842          |96.89%            |0    |0.00%          |
