@@ -10,7 +10,7 @@
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.75%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
-![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-89.22%25-yellow.svg)
+![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-89.23%25-yellow.svg)
 <!-- BADGES_END -->
 ## Statistics
 <details>
@@ -23,7 +23,7 @@
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
 |AIRG     |58             |58           |100.00%           |0    |0.00%          |
-|ALOC     |27208          |26681        |98.06%            |0    |0.00%          |
+|ALOC     |27208          |26682        |98.07%            |0    |0.00%          |
 |ASEB     |5964           |5935         |99.51%            |0    |0.00%          |
 |ASET     |13918          |13740        |98.72%            |0    |0.00%          |
 |ASVA     |287            |285          |99.30%            |0    |0.00%          |
@@ -64,14 +64,14 @@
 |NAVP     |86             |86           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |149            |149          |100.00%           |0    |0.00%          |
-|PRIM     |44947          |43218        |96.15%            |2    |0.00%          |
+|PRIM     |44947          |43221        |96.16%            |2    |0.00%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |150            |145          |96.67%            |3    |2.00%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |511            |509          |99.61%            |0    |0.00%          |
 |TBLU     |59401          |59109        |99.51%            |255  |0.43%          |
 |TELI     |65725          |35704        |54.32%            |0    |0.00%          |
-|TEMP     |90140          |89217        |98.98%            |423  |0.47%          |
+|TEMP     |90140          |89220        |98.98%            |423  |0.47%          |
 |TEXD     |50341          |49025        |97.39%            |7    |0.01%          |
 |TEXT     |45680          |44408        |97.22%            |7    |0.02%          |
 |UICB     |481            |479          |99.58%            |0    |0.00%          |
