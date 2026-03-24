@@ -1,7 +1,7 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,616,168-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.39%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.40%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
@@ -30,7 +30,7 @@
 |ATMD     |18481          |17433        |94.33%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |61             |60           |98.36%            |0    |0.00%          |
-|BORG     |7458           |7034         |94.31%            |0    |0.00%          |
+|BORG     |7458           |7036         |94.34%            |0    |0.00%          |
 |BOXC     |52             |52           |100.00%           |0    |0.00%          |
 |CBLU     |2820           |2820         |100.00%           |0    |0.00%          |
 |CLNG     |4              |4            |100.00%           |0    |0.00%          |
@@ -64,16 +64,16 @@
 |NAVP     |86             |86           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |149            |149          |100.00%           |0    |0.00%          |
-|PRIM     |44947          |43221        |96.16%            |2    |0.00%          |
+|PRIM     |44947          |43231        |96.18%            |2    |0.00%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |150            |145          |96.67%            |3    |2.00%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |511            |509          |99.61%            |0    |0.00%          |
-|TBLU     |59401          |59109        |99.51%            |255  |0.43%          |
+|TBLU     |59401          |59112        |99.51%            |252  |0.42%          |
 |TELI     |65725          |35704        |54.32%            |0    |0.00%          |
-|TEMP     |90140          |89220        |98.98%            |423  |0.47%          |
-|TEXD     |50341          |49025        |97.39%            |7    |0.01%          |
-|TEXT     |45680          |44408        |97.22%            |7    |0.02%          |
+|TEMP     |90140          |89231        |98.99%            |414  |0.46%          |
+|TEXD     |50341          |49031        |97.40%            |7    |0.01%          |
+|TEXT     |45680          |44414        |97.23%            |7    |0.02%          |
 |UICB     |481            |479          |99.58%            |0    |0.00%          |
 |UICT     |481            |479          |99.58%            |0    |0.00%          |
 |VIDB     |103            |103          |100.00%           |0    |0.00%          |
