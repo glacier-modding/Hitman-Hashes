@@ -95770,9 +95770,8 @@
   },
   {
     "hash": "00D6D85B542A6773",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "fx_bellini_mirror_dream_custom"
+    "path": "[assembly:/_pro/effects/materials/custom/bellini/fx_bellini_mirror_dream_custom.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00DA2982EC705A93",
@@ -95843,9 +95842,8 @@
   },
   {
     "hash": "004AFCB64BAAB7F4",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "fx_bellini_panel_screen_custom_a"
+    "path": "[assembly:/_pro/effects/materials/custom/bellini/fx_bellini_panel_screen_custom_a.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00EEE4CA98E290DF",

@@ -28177,9 +28177,8 @@
   },
   {
     "hash": "008D510F2FB7D494",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "fx_bellini_mirror_dream_custom"
+    "path": "[assembly:/_pro/effects/materials/custom/bellini/fx_bellini_mirror_dream_custom.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00E32D669821B681",
@@ -28229,9 +28228,8 @@
   },
   {
     "hash": "00132D21E5D11CB1",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "fx_bellini_panel_screen_custom_a"
+    "path": "[assembly:/_pro/effects/materials/custom/bellini/fx_bellini_panel_screen_custom_a.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "007EF792AAD91F88",
