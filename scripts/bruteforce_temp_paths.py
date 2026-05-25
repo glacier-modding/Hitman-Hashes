@@ -12,6 +12,7 @@ with open(os.path.join("paths", "TEMP.json"), "r") as f:
 
 found = []
 base_paths = set()
+wl2_base_paths = set()
 
 for entry in temp_data:
     path = entry.get("path", "")
@@ -20,7 +21,12 @@ for entry in temp_data:
         base_path = base_path[:base_path.rfind("/") + 1]
         base_paths.add(base_path)
 
+    if path and ".wl2?" in path:
+        base = path.split(".wl2?")[0] + ".wl2?/"
+        wl2_base_paths.add(base)
+
 template_path_end = ".entitytemplate].pc_"
+wl2_path_end = ".prim].pc_"
 
 for entry in temp_data:
     hint = entry.get("hint", "")
@@ -39,6 +45,21 @@ for entry in temp_data:
             print("FOUND: " + path_entitytemplate)
             found.append(f"{path_entitytemplate}")
             found.append(f"{base_path}{hint}{template_path_end}entityblueprint")
+
+    for base in wl2_base_paths:
+        path_entitytype = f"{base}{hint}{wl2_path_end}entitytype"
+        path_entitytemplate = f"{base}{hint}{wl2_path_end}entitytemplate"
+
+        if ioi_hash(path_entitytype) == entry["hash"]:
+            print("FOUND (wl2): " + path_entitytype)
+            found.append(path_entitytype)
+            found.append(f"{base}{hint}{wl2_path_end}entityblueprint")
+
+        if ioi_hash(path_entitytemplate) == entry["hash"]:
+            print("FOUND (wl2): " + path_entitytemplate)
+            found.append(path_entitytemplate)
+            found.append(f"{base}{hint}{wl2_path_end}entityblueprint")
+
 
 with open(args.output, "w") as f:
     for item in found:
