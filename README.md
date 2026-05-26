@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,616,168-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.40%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.41%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.55%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.57%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -23,7 +23,7 @@
 |AIBX     |1              |1            |100.00%           |0    |0.00%          |
 |AIBZ     |5              |5            |100.00%           |0    |0.00%          |
 |AIRG     |58             |58           |100.00%           |0    |0.00%          |
-|ALOC     |27208          |26685        |98.08%            |0    |0.00%          |
+|ALOC     |27208          |26710        |98.17%            |0    |0.00%          |
 |ASEB     |5964           |5935         |99.51%            |0    |0.00%          |
 |ASET     |13918          |13740        |98.72%            |0    |0.00%          |
 |ASVA     |287            |285          |99.30%            |0    |0.00%          |
@@ -54,26 +54,26 @@
 |LINE     |33839          |32470        |95.95%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10546          |7443         |70.58%            |0    |0.00%          |
-|MATB     |5702           |5667         |99.39%            |34   |0.60%          |
+|MATB     |5702           |5683         |99.67%            |18   |0.32%          |
 |MATE     |1139           |1073         |94.21%            |0    |0.00%          |
-|MATI     |19260          |19206        |99.72%            |51   |0.26%          |
-|MATT     |5701           |5666         |99.39%            |34   |0.60%          |
+|MATI     |19260          |19207        |99.72%            |50   |0.26%          |
+|MATT     |5701           |5682         |99.67%            |18   |0.32%          |
 |MJBA     |21317          |20142        |94.49%            |0    |0.00%          |
 |MRTN     |2376           |2292         |96.46%            |0    |0.00%          |
 |MRTR     |869            |842          |96.89%            |0    |0.00%          |
 |NAVP     |86             |86           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |149            |149          |100.00%           |0    |0.00%          |
-|PRIM     |44947          |43235        |96.19%            |2    |0.00%          |
+|PRIM     |44947          |43256        |96.24%            |2    |0.00%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |150            |145          |96.67%            |3    |2.00%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |511            |509          |99.61%            |0    |0.00%          |
-|TBLU     |59401          |59112        |99.51%            |252  |0.42%          |
+|TBLU     |59401          |59117        |99.52%            |247  |0.42%          |
 |TELI     |65725          |35704        |54.32%            |0    |0.00%          |
-|TEMP     |90140          |89252        |99.01%            |393  |0.44%          |
-|TEXD     |50341          |49031        |97.40%            |7    |0.01%          |
-|TEXT     |45680          |44414        |97.23%            |7    |0.02%          |
+|TEMP     |90140          |89262        |99.03%            |385  |0.43%          |
+|TEXD     |50341          |49071        |97.48%            |7    |0.01%          |
+|TEXT     |45680          |44456        |97.32%            |7    |0.02%          |
 |UICB     |481            |479          |99.58%            |0    |0.00%          |
 |UICT     |481            |479          |99.58%            |0    |0.00%          |
 |VIDB     |103            |103          |100.00%           |0    |0.00%          |
