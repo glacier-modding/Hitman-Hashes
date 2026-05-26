@@ -96014,9 +96014,8 @@
   },
   {
     "hash": "00D5731DB1B4F787",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "male_reg_filur_hazmatsuit_gloves"
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/gloves/materials/male_reg_filur_hazmatsuit_gloves.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00DE4D8E1E66DC85",

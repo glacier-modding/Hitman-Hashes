@@ -28353,21 +28353,18 @@
   },
   {
     "hash": "009054DD63463EDC",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "sign_diner_bellini_a"
+    "path": "[assembly:/_pro/environment/materials/props/signs/sign_diner_bellini_a.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00E36040718A9641",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "wood_herringbone_world_mapped_bulldog_a"
+    "path": "[assembly:/_pro/environment/materials/levels/bulldog/wood_herringbone_world_mapped_bulldog_a.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00C443C88E626CB6",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "jacket_tuxedo"
+    "path": "[assembly:/_pro/characters/assets/individuals/llama/tylerblack_m/materials/jacket_tuxedo.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00EE0E5653CF63EB",
@@ -28381,15 +28378,13 @@
   },
   {
     "hash": "00821BADD713A586",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "ether_a"
+    "path": "[assembly:/_pro/environment/materials/decals/logos/ether_a.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "002598271EEED3A0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "english_suv_a_glass"
+    "path": "[assembly:/_pro/vehicles/materials/english_suv_a/english_suv_a_glass.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00768DE521BEFA37",
@@ -28404,9 +28399,8 @@
   },
   {
     "hash": "006C521490F4BAF9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "tiles_terracotta_a_projection"
+    "path": "[assembly:/_pro/environment/materials/levels/bulldog/tiles_terracotta_a_projection.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "0004027301E44700",
@@ -28420,27 +28414,23 @@
   },
   {
     "hash": "002C8939737CC9A9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "doors_italy_magpie_a"
+    "path": "[assembly:/_pro/environment/materials/architecture/doors/doors_italy_magpie_a.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "001EDE2DB249C131",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "poison_emeticvial_sick_transparent"
+    "path": "[assembly:/_pro/items/materials/poison/poison_emeticvial_sick_transparent.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "006DBF1D1E179C45",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "lucyphilips_head"
+    "path": "[assembly:/_pro/characters/assets/individuals/gecko/materials/lucyphilips_head.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00D48F8A56F0EF23",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "lucyphilips_tie"
+    "path": "[assembly:/_pro/characters/assets/individuals/gecko/materials/lucyphilips_tie.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00B56821948D6D4E",
@@ -28449,15 +28439,13 @@
   },
   {
     "hash": "00FE6927F43096F2",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "birchwood_floor_skunk_a_zmapped"
+    "path": "[assembly:/_pro/environment/materials/generic/floor/birchwood_floor_skunk_a_zmapped.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "000826D3461C9E75",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "screwdriver_a"
+    "path": "[assembly:/_pro/items/materials/tools/screwdriver_a.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00EE1809FF3B0B1D",
@@ -28496,9 +28484,8 @@
   },
   {
     "hash": "00C75770F6071749",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "pistol_dartgun_kalmer2_a"
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_dartgun_sedative_a/pistol_dartgun_kalmer2_a.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "0095DEF7639BCADC",
@@ -28507,9 +28494,8 @@
   },
   {
     "hash": "00CAACDAF556BA4D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "base_male_agentsmith_flakes"
+    "path": "[assembly:/_pro/characters/assets/individuals/hokkaido/agentsmith/materials/base_male_agentsmith_flakes.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "00A4136652068ABA",
@@ -28523,9 +28509,8 @@
   },
   {
     "hash": "001A0D6E441F0B12",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "tree_box_garden_b"
+    "path": "[assembly:/_pro/environment/materials/props/street_props/tree_box_garden_b.mi].pc_entitytype",
+    "gameFlags": 8
   },
   {
     "hash": "0064A5450197D0CC",
@@ -28534,8 +28519,7 @@
   },
   {
     "hash": "00BE550A9B24F30E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "lockers_laboratory_a"
+    "path": "[assembly:/_pro/environment/materials/props/furniture/lockers_laboratory_a.mi].pc_entitytype",
+    "gameFlags": 8
   }
 ]
