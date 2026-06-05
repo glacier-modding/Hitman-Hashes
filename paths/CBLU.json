@@ -14101,42 +14101,42 @@
   },
   {
     "hash": "006FE403224CF3C1",
-    "path": "",
+    "path": "[modules:/zphotomodehackingcontroller.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0047179F932625C2",
-    "path": "",
+    "path": "[modules:/zentitylifetimeemitterentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0080D70B6D4F8DE3",
-    "path": "",
+    "path": "[modules:/zhm5variantconverterentity_zrepositoryid.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0033939CD93D8B8F",
-    "path": "",
+    "path": "[modules:/zvrignorelodinfoclampaspect.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00434018B235D79A",
-    "path": "",
+    "path": "[modules:/zspatialreferenceaspect.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "009E5953F67A79B7",
-    "path": "",
+    "path": "[modules:/zindexedgeomentityentryentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00985E1F9ACF0E19",
-    "path": "",
+    "path": "[modules:/zphotomodehackableentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00EE8838A7E6CECA",
-    "path": "",
+    "path": "[modules:/zgeomcollectionselectionaspect.class].pc_entityblueprint",
     "gameFlags": 8
   }
 ]

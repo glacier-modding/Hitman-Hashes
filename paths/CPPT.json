@@ -14101,42 +14101,42 @@
   },
   {
     "hash": "002EAC5B88549C56",
-    "path": "",
+    "path": "[modules:/zspatialreferenceaspect.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001CF9A77A093C96",
-    "path": "",
+    "path": "[modules:/zphotomodehackableentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "003A01D8DE1982AD",
-    "path": "",
+    "path": "[modules:/zentitylifetimeemitterentity.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0054A7C4EF500E0C",
-    "path": "",
+    "path": "[modules:/zhm5variantconverterentity_zrepositoryid.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "002F6320D9332C2B",
-    "path": "",
+    "path": "[modules:/zvrignorelodinfoclampaspect.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00AFAED4C7A033AF",
-    "path": "",
+    "path": "[modules:/zphotomodehackingcontroller.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00313D119A9C2DC1",
-    "path": "",
+    "path": "[modules:/zgeomcollectionselectionaspect.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "003DA9082B8313D7",
-    "path": "",
+    "path": "[modules:/zindexedgeomentityentryentity.class].pc_entitytype",
     "gameFlags": 8
   }
 ]
