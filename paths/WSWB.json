@@ -313,5 +313,10 @@
     "hash": "0041C3F9F5BC996F",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/levelspecific_switches/paris/sw_crowd_frenchmartini_pokerroom.wwiseswitchgroup].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "000DF21646E2914D",
+    "path": "",
+    "gameFlags": 8
   }
 ]

@@ -52728,5 +52728,20 @@
     "hash": "00DA1E3588EC8F61",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/arcade_s3/arcade_guava.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
+  },
+  {
+    "hash": "005EF00EA64E2C55",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0032C5EEE529D2E9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004E69B473C69733",
+    "path": "",
+    "gameFlags": 8
   }
 ]

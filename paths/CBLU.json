@@ -12647,7 +12647,7 @@
   {
     "hash": "00034E2551EA209D",
     "path": "[modules:/zdroppeditemmaptrackeraspect.class].pc_entityblueprint",
-    "gameFlags": 16
+    "gameFlags": 24
   },
   {
     "hash": "001A75E4FC748163",
@@ -14097,6 +14097,46 @@
   {
     "hash": "00B6678D3EACD4DC",
     "path": "[modules:/zactorproviderfilterdirect.class].pc_entityblueprint",
+    "gameFlags": 8
+  },
+  {
+    "hash": "006FE403224CF3C1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0047179F932625C2",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0080D70B6D4F8DE3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0033939CD93D8B8F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00434018B235D79A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009E5953F67A79B7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00985E1F9ACF0E19",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EE8838A7E6CECA",
+    "path": "",
     "gameFlags": 8
   }
 ]

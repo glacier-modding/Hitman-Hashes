@@ -2553,5 +2553,10 @@
     "hash": "007BC616E4138BFE",
     "path": "[assembly:/sound/sounddefinitions/et_filur.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "00B7A0EA6257BE48",
+    "path": "",
+    "gameFlags": 8
   }
 ]

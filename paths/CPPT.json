@@ -12652,7 +12652,7 @@
   {
     "hash": "003A8733050B5839",
     "path": "[modules:/zdroppeditemmaptrackeraspect.class].pc_entitytype",
-    "gameFlags": 16
+    "gameFlags": 24
   },
   {
     "hash": "00EC64D86F29866C",
@@ -14097,6 +14097,46 @@
   {
     "hash": "0067CE04883A24D6",
     "path": "[modules:/zinfectedsituationconfigentity.class].pc_entitytype",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002EAC5B88549C56",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001CF9A77A093C96",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003A01D8DE1982AD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0054A7C4EF500E0C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "002F6320D9332C2B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00AFAED4C7A033AF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00313D119A9C2DC1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003DA9082B8313D7",
+    "path": "",
     "gameFlags": 8
   }
 ]

@@ -12337,7 +12337,7 @@
   {
     "hash": "00261EFD2BA587F9",
     "path": "[assembly:/ui/data/menu3/map/dropped_item_tracker_data.json].pc_json",
-    "gameFlags": 17
+    "gameFlags": 25
   },
   {
     "hash": "00B625E088F2B002",
@@ -22046,6 +22046,121 @@
   {
     "hash": "0052883D3F378764",
     "path": "[assembly:/_pro/online/default/cloudstorage/resources/menusystem/actions/availability/data/packageids/packageid_h3elusivefilur.json].pc_json",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003E0E00EAAEB569",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004363388B1F3CD9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A1AD30A0996E9D",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A84F86594D954A",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F82B2624C42C23",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00DAA40969E328E6",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0050C89E6E2B6C1C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B8120F02564EB4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00102EE471CB9267",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B1F0F2064FAB8C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00B5474B578BA869",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C160215C7DAD97",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00D63C22D2469CB9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005D9FA2A6788427",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00C229A8EE193938",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009100F1EE503E99",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A2F383C60333BA",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008262EFC5ECB2F3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001420323B818338",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00FA03C66BC93978",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "003550451EAF15E0",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00938E67D972B168",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00228AA82FC968C6",
+    "path": "",
     "gameFlags": 8
   }
 ]
