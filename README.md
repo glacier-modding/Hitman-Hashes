@@ -1,14 +1,14 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,620,874-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.35%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.36%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-26/70-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.96%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
 ![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.42%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
-![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.47%25-green.svg)
+![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.48%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
 ![Alphajan2015 Badge](https://img.shields.io/badge/Alphajan2015%20Completion-89.24%25-yellow.svg)
 <!-- BADGES_END -->
@@ -46,11 +46,11 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |364531         |361677       |99.22%            |6    |0.00%          |
 |GFXF     |43             |43           |100.00%           |0    |0.00%          |
-|GFXI     |12860          |12548        |97.57%            |2    |0.02%          |
+|GFXI     |12860          |12550        |97.59%            |2    |0.02%          |
 |GFXV     |336            |329          |97.92%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3315           |3090         |93.21%            |19   |0.57%          |
+|JSON     |3315           |3091         |93.24%            |19   |0.57%          |
 |LINE     |33907          |32470        |95.76%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10549          |7443         |70.56%            |0    |0.00%          |
@@ -69,9 +69,9 @@
 |RTLV     |151            |146          |96.69%            |3    |1.99%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |512            |510          |99.61%            |0    |0.00%          |
-|TBLU     |59633          |59231        |99.33%            |365  |0.61%          |
+|TBLU     |59633          |59232        |99.33%            |364  |0.61%          |
 |TELI     |65725          |35704        |54.32%            |0    |0.00%          |
-|TEMP     |90400          |89385        |98.88%            |502  |0.56%          |
+|TEMP     |90400          |89386        |98.88%            |501  |0.55%          |
 |TEXD     |50550          |49071        |97.07%            |7    |0.01%          |
 |TEXT     |45890          |44456        |96.88%            |7    |0.02%          |
 |UICB     |482            |480          |99.59%            |0    |0.00%          |
