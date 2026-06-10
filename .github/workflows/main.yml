@@ -107,4 +107,5 @@ jobs:
           files: |
             latest-hashes.7z
             hash_list.sml
+            pins.json
             version
