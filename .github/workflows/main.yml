@@ -48,7 +48,9 @@ jobs:
 
       - name: Run generate_pins.py
         run: |
-          python ./scripts/generate_pins.py
+          if [ "${{ matrix.game }}" == "all" ]; then
+            python ./scripts/generate_pins.py
+          fi
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
