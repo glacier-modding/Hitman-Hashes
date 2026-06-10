@@ -46,6 +46,10 @@ jobs:
             python ./scripts/custom/merge_smile.py ${{ steps.get_version.outputs.version }}
           fi
 
+      - name: Run generate_pins.py
+        run: |
+          python ./scripts/generate_pins.py
+
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -53,6 +57,7 @@ jobs:
           path: |
             ${{ matrix.game == 'all' && 'hash_list.txt' || format('hash_list_{0}.txt', matrix.game) }}
             hash_list.sml
+            pins.json
             version
 
   update_statistics:
