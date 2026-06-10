@@ -46,12 +46,6 @@ jobs:
             python ./scripts/custom/merge_smile.py ${{ steps.get_version.outputs.version }}
           fi
 
-      - name: Run generate_pins.py
-        run: |
-          if [ "${{ matrix.game }}" == "all" ]; then
-            python ./scripts/generate_pins.py
-          fi
-
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
