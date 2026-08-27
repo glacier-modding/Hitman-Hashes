@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,635,876-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.56%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-19/71-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-20/71-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.97%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
@@ -77,7 +77,7 @@
 |UICB     |483            |480          |99.38%            |0    |0.00%          |
 |UICT     |483            |480          |99.38%            |0    |0.00%          |
 |VIDB     |105            |105          |100.00%           |0    |0.00%          |
-|VOXL     |1              |0            |0.00%             |0    |0.00%          |
+|VOXL     |1              |1            |100.00%           |0    |0.00%          |
 |VTXD     |11308          |11292        |99.86%            |0    |0.00%          |
 |WBNK     |1550           |970          |62.58%            |1    |0.06%          |
 |WMDA     |9              |9            |100.00%           |0    |0.00%          |
