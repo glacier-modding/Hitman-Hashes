@@ -318,5 +318,10 @@
     "hash": "000DF21646E2914D",
     "path": "[assembly:/sound/wwise/exportedwwisedata/switches/gui/mainmenu_music_switch.wwiseswitchgroup].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "0000B6704A45DE2C",
+    "path": "",
+    "gameFlags": 8
   }
 ]

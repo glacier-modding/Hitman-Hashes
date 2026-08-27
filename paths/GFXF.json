@@ -213,5 +213,10 @@
     "hash": "0059B05A6B44BF1F",
     "path": "[assembly:/ui/controls/menu2.swf].pc_swf",
     "gameFlags": 128
+  },
+  {
+    "hash": "00C56D7244723FC7",
+    "path": "",
+    "gameFlags": 8
   }
 ]

@@ -518,5 +518,10 @@
     "hash": "007C3C89551AE55F",
     "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_pomada.videodb].pc_videodb",
     "gameFlags": 8
+  },
+  {
+    "hash": "0019AA181BA01997",
+    "path": "",
+    "gameFlags": 8
   }
 ]

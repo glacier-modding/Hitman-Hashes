@@ -2408,5 +2408,10 @@
     "hash": "0070BC63866FB8CA",
     "path": "[assembly:/ui/controls/hud.swf?/hud.maptrackers.droppeditemmaptracker.uic].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "006EDB4DEB8DF6D3",
+    "path": "",
+    "gameFlags": 8
   }
 ]

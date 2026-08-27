@@ -2558,5 +2558,20 @@
     "hash": "00B7A0EA6257BE48",
     "path": "[assembly:/sound/sounddefinitions/et_pomada.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "0077B25E9C4C7530",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0067AD15705624C2",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00BD6BA968C7AC52",
+    "path": "",
+    "gameFlags": 8
   }
 ]
