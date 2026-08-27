@@ -357161,7 +357161,7 @@
   },
   {
     "hash": "0027FC2E268FE3C4",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/vr_overrides_greentini.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -357801,7 +357801,7 @@
   },
   {
     "hash": "006FC8210CC09E5A",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/scene_greentini.entity].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -357996,7 +357996,7 @@
   },
   {
     "hash": "005A4C0802F58FFA",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_greentini.entity].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -359166,7 +359166,7 @@
   },
   {
     "hash": "00B2BFB5C0EF272B",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/mission_greentini.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -359491,7 +359491,7 @@
   },
   {
     "hash": "00911E6065C8F9D9",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/tutorial_greentini.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -360336,7 +360336,7 @@
   },
   {
     "hash": "0025C48B7E8690DF",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/scenario_greentini.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
