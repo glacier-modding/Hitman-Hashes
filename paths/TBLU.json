@@ -356815,9 +356815,8 @@
   },
   {
     "hash": "00899F66C7AA8A57",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_snoop_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_snoop_m_actor_v0",
     "subType": "template"
   },
   {
@@ -356841,9 +356840,8 @@
   },
   {
     "hash": "00C3D02BDEFB38BB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_heroa_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v2",
     "subType": "template"
   },
   {
@@ -356854,9 +356852,8 @@
   },
   {
     "hash": "00307CE2C1E5606E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v0",
     "subType": "template"
   },
   {
@@ -356867,9 +356864,8 @@
   },
   {
     "hash": "00CD319FDF09D679",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_worker_villastaff_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_worker_villastaff_m",
     "subType": "template"
   },
   {
@@ -356880,9 +356876,8 @@
   },
   {
     "hash": "006A44AA9DF206B2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_f_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_f_actor_v2",
     "subType": "template"
   },
   {
@@ -356920,9 +356915,8 @@
   },
   {
     "hash": "00AC8F56BC38C6FA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_f_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v1",
     "subType": "template"
   },
   {
@@ -356939,9 +356933,8 @@
   },
   {
     "hash": "005EA86C91E3D692",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v0",
     "subType": "template"
   },
   {
@@ -356966,23 +356959,20 @@
   },
   {
     "hash": "001904A6B6AF25BD",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/acthelper_greentini_samplemanager.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "acthelper_greentini_samplemanager",
     "subType": "template"
   },
   {
     "hash": "00D84208ACC7771C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_unique_justine_bassey_f.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_unique_justine_bassey_f",
     "subType": "template"
   },
   {
     "hash": "008D7841317DF860",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v2",
     "subType": "template"
   },
   {
@@ -356994,9 +356984,8 @@
   },
   {
     "hash": "002ABBD790DDA381",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v5",
     "subType": "template"
   },
   {
@@ -357079,23 +357068,20 @@
   },
   {
     "hash": "007237C9957B7295",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_f_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v2",
     "subType": "template"
   },
   {
     "hash": "00F9A638FC7BB560",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_samplepicker.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_samplepicker",
     "subType": "template"
   },
   {
     "hash": "00DC9D9662E6FD28",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_3",
     "subType": "template"
   },
   {
@@ -357106,9 +357092,8 @@
   },
   {
     "hash": "0099002C0ED9646A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v4",
     "subType": "template"
   },
   {
@@ -357140,9 +357125,8 @@
   },
   {
     "hash": "00A540360B49D3F6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v4",
     "subType": "template"
   },
   {
@@ -357159,9 +357143,8 @@
   },
   {
     "hash": "00E8977188AA6653",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_15.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_15",
     "subType": "template"
   },
   {
@@ -357179,9 +357162,8 @@
   },
   {
     "hash": "00B5436939E695FD",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_11.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_11",
     "subType": "template"
   },
   {
@@ -357193,9 +357175,8 @@
   },
   {
     "hash": "004B9281E7CDBF46",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v1",
     "subType": "template"
   },
   {
@@ -357231,9 +357212,8 @@
   },
   {
     "hash": "00EBB30CC94E1873",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_f_actor_v6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v6",
     "subType": "template"
   },
   {
@@ -357251,23 +357231,20 @@
   },
   {
     "hash": "008DF9EB2B4649D7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v7",
     "subType": "template"
   },
   {
     "hash": "00F679DAD0C8C4C6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v1",
     "subType": "template"
   },
   {
     "hash": "009A86C1BF378E50",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_1",
     "subType": "template"
   },
   {
@@ -357299,16 +357276,14 @@
   },
   {
     "hash": "002D7297CBF48E4B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_heroa_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v3",
     "subType": "template"
   },
   {
     "hash": "0081F95CA65F0385",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v5",
     "subType": "template"
   },
   {
@@ -357361,9 +357336,8 @@
   },
   {
     "hash": "00B9B9D4FE29FEFA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v2",
     "subType": "template"
   },
   {
@@ -357399,9 +357373,8 @@
   },
   {
     "hash": "0045D99C358FEA71",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_dronedrama_returncluster.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_dronedrama_returncluster",
     "subType": "template"
   },
   {
@@ -357412,9 +357385,8 @@
   },
   {
     "hash": "00B1BB814FD5F65E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_nude_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_nude_v5",
     "subType": "template"
   },
   {
@@ -357431,37 +357403,32 @@
   },
   {
     "hash": "0032C44055795851",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_farm_railing_190cm_cover.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_farm_railing_190cm_cover",
     "subType": "template"
   },
   {
     "hash": "001064BC1510482E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_nude_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v1",
     "subType": "template"
   },
   {
     "hash": "0011CC9306688328",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_nude_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v3",
     "subType": "template"
   },
   {
     "hash": "004E92ACC0761C93",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v0",
     "subType": "template"
   },
   {
     "hash": "002973EF766EA769",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v3",
     "subType": "template"
   },
   {
@@ -357473,9 +357440,8 @@
   },
   {
     "hash": "00F99E7F158B6929",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_heroa_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v3",
     "subType": "template"
   },
   {
@@ -357531,9 +357497,8 @@
   },
   {
     "hash": "00CA3C92DC330579",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v4",
     "subType": "template"
   },
   {
@@ -357551,16 +357516,14 @@
   },
   {
     "hash": "009BB81787E4251C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v0",
     "subType": "template"
   },
   {
     "hash": "007A06AE3FF9640F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v3",
     "subType": "template"
   },
   {
@@ -357571,9 +357534,8 @@
   },
   {
     "hash": "00DD684FC64892A5",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_guard_villaguard_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_guard_villaguard_m",
     "subType": "template"
   },
   {
@@ -357598,9 +357560,8 @@
   },
   {
     "hash": "0075191F32202477",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_timquinn_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_timquinn_m_actor_v0",
     "subType": "template"
   },
   {
@@ -357611,9 +357572,8 @@
   },
   {
     "hash": "006E883009A8790B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v9.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v9",
     "subType": "template"
   },
   {
@@ -357624,9 +357584,8 @@
   },
   {
     "hash": "001C627303351EF6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_actor_v3",
     "subType": "template"
   },
   {
@@ -357637,9 +357596,8 @@
   },
   {
     "hash": "007A1CE3ECF79CD5",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_musicstation.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_musicstation",
     "subType": "template"
   },
   {
@@ -357664,16 +357622,14 @@
   },
   {
     "hash": "00C70132E4BD5294",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_19.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_19",
     "subType": "template"
   },
   {
     "hash": "00897B8225C602AE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_15.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_15",
     "subType": "template"
   },
   {
@@ -357685,9 +357641,8 @@
   },
   {
     "hash": "00DB47344B5115CE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_f_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v3",
     "subType": "template"
   },
   {
@@ -357711,9 +357666,8 @@
   },
   {
     "hash": "007B3C44E9BBDCA3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_nude_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v3",
     "subType": "template"
   },
   {
@@ -357724,9 +357678,8 @@
   },
   {
     "hash": "001B23DDF65B6FB6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_worker_villastaff_f.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_worker_villastaff_f",
     "subType": "template"
   },
   {
@@ -357743,9 +357696,8 @@
   },
   {
     "hash": "00219C754C719707",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_nude_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v1",
     "subType": "template"
   },
   {
@@ -357776,9 +357728,8 @@
   },
   {
     "hash": "008DEEF8678CB2F7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_10.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_10",
     "subType": "template"
   },
   {
@@ -357817,9 +357768,8 @@
   },
   {
     "hash": "00CEEEA4F945499A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_snoop_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_snoop_m",
     "subType": "template"
   },
   {
@@ -357876,9 +357826,8 @@
   },
   {
     "hash": "003A99E13D472878",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v6",
     "subType": "template"
   },
   {
@@ -357914,9 +357863,8 @@
   },
   {
     "hash": "009DAF38FFB07DB6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_actor_v1",
     "subType": "template"
   },
   {
@@ -357940,16 +357888,14 @@
   },
   {
     "hash": "00D328E23CC67593",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_highprofiledj_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_highprofiledj_m_actor_v0",
     "subType": "template"
   },
   {
     "hash": "0003F0472EDB21E7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_2",
     "subType": "template"
   },
   {
@@ -357979,9 +357925,8 @@
   },
   {
     "hash": "00F9A92043AB4A7B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_heroa_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v2",
     "subType": "template"
   },
   {
@@ -357992,9 +357937,8 @@
   },
   {
     "hash": "00400C129E5446BF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v2",
     "subType": "template"
   },
   {
@@ -358006,9 +357950,8 @@
   },
   {
     "hash": "004AEDA1816AED21",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_voxelspacepool_signal.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_voxelspacepool_signal",
     "subType": "template"
   },
   {
@@ -358025,16 +357968,14 @@
   },
   {
     "hash": "00B6F977BBC9E7E8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_helenwest_f_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_helenwest_f_actor_v0",
     "subType": "template"
   },
   {
     "hash": "00E0E2668EC69628",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v3",
     "subType": "template"
   },
   {
@@ -358046,9 +357987,8 @@
   },
   {
     "hash": "00BE9DECE7FD490D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v8.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v8",
     "subType": "template"
   },
   {
@@ -358101,16 +358041,14 @@
   },
   {
     "hash": "00CBA8D8E23F65B3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_actor_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v5",
     "subType": "template"
   },
   {
     "hash": "004BF24F42DEF507",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_elliot_gunk_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_elliot_gunk_m_nude_v0",
     "subType": "template"
   },
   {
@@ -358187,9 +358125,8 @@
   },
   {
     "hash": "00E697A6414848F2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_unique_elliot_gunk_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_unique_elliot_gunk_m",
     "subType": "template"
   },
   {
@@ -358200,9 +358137,8 @@
   },
   {
     "hash": "003CB78F2CF7FD59",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v0",
     "subType": "template"
   },
   {
@@ -358269,9 +358205,8 @@
   },
   {
     "hash": "00749E4058227A34",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v2",
     "subType": "template"
   },
   {
@@ -358294,9 +358229,8 @@
   },
   {
     "hash": "000FAC41ADC8BA6A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_heroa_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v4",
     "subType": "template"
   },
   {
@@ -358314,9 +358248,8 @@
   },
   {
     "hash": "00FDB4300D91D300",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_nutrientreservoir.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_nutrientreservoir",
     "subType": "template"
   },
   {
@@ -358327,9 +358260,8 @@
   },
   {
     "hash": "0033A2EFB2ED03A3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v2",
     "subType": "template"
   },
   {
@@ -358347,9 +358279,8 @@
   },
   {
     "hash": "009DD1F0EBC3515C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_21.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_21",
     "subType": "template"
   },
   {
@@ -358360,9 +358291,8 @@
   },
   {
     "hash": "00FD28A023962050",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v0",
     "subType": "template"
   },
   {
@@ -358373,9 +358303,8 @@
   },
   {
     "hash": "0029DD3652250428",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_repeatableline.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_repeatableline",
     "subType": "template"
   },
   {
@@ -358393,9 +358322,8 @@
   },
   {
     "hash": "00899ECE8A4B7F79",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_heroa_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v4",
     "subType": "template"
   },
   {
@@ -358406,9 +358334,8 @@
   },
   {
     "hash": "00E3CBA84A751A0D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_civ_beachguest_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_civ_beachguest_m",
     "subType": "template"
   },
   {
@@ -358457,9 +358384,8 @@
   },
   {
     "hash": "006A0C9AA3D3CE75",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_trespassingescort.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_trespassingescort",
     "subType": "template"
   },
   {
@@ -358476,9 +358402,8 @@
   },
   {
     "hash": "00BA1B0A81D7CDE1",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_trap_penkill.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_trap_penkill",
     "subType": "template"
   },
   {
@@ -358489,9 +358414,8 @@
   },
   {
     "hash": "00B1907257860EA1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_14.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_14",
     "subType": "template"
   },
   {
@@ -358521,16 +358445,14 @@
   },
   {
     "hash": "008B101CD72F1F01",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v10.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v10",
     "subType": "template"
   },
   {
     "hash": "00EAAB0D6DCB1722",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_7",
     "subType": "template"
   },
   {
@@ -358560,9 +358482,8 @@
   },
   {
     "hash": "007ED1F407BD63F0",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_verticalfarmcontrol.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_verticalfarmcontrol",
     "subType": "template"
   },
   {
@@ -358586,16 +358507,14 @@
   },
   {
     "hash": "009442D9F2FEA59D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v13.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v13",
     "subType": "template"
   },
   {
     "hash": "0013BBAD0E29AA56",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v1",
     "subType": "template"
   },
   {
@@ -358606,23 +358525,20 @@
   },
   {
     "hash": "00DA97A6989D0396",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_guard_production_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_guard_production_m",
     "subType": "template"
   },
   {
     "hash": "00AD3F19009D3DE3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_nude_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v3",
     "subType": "template"
   },
   {
     "hash": "00E7B9041D846D9B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_nude_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v4",
     "subType": "template"
   },
   {
@@ -358652,9 +358568,8 @@
   },
   {
     "hash": "0073F83BC7EB8560",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_unique_helenwest_f.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_unique_helenwest_f",
     "subType": "template"
   },
   {
@@ -358685,9 +358600,8 @@
   },
   {
     "hash": "00C453FAB0C83310",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v3",
     "subType": "template"
   },
   {
@@ -358706,16 +358620,14 @@
   },
   {
     "hash": "0082786461912522",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_11.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_11",
     "subType": "template"
   },
   {
     "hash": "008F2B3C1A51F86A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v8.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v8",
     "subType": "template"
   },
   {
@@ -358726,9 +358638,8 @@
   },
   {
     "hash": "00628AB4D53584ED",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_verticalfarmmanager.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_verticalfarmmanager",
     "subType": "template"
   },
   {
@@ -358759,9 +358670,8 @@
   },
   {
     "hash": "0065BD66091D5300",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v0",
     "subType": "template"
   },
   {
@@ -358778,9 +358688,8 @@
   },
   {
     "hash": "007AC6488E3ABCB2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_f_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v0",
     "subType": "template"
   },
   {
@@ -358829,30 +358738,26 @@
   },
   {
     "hash": "00798143A3DCD81C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_plantinlet.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_plantinlet",
     "subType": "template"
   },
   {
     "hash": "004CE29405F2FFC0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v11.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v11",
     "subType": "template"
   },
   {
     "hash": "0073FFD0E822CFF0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_12.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_12",
     "subType": "template"
   },
   {
     "hash": "00C2656676792B3A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v0",
     "subType": "template"
   },
   {
@@ -358863,23 +358768,20 @@
   },
   {
     "hash": "0050C99CA7C896A6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_heroa_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v1",
     "subType": "template"
   },
   {
     "hash": "001B3D7C7F4C80A6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v0",
     "subType": "template"
   },
   {
     "hash": "00D4E3BCB1C4E234",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_actortooneoftwoactorscondition.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_actortooneoftwoactorscondition",
     "subType": "template"
   },
   {
@@ -358897,9 +358799,8 @@
   },
   {
     "hash": "0061EB5C3F625FA4",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v6",
     "subType": "template"
   },
   {
@@ -358917,9 +358818,8 @@
   },
   {
     "hash": "007EA1F83F724B65",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v4",
     "subType": "template"
   },
   {
@@ -358957,9 +358857,8 @@
   },
   {
     "hash": "000EB23236D3F711",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_nude_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v3",
     "subType": "template"
   },
   {
@@ -358971,9 +358870,8 @@
   },
   {
     "hash": "00C06988D0ADFAF9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v1",
     "subType": "template"
   },
   {
@@ -358997,9 +358895,8 @@
   },
   {
     "hash": "005A901461699BDC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_heroa_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v1",
     "subType": "template"
   },
   {
@@ -359023,9 +358920,8 @@
   },
   {
     "hash": "00B03FE42EEBB598",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_6",
     "subType": "template"
   },
   {
@@ -359036,9 +358932,8 @@
   },
   {
     "hash": "009A260D07F90172",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v3",
     "subType": "template"
   },
   {
@@ -359068,16 +358963,14 @@
   },
   {
     "hash": "009EE56A57CE3C5C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_10.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_10",
     "subType": "template"
   },
   {
     "hash": "005442741E0195D1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_heroa_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v4",
     "subType": "template"
   },
   {
@@ -359089,9 +358982,8 @@
   },
   {
     "hash": "0074B5826F049B35",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_optionalbehaviormanager.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_optionalbehaviormanager",
     "subType": "template"
   },
   {
@@ -359148,23 +359040,20 @@
   },
   {
     "hash": "008FDC4366311853",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_f_actor_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v5",
     "subType": "template"
   },
   {
     "hash": "006896FBBD0BAE90",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v0",
     "subType": "template"
   },
   {
     "hash": "00AF36948928D12B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_24.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_24",
     "subType": "template"
   },
   {
@@ -359176,9 +359065,8 @@
   },
   {
     "hash": "00E973EE265C624D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_nude_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_nude_v2",
     "subType": "template"
   },
   {
@@ -359189,9 +359077,8 @@
   },
   {
     "hash": "003AA081614511B2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_unique_hanslucht_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_unique_hanslucht_m",
     "subType": "template"
   },
   {
@@ -359202,9 +359089,8 @@
   },
   {
     "hash": "00417150A9F0D55B",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_participantpresence.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_participantpresence",
     "subType": "template"
   },
   {
@@ -359216,9 +359102,8 @@
   },
   {
     "hash": "004DD05A1AECBD53",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_highprofiledj_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_highprofiledj_m_heroa_v0",
     "subType": "template"
   },
   {
@@ -359248,16 +359133,14 @@
   },
   {
     "hash": "00E19CDDF33A1105",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v7",
     "subType": "template"
   },
   {
     "hash": "006C4BB89BFEF636",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_son_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_son_m_actor_v0",
     "subType": "template"
   },
   {
@@ -359274,9 +359157,8 @@
   },
   {
     "hash": "00539E84525E7B1D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v3",
     "subType": "template"
   },
   {
@@ -359314,30 +359196,26 @@
   },
   {
     "hash": "002837F952B61BD5",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v4",
     "subType": "template"
   },
   {
     "hash": "009DEEBF1AE14090",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_heroa_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v2",
     "subType": "template"
   },
   {
     "hash": "00A524C2AC1921BE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v5",
     "subType": "template"
   },
   {
     "hash": "007268833F4D02CA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_22.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_22",
     "subType": "template"
   },
   {
@@ -359391,9 +359269,8 @@
   },
   {
     "hash": "005CD44A095F7205",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_tasting_positions.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_tasting_positions",
     "subType": "template"
   },
   {
@@ -359404,23 +359281,20 @@
   },
   {
     "hash": "009D4A654F111FED",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_farm_railing_290cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_farm_railing_290cm",
     "subType": "template"
   },
   {
     "hash": "00EE4D3CD530E3D3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_09.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_09",
     "subType": "template"
   },
   {
     "hash": "00870D2D63F74C9E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_worker_eventstaff_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_worker_eventstaff_m",
     "subType": "template"
   },
   {
@@ -359450,9 +359324,8 @@
   },
   {
     "hash": "00FF70DB3B4D278A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v0",
     "subType": "template"
   },
   {
@@ -359485,9 +359358,8 @@
   },
   {
     "hash": "008EF619806944DD",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_twoactorstoactorcondition.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_twoactorstoactorcondition",
     "subType": "template"
   },
   {
@@ -359598,9 +359470,8 @@
   },
   {
     "hash": "00E234A25E6D62F9",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_contextkill_statue.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_contextkill_statue",
     "subType": "template"
   },
   {
@@ -359650,16 +359521,14 @@
   },
   {
     "hash": "000036DCED8F4B5D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v3",
     "subType": "template"
   },
   {
     "hash": "00C11B94EA946668",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v0",
     "subType": "template"
   },
   {
@@ -359702,37 +359571,32 @@
   },
   {
     "hash": "0084D19016F8ADE1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v0",
     "subType": "template"
   },
   {
     "hash": "000844C080FCAC19",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_unique_highprofiledj_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_unique_highprofiledj_m",
     "subType": "template"
   },
   {
     "hash": "00761CCC82C635C7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v2",
     "subType": "template"
   },
   {
     "hash": "0035BB49264B41D6",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_dronedrama_pickupcluster.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_dronedrama_pickupcluster",
     "subType": "template"
   },
   {
     "hash": "00B4B4A6E6A70D99",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v2",
     "subType": "template"
   },
   {
@@ -359744,9 +359608,8 @@
   },
   {
     "hash": "00B3EAEDFCE29607",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v1",
     "subType": "template"
   },
   {
@@ -359777,16 +359640,14 @@
   },
   {
     "hash": "005BC535C2DD2FE9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_21.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_21",
     "subType": "template"
   },
   {
     "hash": "005021DCCB429E45",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v5",
     "subType": "template"
   },
   {
@@ -359823,9 +359684,8 @@
   },
   {
     "hash": "002533AEFF1F2069",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v0",
     "subType": "template"
   },
   {
@@ -359894,9 +359754,8 @@
   },
   {
     "hash": "00992EA3F9963A52",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v1",
     "subType": "template"
   },
   {
@@ -359939,16 +359798,14 @@
   },
   {
     "hash": "00D2175C83B60D71",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v3",
     "subType": "template"
   },
   {
     "hash": "00EB4766BFF28048",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v1",
     "subType": "template"
   },
   {
@@ -359978,16 +359835,14 @@
   },
   {
     "hash": "009361729EEDC22D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_13.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_13",
     "subType": "template"
   },
   {
     "hash": "00A98C078DCC53AA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v4",
     "subType": "template"
   },
   {
@@ -360017,23 +359872,20 @@
   },
   {
     "hash": "004339AD9074FA91",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_plantconveyor.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_plantconveyor",
     "subType": "template"
   },
   {
     "hash": "000038D7E1F7904B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_14.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_14",
     "subType": "template"
   },
   {
     "hash": "0008108FF22231C9",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_farm_railing_190cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_farm_railing_190cm",
     "subType": "template"
   },
   {
@@ -360083,9 +359935,8 @@
   },
   {
     "hash": "000882A0E595F776",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_6",
     "subType": "template"
   },
   {
@@ -360123,9 +359974,8 @@
   },
   {
     "hash": "00FF8DE784D3E28A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_nude_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v1",
     "subType": "template"
   },
   {
@@ -360136,23 +359986,20 @@
   },
   {
     "hash": "0037B79DE34C9EA6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_19.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_19",
     "subType": "template"
   },
   {
     "hash": "00DF6CC7BAB0668F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v7",
     "subType": "template"
   },
   {
     "hash": "006B57AA7A53C92D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_4",
     "subType": "template"
   },
   {
@@ -360164,9 +360011,8 @@
   },
   {
     "hash": "00EC771A5902C049",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_guard_bodyguard_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_guard_bodyguard_m",
     "subType": "template"
   },
   {
@@ -360178,9 +360024,8 @@
   },
   {
     "hash": "00308F5250749B2C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v1",
     "subType": "template"
   },
   {
@@ -360198,16 +360043,14 @@
   },
   {
     "hash": "0031FDF6871FB664",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v2",
     "subType": "template"
   },
   {
     "hash": "001B1F9C16359DAB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v12.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v12",
     "subType": "template"
   },
   {
@@ -360238,23 +360081,20 @@
   },
   {
     "hash": "001AF7E718F0F28D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_actor_v2",
     "subType": "template"
   },
   {
     "hash": "00D028D79BE487F0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v0",
     "subType": "template"
   },
   {
     "hash": "0045815AEB2E8881",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_nude_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v2",
     "subType": "template"
   },
   {
@@ -360277,9 +360117,8 @@
   },
   {
     "hash": "003339759B598AB9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v7",
     "subType": "template"
   },
   {
@@ -360303,16 +360142,14 @@
   },
   {
     "hash": "00C241C8028BA52A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_7",
     "subType": "template"
   },
   {
     "hash": "00424A28465165D9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_heroa_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v5",
     "subType": "template"
   },
   {
@@ -360369,9 +360206,8 @@
   },
   {
     "hash": "00D99AB3D5E079BF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v3",
     "subType": "template"
   },
   {
@@ -360383,16 +360219,14 @@
   },
   {
     "hash": "00F89A7FE9968423",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_nude_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v5",
     "subType": "template"
   },
   {
     "hash": "003F679E267918F6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_heroa_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v3",
     "subType": "template"
   },
   {
@@ -360409,9 +360243,8 @@
   },
   {
     "hash": "008D021F565E59DA",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_farmclustervalve.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_farmclustervalve",
     "subType": "template"
   },
   {
@@ -360428,9 +360261,8 @@
   },
   {
     "hash": "00FDFD08B262F721",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_stateskips.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_stateskips",
     "subType": "template"
   },
   {
@@ -360441,16 +360273,14 @@
   },
   {
     "hash": "002C6C0F2D5B1FC2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_8.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_8",
     "subType": "template"
   },
   {
     "hash": "00A5F06B2B2F27E2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v0",
     "subType": "template"
   },
   {
@@ -360467,9 +360297,8 @@
   },
   {
     "hash": "004B7127AFB31967",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_f_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_f_actor_v1",
     "subType": "template"
   },
   {
@@ -360480,16 +360309,14 @@
   },
   {
     "hash": "00C795CC4A8BF9E6",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_farm_railing_440cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_farm_railing_440cm",
     "subType": "template"
   },
   {
     "hash": "00E5C6DF8C2F075E",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_oneoftwoactorstoactorcondition.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_oneoftwoactorstoactorcondition",
     "subType": "template"
   },
   {
@@ -360538,16 +360365,14 @@
   },
   {
     "hash": "00D4D3DBD412C541",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_nude_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v2",
     "subType": "template"
   },
   {
     "hash": "00ED2EA27272CA6F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v4",
     "subType": "template"
   },
   {
@@ -360592,30 +360417,26 @@
   },
   {
     "hash": "002E8A608CD2F771",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_unique_son_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_unique_son_m",
     "subType": "template"
   },
   {
     "hash": "002174EC523266C7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v6",
     "subType": "template"
   },
   {
     "hash": "00D57F0C6BF78483",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_actor_v0",
     "subType": "template"
   },
   {
     "hash": "00EFE865217B13B9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_hanslucht_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_hanslucht_m_actor_v0",
     "subType": "template"
   },
   {
@@ -360626,16 +360447,14 @@
   },
   {
     "hash": "009BF3BBCA6E5A85",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_3",
     "subType": "template"
   },
   {
     "hash": "004F5C66C5E685A0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_nude_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v1",
     "subType": "template"
   },
   {
@@ -360660,9 +360479,8 @@
   },
   {
     "hash": "008FA2CCEA3B05A7",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_custominfobarmessage.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_custominfobarmessage",
     "subType": "template"
   },
   {
@@ -360705,9 +360523,8 @@
   },
   {
     "hash": "000B2E2F1AAA30CE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_unique_timquinn_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_unique_timquinn_m",
     "subType": "template"
   },
   {
@@ -360732,9 +360549,8 @@
   },
   {
     "hash": "001D8C16CD58523B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_worker_productionstaff_f.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_worker_productionstaff_f",
     "subType": "template"
   },
   {
@@ -360745,9 +360561,8 @@
   },
   {
     "hash": "00CF7F5482B32AFE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_justine_bassey_f_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_justine_bassey_f_actor_v0",
     "subType": "template"
   },
   {
@@ -360830,37 +360645,32 @@
   },
   {
     "hash": "00B3421314421657",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_25.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_25",
     "subType": "template"
   },
   {
     "hash": "00198C5EEB0B15AE",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_farm_railing_440cm_coverleft.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_farm_railing_440cm_coverleft",
     "subType": "template"
   },
   {
     "hash": "00D1283100AB042F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v1",
     "subType": "template"
   },
   {
     "hash": "00B2D58B1D4BD8B2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_13.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_13",
     "subType": "template"
   },
   {
     "hash": "00CF7F440F1B2CB7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v2",
     "subType": "template"
   },
   {
@@ -360896,9 +360706,8 @@
   },
   {
     "hash": "00CAFB1FF3DB7C67",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_actor_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_actor_v5",
     "subType": "template"
   },
   {
@@ -360929,16 +360738,14 @@
   },
   {
     "hash": "00CBDE82199A9E38",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v7",
     "subType": "template"
   },
   {
     "hash": "00901B6B118C77E0",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_plantelevator.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_plantelevator",
     "subType": "template"
   },
   {
@@ -360955,9 +360762,8 @@
   },
   {
     "hash": "00A13B90DFF91AF7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_16.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_16",
     "subType": "template"
   },
   {
@@ -360974,9 +360780,8 @@
   },
   {
     "hash": "00CB89E49CCF2E2C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_powersupply.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_powersupply",
     "subType": "template"
   },
   {
@@ -360988,9 +360793,8 @@
   },
   {
     "hash": "00B9F501AE482FB7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v0",
     "subType": "template"
   },
   {
@@ -361002,9 +360806,8 @@
   },
   {
     "hash": "003B51609EFEA5CF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_heroa_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v1",
     "subType": "template"
   },
   {
@@ -361034,16 +360837,14 @@
   },
   {
     "hash": "00F349F55D252F69",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_heroa_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v2",
     "subType": "template"
   },
   {
     "hash": "00748DBF7CE1FF12",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_5",
     "subType": "template"
   },
   {
@@ -361068,9 +360869,8 @@
   },
   {
     "hash": "008C20C5811B3BB2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_nude_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_nude_v1",
     "subType": "template"
   },
   {
@@ -361093,9 +360893,8 @@
   },
   {
     "hash": "0097ED8D8F0EDF0C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v6",
     "subType": "template"
   },
   {
@@ -361138,9 +360937,8 @@
   },
   {
     "hash": "005FF9E21A2A2F9C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v0",
     "subType": "template"
   },
   {
@@ -361170,16 +360968,14 @@
   },
   {
     "hash": "00DC51D59EE314B6",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_plantplanter.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_plantplanter",
     "subType": "template"
   },
   {
     "hash": "00AF7F7319CCFDC8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_nude_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v4",
     "subType": "template"
   },
   {
@@ -361190,9 +360986,8 @@
   },
   {
     "hash": "00F3454C4E67D933",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_electricalcabinetreaction.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_electricalcabinetreaction",
     "subType": "template"
   },
   {
@@ -361203,9 +360998,8 @@
   },
   {
     "hash": "0029504A3B7AFE40",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_servecocktails.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_servecocktails",
     "subType": "template"
   },
   {
@@ -361235,9 +361029,8 @@
   },
   {
     "hash": "00379DEA55C70FCC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_worker_productionstaff_m.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_worker_productionstaff_m",
     "subType": "template"
   },
   {
@@ -361248,9 +361041,8 @@
   },
   {
     "hash": "00C976E9F0ACA185",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_worker_eventstaff_f.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_worker_eventstaff_f",
     "subType": "template"
   },
   {
@@ -361268,9 +361060,8 @@
   },
   {
     "hash": "000C7953926081DB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_heroa_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v1",
     "subType": "template"
   },
   {
@@ -361333,16 +361124,14 @@
   },
   {
     "hash": "004374ACB4F60FC0",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_plantharvester.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_plantharvester",
     "subType": "template"
   },
   {
     "hash": "00FFA28AF2E3E058",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_2",
     "subType": "template"
   },
   {
@@ -361353,9 +361142,8 @@
   },
   {
     "hash": "00CCACF8494EC8D5",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_nude_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v4",
     "subType": "template"
   },
   {
@@ -361386,9 +361174,8 @@
   },
   {
     "hash": "006471804BA28799",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_remoteconsole.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_remoteconsole",
     "subType": "template"
   },
   {
@@ -361451,9 +361238,8 @@
   },
   {
     "hash": "00BE1FAFF104DE5B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_18.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_18",
     "subType": "template"
   },
   {
@@ -361476,9 +361262,8 @@
   },
   {
     "hash": "000F7CC69BD945A2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_16.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_16",
     "subType": "template"
   },
   {
@@ -361514,23 +361299,20 @@
   },
   {
     "hash": "0013E006D946A414",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_farmvalvereaction.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_farmvalvereaction",
     "subType": "template"
   },
   {
     "hash": "004322774408A78F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_f_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v4",
     "subType": "template"
   },
   {
     "hash": "0027D07DC8EF0847",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_civ_guest_f.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_civ_guest_f",
     "subType": "template"
   },
   {
@@ -361547,9 +361329,8 @@
   },
   {
     "hash": "00BBFE51826D1DF9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_m_actor_v9.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v9",
     "subType": "template"
   },
   {
@@ -361591,9 +361372,8 @@
   },
   {
     "hash": "00667A770280F8D4",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_productsamples.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_productsamples",
     "subType": "template"
   },
   {
@@ -361612,9 +361392,8 @@
   },
   {
     "hash": "0014E3D48475B7E9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_actor_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v2",
     "subType": "template"
   },
   {
@@ -361631,9 +361410,8 @@
   },
   {
     "hash": "00307C3D4A21F6AC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_nude_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_nude_v4",
     "subType": "template"
   },
   {
@@ -361652,9 +361430,8 @@
   },
   {
     "hash": "00D8498701F56FF3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v5",
     "subType": "template"
   },
   {
@@ -361691,16 +361468,14 @@
   },
   {
     "hash": "00B8368A11D105CC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_beachguest_f_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v4",
     "subType": "template"
   },
   {
     "hash": "00B3F58A5DDF7D73",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_actor_v4",
     "subType": "template"
   },
   {
@@ -361718,16 +361493,14 @@
   },
   {
     "hash": "0062176347C295F9",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_18.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_18",
     "subType": "template"
   },
   {
     "hash": "00FB40A47BB2149C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_20.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_20",
     "subType": "template"
   },
   {
@@ -361739,9 +361512,8 @@
   },
   {
     "hash": "00AF749298A2B63F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_civ_guest_f_actor_v6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v6",
     "subType": "template"
   },
   {
@@ -361803,9 +361575,8 @@
   },
   {
     "hash": "0009D91CD8A23DAB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_highprofiledj_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_highprofiledj_m_nude_v0",
     "subType": "template"
   },
   {
@@ -361816,23 +361587,20 @@
   },
   {
     "hash": "0018B73CA03A2918",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_ventilationsystem.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_ventilationsystem",
     "subType": "template"
   },
   {
     "hash": "00429EA584AA2D6D",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_maskedbool.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_maskedbool",
     "subType": "template"
   },
   {
     "hash": "00AC1E21DDB8BE1E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_m_heroa_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v2",
     "subType": "template"
   },
   {
@@ -361858,9 +361626,8 @@
   },
   {
     "hash": "0076B094C612AA5A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_nude_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_nude_v0",
     "subType": "template"
   },
   {
@@ -361871,9 +361638,8 @@
   },
   {
     "hash": "00C4E532B1C4ED45",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_nude_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v2",
     "subType": "template"
   },
   {
@@ -361885,30 +361651,26 @@
   },
   {
     "hash": "00902A84B32F856F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_heroa_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v5",
     "subType": "template"
   },
   {
     "hash": "006727065799F36D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_4",
     "subType": "template"
   },
   {
     "hash": "007B6E7DA4004957",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_heroa_v5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v5",
     "subType": "template"
   },
   {
     "hash": "003EEDF922024B8C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_20.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_20",
     "subType": "template"
   },
   {
@@ -361959,9 +361721,8 @@
   },
   {
     "hash": "0005BF554E3BD3A5",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_nude_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v2",
     "subType": "template"
   },
   {
@@ -361997,9 +361758,8 @@
   },
   {
     "hash": "0027453A669AE025",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_elliot_gunk_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_elliot_gunk_m_actor_v0",
     "subType": "template"
   },
   {
@@ -362042,9 +361802,8 @@
   },
   {
     "hash": "00C1E465F9F0A277",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_f_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_f_actor_v0",
     "subType": "template"
   },
   {
@@ -362055,16 +361814,14 @@
   },
   {
     "hash": "0089DF8FD034CFC2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/charset_opulent_greentini_civ_beachguest_f.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "charset_opulent_greentini_civ_beachguest_f",
     "subType": "template"
   },
   {
     "hash": "00F2D80AC859EDF6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_5.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_5",
     "subType": "template"
   },
   {
@@ -362089,9 +361846,8 @@
   },
   {
     "hash": "0000A0367FAE22EC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_1",
     "subType": "template"
   },
   {
@@ -362103,9 +361859,8 @@
   },
   {
     "hash": "00FCE760764A896A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_heroa_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v3",
     "subType": "template"
   },
   {
@@ -362116,9 +361871,8 @@
   },
   {
     "hash": "009BFDB8EA67EE6A",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/opulent/helpers_greentini.template?/helper_greentini_farm_railing_440cm_coverright.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "helper_greentini_farm_railing_440cm_coverright",
     "subType": "template"
   },
   {
@@ -362169,9 +361923,8 @@
   },
   {
     "hash": "0069E265D43BE9C4",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_productionstaff_f_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_productionstaff_f_actor_v0",
     "subType": "template"
   },
   {
@@ -362189,16 +361942,14 @@
   },
   {
     "hash": "00270B288B311039",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_m_23.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_m_23",
     "subType": "template"
   },
   {
     "hash": "0011F36BA618C126",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_unique_elliot_gunk_m_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_unique_elliot_gunk_m_heroa_v0",
     "subType": "template"
   },
   {
@@ -362236,16 +361987,14 @@
   },
   {
     "hash": "0086BD2D89D5421E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_actor_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v4",
     "subType": "template"
   },
   {
     "hash": "0074BC2AF378D325",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_8.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_8",
     "subType": "template"
   },
   {
@@ -362287,9 +362036,8 @@
   },
   {
     "hash": "000A7CEA5BA8C144",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_9.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_9",
     "subType": "template"
   },
   {
@@ -362307,16 +362055,14 @@
   },
   {
     "hash": "00A58DFEE4AA7182",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_plantoutlet.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_plantoutlet",
     "subType": "template"
   },
   {
     "hash": "0053B9D569207DEB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_m_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v1",
     "subType": "template"
   },
   {
@@ -362340,9 +362086,8 @@
   },
   {
     "hash": "00CCB3379A9BE4AD",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_villastaff_f_actor_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_villastaff_f_actor_v1",
     "subType": "template"
   },
   {
@@ -362373,16 +362118,14 @@
   },
   {
     "hash": "002292A9F57DA3FB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_nude_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_nude_v3",
     "subType": "template"
   },
   {
     "hash": "00E7BE9C710F963A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v0",
     "subType": "template"
   },
   {
@@ -362425,9 +362168,8 @@
   },
   {
     "hash": "001C5441744109BB",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini_crowd.template?/char_greentini_crowd_f_17.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "char_greentini_crowd_f_17",
     "subType": "template"
   },
   {
@@ -362490,16 +362232,14 @@
   },
   {
     "hash": "00A700BF2B60C9B1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_production_m_heroa_v4.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v4",
     "subType": "template"
   },
   {
     "hash": "00ABE97717FBA508",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_greentini_unique.template?/setpiece_greentini_plantrotator.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiece_greentini_plantrotator",
     "subType": "template"
   },
   {
@@ -362528,9 +362268,8 @@
   },
   {
     "hash": "00BA1F2D3F63A72C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_heroa_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v3",
     "subType": "template"
   },
   {
@@ -362566,9 +362305,8 @@
   },
   {
     "hash": "0007EAB398005726",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_bodyguard_m_heroa_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v1",
     "subType": "template"
   },
   {
@@ -362618,16 +362356,14 @@
   },
   {
     "hash": "006DB6B3A2E07606",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_nude_v7.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v7",
     "subType": "template"
   },
   {
     "hash": "00A7F0004503F94C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_worker_eventstaff_m_actor_v3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v3",
     "subType": "template"
   },
   {
@@ -362664,9 +362400,8 @@
   },
   {
     "hash": "00D15B685F5DFC69",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/stingray/char_opulent_elusivetarget_greentini.template?/outfit_opulent_greentini_guard_villaguard_m_actor_v6.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v6",
     "subType": "template"
   },
   {
