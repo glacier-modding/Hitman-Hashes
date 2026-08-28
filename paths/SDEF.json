@@ -2561,7 +2561,7 @@
   },
   {
     "hash": "0077B25E9C4C7530",
-    "path": "",
+    "path": "[assembly:/sound/sounddefinitions/et_greentiny.sdefs].pc_sdefs",
     "gameFlags": 8
   },
   {
@@ -2571,7 +2571,7 @@
   },
   {
     "hash": "00BD6BA968C7AC52",
-    "path": "",
+    "path": "[assembly:/sound/sounddefinitions/civfem11.sdefs].pc_sdefs",
     "gameFlags": 8
   }
 ]
