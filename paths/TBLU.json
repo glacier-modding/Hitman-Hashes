@@ -355338,9 +355338,8 @@
   },
   {
     "hash": "0086AB3BF17F7E3E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29801_moccmnoshow.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355363,9 +355362,8 @@
   },
   {
     "hash": "00138601F44B0F89",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29858_ringbell.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355429,9 +355427,8 @@
   },
   {
     "hash": "002D3D43934B5CC3",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29782_mocannouncequinn01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355442,9 +355439,8 @@
   },
   {
     "hash": "00629D0C533422B5",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29856_ambphone01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355474,16 +355470,14 @@
   },
   {
     "hash": "00BF12FFFDFFD2A5",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29824_ntrosbdgwalk02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "0040DD37B7EE4D8D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_ambience/dta29751_email.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355494,9 +355488,8 @@
   },
   {
     "hash": "0095EA28155D9FBA",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_ambience/dta29755_woo.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355522,16 +355515,14 @@
   },
   {
     "hash": "00416D2AB4CFD168",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29788_mocrules03.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00AAFEDB1CE7055A",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_ambience/dta29752_yachts.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355560,9 +355551,8 @@
   },
   {
     "hash": "000AC941B99E9AD2",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29847_ambbtwnrnds101.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355580,9 +355570,8 @@
   },
   {
     "hash": "000245CFA6D3A526",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29789_mocrules04.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355652,9 +355641,8 @@
   },
   {
     "hash": "003A65FF09B2CB9D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29798_moccmdead.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355711,9 +355699,8 @@
   },
   {
     "hash": "005B0BC2AE72C4CC",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29866_qntrningquit01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355724,23 +355711,20 @@
   },
   {
     "hash": "00560D45E5C41EC2",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29777_trng47bdg.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "007EB74D12EF25B4",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29750_barorderpt.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "005A3BF9500A54FC",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29859_47moc01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355764,9 +355748,8 @@
   },
   {
     "hash": "00FDD6B03821715B",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29768_schmnoshow.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355783,9 +355766,8 @@
   },
   {
     "hash": "007AF349283B14A9",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29821_moc47invoke02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355860,16 +355842,14 @@
   },
   {
     "hash": "003BDE905BBC4CAB",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29755_bardismiss.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "0080C8DBC0055368",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29825_ntrosbdgwalk03.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355894,16 +355874,14 @@
   },
   {
     "hash": "009AF779807219C5",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29857_ambphone02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00B3002A026447D5",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29811_qntrning01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355914,9 +355892,8 @@
   },
   {
     "hash": "00D1EC2618857678",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29877_djrequest.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355928,9 +355905,8 @@
   },
   {
     "hash": "009698C645931884",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29822_moc47invoke01b.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355960,9 +355936,8 @@
   },
   {
     "hash": "00DFF5EA3A496481",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29786_mocrules01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -355979,9 +355954,8 @@
   },
   {
     "hash": "00273A8B84707AA0",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29846_ambexited.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356102,9 +356076,8 @@
   },
   {
     "hash": "0060A6F6B8751BEF",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29803_qnwalk01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356128,9 +356101,8 @@
   },
   {
     "hash": "007CE21787A67B5D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29758_schmplan01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356155,23 +356127,20 @@
   },
   {
     "hash": "002EC27F086A2EA3",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29853_ambstfffght01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "005D14E1CFDB1C03",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_ambience/dta29754_disease.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00F80F1DC3F26912",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29756_barserve.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356206,9 +356175,8 @@
   },
   {
     "hash": "00F35E39CF7C0EB1",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29770_trngbodyguard02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356469,9 +356437,8 @@
   },
   {
     "hash": "00E17A70BF831DCE",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29800_mocqnnoshow.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356482,23 +356449,20 @@
   },
   {
     "hash": "000DE324656864EE",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29860_47moc02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "0090A12A9A06F351",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29769_trngbodyguard01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00EE049867034D0C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29787_mocrules02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356509,9 +356473,8 @@
   },
   {
     "hash": "004C2B8F52F5266B",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29823_ntrosbdgwalk01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356599,9 +356562,8 @@
   },
   {
     "hash": "00C1FFBF5DC6F590",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29850_ambbtwnrnds0201.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356631,9 +356593,8 @@
   },
   {
     "hash": "00EF33BE3AF02266",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29818_ambreveal01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356658,9 +356619,8 @@
   },
   {
     "hash": "00998C0718A4C3ED",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29767_schminvk.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356672,9 +356632,8 @@
   },
   {
     "hash": "006C7335C911A33E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_ambience/dta29750_handwraps.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356718,9 +356677,8 @@
   },
   {
     "hash": "00444ADF8D9709F8",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29759_schmplan02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356787,9 +356745,8 @@
   },
   {
     "hash": "00D2BF893DEB5167",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29778_mocannounceetpet01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356801,9 +356758,8 @@
   },
   {
     "hash": "0094560586047F4D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29867_qntrningquit02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356815,9 +356771,8 @@
   },
   {
     "hash": "008DF9C9E98F668A",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_story/dt29802_mocnoshowboth.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356828,9 +356783,8 @@
   },
   {
     "hash": "007CF3D5EAA3A88D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/island/29000_elusive/29000_pomada/29000_pomada_ambience/dta29753_eugene.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356848,9 +356802,8 @@
   },
   {
     "hash": "0016E7EA921AB610",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34182_tourgunk47grt01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356895,9 +356848,8 @@
   },
   {
     "hash": "001E99F69B34C090",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34202_tourcgrtg.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -356922,9 +356874,8 @@
   },
   {
     "hash": "00CD17C45C4CBD7E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34232_tourstairs02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357070,9 +357021,8 @@
   },
   {
     "hash": "003FC863B4EB3780",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34221_tournowait.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357117,9 +357067,8 @@
   },
   {
     "hash": "00AA2C2662D86891",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34239_tourlabmove.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357263,9 +357212,8 @@
   },
   {
     "hash": "00926E9AE25A2DB2",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_ambience/dta34008_pptythesea.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357324,9 +357272,8 @@
   },
   {
     "hash": "00C3DBD57664609C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34140_hlsb47evdnceprsnt.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357421,16 +357368,14 @@
   },
   {
     "hash": "008437A26A3E01FF",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34152_hlsbtlk47.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "006F3A12F0F1C904",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34253_tourfarmqncmnt.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357442,16 +357387,14 @@
   },
   {
     "hash": "004B02E234A922B7",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34280_tourallleft.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "000763806B255ACB",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34227_tourscrtrmcontd.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357537,9 +357480,8 @@
   },
   {
     "hash": "00A0EB77F75A2DE3",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_ambience/dta34025_frmwrkrscht.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357603,9 +357545,8 @@
   },
   {
     "hash": "00671E61E237552E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34247_tourinvtrfslrspns.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357624,9 +357565,8 @@
   },
   {
     "hash": "008D1E1E5315A19F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34094_juiceacpt.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357691,9 +357631,8 @@
   },
   {
     "hash": "00AE2635D23F7859",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34282_tourfllwkillop.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357719,9 +357658,8 @@
   },
   {
     "hash": "000DC0E1240073AF",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34226_tourscrtrm.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357761,16 +357699,14 @@
   },
   {
     "hash": "00282CD73A715CEF",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34244_tourinvtfarmqnno.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "008EAF78F20ED70D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34249_tourfarminflnccmnt.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357795,9 +357731,8 @@
   },
   {
     "hash": "00D9CA1AE7A9B06F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34283_tourshonly4701.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -357908,9 +357843,8 @@
   },
   {
     "hash": "0092456CE0347F39",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34240_tourtofarm01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358026,9 +357960,8 @@
   },
   {
     "hash": "009652A105D289AB",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34246_tourinvtfarmgnklno.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358053,9 +357986,8 @@
   },
   {
     "hash": "00732FE1C089F6A9",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34260_tourckierjctgnk.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358087,9 +358019,8 @@
   },
   {
     "hash": "00932EDFEEFA25F8",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34117_hlsbtlkgrntny.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358140,9 +358071,8 @@
   },
   {
     "hash": "0033281AEB6AAC24",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34187_tourglssdrgoahead.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358212,9 +358142,8 @@
   },
   {
     "hash": "0083C5D0D0D660DA",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34214_alt47rdytour01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358226,9 +358155,8 @@
   },
   {
     "hash": "00026DB34A791889",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34147_hlsbarrvwait.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358314,9 +358242,8 @@
   },
   {
     "hash": "003D3AED7935EBFA",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_ambience/dta34014_pptycptn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358349,16 +358276,14 @@
   },
   {
     "hash": "00067811BB9DA2C8",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34169_hlcbfixd01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "002021A68A780ED3",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34063_bbqaskprpn47yes.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358475,9 +358400,8 @@
   },
   {
     "hash": "00EC044E41B735CE",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34095_juicestffchat.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358559,9 +358483,8 @@
   },
   {
     "hash": "0029A501B8D835ED",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34155_hlsbtlksmkemleave.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358573,9 +358496,8 @@
   },
   {
     "hash": "0017EB9322E45A3D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34171_hlcbfixd03.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358593,9 +358515,8 @@
   },
   {
     "hash": "005161E78181D4B7",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34138_hlsb47evdnce.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358679,9 +358600,8 @@
   },
   {
     "hash": "00B509C1E43DDC67",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34185_tourgnkstffbanter.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358746,16 +358666,14 @@
   },
   {
     "hash": "00C3905DC97F2A6D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34129_hlsbtlkbbq.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "0058DB96E0C591B6",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_ambience/dta34034_scrdnglhint.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358835,9 +358753,8 @@
   },
   {
     "hash": "00E451FAB551E3F0",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34110_djgrntinidjansw.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358849,16 +358766,14 @@
   },
   {
     "hash": "009BCBD52E7BC461",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34243_tourinvtfarm.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00E154FC89B8C8FA",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34275_tourckiesckinfl.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -358942,9 +358857,8 @@
   },
   {
     "hash": "0094B653E7A3D783",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34229_tourscrtrmleave.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359010,9 +358924,8 @@
   },
   {
     "hash": "001576D8BE06C807",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34248_tourfarmcntd01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359065,9 +358978,8 @@
   },
   {
     "hash": "00F8C0785E5A6314",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34069_bbqgrilltalk.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359105,9 +359017,8 @@
   },
   {
     "hash": "00A0E762FCF475E1",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34293_tourcrpsdstryd.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359139,9 +359050,8 @@
   },
   {
     "hash": "009EF5F3FDDC97E4",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34000_tlkterraceoneoff.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359152,9 +359062,8 @@
   },
   {
     "hash": "004D23ABA276A037",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34067_bbqprpnfound02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359274,9 +359183,8 @@
   },
   {
     "hash": "005E5FD38943CC0D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34111_djgrntini47answ.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359334,9 +359242,8 @@
   },
   {
     "hash": "00848439C872164D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34091_juicerefuse47.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359381,16 +359288,14 @@
   },
   {
     "hash": "00CF096A2836C30C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34198_tourpostwait.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "0097CE429AC9614A",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34288_hlsbarrv2.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359449,23 +359354,20 @@
   },
   {
     "hash": "00DF660A4732CFF6",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34145_hlsbarrv.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "009378733EB2079E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34112_djgrntinifired.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00507EC2143BB39C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34257_toursitdwn47.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359496,9 +359398,8 @@
   },
   {
     "hash": "00B80D4DDA4B26C5",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34188_tourglssdrwait.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359524,9 +359425,8 @@
   },
   {
     "hash": "001A75514D4D4B32",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34234_tourstairs03.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359538,16 +359438,14 @@
   },
   {
     "hash": "00F8EF965D4105F7",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34237_tourlab.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "007CC4640FE6DD49",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34252_tourfarmcntd04.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359600,30 +359498,26 @@
   },
   {
     "hash": "0047BE881106D4B7",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34062_bbqaskprpnyes.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00903AD4A961CE05",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34281_touronly47.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00A10EBF5DF3490D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34144_hslbbaddsg.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "004E22B785F2C3B1",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34172_hlcbfixd04.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359666,16 +359560,14 @@
   },
   {
     "hash": "0086DA50C69C8F79",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34177_tour47foundtkt02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00D3F7EF5D074F79",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34068_bbqtrnon.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359713,9 +359605,8 @@
   },
   {
     "hash": "0057A888B883EF14",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34114_djgrntinilikes.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359727,16 +359618,14 @@
   },
   {
     "hash": "006D5F72811FC78E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34230_tourstairs01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00E8220F4C767A4F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34276_tourckiesckqnn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359862,9 +359751,8 @@
   },
   {
     "hash": "0023DC462B5BF6A6",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34304_pihlngrdtlk.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -359961,9 +359849,8 @@
   },
   {
     "hash": "0007FEA5C0374871",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34065_bbqnostffprpninstl.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360026,9 +359913,8 @@
   },
   {
     "hash": "0088CBF28505024C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34219_tourstart.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360119,9 +360005,8 @@
   },
   {
     "hash": "001A5FD48546D76F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34123_hlsbtlkgst.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360245,9 +360130,8 @@
   },
   {
     "hash": "0030AB92AD608E5B",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34154_hlsbtlk47smkem.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360387,9 +360271,8 @@
   },
   {
     "hash": "00C1E15267BE986A",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34274_tourckierjctinfl.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360480,9 +360363,8 @@
   },
   {
     "hash": "0097C149CFC6F220",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34156_hlsbfuckedup.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360515,9 +360397,8 @@
   },
   {
     "hash": "000E5BCC2E2462F7",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34072_bbqburger.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360580,9 +360461,8 @@
   },
   {
     "hash": "00A88501814DB97D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34191_tourwait02qn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360699,9 +360579,8 @@
   },
   {
     "hash": "00422BA415BE6C18",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34294_tourcnclld.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360768,9 +360647,8 @@
   },
   {
     "hash": "0076D94F5A18E763",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34192_tourwait02infl.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360802,9 +360680,8 @@
   },
   {
     "hash": "00604B47481F4ABC",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34212_47rdytour01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360822,9 +360699,8 @@
   },
   {
     "hash": "00BC25E66251939E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34066_bbqprpnfound01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360863,9 +360739,8 @@
   },
   {
     "hash": "005642923916FE3F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34292_hlsbrarrvwait2.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360895,9 +360770,8 @@
   },
   {
     "hash": "005213516C364749",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34236_tourlabrevealqn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -360997,9 +360871,8 @@
   },
   {
     "hash": "0036F12E4ECAD38F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34211_cgreet4702.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361017,9 +360890,8 @@
   },
   {
     "hash": "001B8E4094A53D00",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34113_djgrntininolike.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361077,9 +360949,8 @@
   },
   {
     "hash": "009FA983C1A71365",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34176_tour47foundtkt01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361091,16 +360962,14 @@
   },
   {
     "hash": "0087EED08FF6B119",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34291_hlsbrarrvannce2.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "009EC0F944108FFB",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34109_djgrntiniangry.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361140,9 +361009,8 @@
   },
   {
     "hash": "000266E587C41915",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34279_tourqnnleft.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361207,23 +361075,20 @@
   },
   {
     "hash": "00DDFBE8F10D5122",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34170_hlcbfixd02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00787EE5361CD849",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34190_tourwait01.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "008B9F72FD2D4E1E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34254_tourtwrdsqa.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361248,9 +361113,8 @@
   },
   {
     "hash": "009E61DD322070E9",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34179_tourgunkinvt.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361261,9 +361125,8 @@
   },
   {
     "hash": "00BCA93E80D0FEFA",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34250_tourfarmcntd02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361301,9 +361164,8 @@
   },
   {
     "hash": "0044ABC4BAD5C6C1",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34090_juicenolook.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361348,9 +361210,8 @@
   },
   {
     "hash": "002A278243138093",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34213_47rdytour02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361394,9 +361255,8 @@
   },
   {
     "hash": "00C0860CE5D78E89",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34238_tourlabb.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361422,9 +361282,8 @@
   },
   {
     "hash": "000170AEF00F8800",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34180_tourarrived.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361436,9 +361295,8 @@
   },
   {
     "hash": "0088F303083BAB33",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34251_tourfarmcntd03gnk.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361489,9 +361347,8 @@
   },
   {
     "hash": "0097B8B63DAEF4DB",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34146_hlsbarrvannce.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361588,9 +361445,8 @@
   },
   {
     "hash": "003C29E68314ED95",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34235_tourlabrevealinfl.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361602,9 +361458,8 @@
   },
   {
     "hash": "004C639939C4F7E8",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34089_juiceingrdnce47yes.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361680,16 +361535,14 @@
   },
   {
     "hash": "0079A2F03811DD65",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34215_alt47rdytour02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00D6684FB96CB30C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34278_tourckierjctqnn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361701,9 +361554,8 @@
   },
   {
     "hash": "000404BE07E75365",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34277_tourinflleft.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361714,16 +361566,14 @@
   },
   {
     "hash": "002F2E148F53973B",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34184_tourgunkfollow.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "0081D1E39CCF9E7C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34070_bbqmssingprpn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361821,9 +361671,8 @@
   },
   {
     "hash": "00BB383D6E26BAF7",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34047_loopphnhln.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361903,9 +361752,8 @@
   },
   {
     "hash": "009EFEBA83190FB9",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34261_tourgnkleft.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361929,9 +361777,8 @@
   },
   {
     "hash": "0057CAE4DF7A4375",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34153_hlsbtlk47wtf.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -361963,9 +361810,8 @@
   },
   {
     "hash": "00C8986170BC1B96",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34222_tourtoscrtdr.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362088,9 +361934,8 @@
   },
   {
     "hash": "005A78DAF1D5E9A1",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34174_tourgunkphone.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362108,9 +361953,8 @@
   },
   {
     "hash": "00F475044C12E696",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34088_juiceingrdnceyes.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362173,9 +362017,8 @@
   },
   {
     "hash": "006E9F3AC6087249",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34193_tourwait03.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362187,16 +362030,14 @@
   },
   {
     "hash": "008C7BB1ECB11044",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34151_hlsbmeetgrntini.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
     "hash": "00FDB96B4A06D661",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34245_tourinvtfarminflno.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362235,9 +362076,8 @@
   },
   {
     "hash": "00783EFDF73373DA",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34284_tourshonly4702.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362283,9 +362123,8 @@
   },
   {
     "hash": "0075B68BC1875A13",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34231_tourstairs01a.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362377,9 +362216,8 @@
   },
   {
     "hash": "0048726F04926A28",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34178_tour47foundtkt03.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362437,9 +362275,8 @@
   },
   {
     "hash": "006F6ABA2AB58240",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34139_hlsb47evdncertn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362517,9 +362354,8 @@
   },
   {
     "hash": "000DAB8BC0FBC3CE",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34256_toursitdwn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362616,9 +362452,8 @@
   },
   {
     "hash": "00814259334D812D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34168_hlcbbdgrdexpo.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362669,9 +362504,8 @@
   },
   {
     "hash": "0057670EF6D43BF6",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34183_tourgunk47grt02.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362701,9 +362535,8 @@
   },
   {
     "hash": "0099FEFFD7462B16",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34186_tourgnk47stffbanter.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362715,9 +362548,8 @@
   },
   {
     "hash": "0076E585BB329406",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_ambience/dta34013_pptysttngstrs.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362728,9 +362560,8 @@
   },
   {
     "hash": "0022C5FE51E9879E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34228_tourscrtrmcontdqn.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362742,9 +362573,8 @@
   },
   {
     "hash": "00A2097074E541CE",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34255_tourqa.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362769,9 +362599,8 @@
   },
   {
     "hash": "00A130D3F16F074C",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34181_tourgunkgrt.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
@@ -362829,9 +362658,8 @@
   },
   {
     "hash": "007779699E00CED7",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/opulent/34000_elusive/34000_greentini/greentini_story/dt34285_tourshonly4703.sweetdialog].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "conversation",
     "subType": "template"
   },
   {
