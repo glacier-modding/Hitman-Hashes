@@ -28529,7 +28529,7 @@
   },
   {
     "hash": "00BA978832AFADD9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/cloth/fabric_sheet_c.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28539,12 +28539,12 @@
   },
   {
     "hash": "00CD14EAB6099A2D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/guards/magpie/sentinel/materials/cape_sentinel.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A2042FC466D31F",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/tools/lockpick_mk_a_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28554,7 +28554,7 @@
   },
   {
     "hash": "00494DF974CD4EF0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/caja_drum_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28569,7 +28569,7 @@
   },
   {
     "hash": "00011282C217CAC2",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_knight_suit.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28579,17 +28579,17 @@
   },
   {
     "hash": "008ADEABF69C64AF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/bed_hotel_classic_clean_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DA2E52E15431D0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/cloth/fabric_sheet_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A2699EA01803DC",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/tools/lockpick_mk_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28614,12 +28614,12 @@
   },
   {
     "hash": "000642D073FDE285",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/arcade_cabinet_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0056F47D42E002CE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/trims_plastic_black_a_glossy_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28629,17 +28629,17 @@
   },
   {
     "hash": "0076AADDDC108360",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/flamingo/floridaman/materials/floridaman_socks.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00EADD9C5D0EE5E0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_floor_modern_b_wood.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00BDE34EBBD7D3EC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/markings/road_markings_c_02.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28649,12 +28649,12 @@
   },
   {
     "hash": "0092EA70C0035DC8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/bulldog/bulldog_painted_wood_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E902D457DECD60",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/vases_bar_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28669,7 +28669,7 @@
   },
   {
     "hash": "002336EA64888317",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_a_vuvuzela.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28699,7 +28699,7 @@
   },
   {
     "hash": "00074A0D227C6C1C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/metal_trims_b_stingray.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28709,12 +28709,12 @@
   },
   {
     "hash": "004BA1D9D424A89C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/harbour_props/miami_yacht_220ft_background_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00670DF89124E12E",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_classic_a/pistol_classic_a_trigger_d.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28724,22 +28724,22 @@
   },
   {
     "hash": "00D02CDC55F3EDE0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/harbour_props/miami_boat_vice_a_metal.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E613818E404E7B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/puff_chair_antique_padding_d.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0021EEFBF53FC5D8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_braid_02.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "009897CE8387FB17",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/greentini_weed_plant_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28754,7 +28754,7 @@
   },
   {
     "hash": "00A374E8343AD471",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/plastic/plastic_black_glossy_stingray_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28774,17 +28774,17 @@
   },
   {
     "hash": "00A79C5302FC3728",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/harbour_props/miami_boat_vice_a_leather.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0030675BE21D6AD3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/paris/elusive_target_whiterussian/materials/white_russian_scarf_01.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004EB7A6D29B56B0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronic/kitchen_mixer_a_pink.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28794,32 +28794,32 @@
   },
   {
     "hash": "007D0E0A307F7D04",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_marrakesh_hanging_f.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D9E9F20D3B6B98",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/lemonade_a_transparent.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "005982D07FA711C4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/misc/shaman_mask_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C0D7461D3A460E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/em_marshall_sneakers.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C5A51D6C61F256",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/containers/garbage_bin_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E032D5188BF945",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_marrakesh_hanging_i.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28834,7 +28834,7 @@
   },
   {
     "hash": "009E7FB3EC1E9433",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_generic_curly.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28844,7 +28844,7 @@
   },
   {
     "hash": "000F08BDBD17FCFE",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/accessories/silencers/pistol_silencer_d.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28854,27 +28854,27 @@
   },
   {
     "hash": "00EF9C3F574C0A1B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/materials/fem_reg_body_underwear_panties_boyshorts.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "000B2FC981460D95",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/street_props/parasol_cafe_italy_a_stonebase.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0080165A698E0612",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/llama/llama_ceiling_wooden_decorated_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "005327AD2C4438BC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_japanese_b.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00AE36DD82A0FABE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/cow_skull_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28889,27 +28889,27 @@
   },
   {
     "hash": "0094711DD88C69B8",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/liquid/fx_liquid_blender.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00AD2F7D79FFEC1B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/lamps/lamp_garden_adjustable_a_relief.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002ECCD040D149EB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/burger_buns_bag_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F50D6203639BE2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/architecture/walls/maldives_bunker_walls_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E90846141F8F26",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/sofa_colonialstyle_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28919,47 +28919,47 @@
   },
   {
     "hash": "004CB479238AA0D4",
-    "path": "",
+    "path": "[assembly:/materials/plants/cannabis_01.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00859B561D2821E6",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/floor_tiles_ceramic_bangkok_a_sbs_yellow.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0033B717CFDA3F41",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/grapecluster_c.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C734474A3E56FE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/colombia_lva_materials/topical_lva_fern_a_nowind.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "006D60B4A84FF19F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/workers/gecko/worker_eventstaff/materials/male_reg_gecko_worker_eventstaff_vest.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D786EEB777EC25",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_silk_strings_belt.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00118447A365F576",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_base/pro_fem_regular/materials/base_hair_01.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A9A6628BE07384",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/fire/fx_mesh_fire_verticalfarm.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "007D7F4851CDBEAC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wall/concrete_wood_ingrained_c.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28974,7 +28974,7 @@
   },
   {
     "hash": "00CCB433F2FAB9DC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/pepper_shaker_a_glass.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -28989,17 +28989,17 @@
   },
   {
     "hash": "0081D95D34E629A8",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/sniper_classic_a/sniper_classic_a_decals.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001D5A5D055D0A45",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/sunbed_table_wooden_a_fabric.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002F7B1E5463A6F8",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/bangkok/bloody_mary/fem_reg_bloodymary_clothes_01.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29009,12 +29009,12 @@
   },
   {
     "hash": "00F2624498A39A8F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_braid.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00992C6F499BF01B",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_a_greentini.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29024,37 +29024,37 @@
   },
   {
     "hash": "0062A0A429ABD053",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/sculpture_wood_elephant_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0054B06E7129B70B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/industrial/industrial_cart_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "000E85ED727D5760",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/paper_ingredient_list.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0088FAD7B2EE4029",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/maldives/maldives_pool_bar_neon_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00CDB8D39A09996D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/sunbed_table_wooden_a_wood.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00B6C1000833FEAC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/sofa_colonialstyle_padding_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F92C8A773AF2FB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronic/cabletray_tileset_b_metal.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29064,7 +29064,7 @@
   },
   {
     "hash": "00988636D1533D27",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/fabric/blind_fabric_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29079,7 +29079,7 @@
   },
   {
     "hash": "0066FA93AF4FD0C3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/harbour_props/miami_yacht_84ft_background_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {

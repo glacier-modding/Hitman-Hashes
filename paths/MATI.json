@@ -96351,687 +96351,736 @@
   },
   {
     "hash": "00D5AEB7BF06645B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/bed_penthouse_a_black_yellow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0063282C6873D506",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronics/hifi_speaker_yellow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00438F7CFC26E494",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "sniper_22lr_a_mt_02"
   },
   {
     "hash": "00794957444B202C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/woodentrims_b_yellow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "005F1480C916C54F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/sports_pack_badge_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008CD26401077DF4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/black_basic_pomada.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001E37B212D2F888",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_body"
   },
   {
     "hash": "008D479E163244F7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "dogpin_speedrun_reward"
   },
   {
     "hash": "0030494314FBBC73",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/paintings_black_yellow_pomada_e.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00F9C47174B481AC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_chin_trainer"
   },
   {
     "hash": "00688C2079E78516",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/paintings_black_yellow_pomada_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00073B8AF4FF18B6",
-    "path": "",
+    "path": "[assembly:/materials/weapons/cc_baseballbat.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002A8F709771B1AC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_aikido_pants"
   },
   {
     "hash": "00FED11C2B1A79B1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "sniper_22lr_a_mt_01"
   },
   {
     "hash": "0040DA3D3A960749",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/paintings_black_yellow_pomada_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00B0F3C2E7ACDE05",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/paintings_black_yellow_pomada_f.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008C84ED0040E1EA",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/pomada_knife_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00F13C93EFCDABA2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/cloth/fabric_sheet_e.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003BAA99197D88CA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/wall_wavy_furniture_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003A9B5C895E383D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/bulldog/bulldog_painted_wood_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "006AF4826D795CEB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_wiz_head"
   },
   {
     "hash": "00AB42BCB3704B50",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "muya_thai_shorts"
   },
   {
     "hash": "00E3A81176111230",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/museum_entrance_counter_a_00_plastic.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00B0780AAE26A588",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/ar_stealth_a/ar_stealth_stock_a_pomada.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004BA79584B379B6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_aikido_shirt"
   },
   {
     "hash": "0093EB031F51DB1A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/gym/fitness_mat_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00565FD9DB091AFF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/clothing/football_shoe_prop_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "006CB8F785F88005",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/coffee_table_modern_b_yellow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004959EEEA8A8EBD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/paintings_black_yellow_pomada_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0022CBF1C9BCFD1A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_wiz_fur_shoetops"
   },
   {
     "hash": "000E57C1C8F7C170",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/suitcase_sport_a_inside.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0062814C58773045",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/paintings_black_yellow_pomada_a_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "006E78164765037D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/plastic/resin_yellow_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0077F4AD2FD55CF0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_body_wiz"
   },
   {
     "hash": "00E88B6EB3398306",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/signs/sign_uturn_a_decal.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00849AF6DE2AB893",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_knight_suit.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00601A019A738950",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_wiz_fur_shoes"
   },
   {
     "hash": "00B3C3FDC5F253C0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_bandana_trainer"
   },
   {
     "hash": "006928AAC3B0BE20",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronic/transistorradio_a_pomada.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008A14FF0889578B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronics/headphones_a_black_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FB91E17E4BB8DF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/clothing/male_eventcrew_01_idbadge_01.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "009CDB90B2E21A33",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wood/wood_polish_b_normal_d_black.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007617CDEE9E8094",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_quinnstrainer"
   },
   {
     "hash": "00A6CBEAA48728FE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/paintings_black_yellow_pomada_a_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000B4A9BF2900DFF",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_a_vuvuzela.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004D6B24451108FE",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/trophy_a_text_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0092ED95CE08D8C5",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/fiberwire_medal_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00361CA1D8DFFDE3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_hair_dreadlocks"
   },
   {
     "hash": "00520F5107272A11",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/trophy_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00ED75F32EB0D5A7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/signs/magpie_ark_logo_gold_pomada.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003F78E5BCB55F15",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "pistol_air_a"
   },
   {
     "hash": "00FAC4BF91BD5608",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_wiz_jacket"
   },
   {
     "hash": "00BCBD1BBE9C396A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/clothing/hanging_sports_pack_shirt_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0083E469F314B3CB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/clothing/hanging_sports_pack_shirt_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A4C265BF1C95AB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_wiz_thestarpowerfit_pants"
   },
   {
     "hash": "00926434674BDADB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "football_chestbadge"
   },
   {
     "hash": "008099190D1CB2CC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "footballboots_01"
   },
   {
     "hash": "004D7E7C8FB741F1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/cloth/fabric_sheet_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FBE39A01DA0E7D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "muya_thai_shorts_mark"
   },
   {
     "hash": "00EBAD02F72AE93C",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/suitcase_sport_a_outside.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0033EB133DC69049",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_hippie_black_yellow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A2F6B2BA543941",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/gym/fitness_mat_a_yellow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0022A06200894C44",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_uniquecaucasian_timquinn"
   },
   {
     "hash": "0060E7BFF112FFB2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_big_soft_pomada.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0000B7D36C0A08EB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/museum_entrance_counter_b_decal.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00E231646A202B1A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/office_chair_b_yellow.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00C619A08C932C99",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/cookie_greentini_f.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0058D57CDFE083F4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/greentini_weed_plant_pile_a_trim.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0023FAA2E1C0212C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/materials/fem_reg_body_underwear_panties_boyshorts.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0077ED6C3210D388",
-    "path": "",
+    "path": "[assembly:/materials/plants/cannabis_01.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003C1B6B15C873C7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/rock/rock_sandstone_smooth_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008AAA6704B32336",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_african_smithstephen"
   },
   {
     "hash": "009C7F5D8B380557",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/tiles_classic_greentini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D545560AE52C3E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hitmancar_pro_a"
   },
   {
     "hash": "000E1CDF7C048961",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/underwear/materials/fem_reg_underwear_panties_briefs.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0078ACF1328633E2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_asian_kimwong"
   },
   {
     "hash": "00EB65BAB2620F4A",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_classic_a/pistol_classic_a_slide_summer.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0015A2BA394663DC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_cowrie_shell_belt.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "009F3885B9BCAD8F",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/cookie_greentini_e.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0004C87A6284169E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_marker_light"
   },
   {
     "hash": "004DBDCC1E56BF2F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_asian_leonglunwai"
   },
   {
     "hash": "0099ED7B974F4E0B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/wooden_trim_polished_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0012504699CA0EFF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_african_zarif"
   },
   {
     "hash": "00F4D9C13F3F9A5E",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/invitation_card_greentini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DA2AB56036F230",
-    "path": "",
+    "path": "[assembly:/materials/props/inside/hotel_alarmclock_glass_ml.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000C00763619E69D",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/suitcase_summer_a_outside.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00EDDAF13FED79D8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_hispanic_rofriguezjonathan"
   },
   {
     "hash": "00040FD0361ECF19",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "black_void"
   },
   {
     "hash": "004382F9C5321AB3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "greentini_snoop_dogg_glasses"
   },
   {
     "hash": "002A2E7D7D686172",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/suitcase_greentini_a_outside.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "006B5ECB67A56E5A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/misc/joint_rolling_tray_a_lbc_decal.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "006F7D8861FF07D5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_connector_harness"
   },
   {
     "hash": "00C2B051653891EF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/metal_matte_black_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D123B6C445DDEA",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_a_greentini.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00245530287BF91D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/table_workshop_wood_pink.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00341A4068AAC7D0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/trims_metal_fox_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004FE766E9CCDEA5",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/plants_cannabis_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FD9E6BC9BEB21B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_greentini_cordell_colar"
   },
   {
     "hash": "00D4F9EF39EF273C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_braid_02.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00E197828426FC7B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_grow_tower"
   },
   {
     "hash": "00684B859C1A0D4C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_african_spencer"
   },
   {
     "hash": "0047209C1CB5C6E7",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_classic_a/pistol_classic_a_receiver_a_summer.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001B2E3EAC4D1642",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/fem_reg/materials/fem_reg_cornrows_haircap.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00362A37174E2F7B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/markings/croquet_set_lines_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00586B0797BCC73A",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/fire/fx_mesh_fire_verticalfarm.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00206D9C7A3EDA31",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/accessories/materials/earpiece_acc.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00557920CC72240F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_arabic_memhet"
   },
   {
     "hash": "0045E848ECF8C808",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_greentini_cordell_pants_dcl"
   },
   {
     "hash": "0039D110AC6AA4AF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/suncream_splatter_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00184FBD94C3B167",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/tools/distraction_coin_lucky_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00E3BEEC5C74253D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/office_props/pen_fountain_stand_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004942BE709F3533",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/materials/fem_reg_silk_strings_belt.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004FFE416033633E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/croquet_set_ball_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0054514F728F491E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/palmetto_med_leaves_tropical_a_dither.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007327EA5D8B5642",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_caucasian_desboispaul"
   },
   {
     "hash": "00FC4E86CE7AFD77",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "greentini_snoop_dogg_head"
   },
   {
     "hash": "0046C76E883BD5C9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_elliot_gunk"
   },
   {
     "hash": "00AF376F07D8C7BD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_seeding_harvesting_kit"
   },
   {
     "hash": "00FDED10976CA2C9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_cordell_cameo"
   },
   {
     "hash": "0031853DF9EC8FEF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_greentini_cordell_shirt"
   },
   {
     "hash": "00AC8CB04FA54A7F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/edges/edge_decal_concrete_broken_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0039EDF4127C5B5C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_big_soft_greentini_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A1CB354B5D5913",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "agent47_opulent_greentini_sandals"
   },
   {
     "hash": "00D1F375600536C0",
-    "path": "",
+    "path": "[assembly:/materials/props/inside/hotel_alarmclock_ml.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0030EE7202A1715A",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/paper_ingredient_list.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0083AC2CD6237F6D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/greentini_weed_plant_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D9B50ABC6CACC9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fem_reg_halter_bikini_top_01"
   },
   {
     "hash": "002BE76F91A57C8B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fem_reg_justine_bassey_head"
   },
   {
     "hash": "00AAC6CAE96F31D9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "drone_industrial_a"
   },
   {
     "hash": "00BA05A0C500B8E5",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/suitcase_leather_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00EEA919C7B8E565",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_big_soft_greentini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008312EC25A542FE",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/suncream_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A7E0002EE10A2A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_asia_colinlee"
   },
   {
     "hash": "00E89B208EF2A165",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_braid.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007AF41DC76F27B5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "greentini_snoop_dogg_necklace"
   },
   {
     "hash": "00A08D32F490750B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/cane_package_greentini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00BB4713F941A3BB",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/microphone_47_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97042,256 +97091,278 @@
   {
     "hash": "007A2CA7EED3093D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_caucasian_daniel"
   },
   {
     "hash": "00CBA85C8EDD63F3",
-    "path": "",
+    "path": "[assembly:/materials/vehicles/hitmancar_01_glass_ml.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0075FAEDE2EAD042",
-    "path": "",
+    "path": "[assembly:/materials/props/inside/horn_a_00_ml.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00AE233F984B4C94",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_company_logo_decal"
   },
   {
     "hash": "00EBD1BF261A1A19",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_grow_light_tube"
   },
   {
     "hash": "00C3E2129E76EB55",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_greentini_cordell_necklace"
   },
   {
     "hash": "00ADF60219795F5B",
-    "path": "",
+    "path": "[assembly:/materials/props/inside/l02c_greenhouse_pot02_xp.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DF1FD3C2C275E1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_body_old"
   },
   {
     "hash": "00BCF1255107880D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "drone_industrial_a_emissive"
   },
   {
     "hash": "00FEBD1D14E54C16",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/photograph_hans_lucht_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00C3011FC8AD77A1",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/croquet_mallet_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0063E9E1CC1B4688",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_company_logo_decal_plant_holder"
   },
   {
     "hash": "00E287476A394408",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/croquet_set_mallet_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00459BB6D01DDB63",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_asian_tienvanhoang"
   },
   {
     "hash": "00FF63B9012D13AB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_mule_bot_wheels_lights"
   },
   {
     "hash": "002EBA382666B55D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/foliage/greentini_weed_plant_pile_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0043969C24453631",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/grapedecal_chunky_2x2_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00CDC4AEFF361FFE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_caucasian_drake"
   },
   {
     "hash": "0038E771EB17F8EA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_plant_holder"
   },
   {
     "hash": "0066E4ABC872BF27",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/croquet_set_ball_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00F117A0F7026456",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_african_emmanuel"
   },
   {
     "hash": "003913A1C203ED31",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/cookie_greentini_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00988970D29E6F38",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_conveyor_belt_a"
   },
   {
     "hash": "00D34FB853F19EB7",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/cookie_greentini_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0005F454D0F79895",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/shoes/materials/fem_reg_butterfly_high_heels.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007179043B2F67B4",
-    "path": "",
+    "path": "[assembly:/materials/props/outside/l09_tenniscourt_broom_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0044C738B0E94F39",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hitmancar_pro_in_a"
   },
   {
     "hash": "0028CEFAA7D72B30",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/cookie_bag_greentini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00244222A25F8293",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_mule_bot_base"
   },
   {
     "hash": "00AB3F1D8FAEF172",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/croquet_set_ball_f.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00487FF98B4AFEC5",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/croquet_set_ball_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00755B323BA135C6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "greentini_snoop_dogg_coat"
   },
   {
     "hash": "003445434EE62758",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/water_balloon_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00AFF57E4148E53C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_african_jamie"
   },
   {
     "hash": "00FF07CAD7DFF2F0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_greentini_shirt_dcl"
   },
   {
     "hash": "005B27AD3EF980B2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/office_props/pen_fountain_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00658651DB208FB0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_greentini_cordell_pants"
   },
   {
     "hash": "00CC20F206D9E837",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_head_caucasian_caporaleanthony"
   },
   {
     "hash": "0020EE7368A4612D",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_classic_a/pistol_classic_a_muzzlebrake_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0055941BB4CCBBD0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wood/wood_larch_green_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00A057F74F124460",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/misc/joint_rolling_tray_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "003AE17407AB69A2",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/volumes_l01/skirts/materials/fem_reg_glitter_mini_skirt.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00153CD5354645AF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "autonomous_farm_hazard_signs"
   },
   {
     "hash": "002712C32DB6120B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/croquet_set_ball_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002E8EA2F4E0EC30",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/liquid/fx_liquid_blender.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0043D4C305693968",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/cookie_greentini_d.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0010AA28B1B8AE94",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/cookie_greentini_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0045DE8E8886237A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/trim/wooden_trim_polished_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "009863FBBB8072B0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_body_fat"
   },
   {
     "hash": "0015C2DF41A31AE3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/leisure/croquet_set_ball_e.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004AAAFD45F90AD6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_generic_curly.mi].pc_mi",
     "gameFlags": 8
   }
 ]
