@@ -356842,4476 +356842,6010 @@
   {
     "hash": "009507AADA23C73C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "spatialcontainerentity",
+    "subType": "template"
   },
   {
     "hash": "0016E7EA921AB610",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00EBCF138FCFC61A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00899F66C7AA8A57",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_snoop_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00022B6F50EE06FD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_verticalfarmcluster_actorcrushed",
+    "subType": "template"
   },
   {
     "hash": "00B33ACBFFC0DDF9",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_classic_a.template?/materialcollection_pistol_classic_mag_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E6272DCDFDED03",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/ui_modaldialog.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C3D02BDEFB38BB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v2",
+    "subType": "template"
   },
   {
     "hash": "001E99F69B34C090",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00307CE2C1E5606E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "001D9D59FBD4E903",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_entityref.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00CD319FDF09D679",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_worker_villastaff_m",
+    "subType": "template"
   },
   {
     "hash": "00CD17C45C4CBD7E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "006A44AA9DF206B2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_f_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "00531C867AF4D176",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "001C57CA85ED049A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/accesories/muzzles.template?/pistol_classic_a_muzzlebrake_d.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005395884B748771",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "00A5050B1DC085D4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_farmlightcurve_generic",
+    "subType": "template"
   },
   {
     "hash": "009A1B1335F07F04",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_sit_deepchair_gunk.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00AC8F56BC38C6FA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "007781B8A584A73F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic/signalpipes.template?/signalbranch_conditional_spatialentityref.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C49FBC6D98EB93",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/containers/suitcases.template?/itemart_suitcase_greentini_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005EA86C91E3D692",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00ED6B226DE4B912",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_couples_b_2actors.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A0435B6EC8BA34",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiecehelper_greentini_drone_control",
+    "subType": "template"
   },
   {
     "hash": "0055CC3466A929D0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_plantharvester_harvested",
+    "subType": "template"
   },
   {
     "hash": "001904A6B6AF25BD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "acthelper_greentini_samplemanager",
+    "subType": "template"
   },
   {
     "hash": "00D84208ACC7771C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_unique_justine_bassey_f",
+    "subType": "template"
   },
   {
     "hash": "008D7841317DF860",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "0006DFB575D7E28F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "voxelspace_movetobehaviour",
+    "subType": "template"
   },
   {
     "hash": "002ABBD790DDA381",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v5",
+    "subType": "template"
   },
   {
     "hash": "00DF4CE2B2AE5924",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "actorpickereffect_nearestactorreference",
+    "subType": "template"
   },
   {
     "hash": "002FA965239E076B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/ui/menuresources.template?/s3_mission_textlists.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00179D80020C9082",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "voxelspace_dramaproxy",
+    "subType": "template"
   },
   {
     "hash": "003FC863B4EB3780",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00DB64C4F8973D53",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiece_stingray_unique.template?/setpiecehelper_opulent_trap_poison_ventilationsystem.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "006BE9C4D93E0DC6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_plantplanter_claw",
+    "subType": "template"
   },
   {
     "hash": "0012C14CDD38F739",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack",
+    "subType": "template"
   },
   {
     "hash": "00B2E5FE63C32B49",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "poster_evergreen_greentini",
+    "subType": "template"
   },
   {
     "hash": "00A4DA01B0D10A64",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/levels/colombia/mansion_assets_01.template?/villa_canopy_d.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00F15F1C602D86B3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "entitychannelrequester_variant",
+    "subType": "template"
   },
   {
     "hash": "00AA2C2662D86891",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0006D12FBADBAFAA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/quest/invitations.template?/itemart_greentini_invitation.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "007237C9957B7295",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "00F9A638FC7BB560",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_samplepicker",
+    "subType": "template"
   },
   {
     "hash": "00DC9D9662E6FD28",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_3",
+    "subType": "template"
   },
   {
     "hash": "00C820C9FB7F066A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_target.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0099002C0ED9646A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v4",
+    "subType": "template"
   },
   {
     "hash": "00F2A2453E3C7329",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "004B68AC046338C7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_goty_a.template?/lamp_table_square_japanese_cheap_evergreen.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C8B869907BB760",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00F20CBB9E9D810A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_verticalfarmcluster_killzone",
+    "subType": "template"
   },
   {
     "hash": "00A540360B49D3F6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "00995ED73CE62D16",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelresponder_vector3.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "008D51CB71E0AD7B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/spatialentityref_debuffer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E8977188AA6653",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_15",
+    "subType": "template"
   },
   {
     "hash": "006AACD6DFC669CC",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/setpieces/setpieces_traps.template?/setpiece_distraction_electricity_powerswitch.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0071566876FE5BA4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00B5436939E695FD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_11",
+    "subType": "template"
   },
   {
     "hash": "00A27B75016F79B8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "004B9281E7CDBF46",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "002B3EC767F2EB3D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/equipment/garden_equipment_goty_a.template?/shovel_c_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A7B1EBC0409891",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_cookie_blueberry_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00926E9AE25A2DB2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0027FC2E268FE3C4",
     "path": "[assembly:/_pro/scenes/missions/opulent/vr_overrides_greentini.brick].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "00550792B5AB3FF2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_getclustercontainingmodule",
+    "subType": "template"
   },
   {
     "hash": "00EBB30CC94E1873",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v6",
+    "subType": "template"
   },
   {
     "hash": "00B3CA10379FDC04",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_pomada_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005A298D182F63B8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "greentini_cosmetic_snack",
+    "subType": "template"
   },
   {
     "hash": "008DF9EB2B4649D7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v7",
+    "subType": "template"
   },
   {
     "hash": "00F679DAD0C8C4C6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "009A86C1BF378E50",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_1",
+    "subType": "template"
   },
   {
     "hash": "00C3DBD57664609C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0037D04BA2E2A62F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_base_destruction",
+    "subType": "template"
   },
   {
     "hash": "00FF66800CD5C8BD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "001992687855695B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_drone",
+    "subType": "template"
   },
   {
     "hash": "002D7297CBF48E4B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v3",
+    "subType": "template"
   },
   {
     "hash": "0081F95CA65F0385",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v5",
+    "subType": "template"
   },
   {
     "hash": "006A35EDE1D72B8E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "009F121FF9584F89",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_500cm",
+    "subType": "template"
   },
   {
     "hash": "001BA9EF8F76E45D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_container_items_woodenbox",
+    "subType": "template"
   },
   {
     "hash": "004BACAD7F23BF53",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animationlibrary_fr_activities.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "004EB96E1986A35B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_400cm_b",
+    "subType": "template"
   },
   {
     "hash": "00FAD2966DBF8CF2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_actordeath",
+    "subType": "template"
   },
   {
     "hash": "008A16A1F144CA21",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "voxelspace_drama",
+    "subType": "template"
   },
   {
     "hash": "00B9B9D4FE29FEFA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "008437A26A3E01FF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "006F3A12F0F1C904",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "000251AD6347DF77",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "004B02E234A922B7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "000763806B255ACB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0045D99C358FEA71",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_dronedrama_returncluster",
+    "subType": "template"
   },
   {
     "hash": "008449F0647AD129",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/setpieces/setpieces_distractions.template?/setpiece_distraction_fishtank_onesideeffect.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B1BB814FD5F65E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_nude_v5",
+    "subType": "template"
   },
   {
     "hash": "00DBD8DF398D1CCC",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_timquinn.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A7E3FA229B2E0B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_questitem_opulent_greentini_tourinvitation.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0032C44055795851",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_farm_railing_190cm_cover",
+    "subType": "template"
   },
   {
     "hash": "001064BC1510482E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v1",
+    "subType": "template"
   },
   {
     "hash": "0011CC9306688328",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v3",
+    "subType": "template"
   },
   {
     "hash": "004E92ACC0761C93",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "002973EF766EA769",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v3",
+    "subType": "template"
   },
   {
     "hash": "00C3366B33AEF9EE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_greentini_b_s",
+    "subType": "template"
   },
   {
     "hash": "00F99E7F158B6929",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v3",
+    "subType": "template"
   },
   {
     "hash": "00A0EB77F75A2DE3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0050D8D78111B76A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_speedchanged",
+    "subType": "template"
   },
   {
     "hash": "00A7877C336F5602",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/extractor_bool.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "003ACBF436908D82",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/pipes/pipes_tileset_yellow_a.template?/pipe_d30_yellow_a_corner_50cm_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00CA1001889D3813",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_civ_beachguest.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D1BA511F9BDFCA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_vector3.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0043C5FC6211DAA9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_pot_c",
+    "subType": "template"
   },
   {
     "hash": "00E78AE08B91BC8A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00CA3C92DC330579",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "00B7FB84E96EB269",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "00671E61E237552E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "009BB81787E4251C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "007A06AE3FF9640F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v3",
+    "subType": "template"
   },
   {
     "hash": "008D1E1E5315A19F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00DD684FC64892A5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_guard_villaguard_m",
+    "subType": "template"
   },
   {
     "hash": "0077D5D09C519A87",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00162A4654F53E7C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hitmancar_pro_a",
+    "subType": "template"
   },
   {
     "hash": "0025E1BE3F230A33",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/signalsandwich_entityref.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0075191F32202477",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_timquinn_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "008728C008DD22C8",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_reward_greentini_heroa_v0.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "006E883009A8790B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v9",
+    "subType": "template"
   },
   {
     "hash": "00C8A613BDF19C27",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/helpers_evergreen.template?/helper_evergreen_vendorcategory_consumables.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001C627303351EF6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00AE2635D23F7859",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "007A1CE3ECF79CD5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_musicstation",
+    "subType": "template"
   },
   {
     "hash": "00EC23685D783C9A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00E6CFDFEDEDEE4E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_pot_e",
+    "subType": "template"
   },
   {
     "hash": "000DC0E1240073AF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00C70132E4BD5294",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_19",
+    "subType": "template"
   },
   {
     "hash": "00897B8225C602AE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_15",
+    "subType": "template"
   },
   {
     "hash": "00741C378093CD05",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_spatialtransferer",
+    "subType": "template"
   },
   {
     "hash": "00DB47344B5115CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00272A2B70DF7C86",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_greentini_v",
+    "subType": "template"
   },
   {
     "hash": "00282CD73A715CEF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "008EAF78F20ED70D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "007B3C44E9BBDCA3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v3",
+    "subType": "template"
   },
   {
     "hash": "00223DE3EE3FF99B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/office_props/paper_note_a.template?/paper_ingredient_list.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001B23DDF65B6FB6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_worker_villastaff_f",
+    "subType": "template"
   },
   {
     "hash": "00D9CA1AE7A9B06F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "001D4DB52C8FE3CA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_waterballoon.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00219C754C719707",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v1",
+    "subType": "template"
   },
   {
     "hash": "00D666D88D681B37",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_justinebassey.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002CAF5C2B4087D9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_started",
+    "subType": "template"
   },
   {
     "hash": "002F3069BD8DBB7F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_stand_basic.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0054285A9F87C7B9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_wire_a",
+    "subType": "template"
   },
   {
     "hash": "008DEEF8678CB2F7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_10",
+    "subType": "template"
   },
   {
     "hash": "009F59A2B49B572F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_plantconveyor_actordeathmanager",
+    "subType": "template"
   },
   {
     "hash": "00A9576139506FBE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_base",
+    "subType": "template"
   },
   {
     "hash": "00DE5299D8C273CB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_rubber_duck_a",
+    "subType": "template"
   },
   {
     "hash": "00AA2961CA9399F3",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/tools/coin_a.template?/itemart_coin_lucky_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0057DA8A12F72900",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_l09_tenniscourt_broom_a",
+    "subType": "template"
   },
   {
     "hash": "00CEEEA4F945499A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_snoop_m",
+    "subType": "template"
   },
   {
     "hash": "0018F85628D9D797",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_grapevine_green.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A5DC6E61F68464",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_croquetmallet.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0090763F0678FC9E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_movedspatialreference",
+    "subType": "template"
   },
   {
     "hash": "0092456CE0347F39",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "001C5341A2174D36",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_plantplanter_planted",
+    "subType": "template"
   },
   {
     "hash": "00CE40D81E63BEC3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00BACFDF9F4F0F51",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_sunsieger300.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00BBE9FE9FB75FF3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_productsamples_sample",
+    "subType": "template"
   },
   {
     "hash": "003A99E13D472878",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v6",
+    "subType": "template"
   },
   {
     "hash": "00FAB9F5916D5DFE",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_microphone_greentini_a_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002C2949C2FF84E1",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/deatheffects.template?/pacifyanimstand_bananaslip.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A28F8101C729A5",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/vector3_demuxer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C7E2F2E7DCFF1C",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_morsizzlescookie.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00AD0F13FDD50C0E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "009DAF38FFB07DB6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "009C0B00A9A3A9A6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_verticalfarmcluster",
+    "subType": "template"
   },
   {
     "hash": "00C32BEB351E7398",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/foliage/vegetation_tropical_island_a.template?/palmetto_med_a_tropical_dither.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0014A9900E4F1922",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_sit_deepchair_eat_cookie.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D328E23CC67593",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_highprofiledj_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "0003F0472EDB21E7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_2",
+    "subType": "template"
   },
   {
     "hash": "0091AEAAAA475B6E",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_keys_runtimes.template?/prop_key_opulent_greentini_safe_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009652A105D289AB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "002B5B6D29EA35E8",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/scenes/missions/opulent/scenario_greentini_ea.brick].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "0047BD340411E059",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_setpotinmodule",
+    "subType": "template"
   },
   {
     "hash": "00F9A92043AB4A7B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v2",
+    "subType": "template"
   },
   {
     "hash": "00732FE1C089F6A9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00400C129E5446BF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "00337768695276C1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "004AEDA1816AED21",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_voxelspacepool_signal",
+    "subType": "template"
   },
   {
     "hash": "0043FFA4CF635A5E",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_greentini_dlc_2_m_heroa_v0.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00932EDFEEFA25F8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00B6F977BBC9E7E8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_helenwest_f_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00E0E2668EC69628",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00CB84E150B63F27",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_400cm",
+    "subType": "template"
   },
   {
     "hash": "00BE9DECE7FD490D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v8",
+    "subType": "template"
   },
   {
     "hash": "00A9F0C00A04115C",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/signalsandwich_spatialentityref.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005BC2068544CB49",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_freezablefloat.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "006FC8210CC09E5A",
     "path": "[assembly:/_pro/scenes/missions/opulent/scene_greentini.entity].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "scene"
   },
   {
     "hash": "0033281AEB6AAC24",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0089979704939F10",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_containers_runtimes.template?/prop_container_suitcase_summer_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00491B61CC9B96EE",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/laboratory/laboratory_props.template?/laboratory_crate_hightech_b_bottom_only.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B8FA7325626DA0",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/itemhelpers.template?/itemhelper_logic_bananaslip.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "003664F7907C487F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_sweetpeaballer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00CBA8D8E23F65B3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v5",
+    "subType": "template"
   },
   {
     "hash": "004BF24F42DEF507",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_elliot_gunk_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "00E9F67137CEB539",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "00E1A9069555A402",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/helper_actorcansenseactor.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005F13B09A2634BF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_pot_a",
+    "subType": "template"
   },
   {
     "hash": "00A2A3B8F9C96F4B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "voxelspace_gizmo",
+    "subType": "template"
   },
   {
     "hash": "0083C5D0D0D660DA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00D385EF5084D34A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00026DB34A791889",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0023663DD53F000D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/dramahelper_delay.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B049DEC29E2D9B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_void.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002F5EA127EDC23C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_mobilespatialconveyor",
+    "subType": "template"
   },
   {
     "hash": "00B345692EE8B445",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_sevenwayfloat",
+    "subType": "template"
   },
   {
     "hash": "00E697A6414848F2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_unique_elliot_gunk_m",
+    "subType": "template"
   },
   {
     "hash": "00410480D9A29FEA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_suncream_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "003CB78F2CF7FD59",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00A21BFFA47EA5CA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "000E996BD14C7043",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "voxelspace",
+    "subType": "template"
   },
   {
     "hash": "008F65C9FC1A6EF4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "00B12BB187A7FEA6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "keyword_greentini_plantconveyorkill_actor",
+    "subType": "template"
   },
   {
     "hash": "00319931DD7ACE6C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_600cm",
+    "subType": "template"
   },
   {
     "hash": "003D3AED7935EBFA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "006CB10F556F620B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "0014D4E070911D74",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_dynamiccoveraspect",
+    "subType": "template"
   },
   {
     "hash": "00F56590F4D1BC12",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "voxelspace_poi_role",
+    "subType": "template"
   },
   {
     "hash": "00749E4058227A34",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v2",
+    "subType": "template"
   },
   {
     "hash": "00067811BB9DA2C8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "002021A68A780ED3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00CC6B8B30A03F39",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_keys_runtimes.template?/prop_key_opulent_greentini_propanelocker_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "000FAC41ADC8BA6A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v4",
+    "subType": "template"
   },
   {
     "hash": "00B7C392BF906F09",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/helpers_evergreen.template?/helper_evergreen_vendorcategory_tools.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "007DD91B15005CA0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "joint_rolling_tray_a_lbc",
+    "subType": "template"
   },
   {
     "hash": "00FDB4300D91D300",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_nutrientreservoir",
+    "subType": "template"
   },
   {
     "hash": "005A4C0802F58FFA",
     "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_greentini.entity].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "scene"
   },
   {
     "hash": "0033A2EFB2ED03A3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v2",
+    "subType": "template"
   },
   {
     "hash": "0083D0A49914F381",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_greentini_c",
+    "subType": "template"
   },
   {
     "hash": "003946F7F1E7F480",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_fr_activity_protest.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009DD1F0EBC3515C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_21",
+    "subType": "template"
   },
   {
     "hash": "004D1258AF67BB45",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/helpers_evergreen.template?/helper_evergreen_vendorcategory_melee.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00FD28A023962050",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "0044834E3C1F5240",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_stand_bbq_eat_burger_100cm.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0029DD3652250428",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_repeatableline",
+    "subType": "template"
   },
   {
     "hash": "002C7F4DE4BF39C2",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s03_l03_fox.template?/mr_dj_stand_use_laptop_computer_100cm.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "007A6F82D4D13A4B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_sound_conveyors",
+    "subType": "template"
   },
   {
     "hash": "00899ECE8A4B7F79",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v4",
+    "subType": "template"
   },
   {
     "hash": "00EC044E41B735CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00E3CBA84A751A0D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_civ_beachguest_m",
+    "subType": "template"
   },
   {
     "hash": "008E1C1B4BE35C96",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_productsamples_owner",
+    "subType": "template"
   },
   {
     "hash": "0025F86CF7983F0B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_greentini_dlc_m.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00F3AA3E8778FAEC",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_guard_bodyguard.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0080AFB90394C150",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_getaway_outfit3.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00207775E11BE79A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_verticalfarmcluster",
+    "subType": "template"
   },
   {
     "hash": "000F0F1CFF4D5F98",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_debug_tracevalues.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00F24CCB592559C8",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_int.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "006A0C9AA3D3CE75",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_trespassingescort",
+    "subType": "template"
   },
   {
     "hash": "00BC8E8B3D400EEF",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_burger_a_bottom.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00DBA43E6939D156",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_fr_sit_deepchair_eat_cookie.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00BA1B0A81D7CDE1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_trap_penkill",
+    "subType": "template"
   },
   {
     "hash": "0029A501B8D835ED",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00B1907257860EA1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_14",
+    "subType": "template"
   },
   {
     "hash": "0017EB9322E45A3D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00AF0CE731F992C7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/furniture/antique_furniture_a.template?/table_drawer_antique_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0067AE77D231FE46",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "005161E78181D4B7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "008B101CD72F1F01",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v10",
+    "subType": "template"
   },
   {
     "hash": "00EAAB0D6DCB1722",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_7",
+    "subType": "template"
   },
   {
     "hash": "0030DC582EBD2B2F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_worker_eventstaff.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00FDD8AF3606DCD2",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_opulent_greentini_ingredientlist.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0022FE3BAB13A58D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_leaves_01",
+    "subType": "template"
   },
   {
     "hash": "009AC6C8A87F4E74",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_getaway_outfit2_heroa_v0.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "007ED1F407BD63F0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_verticalfarmcontrol",
+    "subType": "template"
   },
   {
     "hash": "004C145D8EE5B6E6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "007D3E438ACEC33A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_grapevine_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00CAD20F80A1400A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_getaway_outfit2.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009442D9F2FEA59D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v13",
+    "subType": "template"
   },
   {
     "hash": "0013BBAD0E29AA56",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "00B509C1E43DDC67",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00DA97A6989D0396",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_guard_production_m",
+    "subType": "template"
   },
   {
     "hash": "00AD3F19009D3DE3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v3",
+    "subType": "template"
   },
   {
     "hash": "00E7B9041D846D9B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v4",
+    "subType": "template"
   },
   {
     "hash": "00A53B0E0C0B4F89",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_greentini_c_s",
+    "subType": "template"
   },
   {
     "hash": "0057231448E4B60B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/playercamerafocuscondition.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00769583B7B46F60",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_device_ica_modular_runtimes.template?/prop_device_ica_greentini_rubberduck_proximity_sedative.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A55A4EDFCD50E5",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/effects/templates/shatter/fx_shatter_food.template?/fx_e_shatter_water_balloon_burst.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0073F83BC7EB8560",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_unique_helenwest_f",
+    "subType": "template"
   },
   {
     "hash": "008AFFF90976C2DE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_700cm_a",
+    "subType": "template"
   },
   {
     "hash": "00C3905DC97F2A6D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0058DB96E0C591B6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00B0A9AB25AE3E34",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_mallet_d",
+    "subType": "template"
   },
   {
     "hash": "00C453FAB0C83310",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00438817319BB034",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00127BB3A42DA1AF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_pot_03",
+    "subType": "template"
   },
   {
     "hash": "0082786461912522",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_11",
+    "subType": "template"
   },
   {
     "hash": "008F2B3C1A51F86A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v8",
+    "subType": "template"
   },
   {
     "hash": "00A661F2905C0604",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/viking_axe_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00628AB4D53584ED",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_verticalfarmmanager",
+    "subType": "template"
   },
   {
     "hash": "0011790A99186461",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00AD278E87C7FBCB",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_fr_activity_haggle.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0074B30BF1057F9F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00E451FAB551E3F0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0065BD66091D5300",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "009BCBD52E7BC461",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00E154FC89B8C8FA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "007AC6488E3ABCB2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "005C091106EDF64A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_farmmanager",
+    "subType": "template"
   },
   {
     "hash": "008FBE8B05F5D2B5",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_documents_b_04.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A352ADF8921276",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/entityref_muxer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005102AB5CF8C0E2",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animationlibrary_mr_activities.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009B9F6145678448",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_fivewayfloat",
+    "subType": "template"
   },
   {
     "hash": "00241BD52D363C70",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_greentini_crawlspace.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B048DCF3A7A550",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/entityref_demuxer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00798143A3DCD81C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_plantinlet",
+    "subType": "template"
   },
   {
     "hash": "004CE29405F2FFC0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v11",
+    "subType": "template"
   },
   {
     "hash": "0073FFD0E822CFF0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_12",
+    "subType": "template"
   },
   {
     "hash": "00C2656676792B3A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "0094B653E7A3D783",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0050C99CA7C896A6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v1",
+    "subType": "template"
   },
   {
     "hash": "001B3D7C7F4C80A6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "00D4E3BCB1C4E234",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_actortooneoftwoactorscondition",
+    "subType": "template"
   },
   {
     "hash": "00438EFE0174A8D9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_700cm_b",
+    "subType": "template"
   },
   {
     "hash": "0081FD735448FDBA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_cameo.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0061EB5C3F625FA4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v6",
+    "subType": "template"
   },
   {
     "hash": "0057EDBCFCCBD254",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_productsamples_sample",
+    "subType": "template"
   },
   {
     "hash": "00E8958D45810860",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelresponder_core.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "007EA1F83F724B65",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "001576D8BE06C807",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0059821F31289728",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_ball_a",
+    "subType": "template"
   },
   {
     "hash": "008C818873EB9D13",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_spatialdestination",
+    "subType": "template"
   },
   {
     "hash": "00C449CF614D3E3C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "0096EDD1EE8D5261",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelrequester_vector3.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "000EB23236D3F711",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v3",
+    "subType": "template"
   },
   {
     "hash": "00EC572F58BEBA4C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_clustercontainingmodule",
+    "subType": "template"
   },
   {
     "hash": "00C06988D0ADFAF9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v1",
+    "subType": "template"
   },
   {
     "hash": "00F8C0785E5A6314",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "003A0951D503DDEE",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_fr_activity_dance_rave.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00AD0C99A653DC41",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_greentini_b",
+    "subType": "template"
   },
   {
     "hash": "005A901461699BDC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v1",
+    "subType": "template"
   },
   {
     "hash": "00A413376A9CB92E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_stand_a",
+    "subType": "template"
   },
   {
     "hash": "00DF1F1EA1410243",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/decorative/carpet_hotel_a.template?/hotel_carpet_b_purple.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A0E762FCF475E1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00B03FE42EEBB598",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_6",
+    "subType": "template"
   },
   {
     "hash": "00B6C243B4E8E815",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_greentini_safe.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009A260D07F90172",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00AC110D6DF48EED",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "009EF5F3FDDC97E4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00C96BD168E90DF9",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_reward_greentini.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "004D23ABA276A037",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "009EE56A57CE3C5C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_10",
+    "subType": "template"
   },
   {
     "hash": "005442741E0195D1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v4",
+    "subType": "template"
   },
   {
     "hash": "00526207082D197C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_conveyormovable",
+    "subType": "template"
   },
   {
     "hash": "0074B5826F049B35",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_optionalbehaviormanager",
+    "subType": "template"
   },
   {
     "hash": "00986FFD63C35780",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "prop_container_suitcase_base",
+    "subType": "template"
   },
   {
     "hash": "00EC281CDEC06F26",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_overrideopencolumn",
+    "subType": "template"
   },
   {
     "hash": "004D35CDE738AD0C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_400cm",
+    "subType": "template"
   },
   {
     "hash": "00DB1EDF4A2D2E5B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_sit_deepchair_offercookie_smoke_joint.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0054A2EEE42A22C3",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_ceiling_long_greentini.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00F55D222953163A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyor_getspatialspeed",
+    "subType": "template"
   },
   {
     "hash": "003CD8EE69DF7679",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_grapevine_green.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0062E7ACA076775D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_classic_a.template?/materialcollection_pistol_classic_mag_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "008FDC4366311853",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v5",
+    "subType": "template"
   },
   {
     "hash": "006896FBBD0BAE90",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "00AF36948928D12B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_24",
+    "subType": "template"
   },
   {
     "hash": "00150519E4E14903",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyor_spatialposition",
+    "subType": "template"
   },
   {
     "hash": "00E973EE265C624D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_nude_v2",
+    "subType": "template"
   },
   {
     "hash": "005E5FD38943CC0D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "003AA081614511B2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_unique_hanslucht_m",
+    "subType": "template"
   },
   {
     "hash": "002807B33512799B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/helper_actorcansensehero.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00417150A9F0D55B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_participantpresence",
+    "subType": "template"
   },
   {
     "hash": "00944CAB614823F3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_farmwarninglight",
+    "subType": "template"
   },
   {
     "hash": "004DD05A1AECBD53",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_highprofiledj_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "005D72AA93BD6D6C",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelresponder_float.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001281CD62465D5F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_mr_activity_jeer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0020ED23E906A910",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_400cm_a",
+    "subType": "template"
   },
   {
     "hash": "00848439C872164D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00E19CDDF33A1105",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v7",
+    "subType": "template"
   },
   {
     "hash": "006C4BB89BFEF636",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_son_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00600C8B5B752501",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_grapevine_green_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001BDD9D0DC28E2C",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_opulent_greentini_propanelocker.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00539E84525E7B1D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00CF7A919014E2B1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_getmodulecoordinates",
+    "subType": "template"
   },
   {
     "hash": "00CF096A2836C30C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0097CE429AC9614A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0045913784823225",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mulebot",
+    "subType": "template"
   },
   {
     "hash": "00BFDBFFC0F7946E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_500cm",
+    "subType": "template"
   },
   {
     "hash": "002837F952B61BD5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v4",
+    "subType": "template"
   },
   {
     "hash": "009DEEBF1AE14090",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v2",
+    "subType": "template"
   },
   {
     "hash": "00A524C2AC1921BE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v5",
+    "subType": "template"
   },
   {
     "hash": "007268833F4D02CA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_22",
+    "subType": "template"
   },
   {
     "hash": "00E736BF76116138",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_standlean_rail_100cm_smoke_joint.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0070BD3221392710",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_hanslucht.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00DF660A4732CFF6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "009378733EB2079E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00507EC2143BB39C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "006C2C5651135E63",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/bool_demuxer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001385BEE60858E3",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/animvariation.template?/vri_male_walkfastc.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "000063DAE7656EA1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyor_spatialpositionchanged",
+    "subType": "template"
   },
   {
     "hash": "005CD44A095F7205",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_tasting_positions",
+    "subType": "template"
   },
   {
     "hash": "00B80D4DDA4B26C5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "009D4A654F111FED",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_farm_railing_290cm",
+    "subType": "template"
   },
   {
     "hash": "00EE4D3CD530E3D3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_09",
+    "subType": "template"
   },
   {
     "hash": "00870D2D63F74C9E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_worker_eventstaff_m",
+    "subType": "template"
   },
   {
     "hash": "001A75514D4D4B32",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "009FEDB87667E816",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00F8EF965D4105F7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "007CC4640FE6DD49",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00FF70DB3B4D278A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "007AC81ED2CE5037",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_farmclusterproxy",
+    "subType": "template"
   },
   {
     "hash": "009586FA89D94DF7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_500cm_b",
+    "subType": "template"
   },
   {
     "hash": "00810A84B659339A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_hoop_a",
+    "subType": "template"
   },
   {
     "hash": "0096554965A4660A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyor_spatialspeed",
+    "subType": "template"
   },
   {
     "hash": "008EF619806944DD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_twoactorstoactorcondition",
+    "subType": "template"
   },
   {
     "hash": "002B1FF7F50CCF1C",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_classic_a.template?/firearm_materials_pistol_classic_mag_d.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0047BE881106D4B7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00903AD4A961CE05",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00A10EBF5DF3490D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "004E22B785F2C3B1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00C3DA8A9BAFD801",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_containers_runtimes.template?/prop_container_suitcase_greentini_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00FDEF7299198324",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/furniture/laboratory_furniture_a.template?/desk_laboratory_a_side_d_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009A14486FB45E63",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_dj.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00CDA845A37E2D5A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_mallet_a",
+    "subType": "template"
   },
   {
     "hash": "00E9AA93AE5A983B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/tiki_cup_a_color_no_accessories.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00ABF6D377BCB38B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "keyword_setpiece_greentini_pot",
+    "subType": "template"
   },
   {
     "hash": "0086DA50C69C8F79",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00D3F7EF5D074F79",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "002BCB1A35E07099",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/playercamerafocuscondition_actor.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E9E43C3229B15F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00403CEED4659E33",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_farmlightcurve_float",
+    "subType": "template"
   },
   {
     "hash": "00FFC05329CE0305",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_fr_activity_jeer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E234A25E6D62F9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_contextkill_statue",
+    "subType": "template"
   },
   {
     "hash": "0057A888B883EF14",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0031C98506E74733",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plant",
+    "subType": "template"
   },
   {
     "hash": "006D5F72811FC78E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00E8220F4C767A4F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "002D1FAC1DB7F251",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcontrol_cluster",
+    "subType": "template"
   },
   {
     "hash": "006D9B0DFDBC72D0",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_void.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00CA9878E7664307",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "000036DCED8F4B5D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00C11B94EA946668",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00C236981FB25D60",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/heater_lamp_exterior_a_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B5D5358F7EA081",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_burger_a_top.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0091500E625A2266",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "00A0C668D6CD2AF7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/signalsandwich_float.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0096EF3517FDBC91",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_cookie.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00566DE6235D76E0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_positionchanged",
+    "subType": "template"
   },
   {
     "hash": "0084D19016F8ADE1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "000844C080FCAC19",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_unique_highprofiledj_m",
+    "subType": "template"
   },
   {
     "hash": "00761CCC82C635C7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "0035BB49264B41D6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_dronedrama_pickupcluster",
+    "subType": "template"
   },
   {
     "hash": "00B4B4A6E6A70D99",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "00C54BF17E1ED001",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00B3EAEDFCE29607",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "0023DC462B5BF6A6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00899D485D52BE31",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "002094B796B1835A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_pot_01",
+    "subType": "template"
   },
   {
     "hash": "00E19A61B8C38C92",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_mr_activity_concerned.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005BC535C2DD2FE9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_21",
+    "subType": "template"
   },
   {
     "hash": "005021DCCB429E45",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v5",
+    "subType": "template"
   },
   {
     "hash": "005627F2FBCC044C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "007C15FCA35C55D2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "getaway_cosmetic_croquet",
+    "subType": "template"
   },
   {
     "hash": "005D95F28E92E33A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_mr_activity_chatting.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001C4022A6F6F018",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/containers/suitcases.template?/documents_d.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D527491FAA910F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/deatheffects.template?/adt_pacifyanimstand_bananaslip.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002533AEFF1F2069",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00F10D6C505BA6E4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_productsamples_sample",
+    "subType": "template"
   },
   {
     "hash": "004957E362ABF2F6",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/electronics/tv_screens_a.template?/tv_security_screen_a_overlay_ceiling_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "004AC8D0E547330E",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_opulent_greentini_consoledongle.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0007FEA5C0374871",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00B2BFB5C0EF272B",
     "path": "[assembly:/_pro/scenes/missions/opulent/mission_greentini.brick].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "005C19D777356EF6",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_variant.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0016B406E3A7CD03",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_mallet_b",
+    "subType": "template"
   },
   {
     "hash": "005E322029D320FE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_actorattached",
+    "subType": "template"
   },
   {
     "hash": "0018DFAB61B22984",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/acts_generic/fr/002_fr_sit.template?/act_fr_sit_stairs_040cm.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00031C500CF6E9B7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00992EA3F9963A52",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v1",
+    "subType": "template"
   },
   {
     "hash": "000489AD08753BA2",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_civ_guest.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0032983727BCB605",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/variant_debuffer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0088CBF28505024C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "004640C5B87EC9DC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "001DFB485779FA88",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_farmlightcurve_generic",
+    "subType": "template"
   },
   {
     "hash": "006F14B82757A3AA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_opulent_greentini_journalist_photo_proof.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D2175C83B60D71",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00EB4766BFF28048",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "003D9D9E41A19A56",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/sniper_classic_a.template?/firearm_materials_sniper_stealth_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0092032CEE3C02FF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_productsamples_pickedsample",
+    "subType": "template"
   },
   {
     "hash": "00EC041663BAF80B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/levels/maldives/maldives_welcome_centre_a.template?/welcome_centre_wall_greentini.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0061B5D664FE6FE0",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/animvariation.template?/vri_male_walkfastb.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009361729EEDC22D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_13",
+    "subType": "template"
   },
   {
     "hash": "00A98C078DCC53AA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "0086DD2B7CC695FC",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_elliotgunk.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A75F5459210986",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_verticalfarmcluster",
+    "subType": "template"
   },
   {
     "hash": "001A5FD48546D76F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "007873210C05F839",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_variant.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "004339AD9074FA91",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_plantconveyor",
+    "subType": "template"
   },
   {
     "hash": "000038D7E1F7904B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_14",
+    "subType": "template"
   },
   {
     "hash": "0008108FF22231C9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_farm_railing_190cm",
+    "subType": "template"
   },
   {
     "hash": "005AB2B5DFA89771",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_moduleaccessor",
+    "subType": "template"
   },
   {
     "hash": "00A069967023E936",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_guard_productionguard.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E0096CF7088C66",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "greentini_cosmetic_pool",
+    "subType": "template"
   },
   {
     "hash": "0019734BD0432D40",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_classic_a.template?/firearm_materials_pistol_classic_mag_c.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0027E88E20231F38",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_hazard_slip.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "003852F7639459E7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/pipes/pipes_tileset_yellow_a.template?/pipe_d30_yellow_a_straight_joint_30cm_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00BD0B27D992061D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "000882A0E595F776",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_6",
+    "subType": "template"
   },
   {
     "hash": "0022E4A82580688C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "00D17639A57420B2",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_croquet_mallet_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00425762AFE081D2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_actorreaction",
+    "subType": "template"
   },
   {
     "hash": "005AC8DA88DC6651",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "009DA9A1967D60CE",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_float.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00FF8DE784D3E28A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v1",
+    "subType": "template"
   },
   {
     "hash": "0030AB92AD608E5B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0037B79DE34C9EA6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_19",
+    "subType": "template"
   },
   {
     "hash": "00DF6CC7BAB0668F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v7",
+    "subType": "template"
   },
   {
     "hash": "006B57AA7A53C92D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_4",
+    "subType": "template"
   },
   {
     "hash": "00F96800B597C76A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_actorinidle",
+    "subType": "template"
   },
   {
     "hash": "00EC771A5902C049",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_guard_bodyguard_m",
+    "subType": "template"
   },
   {
     "hash": "009C24B5EF119577",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00308F5250749B2C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "00EE7F2A9BCF5FCF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_600cm_a",
+    "subType": "template"
   },
   {
     "hash": "005608032393B9BE",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/quest/photographs_a.template?/itemart_hans_lucht_photograph.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0031FDF6871FB664",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "001B1F9C16359DAB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v12",
+    "subType": "template"
   },
   {
     "hash": "009BDC92885EC46C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_position",
+    "subType": "template"
   },
   {
     "hash": "0019EC74B4C02C3C",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_float.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00FCD3738C83A8A9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_farmpot_reacheddestination",
+    "subType": "template"
   },
   {
     "hash": "005DD46917057EDE",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_entityref.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001AF7E718F0F28D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "00D028D79BE487F0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "0045815AEB2E8881",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v2",
+    "subType": "template"
   },
   {
     "hash": "00ED92995564CD24",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_cookie_vanilla_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0085A28C49DF6824",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_mr_activity_protest.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C1E15267BE986A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "003339759B598AB9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v7",
+    "subType": "template"
   },
   {
     "hash": "00911E6065C8F9D9",
     "path": "[assembly:/_pro/scenes/missions/opulent/tutorial_greentini.brick].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "00F8EA73E048DF0B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/compressor_bool.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A45D6DB5B5C489",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "00C241C8028BA52A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_7",
+    "subType": "template"
   },
   {
     "hash": "00424A28465165D9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v5",
+    "subType": "template"
   },
   {
     "hash": "00C6FBCAE26F77F2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_base",
+    "subType": "template"
   },
   {
     "hash": "0040CCE95ED42280",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00A7F255447E298D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_greentini_ingredient_list_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D71A32667ACE09",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "beachhouse_interior_a_door_single",
+    "subType": "template"
   },
   {
     "hash": "0015BD1922DFEE12",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "getaway_cosmetic_shelves",
+    "subType": "template"
   },
   {
     "hash": "008FF85E939BC3E7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_coin_lucky_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0027BA35DDD2BCA9",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_thesmoke.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0097C149CFC6F220",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00D99AB3D5E079BF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00437A3A61291C7C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "00F89A7FE9968423",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_nude_v5",
+    "subType": "template"
   },
   {
     "hash": "003F679E267918F6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v3",
+    "subType": "template"
   },
   {
     "hash": "000E5BCC2E2462F7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00EF5C913212F39D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s03_l03_fox.template?/act_fr_stand_talking_grooving_02.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "008D021F565E59DA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_farmclustervalve",
+    "subType": "template"
   },
   {
     "hash": "0010BC9CB0CCF0CA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_getaway_outfit3_heroa_v0.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009487F561AB7025",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_blenderjug_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00FDFD08B262F721",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_stateskips",
+    "subType": "template"
   },
   {
     "hash": "003510FEEA119123",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_documents_b_01.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002C6C0F2D5B1FC2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_8",
+    "subType": "template"
   },
   {
     "hash": "00A5F06B2B2F27E2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "00775A0F13BB6BE8",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_stand_start_bbq_100cm.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A88501814DB97D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "004B7127AFB31967",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_f_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "000E42BF29BACC66",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/sequentialsignalfork.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C795CC4A8BF9E6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_farm_railing_440cm",
+    "subType": "template"
   },
   {
     "hash": "00E5C6DF8C2F075E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_oneoftwoactorstoactorcondition",
+    "subType": "template"
   },
   {
     "hash": "0046BF1A5B9385D4",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/intel.template?/ldhelper_dianaspeak_interruptible.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D2F5A395976F99",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/consulate_auditorium_carpet_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B7A26792A1841F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_setmoduletrayextracted",
+    "subType": "template"
   },
   {
     "hash": "00C15D7D5946E50D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_water_balloon_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C4A90AD07CF1C6",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/iactor_buffer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0059815357918737",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmmanager_burnallclusters",
+    "subType": "template"
   },
   {
     "hash": "00B17E540A4F28EB",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_bangkok.template?/lamp_kitchen_penthouse_a_norigidbody_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D4D3DBD412C541",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_nude_v2",
+    "subType": "template"
   },
   {
     "hash": "00ED2EA27272CA6F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "004DB9F19B9B076E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hitmancar_pro_a_cutscene_sedan",
+    "subType": "template"
   },
   {
     "hash": "00B788953C3F53D7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "00D7F1657BDEB11C",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_mr_activity_dance_rave.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0060CF7698A75895",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_ball_d",
+    "subType": "template"
   },
   {
     "hash": "00422BA415BE6C18",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0031D6E220544255",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "002E8A608CD2F771",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_unique_son_m",
+    "subType": "template"
   },
   {
     "hash": "002174EC523266C7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v6",
+    "subType": "template"
   },
   {
     "hash": "00D57F0C6BF78483",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00EFE865217B13B9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_hanslucht_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00B31AA1AEF36D9F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_stand_conveyor_kill.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009BF3BBCA6E5A85",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_3",
+    "subType": "template"
   },
   {
     "hash": "004F5C66C5E685A0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v1",
+    "subType": "template"
   },
   {
     "hash": "00CA9BCA0A7F28D0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_geometry_plantramp",
+    "subType": "template"
   },
   {
     "hash": "0076D94F5A18E763",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00C3D6DBD95D4D22",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_archetype_suitcase_default",
+    "subType": "template"
   },
   {
     "hash": "008FA2CCEA3B05A7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_custominfobarmessage",
+    "subType": "template"
   },
   {
     "hash": "00B6B47EBD675D35",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/containers/crates_wooden_a.template?/crate_wooden_1x1x1_breakable_fruit_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00194B38F3D95998",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "getaway_cosmetic_desk",
+    "subType": "template"
   },
   {
     "hash": "00604B47481F4ABC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0008869FF7E73BBA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "prop_container_suitcase_base",
+    "subType": "template"
   },
   {
     "hash": "0094A1CA6D00E45F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_greentini_cookie_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00BC25E66251939E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "000B2E2F1AAA30CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_unique_timquinn_m",
+    "subType": "template"
   },
   {
     "hash": "007CB6C035385408",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_gettrayextendedcondition",
+    "subType": "template"
   },
   {
     "hash": "000BAFCC39FA3A95",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "0028CB7796C4B222",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/signalsandwich_variant.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001D8C16CD58523B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_worker_productionstaff_f",
+    "subType": "template"
   },
   {
     "hash": "005642923916FE3F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00CF7F5482B32AFE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_justine_bassey_f_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00EE06ED82448129",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/effects/templates/misc/fx_bloodsplatter.template?/fx_e_blood_weedplanter_stab.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D68336F3F8610B",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/scenes/missions/opulent/outfits_greentini.brick].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "004CDD93020BB6B7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_getaway_outfit1.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "005213516C364749",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00262C1410CF8E24",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_getspeed",
+    "subType": "template"
   },
   {
     "hash": "00BF566CF92A8295",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_700cm",
+    "subType": "template"
   },
   {
     "hash": "002C6E07C99958B4",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_keys_runtimes.template?/prop_key_opulent_greentini_crawlspace_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00AC52416545E6F6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiece_greentini_farmpot_setparent",
+    "subType": "template"
   },
   {
     "hash": "00C54109689CA656",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00BDB81957AFF34D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_dangerzone",
+    "subType": "template"
   },
   {
     "hash": "0014A427E70343BB",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_classic_a.template?/firearm_materials_pistol_classic_mag_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009B85FAAF95B7CB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_getposition",
+    "subType": "template"
   },
   {
     "hash": "00B3421314421657",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_25",
+    "subType": "template"
   },
   {
     "hash": "00198C5EEB0B15AE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_farm_railing_440cm_coverleft",
+    "subType": "template"
   },
   {
     "hash": "00D1283100AB042F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "00B2D58B1D4BD8B2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_13",
+    "subType": "template"
   },
   {
     "hash": "00CF7F440F1B2CB7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "0029DC783A4B69C3",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_getaway_outfit1_heroa_v0.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0036F12E4ECAD38F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00DD922145742F94",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_rubber_duck_a",
+    "subType": "template"
   },
   {
     "hash": "00EC1A0A6C6F15B2",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/helper_timedboolcache.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001B8E4094A53D00",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00CAFB1FF3DB7C67",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_actor_v5",
+    "subType": "template"
   },
   {
     "hash": "00F414127AD529A9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "00FDF5BD6968E154",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_sambuca_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00A35BEF69021326",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/spatialtransform.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00AC7854022384C2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_pot",
+    "subType": "template"
   },
   {
     "hash": "00CBDE82199A9E38",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v7",
+    "subType": "template"
   },
   {
     "hash": "00901B6B118C77E0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_plantelevator",
+    "subType": "template"
   },
   {
     "hash": "0019424643F90F82",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_suncream_a_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009FA983C1A71365",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00A13B90DFF91AF7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_16",
+    "subType": "template"
   },
   {
     "hash": "0087EED08FF6B119",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "009EC0F944108FFB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00CB89E49CCF2E2C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_powersupply",
+    "subType": "template"
   },
   {
     "hash": "004BB73C0020D336",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "entitychannelresponder_variant",
+    "subType": "template"
   },
   {
     "hash": "00B9F501AE482FB7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00C07775E3911FFB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "003B51609EFEA5CF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v1",
+    "subType": "template"
   },
   {
     "hash": "000266E587C41915",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00B04BA9151D2E35",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_bool.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00EA7CA169FC888D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_700cm",
+    "subType": "template"
   },
   {
     "hash": "007AB23EA63D1026",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_guard_villaguard.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00F349F55D252F69",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_heroa_v2",
+    "subType": "template"
   },
   {
     "hash": "00748DBF7CE1FF12",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_5",
+    "subType": "template"
   },
   {
     "hash": "00B576E5C4C01D61",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "00E4E86287C06913",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_greentini_v_s",
+    "subType": "template"
   },
   {
     "hash": "00D091C7FE123CA0",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/electronics/tv_screens_a.template?/tv_security_screen_greentini_unique.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "008C20C5811B3BB2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_nude_v1",
+    "subType": "template"
   },
   {
     "hash": "00DDFBE8F10D5122",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00787EE5361CD849",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "008B9F72FD2D4E1E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0097ED8D8F0EDF0C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v6",
+    "subType": "template"
   },
   {
     "hash": "001FF6700D3F5CFB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyor_getspatialposition",
+    "subType": "template"
   },
   {
     "hash": "00D09E14A7BEAD07",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/animvariation.template?/animset_civ_male_fast_greentini.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009E61DD322070E9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "009CB098057D9A8A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_unique_helenwest.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00BCA93E80D0FEFA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0019250B4F67EB69",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_l02c_greenhouse_pot_a_01",
+    "subType": "template"
   },
   {
     "hash": "005FF9E21A2A2F9C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "0059B32A0FB9C7F6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_start",
+    "subType": "template"
   },
   {
     "hash": "00C06D67157A2C21",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_rytelx2custommic.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0093A527773BD5F4",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/ica/modular_explosive_a.template?/itemart_modular_explosive_a_proximity_twitch.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0044ABC4BAD5C6C1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00DC51D59EE314B6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_plantplanter",
+    "subType": "template"
   },
   {
     "hash": "00AF7F7319CCFDC8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v4",
+    "subType": "template"
   },
   {
     "hash": "002E0DCB05B19787",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_stand_present.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00F3454C4E67D933",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_electricalcabinetreaction",
+    "subType": "template"
   },
   {
     "hash": "00FA12EFCBD07A05",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_vector3.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0029504A3B7AFE40",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_servecocktails",
+    "subType": "template"
   },
   {
     "hash": "002A278243138093",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0057A69265E5944A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_greentini_journalist_photo_proof_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00487C14A8F33F65",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "greentini_cosmetic_bbq",
+    "subType": "template"
   },
   {
     "hash": "00E793A90216B7F3",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/helper_actortoactorcondition.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00379DEA55C70FCC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_worker_productionstaff_m",
+    "subType": "template"
   },
   {
     "hash": "00E0F6E2F927F40F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_bool.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C976E9F0ACA185",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_worker_eventstaff_f",
+    "subType": "template"
   },
   {
     "hash": "00C0860CE5D78E89",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "006138AD1F14B61B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_base",
+    "subType": "template"
   },
   {
     "hash": "000C7953926081DB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_heroa_v1",
+    "subType": "template"
   },
   {
     "hash": "008DFCA8BC01072B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cane_package_greentini_open_a",
+    "subType": "template"
   },
   {
     "hash": "000170AEF00F8800",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "008002839269CC69",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_complete",
+    "subType": "template"
   },
   {
     "hash": "0088F303083BAB33",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00F29D856C384532",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/globalhintssupport.template?/ui_globalhint.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00785AFC1B525C14",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00DA0EE9D3D24BFA",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/decorative/cowskull_a.template?/bull_skull_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0008C24AA7B0B108",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "0021392F2635DDF6",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/containers/suitcases.template?/itemart_suitcase_summer_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "004374ACB4F60FC0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_plantharvester",
+    "subType": "template"
   },
   {
     "hash": "00FFA28AF2E3E058",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_2",
+    "subType": "template"
   },
   {
     "hash": "0097B8B63DAEF4DB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00CCACF8494EC8D5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v4",
+    "subType": "template"
   },
   {
     "hash": "00B5C8E1658EA069",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/electronics/ventilation_unit_atrium_a.template?/ventilation_unit_atrium_greentini_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0091BCFD19A6EBD8",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_cookie_chocolate_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B29DF920BE8E41",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00BDB22A80A7BEFB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_spatialconveyor",
+    "subType": "template"
   },
   {
     "hash": "006471804BA28799",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_remoteconsole",
+    "subType": "template"
   },
   {
     "hash": "0025C48B7E8690DF",
     "path": "[assembly:/_pro/scenes/missions/opulent/scenario_greentini.brick].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "008CC74839FA50E5",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/electronics/ventilation_unit_atrium_a.template?/ventilation_unit_atrium_greentini_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C53C40C50A28AE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "00EFB295220091E9",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/helper_actortoherocondition.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001101F1D6FAFD54",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00CD6D1E7F6CFDC0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_verticalfarmcluster",
+    "subType": "template"
   },
   {
     "hash": "00B7534E9C3E7D67",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/helper_directionalvolumetrigger.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0062764460696898",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_productsamples_sample",
+    "subType": "template"
   },
   {
     "hash": "003C29E68314ED95",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00BE1FAFF104DE5B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_18",
+    "subType": "template"
   },
   {
     "hash": "004C639939C4F7E8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "008B7C149DEB696E",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/spatialentityref_muxer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "008707700D503501",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/street_props/miami_street_food_vendor_a.template?/food_cart_fryer_basket_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "000F7CC69BD945A2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_16",
+    "subType": "template"
   },
   {
     "hash": "00822D2C232E8803",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelrequester_float.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009091C1B19CAFDB",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_stand_roll_joint_100cm.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0076F62636B3F700",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/vrhelpers.template?/eventtoken_vrhelper_set_lva_interactionarms.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009B3D6F50605D43",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "00A2EF199366EF72",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/furniture/beachhouse_furniture_a.template?/wooden_shelf_library_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0013E006D946A414",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_farmvalvereaction",
+    "subType": "template"
   },
   {
     "hash": "004322774408A78F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_f_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "0027D07DC8EF0847",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_civ_guest_f",
+    "subType": "template"
   },
   {
     "hash": "0079A2F03811DD65",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00D6684FB96CB30C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00BBFE51826D1DF9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_m_actor_v9",
+    "subType": "template"
   },
   {
     "hash": "000404BE07E75365",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "006A27CCB3D7006E",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_greentini_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002F2E148F53973B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0081D1E39CCF9E7C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0000EEB4E666437F",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/furniture/cabinet_fitted_a.template?/cabinet_fitted_wooden_bar_a_60cm.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0001CDC4B67FCBF6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00667A770280F8D4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_productsamples",
+    "subType": "template"
   },
   {
     "hash": "00F9DEA4BAD3E8A3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "keyword_setpiece_greentini_verticalfarmcluster_victim",
+    "subType": "template"
   },
   {
     "hash": "000659A3DD1A4BF9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_droneagent",
+    "subType": "template"
   },
   {
     "hash": "0014E3D48475B7E9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_actor_v2",
+    "subType": "template"
   },
   {
     "hash": "00CD2C11E61B56AF",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/vehicles/templates/vehicles_miami_a.template?/miami_boat_vice_a_fakefloat_greentini.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00197666336AB341",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/office_props/paper_note_a.template?/paper_ingredient_list_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00307C3D4A21F6AC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_nude_v4",
+    "subType": "template"
   },
   {
     "hash": "003AF4E8982D0C44",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "001C4DBA39F4A415",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00D8498701F56FF3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v5",
+    "subType": "template"
   },
   {
     "hash": "0074AC302E6A8230",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/accessories/beach_props_a.template?/beachball_ongroundmovable.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E2A6F632E0D3A9",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_spatialentityref.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00BB383D6E26BAF7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "003F69BF9F24A737",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "00837DC099510A7D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_ball_c",
+    "subType": "template"
   },
   {
     "hash": "00B8368A11D105CC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_beachguest_f_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "00B3F58A5DDF7D73",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "005BCFDA7D8CEC39",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_worker_productionstaff.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00FCAA8C4EED0679",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "0062176347C295F9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_18",
+    "subType": "template"
   },
   {
     "hash": "00FB40A47BB2149C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_20",
+    "subType": "template"
   },
   {
     "hash": "0037208E985DFA40",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00AF749298A2B63F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_civ_guest_f_actor_v6",
+    "subType": "template"
   },
   {
     "hash": "00752153F58B2471",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/street_props/miami_street_food_vendor_a.template?/miami_food_cart_greentini.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009EFEBA83190FB9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0040328B12980E34",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "voxelspace_role",
+    "subType": "template"
   },
   {
     "hash": "007310918C490EC3",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/pipes/pipes_tileset_red_a.template?/gauge_red_small_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00382165D4CEECFC",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_greentini_starting_heroa_v0.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0057CAE4DF7A4375",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "008CC6ACEC6E4D20",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00245CFD46C601F8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_attachactor",
+    "subType": "template"
   },
   {
     "hash": "00CCC5D76B731E74",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic/valuebool.template?/valuebool_monostable.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0009D91CD8A23DAB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_highprofiledj_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "00C8986170BC1B96",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0018B73CA03A2918",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_ventilationsystem",
+    "subType": "template"
   },
   {
     "hash": "00429EA584AA2D6D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_maskedbool",
+    "subType": "template"
   },
   {
     "hash": "00AC1E21DDB8BE1E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_m_heroa_v2",
+    "subType": "template"
   },
   {
     "hash": "001FB9A463E86FE5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyor_spatialspeedchanged",
+    "subType": "template"
   },
   {
     "hash": "004CAF26022CA711",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00AAB1FF768A6B54",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_peg_a",
+    "subType": "template"
   },
   {
     "hash": "0076B094C612AA5A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_nude_v0",
+    "subType": "template"
   },
   {
     "hash": "00816C1884EF4497",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/scenes/missions/opulent/scenario_greentini_lighting.brick].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "00C4E532B1C4ED45",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_nude_v2",
+    "subType": "template"
   },
   {
     "hash": "0098D5BE857A2D3E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_plantconveyorkill_killactor",
+    "subType": "template"
   },
   {
     "hash": "00902A84B32F856F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_heroa_v5",
+    "subType": "template"
   },
   {
     "hash": "006727065799F36D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_4",
+    "subType": "template"
   },
   {
     "hash": "007B6E7DA4004957",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v5",
+    "subType": "template"
   },
   {
     "hash": "003EEDF922024B8C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_20",
+    "subType": "template"
   },
   {
     "hash": "00DE4B6904DCEE3B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_stand_a_mallets",
+    "subType": "template"
   },
   {
     "hash": "00100A08A99CA90B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_modulecoordinates",
+    "subType": "template"
   },
   {
     "hash": "00C72DA3CE0EEDAB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_escapedestination",
+    "subType": "template"
   },
   {
     "hash": "005A78DAF1D5E9A1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00F6CF0B5547BF06",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_fr_activity_squat_relaxed.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D7A141247926BF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00F475044C12E696",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0005BF554E3BD3A5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_nude_v2",
+    "subType": "template"
   },
   {
     "hash": "009C44A7C117C8E9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
+    "subType": "template"
   },
   {
     "hash": "002A9FF3C5368DB6",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_greentini_mr_stand_angry.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00AE4B17CE9D591D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_water_balloon_a_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "004250B3926480F2",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/_chartools/character_parts_all_renamed.template?/shoes_loafer_wingtip.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002CF253DA7F880A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_questitem_opulent_greentini_consoledongle.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0027453A669AE025",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_elliot_gunk_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "00058C8101F17EAC",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_opulent_greentini_tourinvitation.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "003BAAA67714D33A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_500cm_a",
+    "subType": "template"
   },
   {
     "hash": "006E9F3AC6087249",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "001881266447E4E6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_plantconveyor_actordeath",
+    "subType": "template"
   },
   {
     "hash": "008C7BB1ECB11044",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00FDB96B4A06D661",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00C1E465F9F0A277",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_f_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "0014105354848D46",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_greentini_dlc_m_heroa_v0.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0089DF8FD034CFC2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_opulent_greentini_civ_beachguest_f",
+    "subType": "template"
   },
   {
     "hash": "00F2D80AC859EDF6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_5",
+    "subType": "template"
   },
   {
     "hash": "00399B9C08D40E0F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_conveyoranimator",
+    "subType": "template"
   },
   {
     "hash": "00783EFDF73373DA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0088AC4D231A7618",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_bag_greentini_a",
+    "subType": "template"
   },
   {
     "hash": "0000A0367FAE22EC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_1",
+    "subType": "template"
   },
   {
     "hash": "00868C95E1EDAC34",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_greentini_verticalfarmcluster_requestopencolumn",
+    "subType": "template"
   },
   {
     "hash": "00FCE760764A896A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v3",
+    "subType": "template"
   },
   {
     "hash": "0032851823DCA2C3",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_croquet_mallet_a_runtime.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "009BFDB8EA67EE6A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "helper_greentini_farm_railing_440cm_coverright",
+    "subType": "template"
   },
   {
     "hash": "0075B68BC1875A13",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "007264C5A054976E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "00BE73767F1C2817",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_archetype_suitcase_default",
+    "subType": "template"
   },
   {
     "hash": "006970018D951F85",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "actorpickereffect_extremeactorreference",
+    "subType": "template"
   },
   {
     "hash": "00915FEB0ABFC4E6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_base_destruction",
+    "subType": "template"
   },
   {
     "hash": "008121ADA482B0D5",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_greentini_starting.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00813BD843810709",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_fr_activity_concerned.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0069E265D43BE9C4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_productionstaff_f_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "004BD119286FD2B8",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelrequester_core.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00032B2776F44480",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "00270B288B311039",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_m_23",
+    "subType": "template"
   },
   {
     "hash": "0011F36BA618C126",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_unique_elliot_gunk_m_heroa_v0",
+    "subType": "template"
   },
   {
     "hash": "00FA5782DDF75040",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/tools/coin_a.template?/itemart_greentini_cookie_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00436BA6F00C9979",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantmodule",
+    "subType": "template"
   },
   {
     "hash": "0048726F04926A28",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "008898CA24854943",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_mallet_c",
+    "subType": "template"
   },
   {
     "hash": "00DB6C2B2696E993",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_cannabis_pot_d",
+    "subType": "template"
   },
   {
     "hash": "0086BD2D89D5421E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v4",
+    "subType": "template"
   },
   {
     "hash": "0074BC2AF378D325",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_8",
+    "subType": "template"
   },
   {
     "hash": "007EFCC290DD9D57",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/templates/crowd/crowdanimlibraries_activities.template?/animlib_fr_activity_chatting.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00D911BF14851232",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_speed",
+    "subType": "template"
   },
   {
     "hash": "00B5CC342FF7F092",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/electronics/tv_screens_a.template?/tv_security_screen_a_overlay_greentini.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00EFE0DB183CB5C0",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_device_ica_modular_runtimes.template?/prop_device_ica_sambuca_rubberduck_proximity_flash.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "006F6ABA2AB58240",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "007CF13AC3704150",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/decorative/cowskull_a.template?/horn_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "000A7CEA5BA8C144",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_9",
+    "subType": "template"
   },
   {
     "hash": "001998810A4AFE4D",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_greentini_worker_villastaff.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0007C05A725BC289",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "00A58DFEE4AA7182",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_plantoutlet",
+    "subType": "template"
   },
   {
     "hash": "0053B9D569207DEB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_m_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "00C8B03C36DF3E30",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/items/prop_device_ica_modular_runtimes.template?/prop_device_ica_modular_proximity_explosive_purple_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00B1A07E6D51CA33",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_rangelistener",
+    "subType": "template"
   },
   {
     "hash": "007199DE948656C5",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/levels/fox/assets_fox_a.template?/crate_wooden_1x05x2_00.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00CCB3379A9BE4AD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_villastaff_f_actor_v1",
+    "subType": "template"
   },
   {
     "hash": "00AF7CEDF1720877",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "fireplace_rustic_a",
+    "subType": "template"
   },
   {
     "hash": "000DAB8BC0FBC3CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0004EE94BA83D3B7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/quest/paper_notes_a.template?/itemart_ingredient_list.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002AB7E72918E13A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "itemart_base",
+    "subType": "template"
   },
   {
     "hash": "002292A9F57DA3FB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_nude_v3",
+    "subType": "template"
   },
   {
     "hash": "00E7BE9C710F963A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v0",
+    "subType": "template"
   },
   {
     "hash": "0041C0C9552361C6",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/containers/kitchen_containers_a.template?/garbage_bin_a_empty.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E2D1CFEA459096",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "cookie_bag_greentini_open_a",
+    "subType": "template"
   },
   {
     "hash": "003E57A2973E14C0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_column",
+    "subType": "template"
   },
   {
     "hash": "00432A57CDA626E7",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_grapevine_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002C7A53046F2F64",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_microphone_greentini_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00EC13AFB9B01899",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/animvariation.template?/animset_civ_male_fast_greentini_080.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "001C5441744109BB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "char_greentini_crowd_f_17",
+    "subType": "template"
   },
   {
     "hash": "001B499A153B99B7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_600cm",
+    "subType": "template"
   },
   {
     "hash": "00998E4E3B1754C1",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l08_stingray.template?/act_mr_stand_smoke_joint_armscrossed.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "000DCB2D05D23CB4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "croquet_set_ball_b",
+    "subType": "template"
   },
   {
     "hash": "00814259334D812D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00D01363374E0849",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_spf47.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "004A861D809C22E9",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/environment/templates/props/electronics/kitchen_electronics_a.template?/minibar_greentini_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0090901635C41FCE",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/spatialentityref_demuxer.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00C53992BD98C565",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
+    "subType": "template"
   },
   {
     "hash": "000170583D77DE35",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_600cm_b",
+    "subType": "template"
   },
   {
     "hash": "00A700BF2B60C9B1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_production_m_heroa_v4",
+    "subType": "template"
   },
   {
     "hash": "00ABE97717FBA508",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_greentini_plantrotator",
+    "subType": "template"
   },
   {
     "hash": "0057670EF6D43BF6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00BD247CEF4C5E50",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_classic_a.template?/firearm_materials_pistol_classic_mag_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "008E85E5FCA178E5",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/signalfork_vector3.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "002CC888F3F11E73",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_int.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00BA1F2D3F63A72C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v3",
+    "subType": "template"
   },
   {
     "hash": "0099FEFFD7462B16",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00CDCD79733DB95E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "spatialreference",
+    "subType": "template"
   },
   {
     "hash": "0076E585BB329406",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00C0F2B39F7C2E41",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/logic.template?/signalgate_entityref.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "0022C5FE51E9879E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "0007EAB398005726",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_bodyguard_m_heroa_v1",
+    "subType": "template"
   },
   {
     "hash": "00A2097074E541CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00BCEF06EAD18E5A",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_generic.template?/helper_actortoactorcondition_alive.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00F3D77A9192C954",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_farmlightcurve_colorrgb",
+    "subType": "template"
   },
   {
     "hash": "003EBA3053C45226",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "spatialcontainerproxy",
+    "subType": "template"
   },
   {
     "hash": "00A130D3F16F074C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00C42FD96FC4389E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
+    "subType": "template"
   },
   {
     "hash": "0096276E4F43D0F6",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_classic_a.template?/materialcollection_pistol_classic_mag_c.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "006DB6B3A2E07606",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_nude_v7",
+    "subType": "template"
   },
   {
     "hash": "00A7F0004503F94C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_worker_eventstaff_m_actor_v3",
+    "subType": "template"
   },
   {
     "hash": "00E3770604FAE0EB",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/items/templates/accessories/food_props_a.template?/accessoryitem_cookie_vanilla_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00E40A697A2F7AAC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01",
+    "subType": "template"
   },
   {
     "hash": "005D241C866F4BA1",
-    "path": "",
-    "gameFlags": 8
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_greentini_dlc_2_m.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8,
+    "subType": "template"
   },
   {
     "hash": "00AC9AE9A2139F1E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "template_l02c_greenhouse_pot_b_01",
+    "subType": "template"
   },
   {
     "hash": "007779699E00CED7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation",
+    "subType": "template"
   },
   {
     "hash": "00D15B685F5DFC69",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_opulent_greentini_guard_villaguard_m_actor_v6",
+    "subType": "template"
   },
   {
     "hash": "0084AB1489038743",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiecehelper_greentini_verticalfarmmanagerproxy",
+    "subType": "template"
   }
 ]
