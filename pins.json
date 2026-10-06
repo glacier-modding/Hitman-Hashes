@@ -11455,6 +11455,14 @@
             {
                 "pin": "Detach",
                 "description": ""
+            },
+            {
+                "pin": "3496011281",
+                "description": ""
+            },
+            {
+                "pin": "2184555902",
+                "description": ""
             }
         ],
         "out": [
@@ -30198,6 +30206,10 @@
             {
                 "pin": "Detach",
                 "description": ""
+            },
+            {
+                "pin": "1798529480",
+                "description": ""
             }
         ],
         "out": []
@@ -43779,6 +43791,380 @@
         "in": [
             {
                 "pin": "2532562695",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "0083E256274D92BB",
+        "path": "[modules:/zentityrefnullbranch.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "In",
+                "description": ""
+            },
+            {
+                "pin": "4073409076",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00113C82E1BA22D2",
+        "path": "[modules:/zevergreencustominfobardataprovider.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "000E34157A5B59D1",
+        "path": "[modules:/zevergreencustominfomessageentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "1998958277",
+                "description": ""
+            },
+            {
+                "pin": "148748712",
+                "description": ""
+            },
+            {
+                "pin": "FireAndForget",
+                "description": ""
+            },
+            {
+                "pin": "3382267381",
+                "description": ""
+            },
+            {
+                "pin": "SetText",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "003E3DB640B3E6C8",
+        "path": "[modules:/zextendedspatialsaveaspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00711A2D4C77DBFC",
+        "path": "[modules:/zgetgroundpositionentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Get",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00BBFC9950AD238C",
+        "path": "[modules:/zhm5variantconverterentity_iboolcondition.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Get",
+                "description": ""
+            },
+            {
+                "pin": "Variant",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00F9A6FB8EB7E42C",
+        "path": "[modules:/zitemcollisionlayeroverrideentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "SetEnabled",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00CE0B2505386513",
+        "path": "[modules:/zspatialcontainerentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "1354325765",
+                "description": ""
+            },
+            {
+                "pin": "3596165278",
+                "description": ""
+            },
+            {
+                "pin": "1958411727",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "0098FF76F7EFE2D6",
+        "path": "[modules:/zspatialcontainerproxyentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "1354325765",
+                "description": ""
+            },
+            {
+                "pin": "1958411727",
+                "description": ""
+            },
+            {
+                "pin": "1821186098",
+                "description": ""
+            },
+            {
+                "pin": "1296771869",
+                "description": ""
+            },
+            {
+                "pin": "3596165278",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "0029CFEF651B99AB",
+        "path": "[modules:/zspatialentityrefnullbranch.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "In",
+                "description": ""
+            },
+            {
+                "pin": "4073409076",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00D9426457A4DC38",
+        "path": "[modules:/zspatialproxysaveaspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00509A1B10DE9970",
+        "path": "[modules:/zvrsniperscopeactivecondition.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00F14A858DCC5B24",
+        "path": "[modules:/zvaluevector3saveaspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "004F55370A76C8D1",
+        "path": "[modules:/zvoxelspaceentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "3801991430",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00A152AC3B8BA110",
+        "path": "[modules:/zvoxelspaceagentaspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00E36181C63C6208",
+        "path": "[modules:/zvoxelspaceagentproxyentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "1217691461",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00DB74815B22BE48",
+        "path": "[modules:/zvoxelspacedebuggizmo.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00F3FF9364FEE984",
+        "path": "[modules:/zvoxelspaceagentspawner.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Spawn",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00E3D5A920B6093A",
+        "path": "[modules:/zvoxelspacedramamovetobehaviour.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "008A4A272B4E96E1",
+        "path": "[modules:/zvoxelspacedramapoirole.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "SetEnabled",
+                "description": ""
+            },
+            {
+                "pin": "SetRequired",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00360EFA5CA7BA87",
+        "path": "[modules:/zvoxelspacedramarole.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00F8D50635498CA7",
+        "path": "[modules:/zvoxelspacedramasituation.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00EFA5F89B1ECE96",
+        "path": "[modules:/zvoxelspacegetagentgeomentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "In",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "006F69DB5AA7B054",
+        "path": "[modules:/zvoxelspaceratebasedobstacle.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00DA38FFA543D447",
+        "path": "[modules:/zvoxelspaceobstacleclustercolumnentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00B15EA0C74D1471",
+        "path": "[modules:/zvoxelspaceobstacleclusterentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00C27EDBF503A163",
+        "path": "[modules:/zvoxelspaceobstacleclustervictimlistener.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "SetIActor",
+                "description": ""
+            },
+            {
+                "pin": "2656606278",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "009C3FDE4F1D844B",
+        "path": "[modules:/zvoxelspaceobstaclelisteneraspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "000325BB3B554F55",
+        "path": "[modules:/zvoxelspacepoientity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "SetEnabled",
+                "description": ""
+            },
+            {
+                "pin": "1217691461",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00BEA3C4924EB740",
+        "path": "[modules:/zvoxelspacequadcoptermpclocomotion.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00573660BAD1BCC6",
+        "path": "[modules:/zvoxelspacerolefilter_distance.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0077FD014E79AB05",
+        "path": "[modules:/zvoxelspacerolefilter_keywords.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00C162E062B251B3",
+        "path": "[modules:/zvoxelspacerolefilter_random.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "ResetSeed",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "005718D049279CED",
+        "path": "[modules:/zvoxelspacerolefilter_shuffle.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0061EBB9646B9F7C",
+        "path": "[modules:/zvoxelspaceroleproxyentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "2376810730",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00D922230965461D",
+        "path": "[modules:/zvoxelspacesituationproxyentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Reset",
+                "description": ""
+            },
+            {
+                "pin": "Done",
                 "description": ""
             }
         ],
