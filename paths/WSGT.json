@@ -753,5 +753,10 @@
     "hash": "0061B6EC701483A3",
     "path": "[assembly:/sound/wwise/exportedwwisedata/states/ingamemusic_states/licensedmusic.wwisestategroup].pc_entitytype",
     "gameFlags": 8
+  },
+  {
+    "hash": "00032C66CC979501",
+    "path": "",
+    "gameFlags": 8
   }
 ]

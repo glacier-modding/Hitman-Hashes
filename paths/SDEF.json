@@ -2573,5 +2573,20 @@
     "hash": "00BD6BA968C7AC52",
     "path": "[assembly:/sound/sounddefinitions/civfem11.sdefs].pc_sdefs",
     "gameFlags": 8
+  },
+  {
+    "hash": "00311DC1B0804528",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0013D97B8611A5AD",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004D37C4EE66C117",
+    "path": "",
+    "gameFlags": 8
   }
 ]

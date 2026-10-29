@@ -4017,7 +4017,7 @@
   {
     "hash": "00C29A115EBCB0A5",
     "path": "[assembly:/sound/wwise/exportedwwisedata/events/animation/foley/environment_interactions/poison/play_interact_liquidpoison_vial_open.wwiseevent].pc_wwisebank",
-    "gameFlags": 17
+    "gameFlags": 25
   },
   {
     "hash": "0080853B6FA479A8",
@@ -36332,7 +36332,7 @@
   {
     "hash": "00AD936B5FF38836",
     "path": "[assembly:/sound/wwise/exportedwwisedata/events/props_events/props_marrakash/cars/play_car_passing_ford_mediumspeed_03.wwiseevent].pc_wwisebank",
-    "gameFlags": 1
+    "gameFlags": 9
   },
   {
     "hash": "00B7545F74F07B82",
@@ -139284,5 +139284,130 @@
     "path": "",
     "gameFlags": 8,
     "hint": "play_sfx_weedcluster_draining_alarm"
+  },
+  {
+    "hash": "00DC9E9DEB91E62C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00ED4DF9ED569844",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008A2AD93CCF37A1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00447F8955F17036",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F0052BEC7DB8F0",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0005367F098F538C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0081A37AE716DFFE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0081EE00A78EB1B7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EEB038D7E76523",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000BC8F6B41A43B3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00873E91E1DA2A29",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0020A3444DB3DCCF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0079BC313F035D76",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005DD91E5D9FEE14",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E40A20280B50F9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "000E6A2A840C8D97",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F3AF3A4CCF7A36",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0030F644F5081A72",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00658DB8B603E84C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001C040BC1F74FFE",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "004E7F5A3BAEE2E1",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00058A379E218A22",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00A8A55986607D56",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005840C9D7C79E93",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0058C4B35E768C3A",
+    "path": "",
+    "gameFlags": 8
   }
 ]

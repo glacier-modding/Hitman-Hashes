@@ -3162,7 +3162,7 @@
   {
     "hash": "00B2A83CD238BCFF",
     "path": "[assembly:/animationnetworks/actors/acts/specific/carry/carryflashlight/mr_carryflashlight_equip.aln].pc_rtn",
-    "gameFlags": 3
+    "gameFlags": 11
   },
   {
     "hash": "00C6680F4A91F861",
@@ -11981,6 +11981,41 @@
   },
   {
     "hash": "00C88B16FC9D2374",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0009238C0A38F7FF",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00870D8D43DBFA40",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "009506F1175155F5",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F1C34862FA5C74",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00711245D8244AE7",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F7E4CEA3DDBCB3",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007897CED9FC2976",
     "path": "",
     "gameFlags": 8
   }
