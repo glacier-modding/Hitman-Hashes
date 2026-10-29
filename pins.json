@@ -11229,6 +11229,10 @@
             {
                 "pin": "RemoveKeyword",
                 "description": "Remove keyword"
+            },
+            {
+                "pin": "947841036",
+                "description": ""
             }
         ],
         "out": [
@@ -11253,6 +11257,10 @@
             {
                 "pin": "RemoveKeyword",
                 "description": "Remove keyword"
+            },
+            {
+                "pin": "947841036",
+                "description": ""
             }
         ],
         "out": [
@@ -20666,6 +20674,18 @@
             {
                 "pin": "Transfer",
                 "description": "Transfer keywords"
+            },
+            {
+                "pin": "3830499442",
+                "description": ""
+            },
+            {
+                "pin": "SetTarget",
+                "description": ""
+            },
+            {
+                "pin": "3290359836",
+                "description": ""
             }
         ],
         "out": []
@@ -23003,6 +23023,10 @@
             },
             {
                 "pin": "GetHero",
+                "description": ""
+            },
+            {
+                "pin": "947841036",
                 "description": ""
             }
         ],
@@ -26955,6 +26979,14 @@
             {
                 "pin": "RemoveKeyword",
                 "description": "Remove keyword"
+            },
+            {
+                "pin": "3583192168",
+                "description": ""
+            },
+            {
+                "pin": "947841036",
+                "description": ""
             }
         ],
         "out": [
@@ -44168,6 +44200,111 @@
                 "description": ""
             }
         ],
+        "out": []
+    },
+    {
+        "hash": "00E8ED028A23AFCE",
+        "path": "[modules:/zevergreenmenuentrypromptscrollaction.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00C4703B44071236",
+        "path": "[modules:/zhm5weaponcontrolvrconfigentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0031871BD1147A68",
+        "path": "[modules:/zitemplacementpreviewoverrideaspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "0095D1AE635282AD",
+        "path": "[modules:/zkeywordconverterentity_zstring.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "In",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "009B3657FB14ED96",
+        "path": "[modules:/zsignalbranchconditionalkeywordentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "In",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "006ED9A3E70BB2B7",
+        "path": "[modules:/ztimerbasicentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Stop",
+                "description": ""
+            },
+            {
+                "pin": "1120886619",
+                "description": ""
+            },
+            {
+                "pin": "Start",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00D76ADCD2E3C753",
+        "path": "[modules:/zuitextgetlocalized.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Get",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00C55EC6D64363E8",
+        "path": "[modules:/zvalueint_bools.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00B046B0FA14529A",
+        "path": "[modules:/zvrpourflowentity.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "Stop",
+                "description": ""
+            },
+            {
+                "pin": "Start",
+                "description": ""
+            },
+            {
+                "pin": "36897600",
+                "description": ""
+            },
+            {
+                "pin": "2993629167",
+                "description": ""
+            }
+        ],
+        "out": []
+    },
+    {
+        "hash": "00AC1B8736AC7B5C",
+        "path": "[modules:/zworldinventoryevents.class].pc_entitytype",
+        "in": [],
         "out": []
     }
 ]
