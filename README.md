@@ -2,7 +2,7 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,644,100-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.08%25-green.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-24/71-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/71-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
@@ -63,7 +63,7 @@
 |MRTR     |870            |842          |96.78%            |0    |0.00%          |
 |NAVP     |89             |89           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
-|PREL     |152            |151          |99.34%            |0    |0.00%          |
+|PREL     |152            |152          |100.00%           |0    |0.00%          |
 |PRIM     |45465          |43264        |95.16%            |2    |0.00%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |153            |148          |96.73%            |3    |1.96%          |
