@@ -2,11 +2,11 @@
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,644,100-blue.svg)
 ![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.82%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-17/71-blue.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-18/71-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.97%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.20%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.21%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.48%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -31,7 +31,7 @@
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |61             |60           |98.36%            |0    |0.00%          |
 |BORG     |7705           |7041         |91.38%            |0    |0.00%          |
-|BOXC     |57             |55           |96.49%            |0    |0.00%          |
+|BOXC     |57             |57           |100.00%           |0    |0.00%          |
 |CBLU     |2881           |2876         |99.83%            |0    |0.00%          |
 |CLNG     |4              |4            |100.00%           |0    |0.00%          |
 |CPPT     |2881           |2876         |99.83%            |0    |0.00%          |
@@ -46,11 +46,11 @@
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
 |FXAS     |371132         |366198       |98.67%            |6    |0.00%          |
 |GFXF     |44             |44           |100.00%           |0    |0.00%          |
-|GFXI     |13378          |13014        |97.28%            |2    |0.01%          |
+|GFXI     |13378          |13109        |97.99%            |2    |0.01%          |
 |GFXV     |339            |329          |97.05%            |0    |0.00%          |
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
-|JSON     |3344           |3101         |92.73%            |19   |0.57%          |
+|JSON     |3344           |3117         |93.21%            |19   |0.57%          |
 |LINE     |34282          |32470        |94.71%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10558          |7447         |70.53%            |0    |0.00%          |
