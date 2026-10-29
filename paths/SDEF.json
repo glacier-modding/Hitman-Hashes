@@ -2576,17 +2576,17 @@
   },
   {
     "hash": "00311DC1B0804528",
-    "path": "",
+    "path": "[assembly:/sound/sounddefinitions/et_shamrock.sdefs].pc_sdefs",
     "gameFlags": 8
   },
   {
     "hash": "0013D97B8611A5AD",
-    "path": "",
+    "path": "[assembly:/sound/sounddefinitions/chase.sdefs].pc_sdefs",
     "gameFlags": 8
   },
   {
     "hash": "004D37C4EE66C117",
-    "path": "",
+    "path": "[assembly:/sound/sounddefinitions/brayden.sdefs].pc_sdefs",
     "gameFlags": 8
   }
 ]
