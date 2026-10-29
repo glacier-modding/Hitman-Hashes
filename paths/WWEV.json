@@ -138507,9 +138507,8 @@
   },
   {
     "hash": "00FF545FFD5F8139",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_fol_item_saucejar_throwsweetener"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_saucejar/play_fol_item_saucejar_throwsweetener.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00A836976AAE83E5",
@@ -138524,9 +138523,8 @@
   },
   {
     "hash": "002CC2E2BEB5F7B5",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_fol_item_saucejar_impactback_closecombat"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_saucejar/play_fol_item_saucejar_impactback_closecombat.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "0043BD68C3699496",
@@ -138546,15 +138544,13 @@
   },
   {
     "hash": "00B7DEE306D85313",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_throw_minislim"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/item_explosive_minislim/play_throw_minislim.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "001D1D389A593794",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_explosion_minislim"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/item_explosive_minislim/play_explosion_minislim.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00A5DEB09F9AA6E6",
@@ -138600,21 +138596,18 @@
   },
   {
     "hash": "00BFF161DDDCD093",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_unquip_minislim"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/item_explosive_minislim/play_unquip_minislim.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "003DE54CA8C328A2",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_fol_item_saucejar_equipped"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_saucejar/play_fol_item_saucejar_equipped.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00EB9ECF04E6C87B",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_fol_item_saucejar_impact_closecombat"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_saucejar/play_fol_item_saucejar_impact_closecombat.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "001DBFA9DF3BF035",
@@ -138648,15 +138641,13 @@
   },
   {
     "hash": "003E2A10529D3E37",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_fol_item_saucejar_impact_deadly_throw"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_saucejar/play_fol_item_saucejar_impact_deadly_throw.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "007A03055CDAC6AA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_fol_item_saucejar_unequipped"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_saucejar/play_fol_item_saucejar_unequipped.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00BA7E8BC2DD4E18",
@@ -138711,9 +138702,8 @@
   },
   {
     "hash": "00704A4050DBE5AC",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_equip_minislim"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/item_explosive_minislim/play_equip_minislim.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "0060B88790D526F8",
@@ -138874,9 +138864,8 @@
   },
   {
     "hash": "00F77E7A4230CE66",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_sfx_explosiveprop_frentini_throw"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/sfx_explosive_frentini/play_sfx_explosiveprop_frentini_throw.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "0061D60D6DBB586E",
@@ -138975,9 +138964,8 @@
   },
   {
     "hash": "005BC496CAB12A63",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "stop_dropduck_timer"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/proximityexplosive_rubberduck/dropduck/stop_dropduck_timer.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00326C2CAF01C0DD",
@@ -138987,9 +138975,8 @@
   },
   {
     "hash": "00888B37B1D9A240",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_dropduck_timer"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/proximityexplosive_rubberduck/dropduck/play_dropduck_timer.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "0092024B313F382C",
@@ -139011,9 +138998,8 @@
   },
   {
     "hash": "0051A6DF4C328A31",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_sfx_explosiveprop_vuvuduck_loop"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/item_explosive_vuvuzeladuck/play_sfx_explosiveprop_vuvuduck_loop.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "003007EB4A7238C3",
@@ -139029,15 +139015,13 @@
   },
   {
     "hash": "0042495BCB534266",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_dropduck_countdown"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/proximityexplosive_rubberduck/dropduck/play_dropduck_countdown.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00D5D9C21F009E58",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_sfx_explosiveprop_vuvuduck_explosion"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/sfx_explosives/item_explosive_vuvuzeladuck/play_sfx_explosiveprop_vuvuduck_explosion.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "0051399E1A71D97E",
@@ -139047,9 +139031,8 @@
   },
   {
     "hash": "0057E8C4996F0375",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_boombox_content_music_pomada"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/sfx_environmentmusic/sfx_environmentmusic_props/play_boombox_content_music_pomada.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "0028F379F85A08E8",
@@ -139077,9 +139060,8 @@
   },
   {
     "hash": "00745E5435EFC11D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_radio_content_music_italy_01"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/sfx_environmentmusic/sfx_environmentmusic_props/play_radio_content_music_italy_01.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00BF94BDA401A8D5",
@@ -139089,9 +139071,8 @@
   },
   {
     "hash": "00708E191EE1A666",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_sfx_weedcluster_fire_flames"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/sfx_interactiveprops/sfx_interactiveprops_unique/stingray/et_greentini/weedclusters/play_sfx_weedcluster_fire_flames.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "008BEF3954DD1099",
@@ -139149,9 +139130,8 @@
   },
   {
     "hash": "00EAA962B9CAE4A2",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "play_sfx_fol_item_suncream_slip"
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_suncream/play_sfx_fol_item_suncream_slip.wwiseevent].pc_wwisebank",
+    "gameFlags": 8
   },
   {
     "hash": "00B56A4C73071AF9",
@@ -139387,7 +139367,7 @@
   },
   {
     "hash": "004E7F5A3BAEE2E1",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/effects/fire/play_sfx_effect_firewhoosh.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {
@@ -139402,7 +139382,7 @@
   },
   {
     "hash": "005840C9D7C79E93",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/sfx_interactiveprops/sfx_interactiveprops_distractions/distraction_streamer_soundboard/play_sfx_streamer_soundboard_ringing.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {

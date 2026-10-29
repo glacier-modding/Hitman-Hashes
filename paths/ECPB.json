@@ -14751,7 +14751,7 @@
   },
   {
     "hash": "008F000052764361",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/courtyardcard_a.wl2?/courtyardcard_b.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14761,7 +14761,7 @@
   },
   {
     "hash": "001A79DAD36CC9B1",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/photographs_a.wl2?/photograph_lance_hsu.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14876,7 +14876,7 @@
   },
   {
     "hash": "003FDEE658740231",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/food/fruits_banana_piece.wl2?/banana_impact_piece.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -14926,7 +14926,7 @@
   },
   {
     "hash": "00817A78D29589BF",
-    "path": "",
+    "path": "[assembly:/geometry/weapons/cc_banana.wl2?/banana_impact.mat].pc_entityblueprint",
     "gameFlags": 8
   },
   {

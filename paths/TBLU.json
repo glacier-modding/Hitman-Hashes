@@ -347233,9 +347233,8 @@
   },
   {
     "hash": "0057C7232557A919",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/scissors_chinese_dragon_a.wl2?/scissors_a_00.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -349330,10 +349329,9 @@
   },
   {
     "hash": "005BA9467922C197",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/templates/quest/documents.template?/bellini_curse_paper_a.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_base"
+    "subType": "template"
   },
   {
     "hash": "000889847506F346",
@@ -349391,17 +349389,15 @@
   },
   {
     "hash": "0083847D4E410B8A",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](material+[assembly:/_pro/items/materials/ica/rubber_duck_fox_a.mi].entitytype,geometry+[assembly:/_pro/items/geometry/ica/rubber_ducks_hmn_season_3.wl2?/rubber_duck_fox.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_rubber_duck_a"
+    "subType": "template"
   },
   {
     "hash": "00A6290A1EBC974B",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/environment/geometry/props/school/chainsaw_item_a.wl2?/chainsaw_item_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_base"
+    "subType": "template"
   },
   {
     "hash": "0056AD4A0578B578",
@@ -349447,10 +349443,9 @@
   },
   {
     "hash": "005A984AAE4DF7CC",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](material+[assembly:/_pro/items/materials/ica/rubber_duck_bulldog_a.mi].entitytype,geometry+[assembly:/_pro/items/geometry/ica/rubber_ducks_hmn_season_3.wl2?/rubber_duck_bulldog.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_rubber_duck_a"
+    "subType": "template"
   },
   {
     "hash": "00BDE208452153E5",
@@ -349598,10 +349593,9 @@
   },
   {
     "hash": "007351B5A9847DD0",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](material+[assembly:/_pro/items/materials/ica/token_prop_ezplosive_remote_rubberduck_dragon.mi].entitytype,geometry+[assembly:/_pro/items/geometry/ica/token_prop_ezplosive_remote_rubberduck_dragon.wl2?/token_prop_ezplosive_remote_rubberduck_dragon.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_rubber_duck_a"
+    "subType": "template"
   },
   {
     "hash": "00E89691F81BEB2B",
@@ -350493,10 +350487,9 @@
   },
   {
     "hash": "0043939F690BD949",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](material+[assembly:/_pro/items/materials/ica/rubber_duck_hitmansuit.mi].entitytype,geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_hitmansuit.wl2?/rubber_duck_hitmansuit.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_rubber_duck_a"
+    "subType": "template"
   },
   {
     "hash": "008350CF18E2DD68",
@@ -350694,10 +350687,9 @@
   },
   {
     "hash": "00E14E75FAB652BE",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](material+[assembly:/_pro/items/materials/ica/rubber_duck_classic.mi].entitytype,geometry+[assembly:/_pro/items/geometry/ica/rubber_ducks_hmn_season_3.wl2?/rubber_duck_classic.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_rubber_duck_a"
+    "subType": "template"
   },
   {
     "hash": "003612F3B40B7ACC",
@@ -350839,10 +350831,9 @@
   },
   {
     "hash": "00B66575623866B9",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/_licensed/quixel/geometry/props/food/spaghetti_sandwich_tfxndfdpa_a.wl2?/spaghetti_sandwich_complete_a.linkedprim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_base_destruction"
+    "subType": "template"
   },
   {
     "hash": "00562B8F208EC818",
@@ -350896,10 +350887,9 @@
   },
   {
     "hash": "00A7E9C530F4FD6B",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/explosives/explosive_dynamite_a.wl2?/explosive_dynamite_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_base"
+    "subType": "template"
   },
   {
     "hash": "001A6923CEA1A429",
@@ -351305,10 +351295,9 @@
   },
   {
     "hash": "00904900351680B2",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/accessories/bellini_photos_a.template?/itemart_hokkaido_bellini_photo_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_hokkaido_bellini_photo_a"
+    "subType": "template"
   },
   {
     "hash": "001DF97F93318C7C",
@@ -351444,10 +351433,9 @@
   },
   {
     "hash": "006C48C0A54FE9A2",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/accessories/bellini_photos_a.template?/itemart_hokkaido_bellini_photo_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "template",
-    "hint": "itemart_hokkaido_bellini_photo_b"
+    "subType": "template"
   },
   {
     "hash": "002CD1AFD521FD2D",
@@ -352483,9 +352471,8 @@
   },
   {
     "hash": "008F76B030ACED98",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/gadget/manypass.wl2?/manypass_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -352752,9 +352739,8 @@
   },
   {
     "hash": "0033218C398F2C28",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_filur_antidote_herb_base_runtime.entitytemplate](herbgeometry+[assembly:/_pro/environment/geometry/foliage/filur_herb_a.wl2?/filur_herb_a_red.prim].entitytype,herbkeyword+[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_filur_antidote_herb_b.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "prop_et_questitem_filur_antidote_herb_base_runtime",
     "subType": "template"
   },
   {
@@ -352807,9 +352793,8 @@
   },
   {
     "hash": "00115EE22482D5A3",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_a.wl2?/rubber_duck_a_s2.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_rubber_duck_a",
     "subType": "template"
   },
   {
@@ -352959,9 +352944,8 @@
   },
   {
     "hash": "008E70888EE30F42",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/items/items.template?/itemart_tooth_ball_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_tooth_ball_a",
     "subType": "template"
   },
   {
@@ -354017,9 +354001,8 @@
   },
   {
     "hash": "00827AC755FA38A6",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/items/tooth_ball_a.wl2?/tooth_ball_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -354624,9 +354607,8 @@
   },
   {
     "hash": "009627E39F7D8D89",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_filur_antidote_herb_base_runtime.entitytemplate](herbgeometry+[assembly:/_pro/environment/geometry/foliage/filur_herb_a.wl2?/filur_herb_a_blue.prim].entitytype,herbkeyword+[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_filur_antidote_herb_c.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "prop_et_questitem_filur_antidote_herb_base_runtime",
     "subType": "template"
   },
   {
@@ -354709,9 +354691,8 @@
   },
   {
     "hash": "00893B24544B638C",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/archetypesplaceholder.template?/itemart_archetype_suitcase_default.entitytemplate](linkedprim+[assembly:/_pro/items/geometry/gadget/suitcase_ica_b.wl2?/suitcase_ica_b_rifle.linkedprim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_archetype_suitcase_default",
     "subType": "template"
   },
   {
@@ -355387,9 +355368,8 @@
   },
   {
     "hash": "009478560D9D3635",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_knight_suit_01.wl2?/rubber_duck_knight_suit.prim].entitytype,material+[assembly:/_pro/items/materials/ica/rubber_duck_knight_suit.mi].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_rubber_duck_a",
     "subType": "template"
   },
   {
@@ -355451,9 +355431,8 @@
   },
   {
     "hash": "00F975E306B6F98A",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/trophy_a.wl2?/trophy_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -355998,9 +355977,8 @@
   },
   {
     "hash": "005FE0CF71FC8CD3",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_containers_runtimes.template?/prop_container_suitcase_base.entitytemplate](itemartoverride+[assembly:/_pro/items/templates/containers/suitcases.template?/itemart_suitcase_sportspack_a.entitytemplate].entitytype,valutslotoverride+[assembly:/_pro/design/gamecore/inventory.template?/inventoryvault_container_2medium.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "prop_container_suitcase_base",
     "subType": "template"
   },
   {
@@ -356507,9 +356485,8 @@
   },
   {
     "hash": "00C73121C4657B59",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_vuvuzela_a.wl2?/rubber_duck_vuvuzela_a.prim].entitytype,material+[assembly:/_pro/items/materials/ica/rubber_duck_a_vuvuzela.mi].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_rubber_duck_a",
     "subType": "template"
   },
   {
@@ -356690,16 +356667,14 @@
   },
   {
     "hash": "00C4EF48F2C0E502",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/archetypesplaceholder.template?/itemart_archetype_suitcase_default.entitytemplate](linkedprim+[assembly:/_pro/items/geometry/gadget/suitcase_sport_a.wl2?/suitcase_sport_a.linkedprim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_archetype_suitcase_default",
     "subType": "template"
   },
   {
     "hash": "00A09D9E137320EC",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/pomada_knife_a.wl2?/folding_knife_001.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -357255,9 +357230,8 @@
   },
   {
     "hash": "0037D04BA2E2A62F",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/items/geometry/tools/cookie_distraction_a.wl2?/cookie_distraction_a.linkedprim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base_destruction",
     "subType": "template"
   },
   {
@@ -357741,16 +357715,14 @@
   },
   {
     "hash": "00A9576139506FBE",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/microphone_47_a.wl2?/microphone_47_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
     "hash": "00DE5299D8C273CB",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_a_the_undying_.wl2?/rubber_duck_a_the_undying.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_rubber_duck_a",
     "subType": "template"
   },
   {
@@ -358988,9 +358960,8 @@
   },
   {
     "hash": "00986FFD63C35780",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_containers_runtimes.template?/prop_container_suitcase_base.entitytemplate](itemartoverride+[assembly:/_pro/items/templates/containers/suitcases.template?/itemart_suitcase_summer_a.entitytemplate].entitytype,valutslotoverride+[assembly:/_pro/design/gamecore/inventory.template?/inventoryvault_container_2medium.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "prop_container_suitcase_base",
     "subType": "template"
   },
   {
@@ -360154,9 +360125,8 @@
   },
   {
     "hash": "00C6FBCAE26F77F2",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/croquet_mallet_a.wl2?/croquet_mallet_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -360472,9 +360442,8 @@
   },
   {
     "hash": "00C3D6DBD95D4D22",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/archetypesplaceholder.template?/itemart_archetype_suitcase_default.entitytemplate](linkedprim+[assembly:/_pro/items/geometry/gadget/suitcase_summer_a.wl2?/suitcase_summer_a.linkedprim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_archetype_suitcase_default",
     "subType": "template"
   },
   {
@@ -360504,9 +360473,8 @@
   },
   {
     "hash": "0008869FF7E73BBA",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_containers_runtimes.template?/prop_container_suitcase_base.entitytemplate](itemartoverride+[assembly:/_pro/items/templates/containers/suitcases.template?/itemart_suitcase_greentini_a.entitytemplate].entitytype,valutslotoverride+[assembly:/_pro/design/gamecore/inventory.template?/inventoryvault_container_2medium.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "prop_container_suitcase_base",
     "subType": "template"
   },
   {
@@ -360687,9 +360655,8 @@
   },
   {
     "hash": "00DD922145742F94",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_a_greentini_.wl2?/rubber_duck_a_greentini.prim].entitytype,material+[assembly:/_pro/items/materials/ica/rubber_duck_a_greentini.mi].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_rubber_duck_a",
     "subType": "template"
   },
   {
@@ -361053,9 +361020,8 @@
   },
   {
     "hash": "006138AD1F14B61B",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/tools/coin_lucky_a.wl2?/coin_lucky_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -361111,9 +361077,8 @@
   },
   {
     "hash": "0008C24AA7B0B108",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/photographs_a.wl2?/photograph_lance_hsu.prim](materials).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "geomentity01",
     "subType": "template"
   },
   {
@@ -361555,9 +361520,8 @@
   },
   {
     "hash": "008CC6ACEC6E4D20",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/courtyardcard_a.wl2?/courtyardcard_b.prim](materials).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "geomentity01",
     "subType": "template"
   },
   {
@@ -361890,9 +361854,8 @@
   },
   {
     "hash": "00BE73767F1C2817",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/archetypesplaceholder.template?/itemart_archetype_suitcase_default.entitytemplate](linkedprim+[assembly:/_pro/items/geometry/gadget/suitcase_greentini_a.wl2?/suitcase_greentini_a.linkedprim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_archetype_suitcase_default",
     "subType": "template"
   },
   {
@@ -361904,9 +361867,8 @@
   },
   {
     "hash": "00915FEB0ABFC4E6",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/items/geometry/gadget/water_balloon_a.wl2?/water_balloon_a.linkedprim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base_destruction",
     "subType": "template"
   },
   {
@@ -362111,9 +362073,8 @@
   },
   {
     "hash": "002AB7E72918E13A",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/gadget/suncream_a.wl2?/suncream_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "itemart_base",
     "subType": "template"
   },
   {
@@ -362413,7 +362374,7 @@
   },
   {
     "hash": "008B70F088256C9E",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_device_ica_modular_runtimes.template?/prop_device_ica_shamrock_rubberduck_remote_emp.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362513,7 +362474,7 @@
   },
   {
     "hash": "00D655483AE66423",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_npc_standard.template?/pistol_50ae_a_magazine_empty.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362523,7 +362484,7 @@
   },
   {
     "hash": "00070A5FDE33D599",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/firearm_modular_runtimes.template?/firearms_hero_002_modular_pistol_el_matador_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362538,7 +362499,7 @@
   },
   {
     "hash": "00588D775C474CF1",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_keys_runtimes.template?/prop_keycard_shamrock_basement_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362553,17 +362514,17 @@
   },
   {
     "hash": "00E57ACA4B8744E9",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/shamrock_game_controller_a.wl2?/shamrock_game_controller_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "008D6B73C18FFCAC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/accessories/table_tennis_ball_a.template?/itemart_table_tennis_ball_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00FD0BA0454B7915",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/cane_comic_a.wl2?/cane_comic_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362613,7 +362574,7 @@
   },
   {
     "hash": "00D315A990D9A65C",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_shamrock_studio.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362628,7 +362589,7 @@
   },
   {
     "hash": "00D3EB9B5D9CAA13",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_fx_poisonbuildpuff.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362653,7 +362614,7 @@
   },
   {
     "hash": "00359EFF04873D28",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/helper_twoattacherspatials.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362673,7 +362634,7 @@
   },
   {
     "hash": "0012195F82BD92B4",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/ammunition/shells.template?/cartridge_50ae_pistol_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362783,7 +362744,7 @@
   },
   {
     "hash": "007A46CF78B31A57",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_emeticvial_sick_a_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362803,7 +362764,7 @@
   },
   {
     "hash": "00A556A1BF99E2CD",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_cane_comic_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362843,7 +362804,7 @@
   },
   {
     "hash": "000FC10163D736A2",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_pill_yellow_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362963,7 +362924,7 @@
   },
   {
     "hash": "009249EF99AA2808",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/remotechannels/remotechannels.template?/remotechannel_device_ica_shamrock_rubberduck_emp.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362973,7 +362934,7 @@
   },
   {
     "hash": "009E5405CC00B5B8",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordevergreen.template?/keyword_evergreen_selectable_item.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363008,7 +362969,7 @@
   },
   {
     "hash": "00C3E7B89FC1F47F",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/firearm_runtimes.template?/firearms_shotgun_shamrock_a_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363033,12 +362994,12 @@
   },
   {
     "hash": "0061E15B7D658855",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_insecticidebottle_a_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "000E389AC8074CCC",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_gadgets_runtimes.template?/tokenid_gadget_shamrock_randomfigurine_setvariant.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363063,7 +363024,7 @@
   },
   {
     "hash": "00B0C04396E472FC",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/environment/templates/props/food/vegetables_a.template?/banan_purple_a.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363073,12 +363034,12 @@
   },
   {
     "hash": "00631A96B4CA12B1",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_gadgets_runtimes.template?/prop_gadget_shamrock_randomfigurine_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A27505BBAFFFC2",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_emeticvial_sick_c_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363088,7 +363049,7 @@
   },
   {
     "hash": "00C0A3486D998E13",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/ammunition/shells.template?/12ga_shotgun_shell_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363098,7 +363059,7 @@
   },
   {
     "hash": "001FA5EDC96107C7",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/knife_survival_a.wl2?/knife_survival_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363108,7 +363069,7 @@
   },
   {
     "hash": "00CF86F52677CF0F",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_emeticvial_sick_b_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363118,12 +363079,12 @@
   },
   {
     "hash": "0038280C76E41C69",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_poison_emeticvial_sick_d_cap_a_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0051EA82F207F0D7",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_comicbook_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363143,7 +363104,7 @@
   },
   {
     "hash": "00E4F71D42B3CE65",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_keycard_shamrock_basement.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363168,7 +363129,7 @@
   },
   {
     "hash": "006C275890B2C746",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/firearm_runtimes.template?/firearms_hero_pistol_50ae_a_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363178,12 +363139,12 @@
   },
   {
     "hash": "0095EC22B5E8A459",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/food/fruits_banana_piece.wl2?/banana_impact_piece.prim](materials).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00318D26F257CAB2",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_gadgets_runtimes.template?/tokenid_gadget_shamrock_randomfigurine_getvariant.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363218,7 +363179,7 @@
   },
   {
     "hash": "00E810C175419D6E",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_ratpoison_lid_a_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363243,7 +363204,7 @@
   },
   {
     "hash": "00015EAA29167D95",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_poison_pills_antidote_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363293,12 +363254,12 @@
   },
   {
     "hash": "00907496993F490C",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_shamrock_figurine_0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0076D79A207FA3A4",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_cane_comic_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363358,7 +363319,7 @@
   },
   {
     "hash": "00FACC91020BAE0A",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_gadget_streamer_board_a_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363373,7 +363334,7 @@
   },
   {
     "hash": "0078B348D3EDAA90",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/firearm_runtimes.template?/vr_magazine_geometry_shotgun_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363383,7 +363344,7 @@
   },
   {
     "hash": "00ADABD614E48EB0",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_explosives_runtimes.template?/vr_grenade_pin_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363408,7 +363369,7 @@
   },
   {
     "hash": "0051ADADFFB3DD43",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_tabletennisball_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363433,7 +363394,7 @@
   },
   {
     "hash": "00AA77E29EB2ED00",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_sword_tactical_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363508,7 +363469,7 @@
   },
   {
     "hash": "000B65F8CBD1DE2B",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/firearm_runtimes.template?/vr_magazine_geometry_shotgun_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363533,7 +363494,7 @@
   },
   {
     "hash": "0079172BEE312F93",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/sword_tactical_a.wl2?/sword_tactical_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363543,12 +363504,12 @@
   },
   {
     "hash": "00F821B9C19AAA01",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0074FEC2CCA39023",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/keywordaspect_filteredlistener.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363583,12 +363544,12 @@
   },
   {
     "hash": "00C85EDE0537300E",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_comicbook_a_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0000533AD9467E45",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/ammunition/shells.template?/casing_50ae_pistol_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363693,7 +363654,7 @@
   },
   {
     "hash": "006C76C9C4268699",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_pill_red_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363723,7 +363684,7 @@
   },
   {
     "hash": "00C90FA5600CBD39",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelresponder_int.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363753,7 +363714,7 @@
   },
   {
     "hash": "00BD58FA0040F857",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_mjolnir_hammer.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363788,12 +363749,12 @@
   },
   {
     "hash": "003A88B05AB79067",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_sword_tactical_a_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E13DE60DCAD005",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_vial_sick_a_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363808,7 +363769,7 @@
   },
   {
     "hash": "0081222D2DA1C113",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_mjolnir_hammer_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363843,7 +363804,7 @@
   },
   {
     "hash": "0048D7F908A8B262",
-    "path": "",
+    "path": "[assembly:/geometry/weapons/cc_banana.wl2?/banana_impact.prim](materials).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363868,7 +363829,7 @@
   },
   {
     "hash": "0026FD92E31B7467",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_explosives_runtimes.template?/vr_grenade_spoon_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363963,7 +363924,7 @@
   },
   {
     "hash": "00EE626C56BA16B8",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_shamrock_figurine_3.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364028,7 +363989,7 @@
   },
   {
     "hash": "00F83F6B47F1535F",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_pill_white_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364038,7 +363999,7 @@
   },
   {
     "hash": "00F1FC1A00C42018",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/environment/geometry/foliage/grapevine_a/grapecluster_a_melee.wl2?/grapecluster_a_melee.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364053,7 +364014,7 @@
   },
   {
     "hash": "00A3BB2C0735D8CB",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_gadgets_runtimes.template?/tokenid_gadget_shamrock_randomfigurine_variant.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364088,7 +364049,7 @@
   },
   {
     "hash": "0063D7A2B5187DFD",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/explosives/actionfigure.template?/itemart_actionfigure_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364098,7 +364059,7 @@
   },
   {
     "hash": "00E626C5478CF76F",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_poison_pills_lethal_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364108,7 +364069,7 @@
   },
   {
     "hash": "00ABFB2E97270C81",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/pistol_npc_standard.template?/pistol_50ae_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364133,7 +364094,7 @@
   },
   {
     "hash": "00CD0EACA3AB01A3",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_fx_poisonpourstream.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364283,7 +364244,7 @@
   },
   {
     "hash": "00062070C8545409",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_shamrock_game_controller_a_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364293,17 +364254,17 @@
   },
   {
     "hash": "0045048AA3325075",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/mjolnir_a.wl2?/mjolnir.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A084D22B9DBF66",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_shamrock_a/rubber_duck_shamrock_a.wl2?/rubber_duck_shamrock_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001CFAD61B871476",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_banana_purple_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364333,12 +364294,12 @@
   },
   {
     "hash": "00F49DC3446AA0FC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/food/vegetables_a.template?/banan_purple_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "007B07CA0798FDAB",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/gadget/hitman_comic_a.wl2?/hitman_comic_a_wrapped.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364363,7 +364324,7 @@
   },
   {
     "hash": "00736D11D70D46C7",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_poison_emeticvial_sick_b_cap_a_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364383,7 +364344,7 @@
   },
   {
     "hash": "00BAD53966839FC5",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_shamrock_figurine_2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364433,7 +364394,7 @@
   },
   {
     "hash": "004CFFD8DD1F4E7D",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_knife_survival_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364443,7 +364404,7 @@
   },
   {
     "hash": "00681E84A2CD9BFC",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_shamrock_figurine_1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364523,7 +364484,7 @@
   },
   {
     "hash": "00DF5FCA46754264",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_knife_survival_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364578,7 +364539,7 @@
   },
   {
     "hash": "00FE2742DDC96BCE",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_streamer_board_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364588,7 +364549,7 @@
   },
   {
     "hash": "00B22BE010EDC54F",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_poison_pills_sick_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364608,7 +364569,7 @@
   },
   {
     "hash": "002E1F70FE093AAC",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_poisonpills_a_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364633,7 +364594,7 @@
   },
   {
     "hash": "00ED1B9CD4907D9B",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/gadget/streamer_board_a.wl2?/streamer_board_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364648,22 +364609,22 @@
   },
   {
     "hash": "003C3267ED1A6297",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/poison/vr_ratpoison_vial_a.wl2?/vr_ratpoison_vial_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "000DDD052BADF002",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_device_ica_modular_runtimes.template?/prop_remote_ica_shamrock_rubberduck_emp.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00726489ED4C8252",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_poison_pills_sedative_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002A7A99E75E2AE7",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_shamrock_game_controller_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364673,7 +364634,7 @@
   },
   {
     "hash": "00EF89162DE3D6DB",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_banana_a_purple.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364688,7 +364649,7 @@
   },
   {
     "hash": "00C1B3830A1A10B2",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_vial_fast_a_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364703,7 +364664,7 @@
   },
   {
     "hash": "0051A96C932A9D0B",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_vial_sedative_a_cap_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364768,7 +364729,7 @@
   },
   {
     "hash": "0095721CF7856A87",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/shotgun_npc_standard.template?/shotgun_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364778,12 +364739,12 @@
   },
   {
     "hash": "00947AB862300C56",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/vr_firearms_handattachers.template?/manualreloadsettings_shotgun.entitytemplate](shellgeometry+[assembly:/_pro/design/items/firearm_runtimes.template?/vr_magazine_geometry_shotgun_shamrock_a.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E1F23D624410B2",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/tools/shamrock_bunny_a.wl2?/shamrock_rabbit_a.prim].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364798,7 +364759,7 @@
   },
   {
     "hash": "00279E57D2A7CAFB",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_keys_runtimes.template?/prop_key_shamrock_studio_runtime.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364828,7 +364789,7 @@
   },
   {
     "hash": "00E4D8CC5ECF189A",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_pill_blue_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364838,7 +364799,7 @@
   },
   {
     "hash": "000445806F0BB537",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_poison_runtimes.template?/vr_pill_a_clip.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {

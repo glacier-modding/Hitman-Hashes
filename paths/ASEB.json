@@ -29721,7 +29721,7 @@
   },
   {
     "hash": "002707F21011092F",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29781,7 +29781,7 @@
   },
   {
     "hash": "005A81DAE0ECC428",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/smoke/fx_gas.template?/fx_e_gas_emetic_explosion_guru.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29791,7 +29791,7 @@
   },
   {
     "hash": "0015DAF79F6C76B3",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29856,7 +29856,7 @@
   },
   {
     "hash": "007B982F619900DD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.maptrackers.droppeditemmaptracker.uic].entitytype,[modules:/zuicontrollayoutlegacyaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29891,7 +29891,7 @@
   },
   {
     "hash": "004393FA5F292678",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomcollectionentity.class].entitytype,[modules:/zgeomcollectionselectionaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29976,7 +29976,7 @@
   },
   {
     "hash": "00674EF64B53E015",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/trophy_a.wl2?/trophy_a.prim].entitytype).entitytype,[modules:/zclothcustommeshentity.class].entitytype,[modules:/zclothmodifieraspectentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29986,7 +29986,7 @@
   },
   {
     "hash": "00BD16137B053885",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/gamecore/prophelpers.template?/prophelper_waterspill_scalable_evergreen.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30026,7 +30026,7 @@
   },
   {
     "hash": "00BD9C82981E01F6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplaterigidbody.template?/geomentity01.entitytemplate].entitytype,[modules:/zphysicssaveaspect.class].entitytype,[modules:/zhm5collisionlayerentity.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30086,7 +30086,7 @@
   },
   {
     "hash": "008132723A336997",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/shatter/fx_shatter_food.template?/fx_e_shatter_food_liquid.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30166,7 +30166,7 @@
   },
   {
     "hash": "00D7B15528DDC062",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/items/geometry/quest/photographs_a.wl2?/photograph_lance_hsu.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30276,7 +30276,7 @@
   },
   {
     "hash": "00C7FA3304719277",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/items/geometry/quest/courtyardcard_a.wl2?/courtyardcard_b.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30401,7 +30401,7 @@
   },
   {
     "hash": "00BE05ED1E8F5B47",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/melee/melee.template?/itemart_comicbook_a.entitytemplate].entitytype,[modules:/zitemplacementpreviewoverrideaspect.class].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30411,7 +30411,7 @@
   },
   {
     "hash": "0086AAE369DDA4DE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[assembly:/geometry/weapons/cc_banana.wl2?/banana_impact.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30541,7 +30541,7 @@
   },
   {
     "hash": "007E7AC37E01A289",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/food/fruits_banana_piece.wl2?/banana_impact_piece.mat].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -30596,7 +30596,7 @@
   },
   {
     "hash": "00C13F8B78A7EC35",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/keywordaspect_filteredlistener.entitytemplate].entitytype,[assembly:/_pro/design/gamecore/keywords/keywordevergreen.template?/keyword_evergreen_selectable_item.entitytemplate].entitytype).pc_entityblueprint",
     "gameFlags": 8
   },
   {

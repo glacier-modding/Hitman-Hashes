@@ -96361,9 +96361,8 @@
   },
   {
     "hash": "00438F7CFC26E494",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "sniper_22lr_a_mt_02"
+    "path": "[assembly:/_pro/items/materials/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_02.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00794957444B202C",
@@ -96421,9 +96420,8 @@
   },
   {
     "hash": "00FED11C2B1A79B1",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "sniper_22lr_a_mt_01"
+    "path": "[assembly:/_pro/items/materials/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_01.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "0040DA3D3A960749",
@@ -96616,9 +96614,8 @@
   },
   {
     "hash": "003F78E5BCB55F15",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "pistol_air_a"
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_air_a/pistol_air_a.mi].pc_mi",
+    "gameFlags": 8
   },
   {
     "hash": "00FAC4BF91BD5608",
@@ -97367,12 +97364,12 @@
   },
   {
     "hash": "00B0BB00857E1FB8",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/ica/rubber_duck_shamrock_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FDBA70290984F2",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/pistol_50ae_a/pistol_50ae_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97387,7 +97384,7 @@
   },
   {
     "hash": "00F46D2BBD115FD3",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/shotgun_shamrock_a/shotgun_shamrock_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97407,7 +97404,7 @@
   },
   {
     "hash": "0073295C5C2E2EA3",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/poison/poison_classic_pills_blue_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97437,12 +97434,12 @@
   },
   {
     "hash": "00759304756E3D56",
-    "path": "",
+    "path": "[assembly:/materials/props/inside_02/l08b_penthouse_fruitbowl_a_purple.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00DCE488B3D7C864",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/accessories/table_tennis_ball_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97462,7 +97459,7 @@
   },
   {
     "hash": "00E769CD4B0E2977",
-    "path": "",
+    "path": "[assembly:/_pro/_test/wenhao/materials/basicmaterials/materials/color_red_emissive.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97472,7 +97469,7 @@
   },
   {
     "hash": "00DBE112DBDA7F95",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/sword_tactical_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97482,7 +97479,7 @@
   },
   {
     "hash": "006BD43934E7D9BD",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/ammunition/shotgunshell_12gauge/shotgunshell_12gauge_shamrock.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97502,12 +97499,12 @@
   },
   {
     "hash": "0010C61CA44E896E",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/shamrock_game_controller_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "009A8C7A2819CAF9",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/knife_survival_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97532,7 +97529,7 @@
   },
   {
     "hash": "00F764F0E10493EB",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/streamer_board_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97542,17 +97539,17 @@
   },
   {
     "hash": "0074E554AB38C60E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/banan_a_purple.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0014535D77415CF2",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/tools/shamrock_bunny_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0042AF923EAAC37E",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/hitman_comic_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97567,7 +97564,7 @@
   },
   {
     "hash": "003BD4473DD8D33A",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/tools/shamrock_rabbit_a_box.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97617,7 +97614,7 @@
   },
   {
     "hash": "00F9FA74DC5ACA52",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/poison/poison_classic_pills_yellow_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97637,7 +97634,7 @@
   },
   {
     "hash": "008B244B3B9EE7FF",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/paracord_tilable_a.mi].pc_mi",
     "gameFlags": 8
   },
   {

@@ -46866,7 +46866,7 @@
   },
   {
     "hash": "0085F7C55C22A812",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/melee/item_dugong_molotov_cocktail.wl2?/dugong_molotov_cloth_a.prim].entitytype,[modules:/zclothsheetentity.class].entitytype).pc_entitytype",
     "gameFlags": 72
   },
   {
@@ -68996,7 +68996,7 @@
   },
   {
     "hash": "00628DFCD7C7BCF0",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/melee/fiberwire_tie_a.wl2?/fiberwire_tie_hanging_a.prim].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69036,7 +69036,7 @@
   },
   {
     "hash": "008B14200972EED9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/melee/fiberwire_tie_a.wl2?/fiberwire_tie_sheet_a.prim].entitytype,[modules:/zclothsheetentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69416,7 +69416,7 @@
   },
   {
     "hash": "00E85093B8B8D394",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/poisonpills_a.wl2?/poisonpills_a_cap.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69451,7 +69451,7 @@
   },
   {
     "hash": "0044B0F241AEA683",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/poison_pills_b.wl2?/poison_pills_lethal_cap.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69496,12 +69496,12 @@
   },
   {
     "hash": "00EA21F886F9CFF4",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/jetinjectiongun_a.wl2?/jetinjectiongun_button_a.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00352E610D4216DE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/poison_emeticvail_sick_a.wl2?/poison_emeticvial_sick_b_cap_a.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69521,7 +69521,7 @@
   },
   {
     "hash": "00FCD3952AC7213C",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/poison_pills_b.wl2?/poison_pills_antidote_cap.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69536,7 +69536,7 @@
   },
   {
     "hash": "0086384798C219FD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/poison_pills_b.wl2?/poison_pills_sedative_cap.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69546,7 +69546,7 @@
   },
   {
     "hash": "00E843E03ED57426",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/poison_emeticvail_sick_a.wl2?/poison_emeticvial_sick_d_cap_a.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69556,7 +69556,7 @@
   },
   {
     "hash": "00A24752202FCD3A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/smoke/fx_gas.template?/fx_e_gas_emetic_explosion_guru.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69571,7 +69571,7 @@
   },
   {
     "hash": "007A0131882D5F4E",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/poison/poison_pills_b.wl2?/poison_pills_sick_cap.prim].entitytype,[modules:/zglowinheritentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69626,7 +69626,7 @@
   },
   {
     "hash": "00AF50EA92473BF9",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fiberwire_medal_a_hanging.prim].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69641,7 +69641,7 @@
   },
   {
     "hash": "00A46E236C7DE826",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/trophy_a.wl2?/trophy_a.prim].entitytype).entitytype,[modules:/zclothcustommeshentity.class].entitytype,[modules:/zclothmodifieraspectentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69666,7 +69666,7 @@
   },
   {
     "hash": "0068EF9E719E9594",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fibewire_medal_a_on_ground.prim].entitytype,[modules:/zclothcustommeshentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69696,7 +69696,7 @@
   },
   {
     "hash": "0055D889674A2997",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/ui/controls/hud.swf?/hud.maptrackers.droppeditemmaptracker.uic].entitytype,[modules:/zuicontrollayoutlegacyaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69716,7 +69716,7 @@
   },
   {
     "hash": "007B3B2D2090C670",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fibewire_medal_a_wire.prim].entitytype,[modules:/zclothsheetentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69886,7 +69886,7 @@
   },
   {
     "hash": "0055E65BFDC323CA",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomcollectionentity.class].entitytype,[modules:/zgeomcollectionselectionaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -69991,7 +69991,7 @@
   },
   {
     "hash": "00723CFE06572417",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/gamecore/prophelpers.template?/prophelper_waterspill_scalable_evergreen.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70016,7 +70016,7 @@
   },
   {
     "hash": "0021450094D731D6",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/misc/fx_oilleaks_01.wl2?/fx_oilleak_2x2m_a.prim].entitytype,[modules:/zphysicssaveaspect.class].entitytype,[modules:/zhm5collisionlayerentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70066,12 +70066,12 @@
   },
   {
     "hash": "003B2C0EF64144D7",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/items/geometry/quest/courtyardcard_a.wl2?/courtyardcard_b.mat].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00E5D93F6F0292EE",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/water/fx_water_leaks_01.wl2?/fx_water_leak_3x3m_a.prim].entitytype,[modules:/zphysicssaveaspect.class].entitytype,[modules:/zhm5collisionlayerentity.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70116,7 +70116,7 @@
   },
   {
     "hash": "00A8833D38E94EAC",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/templates/shatter/fx_shatter_food.template?/fx_e_shatter_food_liquid.entitytemplate].entitytype,[modules:/zfixedorientationaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70176,7 +70176,7 @@
   },
   {
     "hash": "008CF7F25F539DED",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/items/geometry/quest/photographs_a.wl2?/photograph_lance_hsu.mat].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70286,7 +70286,7 @@
   },
   {
     "hash": "00951CC24EAC324B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/keywordaspect_filteredlistener.entitytemplate].entitytype,[assembly:/_pro/design/gamecore/keywords/keywordevergreen.template?/keyword_evergreen_selectable_item.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70391,7 +70391,7 @@
   },
   {
     "hash": "00BE196AFD439E15",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[assembly:/geometry/weapons/cc_banana.wl2?/banana_impact.mat].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70411,7 +70411,7 @@
   },
   {
     "hash": "004C310357622C9B",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/items/templates/melee/melee.template?/itemart_comicbook_a.entitytemplate].entitytype,[modules:/zitemplacementpreviewoverrideaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70591,7 +70591,7 @@
   },
   {
     "hash": "004894F2A4234604",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zdynamicphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/food/fruits_banana_piece.wl2?/banana_impact_piece.mat].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {

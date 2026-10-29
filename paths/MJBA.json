@@ -104966,7 +104966,7 @@
   },
   {
     "hash": "002C4A098C2160E3",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/019_weapon actions/vr_slide/hm_slide_sniperstealth.xmd?/rifle_slide_sniperstealth_var_02.xmdtake](cutsequence).pc_animation",
     "gameFlags": 8
   },
   {
@@ -108021,7 +108021,7 @@
   },
   {
     "hash": "006884473CAF91D9",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/019_weapon actions/vr_slide/hm_slide_singlepistol.xmd?/gun_slide_singlepistol_de.xmdtake](cutsequence).pc_animation",
     "gameFlags": 8
   },
   {

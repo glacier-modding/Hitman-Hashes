@@ -222288,7 +222288,7 @@
   },
   {
     "hash": "0087A488A1425E35",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/scissors_chinese_dragon_a.wl2?/scissors_a_00.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -222683,7 +222683,7 @@
   },
   {
     "hash": "003E87D6807C6FEF",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/poison_emeticvail_sick_a.wl2?/_poison_emeticvial_sick_d_handle_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224003,7 +224003,7 @@
   },
   {
     "hash": "00F9AC0BF50D12CB",
-    "path": "",
+    "path": "[assembly:/_pro/_licensed/quixel/geometry/props/food/spaghetti_sandwich_tfxndfdpa_a.wl2?/spaghetti_sandwich_complete_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -224108,7 +224108,7 @@
   },
   {
     "hash": "00D5699FD1531B59",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_ica_b.wl2?/suitcase_ica_b_rifle.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -224123,7 +224123,7 @@
   },
   {
     "hash": "00BB17D9C3BEDCE3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/filur/lillith/geometry/lillith_ring.wl2?/ring_filur.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224318,7 +224318,7 @@
   },
   {
     "hash": "0085C22644051F2B",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_ica_b.wl2?/suitcase_ica_b_rifle_col.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224338,7 +224338,7 @@
   },
   {
     "hash": "0049AA56A8BB048A",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_vanitypack_golden_a.wl2?/vanitypack_suitcase_golden_a_col.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224578,7 +224578,7 @@
   },
   {
     "hash": "00907F70EEC8C95A",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/items/tooth_ball_a.wl2?/tooth_ball_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224743,7 +224743,7 @@
   },
   {
     "hash": "000B6FA2357B2CF3",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_air_a/pistol_air_a.wl2?/pistol_air_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -224803,7 +224803,7 @@
   },
   {
     "hash": "00C1573BDA2201C9",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fiberwire_medal_wrapped_b.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224818,7 +224818,7 @@
   },
   {
     "hash": "00158D1EAAA81EBE",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fibewire_medal_a_wire.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224843,7 +224843,7 @@
   },
   {
     "hash": "00427330943032E3",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fibewire_medal_a_on_ground.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224863,12 +224863,12 @@
   },
   {
     "hash": "00729871B66E5F37",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/rubber_duck_knight_suit_01.wl2?/rubber_duck_knight_suit.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "003DAC8D441E1A23",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fiberwire_medal_wrapped_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224883,7 +224883,7 @@
   },
   {
     "hash": "0049653AF3C2ACFF",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_sport_a.wl2?/suitcase_sport_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -224923,7 +224923,7 @@
   },
   {
     "hash": "00E729764FB75D60",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_air_a/pistol_air_a.wl2?/pistol_air_pellet_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224938,7 +224938,7 @@
   },
   {
     "hash": "000C4284A52008B1",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/sniper_22lr_a/sniper_22lr_a.wl2?/sniper_22lr_a.linkedprim](bodypart).pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -224953,7 +224953,7 @@
   },
   {
     "hash": "008D1E23675BDCEB",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/sniper_22lr_a/sniper_22lr_a.wl2?/22lr_a_live_bullet.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -224998,12 +224998,12 @@
   },
   {
     "hash": "00522A2AF3A8F716",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_sport_a.wl2?/suitcase_sport_a_col.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "007A08B3F55B0B2B",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/trophy_a.wl2?/trophy_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225033,7 +225033,7 @@
   },
   {
     "hash": "006273048FE32CA3",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fiberwire_medal_a_hanging.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225048,7 +225048,7 @@
   },
   {
     "hash": "002653C967E57237",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/pomada_speaker_a/pomada_speaker_a.wl2?/pomada_speaker_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225078,7 +225078,7 @@
   },
   {
     "hash": "00BDD2D24D8460C2",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/sniper_22lr_a/sniper_22lr_a.wl2?/22lr_a_casing.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225093,17 +225093,17 @@
   },
   {
     "hash": "00A1667303903D20",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/pomada_knife_a.wl2?/folding_knife_001.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "00A9CB93E34155CF",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/rubber_duck_vuvuzela_a.wl2?/rubber_duck_vuvuzela_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "002748793EB2705C",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/sniper_22lr_a/sniper_22lr_a.wl2?/sniper_22lr_a_clip.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225113,7 +225113,7 @@
   },
   {
     "hash": "00015901819DF2FB",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/fiberwire_medal_a.wl2?/fibewire_medal_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225163,7 +225163,7 @@
   },
   {
     "hash": "001B9D636C30A7B7",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/ar_stealth/ar_stealth_a_stock_a_pomada.wl2?/ar_stealth_stock_a_pomada.linkedprim](bodypart).pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -225393,7 +225393,7 @@
   },
   {
     "hash": "0065BE6FD11BEDB8",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_classic_a/pistol_classic_a_muzzlebrake_d.wl2?/pistol_classic_a_muzzlebrake_d.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225438,7 +225438,7 @@
   },
   {
     "hash": "000C7663A9BADC72",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suncream_a.wl2?/suncream_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225478,7 +225478,7 @@
   },
   {
     "hash": "00488B21D7B32450",
-    "path": "",
+    "path": "[assembly:/runtimeresources/primitiveproxies/_pro/items/templates/containers/suitcases/suitcase_summer_croquet_contents_3f510408ce134312b708fc2c080cca7e.wl2?/suitcase_summer_croquet_contents.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225493,7 +225493,7 @@
   },
   {
     "hash": "002D500DFEA030BE",
-    "path": "",
+    "path": "[assembly:/geometry/g2/gizmos_voxelspaces.wl2?/gizmo_drone_direction.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225583,7 +225583,7 @@
   },
   {
     "hash": "004553F957D919D3",
-    "path": "",
+    "path": "[assembly:/geometry/g2/gizmos_voxelspaces.wl2?/gizmo_drone.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225668,7 +225668,7 @@
   },
   {
     "hash": "009DD50E4776EB9A",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_summer_a.wl2?/suitcase_summer_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -225678,7 +225678,7 @@
   },
   {
     "hash": "00BE64DD241F62B0",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_summer_a.wl2?/suitcase_summer_a_col.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225688,7 +225688,7 @@
   },
   {
     "hash": "00E3725C8EDCA1B7",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/water_balloon_a.wl2?/water_balloon_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -225713,7 +225713,7 @@
   },
   {
     "hash": "0076641DA73CAD4E",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/tools/cookie_distraction_a.wl2?/cookie_distraction_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -225733,7 +225733,7 @@
   },
   {
     "hash": "00DC38D88BB21376",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/paper_ingredient_list.wl2?/paper_ingredient_list.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225758,12 +225758,12 @@
   },
   {
     "hash": "00529347FCD64000",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_greentini_a.wl2?/suitcase_greentini_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
     "hash": "007B0FDF1090CA5D",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/rubber_duck_a_the_undying_.wl2?/rubber_duck_a_the_undying.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225813,7 +225813,7 @@
   },
   {
     "hash": "007DC1715BA4CB53",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suncream_a.wl2?/suncream_a_placed.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -225993,7 +225993,7 @@
   },
   {
     "hash": "00B028DD86291E40",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/suitcase_greentini_a.wl2?/suitcase_greentini_a_col.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226023,7 +226023,7 @@
   },
   {
     "hash": "00934BD5B1E827D5",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_classic_a/pistol_classic_a_slide_a_a_summer.wl2?/pistol_classic_a_slide_a_a_summer_skin.linkedprim](bodypart).pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -226083,7 +226083,7 @@
   },
   {
     "hash": "00C855B0E80C392A",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/croquet_mallet_a.wl2?/croquet_mallet_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226173,7 +226173,7 @@
   },
   {
     "hash": "00F6991D306009C9",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_classic_a/pistol_classic_a_reciever_a_summer.wl2?/pistol_classic_a_receiver_a_summer.linkedprim](bodypart).pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -226193,7 +226193,7 @@
   },
   {
     "hash": "001F19C6771EE8D3",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/rubber_duck_a_greentini_.wl2?/rubber_duck_a_greentini.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226308,7 +226308,7 @@
   },
   {
     "hash": "006136AC58B7B264",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/tools/coin_lucky_a.wl2?/coin_lucky_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226378,7 +226378,7 @@
   },
   {
     "hash": "003899D0C7C9CA65",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/microphone_47_a.wl2?/microphone_47_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226533,7 +226533,7 @@
   },
   {
     "hash": "0024403DA5D6732C",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/shotgun_shamrock_a/shotgun_shamrock_a.wl2?/shotgun_shamrock_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -226543,7 +226543,7 @@
   },
   {
     "hash": "008041566AD92A30",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_50ae_a/pistol_50ae_a.wl2?/pistol_50ae_a_magazine_full.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226553,12 +226553,12 @@
   },
   {
     "hash": "001937A99ECE173C",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/mjolnir_a.wl2?/mjolnir.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "00D19E08FDDC58AA",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_emeticvial_sick_a_lidroot.wl2?/vr_emeticvial_sick_a_lidroot.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226578,7 +226578,7 @@
   },
   {
     "hash": "0072003802972EED",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/hitman_comic_a.wl2?/hitman_comic_a_placed.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226593,12 +226593,12 @@
   },
   {
     "hash": "001960DB0B952D1E",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_pill_red.wl2?/vr_pill_red.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "00B05E1934A256D7",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/sword_tactical_a.wl2?/sword_tactical_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226608,12 +226608,12 @@
   },
   {
     "hash": "00B5C533A8929EB4",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/shotgun_shamrock_a/shotgun_shamrock_a.wl2?/shotgunshell_shamrock_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "00AB571929C2A0FE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/accessories/table_tennis_ball_a.wl2?/table_tennis_ball_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226628,7 +226628,7 @@
   },
   {
     "hash": "00AEB9CEB9970ADD",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_pill_yellow.wl2?/vr_pill_yellow.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226648,7 +226648,7 @@
   },
   {
     "hash": "00460082A6BB4A56",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/vr_grenade_pin_a.wl2?/vr_grenade_pin_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226693,7 +226693,7 @@
   },
   {
     "hash": "00068AD5D397E973",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_pill_white.wl2?/vr_pill_white.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226773,12 +226773,12 @@
   },
   {
     "hash": "0065786197C0A0DB",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/tools/shamrock_bunny_a.wl2?/shamrock_rabbit_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "00AEC25C9921EF73",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_50ae_a/pistol_50ae_a.wl2?/pistol_50ae_a_bullet.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226808,12 +226808,12 @@
   },
   {
     "hash": "00D3346C603AD192",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/streamer_board_a.wl2?/streamer_board_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "0004D8B43F319B3E",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/tools/shamrock_bunny_a.wl2?/shamrock_rabbit_a_box.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226828,7 +226828,7 @@
   },
   {
     "hash": "00AE540C2046D5C3",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_50ae_a/pistol_50ae_a.wl2?/pistol_50ae_a.linkedprim].pc_linkedprim",
     "gameFlags": 8
   },
   {
@@ -226878,7 +226878,7 @@
   },
   {
     "hash": "007A29DBD672187C",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_pill_blue.wl2?/vr_pill_blue.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226888,7 +226888,7 @@
   },
   {
     "hash": "00601B9DB1D99AB1",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/cane_comic_a.wl2?/cane_comic_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -226953,7 +226953,7 @@
   },
   {
     "hash": "009DFC330BD941FE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/foliage/grapevine_a/grapecluster_a_melee.wl2?/grapecluster_a_melee.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227013,7 +227013,7 @@
   },
   {
     "hash": "002E7929BA2482D8",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_ratpoison_vial_a.wl2?/vr_ratpoison_vial_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227023,7 +227023,7 @@
   },
   {
     "hash": "003DBA018E6BF1D2",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_50ae_a/pistol_50ae_a.wl2?/pistol_50ae_a_bullet_spent.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227038,7 +227038,7 @@
   },
   {
     "hash": "00646F6945F39DE8",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/gadget/hitman_comic_a.wl2?/hitman_comic_a_wrapped.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227078,12 +227078,12 @@
   },
   {
     "hash": "007D53D5B1A1C551",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_pill_a.wl2?/vr_pill_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "0073349F867A6324",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/shotgun_shamrock_a/shotgun_shamrock_a.wl2?/shotgunshell_shamrock_a_spent.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227118,7 +227118,7 @@
   },
   {
     "hash": "009A624F45FBBACD",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_emeticvial_sick_b_lidroot.wl2?/vr_emeticvial_sick_b_lidroot.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227138,7 +227138,7 @@
   },
   {
     "hash": "001D27D1F43B65DB",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/vr_grenade_spoon_a.wl2?/vr_grenade_spoon_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227153,7 +227153,7 @@
   },
   {
     "hash": "00C2CB82A4986D8A",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_ratpoison_lid_a.wl2?/vr_ratpoison_lid_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227168,7 +227168,7 @@
   },
   {
     "hash": "0090B3A844058652",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/vr_grenade_fuze_a.wl2?/vr_grenade_fuze_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227188,12 +227188,12 @@
   },
   {
     "hash": "00DC1F5679022CD3",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_emeticvial_sick_c_lidroot.wl2?/vr_emeticvial_sick_c_lidroot.prim].pc_prim",
     "gameFlags": 8
   },
   {
     "hash": "00F44A3BE1A6D609",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_50ae_a/pistol_50ae_a.wl2?/pistol_50ae_a_magazine_empty.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227208,7 +227208,7 @@
   },
   {
     "hash": "00789BC1550E6B35",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/knife_survival_a.wl2?/knife_survival_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227228,7 +227228,7 @@
   },
   {
     "hash": "007C8F60EC66AAED",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/shamrock_game_controller_a.wl2?/shamrock_game_controller_a.prim].pc_prim",
     "gameFlags": 8
   },
   {
@@ -227243,7 +227243,7 @@
   },
   {
     "hash": "00D990AE61A8E5B2",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/rubber_duck_shamrock_a/rubber_duck_shamrock_a.wl2?/rubber_duck_shamrock_a.prim].pc_prim",
     "gameFlags": 8
   },
   {

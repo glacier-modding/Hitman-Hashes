@@ -2146055,7 +2146055,7 @@
   },
   {
     "hash": "0029BFE60B2499B1",
-    "path": "",
+    "path": "[assembly:/sound/wwise/originals/sfx/dlc_dropduck_activation_lp.wav](default,307920190).pc_wem",
     "gameFlags": 8,
     "wemId": "307920190"
   },
@@ -2146085,19 +2146085,19 @@
   },
   {
     "hash": "007963F6FF9BD8F2",
-    "path": "",
+    "path": "[assembly:/sound/wwise/originals/sfx/et_pomada/et_pomada_target_walkout_music_boombox.wav](default,920449727).pc_wem",
     "gameFlags": 8,
     "wemId": "920449727"
   },
   {
     "hash": "00DBDAB40F82FD8E",
-    "path": "",
+    "path": "[assembly:/sound/wwise/originals/sfx/et_pomada/blackandyellow_arrangement_boombox.wav](default,147433356).pc_wem",
     "gameFlags": 8,
     "wemId": "147433356"
   },
   {
     "hash": "00A04C5126BB49DA",
-    "path": "",
+    "path": "[assembly:/sound/wwise/originals/sfx/music/menu _music_v2b.wav](music,38532028).pc_wem",
     "gameFlags": 8,
     "wemId": "38532028"
   },

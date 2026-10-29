@@ -52741,7 +52741,7 @@
   },
   {
     "hash": "004E69B473C69733",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/elusive_s3/et_pomada.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
@@ -52751,12 +52751,12 @@
   },
   {
     "hash": "00D1BD0FE0D9150A",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/challenge_s3/challenges_et_greentini.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00AD8D1929406A64",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/special_s3/sa_greentini.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
@@ -52766,27 +52766,27 @@
   },
   {
     "hash": "001DA376FAAD4F23",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/special_s3/sa_sambuca.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "0049D39007B5AEE6",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/arcade_s3/arcade_chayote.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "008F786B398CD0F3",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/elusive_s3/et_shamrock.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "003F6A48C8AD8BAD",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/special_s3/sa_shamrock.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00C4EEC3E516C69D",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/challenge_s3/challenges_et_shamrock.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   }
 ]

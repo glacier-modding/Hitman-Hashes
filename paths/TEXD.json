@@ -249083,7 +249083,7 @@
   },
   {
     "hash": "007EF878FBAAB859",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/scissor_chinese_dragon_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -249123,7 +249123,7 @@
   },
   {
     "hash": "001851B1B8A7E002",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/scissor_chinese_dragon_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -249198,7 +249198,7 @@
   },
   {
     "hash": "00763D96A3E093F8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/crowbar_purple_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -249273,7 +249273,7 @@
   },
   {
     "hash": "0029BEE578DD73F7",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/poisons/poison_emeticvail_sick_a.texture?/diffuse_e.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -249438,7 +249438,7 @@
   },
   {
     "hash": "00E41E3290AA0218",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/scissor_chinese_dragon_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -249498,7 +249498,7 @@
   },
   {
     "hash": "00483B623E602B1E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/food/star_apple_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -249718,7 +249718,7 @@
   },
   {
     "hash": "009447F127A8B7DD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/crowbar_purple_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250018,7 +250018,7 @@
   },
   {
     "hash": "00AA04C259668008",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_creator_program.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250058,7 +250058,7 @@
   },
   {
     "hash": "00E5E642BA85AB76",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/school/chainsaw_spring_rider_a/chainsaw_item_a.texture?/diff_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250128,7 +250128,7 @@
   },
   {
     "hash": "00D88BCAAC32A112",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/npc_pistol_standard/npc_pistol_bellini/npc_pistol_bellini.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250193,7 +250193,7 @@
   },
   {
     "hash": "003751151FDDD2C3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/papers/polaroid_bellini_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250218,7 +250218,7 @@
   },
   {
     "hash": "00668FB3B5543C7F",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/npc_pistol_standard/npc_pistol_bellini/npc_pistol_bellini.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250238,7 +250238,7 @@
   },
   {
     "hash": "00B3D7C7B0F4E21D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/npc_pistol_standard/npc_pistol_bellini/npc_pistol_bellini.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250418,7 +250418,7 @@
   },
   {
     "hash": "00EF14D8526E46A0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/papers/polaroid_bellini_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250588,7 +250588,7 @@
   },
   {
     "hash": "00EB2F66D8966CA3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/papers/polaroid_bellini_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250653,7 +250653,7 @@
   },
   {
     "hash": "00A8BCDB44B7CF77",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/papers/polaroid_bellini_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250743,12 +250743,12 @@
   },
   {
     "hash": "005EC9E34804EE31",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/school/chainsaw_spring_rider_a/chainsaw_item_a.texture?/norm_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "0055B7A6A92F8F33",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/npc_pistol_standard/npc_pistol_bellini/npc_pistol_bellini.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250828,7 +250828,7 @@
   },
   {
     "hash": "00543A6A78D7B51F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/school/chainsaw_spring_rider_a/chainsaw_item_a.texture?/spec_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250858,7 +250858,7 @@
   },
   {
     "hash": "0014F42AF634B420",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_bl_suit.texture?/emissive_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250868,7 +250868,7 @@
   },
   {
     "hash": "00849730B12F206E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_bl_suit.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250893,7 +250893,7 @@
   },
   {
     "hash": "00902FE4CEBD1D4B",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/filur/lillith/texture/fem_reg_ring_filur_texturefiles.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250928,7 +250928,7 @@
   },
   {
     "hash": "00FBADC40B2F84F3",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/foliage/fernstem_filur.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -250978,12 +250978,12 @@
   },
   {
     "hash": "0081CB0CFBFD68EA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/filur/lillith/texture/fem_reg_ring_filur_texturefiles.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "003189AE9D959F86",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/foliage/fernstem_filur.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251038,7 +251038,7 @@
   },
   {
     "hash": "00A636BF7A73B2B2",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/npc_pistol_standard/npc_pistol_standard_filur.texture?/specular_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251053,12 +251053,12 @@
   },
   {
     "hash": "007C060E3646942A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/wrench_a.texture?/diffuse_d.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "006EF96E9813DA2A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_tuxedo.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251113,7 +251113,7 @@
   },
   {
     "hash": "0085BA505177B359",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_tuxedo.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251128,7 +251128,7 @@
   },
   {
     "hash": "00DB965D910979C0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_milla_suit.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251168,7 +251168,7 @@
   },
   {
     "hash": "00FC4FEF5442E563",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/screwdriver_purple_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251218,7 +251218,7 @@
   },
   {
     "hash": "00ECA5F678448B13",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_tuxedo.texture?/emissive_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251228,12 +251228,12 @@
   },
   {
     "hash": "001551A9B3A9C31C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_milla_suit.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "006710C32EB47D1E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_tuxedo.texture?/emissive_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251248,7 +251248,7 @@
   },
   {
     "hash": "0091A642A88AA2EE",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_tuxedo.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251328,7 +251328,7 @@
   },
   {
     "hash": "00E1855F2FEC7409",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/npc_pistol_standard/npc_pistol_standard_filur.texture?/normal_b.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251338,7 +251338,7 @@
   },
   {
     "hash": "00AEECE554678D72",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_bl_suit.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251408,7 +251408,7 @@
   },
   {
     "hash": "00D01DFEAA0659B1",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_milla_suit.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251453,7 +251453,7 @@
   },
   {
     "hash": "008586FB1A2D6A17",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/npc_pistol_standard/npc_pistol_standard_filur.texture?/ao_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251468,7 +251468,7 @@
   },
   {
     "hash": "004A1F75F17BF01E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/screwdriver_purple_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251513,7 +251513,7 @@
   },
   {
     "hash": "00F1DA802FF70E64",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/screwdriver_purple_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251558,7 +251558,7 @@
   },
   {
     "hash": "001A5CC945C7941E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_tuxedo.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251618,7 +251618,7 @@
   },
   {
     "hash": "00C2A6756CFC34F1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/foliage/fernstem_filur.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251633,7 +251633,7 @@
   },
   {
     "hash": "008947FBB56DD725",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_bl_suit.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251658,7 +251658,7 @@
   },
   {
     "hash": "00B7D221C7F765A7",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_bl_suit.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251683,7 +251683,7 @@
   },
   {
     "hash": "00D9B0BF55958DFE",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_milla_suit.texture?/emissive_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251703,12 +251703,12 @@
   },
   {
     "hash": "00EF10E599228D4D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_milla_suit.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "006B66DE4165E812",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/filur/lillith/texture/fem_reg_ring_filur_texturefiles.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251718,7 +251718,7 @@
   },
   {
     "hash": "00F617D9F6782EE4",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_geforce_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251748,7 +251748,7 @@
   },
   {
     "hash": "00E36BC906E169ED",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_pomada.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251773,7 +251773,7 @@
   },
   {
     "hash": "00D1E5D8B6428279",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_02.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251783,7 +251783,7 @@
   },
   {
     "hash": "003E5E428241C8BC",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_pomada.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251798,17 +251798,17 @@
   },
   {
     "hash": "0094A9B089F1B617",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/pomada_knife_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "000582006F449E81",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_soccer_ball_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00524554712574FE",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_geforce_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251838,7 +251838,7 @@
   },
   {
     "hash": "000D1DDB695A10FC",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_knight_suit.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251848,7 +251848,7 @@
   },
   {
     "hash": "00E559A00FBEB1AC",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/fiberwire_medal_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251863,12 +251863,12 @@
   },
   {
     "hash": "00ACFD654389E1A6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_stealth_a/ar_stealth_stock_a_pomada.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "001CE5ED534BA52F",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_knight_suit.texture?/emissive_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251898,7 +251898,7 @@
   },
   {
     "hash": "009B27401D9BC805",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/usbdongle_a.texture?/diffuse_e.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251918,12 +251918,12 @@
   },
   {
     "hash": "008243F9D8BBE69D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/fiberwire_medal_a.texture?/normal_b.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00FD91A078CEAC45",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_01.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251948,7 +251948,7 @@
   },
   {
     "hash": "003DB0E0121F9038",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_sport_a_inside.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251968,7 +251968,7 @@
   },
   {
     "hash": "0077E93233D25CF6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_knight_suit.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251978,7 +251978,7 @@
   },
   {
     "hash": "0007ADECEB3970FD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_01.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -251998,7 +251998,7 @@
   },
   {
     "hash": "00056EA26D53493B",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_drop_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252013,7 +252013,7 @@
   },
   {
     "hash": "0013F5103790576F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronic/transistorradio_a_pomada.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252028,7 +252028,7 @@
   },
   {
     "hash": "002F0EB0A9896D15",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_pomada.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252063,7 +252063,7 @@
   },
   {
     "hash": "000AD1966DFA5916",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/trophy_a_text_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252078,12 +252078,12 @@
   },
   {
     "hash": "009D944C3EF263F5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/trophy_a_text_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "002019B1DF137751",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_geforce_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252098,7 +252098,7 @@
   },
   {
     "hash": "001887F204BA5D9B",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_air_a/pistol_air_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252133,12 +252133,12 @@
   },
   {
     "hash": "00758C6DB189E92E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_soccer_ball_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "007F963F10397936",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/trophy_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252153,7 +252153,7 @@
   },
   {
     "hash": "00FBC739D6D7C91A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_knight_suit.texture?/emissive_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252163,7 +252163,7 @@
   },
   {
     "hash": "00CD91F5F32D807A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_drop_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252183,12 +252183,12 @@
   },
   {
     "hash": "00AA3DBD12282AC6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_drop_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00265593A2F834A1",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/fiberwire_medal_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252213,12 +252213,12 @@
   },
   {
     "hash": "00FCCCDC4AE5B1B4",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_geforce_a.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00DE55371A2DF65C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_vuvuzela.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252228,7 +252228,7 @@
   },
   {
     "hash": "0005C4AAFF08C7DD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/trophy_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252243,7 +252243,7 @@
   },
   {
     "hash": "000849A867C6138E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/fiberwire_medal_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252258,27 +252258,27 @@
   },
   {
     "hash": "000A4B215D68B633",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_sport_a_inside.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00CE896160039F3A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_01.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "006428015850DDCD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_sport_a_outside.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00FBE7C886962B22",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_02.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "004E53E884E11A8D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/trophy_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252288,12 +252288,12 @@
   },
   {
     "hash": "008E867CBCB26214",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_vuvuzela.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00C2FB9DDAEE710F",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_sport_a_outside.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252328,7 +252328,7 @@
   },
   {
     "hash": "00983403CFD48D79",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/usbdongle_a.texture?/specular_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252358,12 +252358,12 @@
   },
   {
     "hash": "00FC0EBDC982AC11",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_knight_suit.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "009F2592B50409B8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronic/transistorradio_a_pomada.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252393,7 +252393,7 @@
   },
   {
     "hash": "005EF5DBEB5A1A1D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/fiberwire_medal_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252433,7 +252433,7 @@
   },
   {
     "hash": "00F2D7AFA1982D30",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_22lr_a/sniper_22lr_a_mt_02.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252443,7 +252443,7 @@
   },
   {
     "hash": "00A91A442F73D0C6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_air_a/pistol_air_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252488,7 +252488,7 @@
   },
   {
     "hash": "00194CF11C77CCEC",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_knight_suit.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252498,7 +252498,7 @@
   },
   {
     "hash": "005EFE7ABE1B80D7",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_drop_a.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252523,7 +252523,7 @@
   },
   {
     "hash": "00B616FA22E83B28",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/pomada_knife_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252543,7 +252543,7 @@
   },
   {
     "hash": "002C4DFA529CAAB5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_air_a/pistol_air_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252623,12 +252623,12 @@
   },
   {
     "hash": "00760FD32B1EA778",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_vuvuzela.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00034F6DA070F967",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_sport_a_outside.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252693,7 +252693,7 @@
   },
   {
     "hash": "003572B82153392E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_soccer_ball_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252703,7 +252703,7 @@
   },
   {
     "hash": "00C5D80716C44248",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/pomada_knife_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252713,12 +252713,12 @@
   },
   {
     "hash": "003A250ACE55149E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_sport_a_inside.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00DB726E99B95FB0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/electronic/transistorradio_a_pomada.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252768,7 +252768,7 @@
   },
   {
     "hash": "00AEC408A76CBD83",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_greentini_a_outside.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252798,7 +252798,7 @@
   },
   {
     "hash": "001306093F51ADDD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_the_undying.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252813,7 +252813,7 @@
   },
   {
     "hash": "0027DA281FA702F6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_summer_a_outside.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252888,7 +252888,7 @@
   },
   {
     "hash": "007EE87A551A3003",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/scopes/scope_sniper_a/scope_sniper_a_summer_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252918,7 +252918,7 @@
   },
   {
     "hash": "00E318A1F811E350",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_muzzlebrake_d.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252928,12 +252928,12 @@
   },
   {
     "hash": "0091C9DF1E8AC9AD",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_mallet_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00598BF3569C3275",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/muzzlebrakes/sniper_classic_muzzlebrake_b/sniper_classic_muzzlebrake_b_summer.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252968,7 +252968,7 @@
   },
   {
     "hash": "00BA47D8082B5C28",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/cookie_greentini_a.texture?/specular_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -252978,7 +252978,7 @@
   },
   {
     "hash": "00F8572F0BB661B8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_leather_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253008,7 +253008,7 @@
   },
   {
     "hash": "009F9B717BBA3584",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_slide_a_a_summer.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253023,12 +253023,12 @@
   },
   {
     "hash": "00117736E7DB4681",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_grip_summer.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00AA0F33ECC70BD6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/modular_explosive_a_proximity_purple.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253068,12 +253068,12 @@
   },
   {
     "hash": "00B5CEBB22DA5549",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/croquet_mallet_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00A6612D1F98CCC4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/markings/croquet_set_lines_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253088,7 +253088,7 @@
   },
   {
     "hash": "0084B45C9323CA9F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/foliage/grapevine_a/(live)grapematerial_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253103,7 +253103,7 @@
   },
   {
     "hash": "005DCC5DEEA5309E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/markings/croquet_set_lines_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253158,12 +253158,12 @@
   },
   {
     "hash": "0027DEA15BA0CA9A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/cookie_greentini_a.texture?/normal_b.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00BC74D886C0DC35",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_greentini_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253188,7 +253188,7 @@
   },
   {
     "hash": "00945275B62AC8A2",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suncream_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253213,7 +253213,7 @@
   },
   {
     "hash": "00ABF7638524AF37",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/scopes/scope_sniper_a/scope_sniper_a_summer_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253263,7 +253263,7 @@
   },
   {
     "hash": "00280B95D9CD875D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/paper_ingredient_list.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253308,7 +253308,7 @@
   },
   {
     "hash": "002DB0187F4B3089",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/diffuse_e.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253328,7 +253328,7 @@
   },
   {
     "hash": "00A22311FF370927",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_receiver_a_summer.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253338,12 +253338,12 @@
   },
   {
     "hash": "0053A090F2DE6635",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/croquet_mallet_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00A311B04679D808",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/microphone_47_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253378,7 +253378,7 @@
   },
   {
     "hash": "00D02B206B265D56",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_grip_summer.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253393,7 +253393,7 @@
   },
   {
     "hash": "0000648EB7322C37",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_greentini_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253413,7 +253413,7 @@
   },
   {
     "hash": "0051682A3FDB02A5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/photograph_hans_lucht_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253438,7 +253438,7 @@
   },
   {
     "hash": "005ECDF1C4B04D7A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/diffuse_c.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253463,7 +253463,7 @@
   },
   {
     "hash": "008E96A5A3B02249",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_mallet_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253478,7 +253478,7 @@
   },
   {
     "hash": "00A1E38C4AE50C2C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/muzzlebrakes/sniper_classic_muzzlebrake_b/sniper_classic_muzzlebrake_b_summer.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253493,7 +253493,7 @@
   },
   {
     "hash": "00D3B604D46C5C9A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/paper_ingredient_list.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253548,7 +253548,7 @@
   },
   {
     "hash": "0005C7E6A6F9D9AD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_grip_summer.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253563,12 +253563,12 @@
   },
   {
     "hash": "00F18EC5870510C6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_the_undying.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00FF62A2D80A147E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_greentini_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253578,7 +253578,7 @@
   },
   {
     "hash": "00573888F4F44AA4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/suncream_splatter_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253588,7 +253588,7 @@
   },
   {
     "hash": "006F034D9EED3200",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253598,7 +253598,7 @@
   },
   {
     "hash": "00C06B94EE77F0BC",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253633,7 +253633,7 @@
   },
   {
     "hash": "00A60E8C4CD7DF4D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_summer_a_outside.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253713,7 +253713,7 @@
   },
   {
     "hash": "009427B973B70A2D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/paper_ingredient_list.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253738,7 +253738,7 @@
   },
   {
     "hash": "00F5BB792B22804C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/silencers/pistol_silencer_d_greentini.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253778,7 +253778,7 @@
   },
   {
     "hash": "00D28F338484F5F4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_mallet_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253793,7 +253793,7 @@
   },
   {
     "hash": "00A04E312F6A6AFD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_classic_a/sniper_classic_a_sieger300_skin_summer_a.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253823,12 +253823,12 @@
   },
   {
     "hash": "0024AE75008AD7C0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/diffuse_d.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00ABD5E927C08BCF",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_classic_a/sniper_classic_a_sieger300_skin_summer_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253838,7 +253838,7 @@
   },
   {
     "hash": "00DA03A7083605C0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_classic_a/sniper_classic_a_sieger300_skin_summer_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253863,7 +253863,7 @@
   },
   {
     "hash": "00AEA8F6A1FF22F7",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/coin_lucky_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253878,7 +253878,7 @@
   },
   {
     "hash": "00D95DA4AECD062F",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_receiver_a_summer.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253888,7 +253888,7 @@
   },
   {
     "hash": "00C52639500F5553",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/coin_lucky_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -253938,7 +253938,7 @@
   },
   {
     "hash": "00B1F80C2BB36BD6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/photograph_hans_lucht_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254003,7 +254003,7 @@
   },
   {
     "hash": "00304DC7AE0FF038",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_a_the_undying.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254023,7 +254023,7 @@
   },
   {
     "hash": "003FF759A661C138",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_greentini_a_outside.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254038,7 +254038,7 @@
   },
   {
     "hash": "00EBE27B22E02AA4",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/water_balloon_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254053,7 +254053,7 @@
   },
   {
     "hash": "00EBB09F3FA9BF9B",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_muzzlebrake_d.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254113,12 +254113,12 @@
   },
   {
     "hash": "006042F296105D4F",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/suncream_splatter_a.texture?/height_a.tex](asheightmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "0010256AA294DE51",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/croquet_mallet_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254133,7 +254133,7 @@
   },
   {
     "hash": "00D4244C35FBAB1A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_grip_summer.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254148,12 +254148,12 @@
   },
   {
     "hash": "00EA000DBF620D03",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/scopes/scope_sniper_a/scope_sniper_a_summer_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00813AE32573C6D7",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/silencers/pistol_silencer_d_greentini.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254163,7 +254163,7 @@
   },
   {
     "hash": "0069AFDEE73DC780",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/microphone_47_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254193,12 +254193,12 @@
   },
   {
     "hash": "009B3ABC19011E65",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/invitation_card_greentini_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00EF947848331AB5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suncream_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254208,7 +254208,7 @@
   },
   {
     "hash": "004350B45365CE13",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/water_balloon_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254258,7 +254258,7 @@
   },
   {
     "hash": "0072D993AEA60DFF",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/invitation_card_greentini_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254268,12 +254268,12 @@
   },
   {
     "hash": "0030DFD7BCC6AB44",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_slide_a_a_summer.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "008A3B23FC1D0D6D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_greentini_a_outside.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254283,17 +254283,17 @@
   },
   {
     "hash": "00E48E60DAF8E5F0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/muzzlebrakes/sniper_classic_muzzlebrake_b/sniper_classic_muzzlebrake_b_summer.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "004EB8938A66395A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/cookie_greentini_a.texture?/diffuse_d.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "0060405E900DAD49",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/diffuse_f.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254343,7 +254343,7 @@
   },
   {
     "hash": "0094A4B3D7FE55D2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254358,12 +254358,12 @@
   },
   {
     "hash": "00322F6805FD0B91",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/masks/pistol_classic_a_slide_a_mask_greentini.texture?/mask_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00BBD8010CA8DA17",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/water_balloon_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254398,12 +254398,12 @@
   },
   {
     "hash": "00A3D91F486004E4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/suncream_splatter_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00CC25EFA2A747F0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_muzzlebrake_d.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254493,12 +254493,12 @@
   },
   {
     "hash": "00F041D55AD9DB2A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/silencers/pistol_silencer_d_greentini.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00EC46F8C9F1CDE9",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/microphone_47_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254593,7 +254593,7 @@
   },
   {
     "hash": "00EA7FB595375869",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/invitation_card_greentini_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254653,7 +254653,7 @@
   },
   {
     "hash": "00DE850E58EEE126",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/leisure/croquet_set_ball_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254663,7 +254663,7 @@
   },
   {
     "hash": "00A9DD6A7DFAFE44",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/accesories/muzzlebrakes/sniper_classic_muzzlebrake_b/sniper_classic_muzzlebrake_b_summer.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254683,7 +254683,7 @@
   },
   {
     "hash": "006A6F06BF612ACC",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_leather_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254698,7 +254698,7 @@
   },
   {
     "hash": "006AFF42D9488DBF",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_summer_a_outside.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254738,7 +254738,7 @@
   },
   {
     "hash": "00A73A99407B0AFF",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/photograph_hans_lucht_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254763,7 +254763,7 @@
   },
   {
     "hash": "00A7A9E4E52EC522",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suncream_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254813,7 +254813,7 @@
   },
   {
     "hash": "00863D599C90FD31",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/sniper_classic_a/sniper_classic_a_sieger300_skin_summer_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254823,7 +254823,7 @@
   },
   {
     "hash": "006027ABDD1F914C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/decals/suncream_splatter_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254888,7 +254888,7 @@
   },
   {
     "hash": "00B4C70A486E9DF0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/suitcase_leather_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254913,12 +254913,12 @@
   },
   {
     "hash": "0001A28180A09329",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/shotgun_shamrock_a/shell_12gauge_shamrock.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00818BED48C1806F",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254933,7 +254933,7 @@
   },
   {
     "hash": "004D2515D391BBD2",
-    "path": "",
+    "path": "[assembly:/textures/props/inside_02/l08b_penthouse_fruitbowl_a.texture?/specular_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -254968,12 +254968,12 @@
   },
   {
     "hash": "0028F141D7F06DD0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/streamer_board_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "001F54FEC006F708",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/food/banan_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255013,12 +255013,12 @@
   },
   {
     "hash": "008E5ECE54F2C87C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_shamrock_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00199BA53E0D73B2",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_shamrock_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255028,7 +255028,7 @@
   },
   {
     "hash": "00406B8C03F9BC9D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a.texture?/diffuse_d.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255043,7 +255043,7 @@
   },
   {
     "hash": "00D95436652AB156",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/streamer_board_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255098,17 +255098,17 @@
   },
   {
     "hash": "00DE6E14E863EB0A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/accessories/table_tennis_ball_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00082D9B167B48DD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/shotgun_shamrock_a/shotgun_shamrock_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "007BE9BAF55EDF85",
-    "path": "",
+    "path": "[assembly:/textures/props/inside_02/l08b_penthouse_fruitbowl_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255128,12 +255128,12 @@
   },
   {
     "hash": "00AA63E8856443E3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/shotgun_shamrock_a/shotgun_shamrock_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00121013E4B0E2A5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/masks/pistol_classic_a_wildroses_slide_a_mask.texture?/mask_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255153,7 +255153,7 @@
   },
   {
     "hash": "0086C4370B8AFDA0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/masks/pistol_classic_a_wildroses_slide_a_mask.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255163,7 +255163,7 @@
   },
   {
     "hash": "006D70BF2FE1BBDD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/shotgun_shamrock_a/shell_12gauge_shamrock.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255183,7 +255183,7 @@
   },
   {
     "hash": "00BF0C68D7BC8501",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_muzzlebrake_d.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255198,37 +255198,37 @@
   },
   {
     "hash": "00EB41A6797362A6",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/masks/pistol_classic_a_wildroses_frame_a_mask.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00310A3ADCD0AC97",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/paracord_tilable_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "007FFAE3ADF4014D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/sword_tactical_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00CD3A68B0764306",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/masks/pistol_classic_a_wildroses_silencer_a_mask.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00A62A0779EBD7F0",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/streamer_board_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "005A435674BE6E81",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/knife_survival_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00B0976A0184FB24",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/shamrock_game_controller_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255238,7 +255238,7 @@
   },
   {
     "hash": "00769C3B3BBEDD01",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_50ae_a/pistol_50ae_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255258,22 +255258,22 @@
   },
   {
     "hash": "003774EE60FAF848",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a.texture?/diffuse_c.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00AC23ED003374CC",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_wildroses_grip_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "002F3508D9DF5509",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_wildroses_grip_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "000DD45BB1F2204A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_wildroses_grip_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255288,7 +255288,7 @@
   },
   {
     "hash": "0041E96554470975",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/paracord_tilable_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255328,7 +255328,7 @@
   },
   {
     "hash": "0001BD3485E28B39",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/shamrock_game_controller_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255343,17 +255343,17 @@
   },
   {
     "hash": "00E3CE290E344255",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/shotgun_shamrock_a/shotgun_shamrock_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "0098558E3F0318BD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/sword_tactical_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "004E1C2DC4CED1A2",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/knife_survival_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255363,7 +255363,7 @@
   },
   {
     "hash": "001956EBCE413D12",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/pistol_classic_a_muzzlebrake_d.texture?/normal_b.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255403,7 +255403,7 @@
   },
   {
     "hash": "00FF0FE6DB687EF3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_50ae_a/pistol_50ae_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255413,7 +255413,7 @@
   },
   {
     "hash": "00E224A7D79BE024",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255423,7 +255423,7 @@
   },
   {
     "hash": "00F2918C47B9261E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/masks/pistol_classic_a_wildroses_silencer_a_mask.texture?/mask_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255438,7 +255438,7 @@
   },
   {
     "hash": "00BF372F60B216AE",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_shamrock_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255463,7 +255463,7 @@
   },
   {
     "hash": "002E0BD24527B566",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a_box.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255483,7 +255483,7 @@
   },
   {
     "hash": "004547B38B3728F2",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/paracord_tilable_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255498,7 +255498,7 @@
   },
   {
     "hash": "0001CFE4E066947A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_50ae_a/pistol_50ae_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255528,7 +255528,7 @@
   },
   {
     "hash": "00A40573DA0C9217",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/sword_tactical_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255538,7 +255538,7 @@
   },
   {
     "hash": "0066171E51B8A319",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/gadget/hitman_comic_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255563,12 +255563,12 @@
   },
   {
     "hash": "00A6C1D31D67EADA",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/knife_survival_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "0043E88A3C2BA30D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a_box.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255598,7 +255598,7 @@
   },
   {
     "hash": "00667EE4BCB2F1A9",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255623,7 +255623,7 @@
   },
   {
     "hash": "00678D900DD52EAB",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255643,7 +255643,7 @@
   },
   {
     "hash": "008653ACC17E9738",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/shamrock_bunny_a_box.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255708,7 +255708,7 @@
   },
   {
     "hash": "00B83D319DC02918",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/shotgun_shamrock_a/shell_12gauge_shamrock.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255718,7 +255718,7 @@
   },
   {
     "hash": "0051C229B0CBC9C4",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/pistol_classic_a/masks/pistol_classic_a_wildroses_frame_a_mask.texture?/mask_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255728,7 +255728,7 @@
   },
   {
     "hash": "00B49157B37BDB94",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/shamrock_game_controller_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   }
 ]
