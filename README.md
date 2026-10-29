@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,644,100-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-89.82%25-yellow.svg)
-![Formats Badge](https://img.shields.io/badge/Formats%20completed-23/71-blue.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.08%25-green.svg)
+![Formats Badge](https://img.shields.io/badge/Formats%20completed-24/71-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
-![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.97%25-yellow.svg)
+![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.21%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.68%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.48%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.06%25-yellow.svg)
@@ -44,7 +44,7 @@
 |ENUM     |2              |2            |100.00%           |0    |0.00%          |
 |ERES     |407            |406          |99.75%            |0    |0.00%          |
 |FXAC     |4              |4            |100.00%           |0    |0.00%          |
-|FXAS     |371132         |366198       |98.67%            |6    |0.00%          |
+|FXAS     |371132         |368331       |99.25%            |6    |0.00%          |
 |GFXF     |44             |44           |100.00%           |0    |0.00%          |
 |GFXI     |13378          |13110        |98.00%            |2    |0.01%          |
 |GFXV     |339            |332          |97.94%            |0    |0.00%          |
@@ -86,7 +86,7 @@
 |WSWB     |65             |64           |98.46%            |0    |0.00%          |
 |WSWT     |70             |69           |98.57%            |0    |0.00%          |
 |WWEM     |385726         |281407       |72.96%            |75299|19.52%         |
-|WWES     |200709         |198562       |98.93%            |0    |0.00%          |
+|WWES     |200709         |200709       |100.00%           |0    |0.00%          |
 |WWEV     |27812          |26224        |94.29%            |351  |1.26%          |
 |WWFX     |18803          |17240        |91.69%            |0    |0.00%          |
 |YSHP     |4              |4            |100.00%           |0    |0.00%          |
