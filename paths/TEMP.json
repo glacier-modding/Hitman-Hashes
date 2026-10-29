@@ -547496,7 +547496,7 @@
   },
   {
     "hash": "00E7F40C837ABC9D",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/vr_overrides_shamrock.brick].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -547686,7 +547686,7 @@
   },
   {
     "hash": "005423234C6338F6",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_shamrock.entity].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -548326,7 +548326,7 @@
   },
   {
     "hash": "007BAF50299F7E1B",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/mission_shamrock.brick].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -549061,7 +549061,7 @@
   },
   {
     "hash": "0020370B832298DA",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/arcade_chayote_level2.brick].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -549126,7 +549126,7 @@
   },
   {
     "hash": "00EB9E0E3EBC4306",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/scene_shamrock.entity].pc_entitytemplate",
     "gameFlags": 8
   },
   {
