@@ -362622,9 +362622,8 @@
   },
   {
     "hash": "00FA0943C169E546",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_podcast"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_podcast.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0039B4A6081B1654",
@@ -362783,9 +362782,8 @@
   },
   {
     "hash": "002A795DA149E888",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "tokenid_shamrock_camera_pip_timeout_response"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/tokenid_shamrock_camera_pip_timeout_response.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00543D45FBAACD16",
@@ -362805,9 +362803,8 @@
   },
   {
     "hash": "0036693D2C8D3822",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_tripodcam"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_tripodcam.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00A9BA328A06A883",
@@ -363117,9 +363114,8 @@
   },
   {
     "hash": "00DD30B993618D13",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_serverroom"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_serverroom.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00631A96B4CA12B1",
@@ -363354,9 +363350,8 @@
   },
   {
     "hash": "0073E281D5CDBE0E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "setpiece_shamrock_fearpong_b"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_fearpong_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00CC1DBF6CF4F80E",
@@ -364602,9 +364597,8 @@
   },
   {
     "hash": "008DF840469F2AAB",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "setpiece_shamrock_fearpong_a"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_fearpong_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0078490B11F30532",
@@ -364985,9 +364979,8 @@
   },
   {
     "hash": "0023A42E44DFEEBA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_nda"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_nda.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00AE94EFC7F891CD",
@@ -365074,15 +365067,13 @@
   },
   {
     "hash": "00E7759D4D121CB8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "tokenid_shamrock_camera_pip_timeout_request"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/tokenid_shamrock_camera_pip_timeout_request.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C04DD682C07D63",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_treadmill"
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_treadmill.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009E8851D877E7C5",

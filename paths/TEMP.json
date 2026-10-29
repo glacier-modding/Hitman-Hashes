@@ -548216,9 +548216,8 @@
   },
   {
     "hash": "00ED3C3B8DF3F385",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_fearpong_a.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_shamrock_fearpong_a",
     "subType": "template"
   },
   {
@@ -548380,9 +548379,8 @@
   },
   {
     "hash": "00CDBB06C77CFB14",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/tokenid_shamrock_camera_pip_timeout_response.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "tokenid_shamrock_camera_pip_timeout_response",
     "subType": "template"
   },
   {
@@ -548782,9 +548780,8 @@
   },
   {
     "hash": "00DF850EBF96768F",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_fearpong_b.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_shamrock_fearpong_b",
     "subType": "template"
   },
   {
@@ -548934,9 +548931,8 @@
   },
   {
     "hash": "006796CE53B668CA",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_podcast.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_podcast",
     "subType": "template"
   },
   {
@@ -549270,9 +549266,8 @@
   },
   {
     "hash": "00A49A4027081F61",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_serverroom.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_serverroom",
     "subType": "template"
   },
   {
@@ -549947,9 +549942,8 @@
   },
   {
     "hash": "000531B79F3670A8",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_treadmill.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_treadmill",
     "subType": "template"
   },
   {
@@ -550181,9 +550175,8 @@
   },
   {
     "hash": "007668A2FFA0D04E",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_nda.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_nda",
     "subType": "template"
   },
   {
@@ -550452,9 +550445,8 @@
   },
   {
     "hash": "0087CF2ECCBC81CB",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/tokenid_shamrock_camera_pip_timeout_request.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "tokenid_shamrock_camera_pip_timeout_request",
     "subType": "template"
   },
   {
@@ -550692,9 +550684,8 @@
   },
   {
     "hash": "00B2E8883B2FB1A7",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_shamrock_unique.template?/setpiece_shamrock_unique_tripodcam.entitytemplate].pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_shamrock_unique_tripodcam",
     "subType": "template"
   },
   {
