@@ -362380,97 +362380,114 @@
   {
     "hash": "00BCB7DACEA8838B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_nude_v1"
   },
   {
     "hash": "001E0B0679DFD433",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00FB084165593962",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00A25171DC22FEF1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "009DF775D93ACCA4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v6"
   },
   {
     "hash": "00445EB6FFC4188E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00FF001D2216F382",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/cyclic_colors.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0042B46E8624642B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_actor_v2"
   },
   {
     "hash": "009D6540D682B88D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_rabbit_prop_c"
   },
   {
     "hash": "005547105BD7AF9E",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_creatorsoundboard.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F7399BD65E6EF3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "004CD7AF61E9650E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v9"
   },
   {
     "hash": "00360D41A5672F56",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v3"
   },
   {
     "hash": "00A99DBA850191D2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "content_farm_a"
   },
   {
     "hash": "00250249CC952BE1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v10"
   },
   {
     "hash": "00D39A460EC39A1D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00BA0756225106A9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "003EDB9BC5354446",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v2"
   },
   {
     "hash": "0021846B9EECBE25",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_livingroomplants"
   },
   {
     "hash": "00D655483AE66423",
@@ -362480,7 +362497,8 @@
   {
     "hash": "00F031024BE6ED96",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_1m_a"
   },
   {
     "hash": "00070A5FDE33D599",
@@ -362490,11 +362508,12 @@
   {
     "hash": "00383B364B418E5C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "alter_ego_cosmetic_floorlamp_a"
   },
   {
     "hash": "00F9E6C90D67960D",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_shamrock_civillian_contentcreator.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362505,12 +362524,14 @@
   {
     "hash": "008C342F91D487D9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_2m_a"
   },
   {
     "hash": "00ED600DD0975DD0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00E57ACA4B8744E9",
@@ -362529,47 +362550,54 @@
   },
   {
     "hash": "00C0CC7503686696",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/electronics/kitchen_electronics_a.template?/coffeemakerpot_a_white.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004C49515727675A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_kitchenisland"
   },
   {
     "hash": "006AED55DE146C40",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_fem_formal_06_actor_v0"
   },
   {
     "hash": "00B3680F2945DE14",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_nude_v2"
   },
   {
     "hash": "00F02D6CF8F19F6F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0000BE60893E222D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_worker_enslaved_m"
   },
   {
     "hash": "00E7335AAAFF1AFD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_hawk_civilian_weddingguest_m_actor_v6"
   },
   {
     "hash": "00B5906076D5DD28",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_actor_v0"
   },
   {
     "hash": "00E7C19776FFEDEC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/wolverine/char_wolverine_nightmare.template?/outfit_nightmare_agent47_child_actor_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362579,12 +362607,12 @@
   },
   {
     "hash": "007D557E37FEEAA7",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/acts/mr_iteminteraction.template?/act_mr_carrysmallobject_pickup_100cm_toinventory.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "006FC9319B3F44FF",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_wastelandvulture.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362595,22 +362623,25 @@
   {
     "hash": "00FA0943C169E546",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_shamrock_unique_podcast"
   },
   {
     "hash": "0039B4A6081B1654",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0095BB5F051DFCFA",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/deafblindonstart.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003F6D879728ED9E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v1"
   },
   {
     "hash": "00359EFF04873D28",
@@ -362619,18 +362650,20 @@
   },
   {
     "hash": "00A177DD3C87D4FC",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l00_sheep.template?/act_shamrock_mr_stand_play_beerpong_100cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0092BFDDF6072875",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hub_staircase_a"
   },
   {
     "hash": "00024903BB728A81",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0012195F82BD92B4",
@@ -362639,107 +362672,124 @@
   },
   {
     "hash": "005CB1A3CF8BC782",
-    "path": "",
+    "path": "[assembly:/_pro/_test/bertz/testscenes/capko_test.template?/act_mr_stand_phone_nervous.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002742155FBF27A0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v6"
   },
   {
     "hash": "005FB5211D59D281",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_hawk_civilian_weddingguest_m_actor_v7"
   },
   {
     "hash": "0087C2A59C8AD3CB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_end_a"
   },
   {
     "hash": "00CD7CE02544195E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00ED85E0BEBD62DB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "007B836BAFAB2F25",
     "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_shamrock.entity].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "scene"
   },
   {
     "hash": "0042680F29980D2E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00285E79245F323D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_heroa_v2"
   },
   {
     "hash": "00300A7BBDCAC8D8",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/dramasystem2.template?/dramasituationoverride.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00AD4C57B10A395E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_formal_02_male_actor_v1"
   },
   {
     "hash": "0021935F69D2D016",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0043BF2348D4D79D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v2"
   },
   {
     "hash": "00E4AE47547B42EB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_2x4_a"
   },
   {
     "hash": "00CF0436ADC617C4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0039E1D7F8C7431F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v2"
   },
   {
     "hash": "004BB0A0CEB0C73A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "toilet_farm_a"
   },
   {
     "hash": "00F5EF853D6EB2D1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00ECE189E7BACCED",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelresponder_bool.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002A795DA149E888",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_shamrock_camera_pip_timeout_response"
   },
   {
     "hash": "00543D45FBAACD16",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiece_dugong_unique.template?/setpiecehelper_dugong_lip_itemcontainer_treasurechest.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362750,17 +362800,20 @@
   {
     "hash": "00A26AD0F2D4BC9F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0036693D2C8D3822",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_shamrock_unique_tripodcam"
   },
   {
     "hash": "00A9BA328A06A883",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00A556A1BF99E2CD",
@@ -362769,38 +362822,44 @@
   },
   {
     "hash": "00843F081E66E106",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/electronics/studio_equipment.template?/cable_hole_table_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00879879BCDB9C8F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "0083DC43E13EEDD7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "handlerdrama_diana"
   },
   {
     "hash": "0038E2A1B4365351",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_heroa_v0"
   },
   {
     "hash": "0079F3B3D1741AD3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00613537E126242B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "0018EF7EED9C3C78",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_worker_enslaved_f"
   },
   {
     "hash": "000FC10163D736A2",
@@ -362810,117 +362869,133 @@
   {
     "hash": "00DC9D4AD85B619E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_fem_formal_05_actor_v0"
   },
   {
     "hash": "0055AE9B130F2CC3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "0084885AE06817EF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "009A3A2B3B1B7F3D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/sofa_leather_modern_c_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C651508FB09C5D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_050x1_a"
   },
   {
     "hash": "00101AC175CCD7D8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00D8A4A0DFA81E17",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_desk"
   },
   {
     "hash": "00E318119C0FDD6A",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l00_sheep.template?/act_shamrock_mr_stand_run_treadmill.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D828E725FD3318",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_cornerout_1x4_a"
   },
   {
     "hash": "005E0612BDA050CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v3"
   },
   {
     "hash": "0084D02443ABFF1E",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l00_sheep.template?/act_shamrock_mr_stand_looksmaxing_100cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "000A05D140943EB0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/gameplay/surveillance/surveillance_cameras.template?/camera_c_tripod.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DFEA8F0BC33BCC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00FEBCE0B4221A2D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_trim_corner_a"
   },
   {
     "hash": "00A66BE876E17A7D",
     "path": "[assembly:/_pro/scenes/missions/sheep/mission_shamrock.brick].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "001D2A5B063CC37F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_shamrock_startingoutfit_agent47_dlc.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00DC03DD5EDF5CF5",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/outfits_shamrock.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004CFB864253C729",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v4"
   },
   {
     "hash": "0056783B92E95882",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00F6D534BB164C49",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v0"
   },
   {
     "hash": "001A1511329F9A0F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_comicpack_02_agent47_dlc_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001DD7BAE751AC66",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_cornerout_020x4_a"
   },
   {
     "hash": "00C9EA93F9CD47E8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_trim_1x1_a"
   },
   {
     "hash": "009249EF99AA2808",
@@ -362929,7 +363004,7 @@
   },
   {
     "hash": "00A1F36D54A888AF",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l00_sheep.template?/act_shamrock_mr_stand_armscrossed_zoomergestures_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -362940,32 +363015,38 @@
   {
     "hash": "00ABB9BAE8BDC43A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_ceiling_4x4_b"
   },
   {
     "hash": "00F2A1279A3E9894",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_target_m_actor_v0"
   },
   {
     "hash": "009318D0B00BE18E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00D412F5F39466E8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v1"
   },
   {
     "hash": "00B2507561D67BAC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0026F9E338F5EE37",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "ring_light_a"
   },
   {
     "hash": "00C3E7B89FC1F47F",
@@ -362975,22 +363056,26 @@
   {
     "hash": "0062C5E1A33C915E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "000464E5D59CEC0B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00864B4C43DD70C4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_trim_4x1_a"
   },
   {
     "hash": "00FE3A289EF65875",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_entourage01_m_nude_v0"
   },
   {
     "hash": "0061E15B7D658855",
@@ -363004,23 +363089,26 @@
   },
   {
     "hash": "00ED29226A94D6AF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/wolverine/char_wolverine_nightmare.template?/charset_nightmare_agent47_child.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002113808E7C4680",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "007ABD5957C8FA3E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "003736EB21F17E61",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00B0C04396E472FC",
@@ -363030,7 +363118,8 @@
   {
     "hash": "00DD30B993618D13",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_shamrock_unique_serverroom"
   },
   {
     "hash": "00631A96B4CA12B1",
@@ -363045,7 +363134,8 @@
   {
     "hash": "00FAD03CC6AA1886",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v8"
   },
   {
     "hash": "00C0A3486D998E13",
@@ -363055,7 +363145,8 @@
   {
     "hash": "00EF8B0F3F7E0CD7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "001FA5EDC96107C7",
@@ -363065,7 +363156,8 @@
   {
     "hash": "0058AD07C22766AC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "inner_sanctum_b"
   },
   {
     "hash": "00CF86F52677CF0F",
@@ -363075,7 +363167,8 @@
   {
     "hash": "00DDA72B72DC1E65",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0038280C76E41C69",
@@ -363090,16 +363183,18 @@
   {
     "hash": "009D16239E7F5C63",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00B82C0CF98AA0E9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v7"
   },
   {
     "hash": "0036236CB59D9560",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_comicpack_01_agent47_dlc.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363110,21 +363205,23 @@
   {
     "hash": "00EAB53B391D7DE5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "alter_ego_cosmetic_roof"
   },
   {
     "hash": "00E211FEB73A46F4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00B907A01F515A6B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/decorative/carpets_a.template?/carpet_big_soft_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004B1F6CE6763FF9",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelrequester_core.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363134,7 +363231,7 @@
   },
   {
     "hash": "00B601F02F749F85",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/cardboard_box_c.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363149,33 +363246,38 @@
   },
   {
     "hash": "0060961A0DC580CD",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_comicpack_03_agent47_dlc_heroa_v1.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004EE1301570829C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v7"
   },
   {
     "hash": "00788D121A383583",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_cornerin_1x4_a"
   },
   {
     "hash": "0009F0DC3443898C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_nude_v0"
   },
   {
     "hash": "005616F622B4491B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v10"
   },
   {
     "hash": "001AF096EB14F76F",
     "path": "[assembly:/_pro/scenes/missions/sheep/vr_overrides_shamrock.brick].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "00E810C175419D6E",
@@ -363185,22 +363287,26 @@
   {
     "hash": "007A61C78C2E2DA7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "neon_drink_or_dare_a"
   },
   {
     "hash": "00B0CAFA8A03C7AD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "inner_sanctum_a"
   },
   {
     "hash": "00045F94DF3E7B5C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00EA32E8DC92F4F6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_4x4_a"
   },
   {
     "hash": "00015EAA29167D95",
@@ -363209,48 +363315,54 @@
   },
   {
     "hash": "00E9095F012EEB08",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/furniture/beachhouse_furniture_a.template?/wooden_wardrobe_b_ego.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C46CBF9BB43C49",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v1"
   },
   {
     "hash": "00257E3668F61694",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "000837F8AF2DF3F0",
-    "path": "",
+    "path": "[assembly:/_pro/_test/bertz/testscenes/capko_test.template?/act_mr_stand_lean_phone_100cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00046C359AB62E8A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00213694B28E0754",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "004EFF203178EB69",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_reward_shamrock_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0073E281D5CDBE0E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_shamrock_fearpong_b"
   },
   {
     "hash": "00CC1DBF6CF4F80E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_nude_v1"
   },
   {
     "hash": "00907496993F490C",
@@ -363265,57 +363377,66 @@
   {
     "hash": "00913901C0763543",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_heroa_v2"
   },
   {
     "hash": "00F972AAE36D5641",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_formal_03_male_actor_v0"
   },
   {
     "hash": "0095BDEFD2948443",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/shop_props/electronics_shop_a.template?/display_case_electronics_b_ego.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0087E05E0871840D",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_shamrock_startingoutfit_agent47_dlc_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00BAF98F773CC027",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00E5793BCC650421",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "005F020D91509A4D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v9"
   },
   {
     "hash": "00B067E68EC4E4E2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00CED947E10A2233",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "alter_ego_cosmetic_wardrobe_b"
   },
   {
     "hash": "00BE758C116BC819",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00F34DD5C4413E54",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00FACC91020BAE0A",
@@ -363325,11 +363446,12 @@
   {
     "hash": "00E6F86CBEF4D95E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "confrence_room_table_shamrock"
   },
   {
     "hash": "0007A5E1B908F53A",
-    "path": "",
+    "path": "[assembly:/_pro/cinematics/h3_props/template/sofas.template?/chair_leather_modern_e.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363339,7 +363461,7 @@
   },
   {
     "hash": "008CF8F07DFC2C4C",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/scenario_shamrock_audio.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363350,22 +363472,26 @@
   {
     "hash": "009FA094EE2D786F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v7"
   },
   {
     "hash": "00FEB6F6BF06829A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_actor_v0"
   },
   {
     "hash": "00280E8E6752E71F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_cornerout_1x4_b"
   },
   {
     "hash": "006A3E7532F8B5A1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_actor_v3"
   },
   {
     "hash": "0051ADADFFB3DD43",
@@ -363375,22 +363501,25 @@
   {
     "hash": "0055685FBD8A9BFF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_1m_a"
   },
   {
     "hash": "002E7C43737236EE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00D6F3FB4863908A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/lamps/movieset_lamps_a.template?/movie_set_lamp_top_c_ego.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "007E807E29F7A968",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_ceiling_4x4_a"
   },
   {
     "hash": "00AA77E29EB2ED00",
@@ -363400,71 +363529,83 @@
   {
     "hash": "00B4ED681B395CF6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_actor_v1"
   },
   {
     "hash": "000856EA2631856E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "podcast_room_a"
   },
   {
     "hash": "0048E49425D58210",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "server_farm_a"
   },
   {
     "hash": "004303D55C120E6B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00C9167856C1CEA9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_entourage02_m_actor_v1"
   },
   {
     "hash": "00EA3ABF9A4F0831",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "006505465DB0D0A2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "006EAAC32C404593",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_nude_v3"
   },
   {
     "hash": "00361DC15CE03C29",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_soda_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "009EF4731A980BC0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00387118B92BC35D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_4m_a"
   },
   {
     "hash": "006DDC93E03FC810",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_handrail_4m_b"
   },
   {
     "hash": "007D5718E7D3BF95",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v8"
   },
   {
     "hash": "0011079CC7633AB6",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_shamrock_startingoutfit_agent47_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363475,22 +363616,26 @@
   {
     "hash": "0093D303EC34B12E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_fem_formal_01_actor_v0"
   },
   {
     "hash": "00F2F8608DBEBFFA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00E4729D2E20271C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_4x1_a"
   },
   {
     "hash": "0032BAE27968C926",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "0079172BEE312F93",
@@ -363500,7 +363645,8 @@
   {
     "hash": "00FFC3C0310A16D9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v0"
   },
   {
     "hash": "00F821B9C19AAA01",
@@ -363515,32 +363661,38 @@
   {
     "hash": "001D9FE4BBA54C22",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_nude_v2"
   },
   {
     "hash": "000E0ED96D293713",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00EFF5CB67948BF9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_sofa"
   },
   {
     "hash": "006AC2881069A29E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00AF61454C3FF9CD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_handrail_4m_a"
   },
   {
     "hash": "00D34EBB3DA8C871",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_cornerout_020x4_b"
   },
   {
     "hash": "00C85EDE0537300E",
@@ -363554,103 +363706,118 @@
   },
   {
     "hash": "00FE91FE347301C6",
-    "path": "",
+    "path": "[assembly:/_pro/_test/bertz/testscenes/capko_test.template?/act_mr_stand_lean_back_armswide_100cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00CBDA5FE706F053",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_trim_050x1_a"
   },
   {
     "hash": "00B55E4ABDE80B10",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/electronics/studio_equipment.template?/microphone_stand_ceiling_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "000ECE86FE56EB0D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_heroa_v1"
   },
   {
     "hash": "00A3E90EB3CA64D2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_interior_a_glass_4x4_mirror_bright_bp"
   },
   {
     "hash": "00421D1C280F0910",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/hospital/hospital_props_a.template?/alarm_panel_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003E655626F4385D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v2"
   },
   {
     "hash": "00789533F412EB54",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0095B2DF4BD1C3E2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_entourage02_m_nude_v0"
   },
   {
     "hash": "000A46906E30534B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "003BB461C5F752D9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v9"
   },
   {
     "hash": "0027936DC0A24048",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_corner_a"
   },
   {
     "hash": "00943FF5B5B5FF6B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00A50D3127E7439E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_shamrock_startingoutfit_agent47.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004F6E3ACF95EC1D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_target_m"
   },
   {
     "hash": "003A6CA6E9C15C69",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiece_italy_unique.template?/setpiece_octopus_cannon.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00913533886155B6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00A225BC799F34F2",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v9"
   },
   {
     "hash": "006D215E09B58013",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_livingroom_corner"
   },
   {
     "hash": "00980E0B47CAD13B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_hawk_civilian_weddingguest_m_actor_v8"
   },
   {
     "hash": "006C76C9C4268699",
@@ -363660,27 +363827,31 @@
   {
     "hash": "00D23A450CD8AA99",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_rabbit_a_box_prop"
   },
   {
     "hash": "00B66FFA6A4F42B8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_ceiling_long_wire_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00181A20630C2ED9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_formal_01_male_actor_v1"
   },
   {
     "hash": "00A3F7C74B141372",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00E066EBE4E6DE5D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_actor_v3"
   },
   {
     "hash": "00C90FA5600CBD39",
@@ -363690,27 +363861,30 @@
   {
     "hash": "00917864E6F14108",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v5"
   },
   {
     "hash": "00CCF7B313F03598",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/electronics/kitchen_electronics_a.template?/coffeemaker_a_white.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D3F64B41735D79",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_2x4_b"
   },
   {
     "hash": "0033722701391DBF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/furniture/observatory_furniture_a.template?/desk_chair_mat_transparent_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0060016CB314AB54",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00BD58FA0040F857",
@@ -363720,31 +363894,36 @@
   {
     "hash": "00787B8BB49C025E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_handrail_1m_b"
   },
   {
     "hash": "002AF4994D43FADE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00D7C899F98C87DB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00C849CF13FDE471",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00356D6921D45CDD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_guard_joe_m"
   },
   {
     "hash": "0014DF07F1E0CE26",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/furniture/beachhouse_furniture_a.template?/wooden_desk_a_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363759,13 +363938,14 @@
   },
   {
     "hash": "00CC9EF30E29F1B7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_shamrock_agent47_dlc_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001167C22582C71D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v0"
   },
   {
     "hash": "0081222D2DA1C113",
@@ -363774,33 +363954,38 @@
   },
   {
     "hash": "004BBDC4D4093064",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/office_props/paper_note_a.template?/paper_note_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F43BE3E333963E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "alter_ego_cosmetic_sculpture"
   },
   {
     "hash": "00F7E674C6E79D71",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00E6A91FCFF5481A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "004A1AC6D30B3478",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_heroa_v3"
   },
   {
     "hash": "002DFC0AC815DC69",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "triangle_wall_light_a"
   },
   {
     "hash": "0048D7F908A8B262",
@@ -363810,21 +363995,23 @@
   {
     "hash": "00C16A7709CC54B9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "scrolling_clouds_half_c"
   },
   {
     "hash": "00BE4867CE8F4FE4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_trim_2x1_a"
   },
   {
     "hash": "0068D90E9F906FA7",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/scenario_shamrock.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0026E0D295776526",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/setpiecehelpers.template?/setpiecehelper_subactions_ingredient.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363834,92 +364021,103 @@
   },
   {
     "hash": "00D675626A38EF37",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_global_vampiremagician_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0003A5F021E6FF3C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_1x4_a"
   },
   {
     "hash": "00E5B1982074FE05",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_shelves"
   },
   {
     "hash": "0093AD252A26A97E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "scrolling_clouds_quarter_a"
   },
   {
     "hash": "00D2360A7DCE5365",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_civilian_editor_m"
   },
   {
     "hash": "009681DD5372864E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "005026EBBD5B75A7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/individuals/characters_individuals_paris.template?/vampiremagician_clothcollider.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "004956FB83364D05",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_comicpack_02_agent47_dlc.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0028CF4F5CB38707",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00FCF5E6D5B5460E",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/mr_mde_dance.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0040F7DBD923D616",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/world/acts_generic/mr/001_mr_stand.template?/act_mr_stand_phone_text_right_100cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0050B682D9FC5A44",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "0008AD4BD1A9D168",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "office_corridor_a"
   },
   {
     "hash": "0027E26FA691EEA9",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/chair_library_penthouse_b_00.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0072DD62A308B163",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00CB129F236B1AB7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "storage_staircase_shamrock_a"
   },
   {
     "hash": "00BACAC42D4EC230",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_formal_03_male_actor_v8"
   },
   {
     "hash": "00C5CC5BFF66000E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/chair_leather_modern_d_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -363929,63 +364127,72 @@
   },
   {
     "hash": "0092FC2CA3E58BDF",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/shop_props/electronics_shop_a.template?/display_case_electronics_a_ego.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F455DAF68DE373",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "003AA0FD032D2646",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00222778D9C324CA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00B65285F828DE90",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "electrical_controll_panel_tall_b_05"
   },
   {
     "hash": "00D0997A5B7A0D07",
-    "path": "",
+    "path": "[assembly:/_pro/_test/bertz/testscenes/capko_test.template?/act_mr_stand_lean_side_left_100cm_v02.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C262078B70D487",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00A5F0A851E37573",
     "path": "[assembly:/_pro/scenes/missions/sheep/arcade_chayote_level2.brick].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "brick"
   },
   {
     "hash": "009978C9A7214CEB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_fem_formal_02_actor_v0"
   },
   {
     "hash": "004522F09B135A55",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "hub_side_ramp_a"
   },
   {
     "hash": "0036643D366B01D8",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l00_sheep.template?/act_shamrock_mr_stand_handscrossed_zoomergesturesb.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0065B3FA0D778118",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_handrail_1m_a"
   },
   {
     "hash": "00F83F6B47F1535F",
@@ -363994,7 +364201,7 @@
   },
   {
     "hash": "006263E6182C5EF2",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/mr_mde_dance_jamie.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364005,12 +364212,14 @@
   {
     "hash": "006C6ACA6623B810",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_formal_03_male_actor_v4"
   },
   {
     "hash": "00A1AAA9BA87D13A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_entourage01_m_heroa_v0"
   },
   {
     "hash": "00A3BB2C0735D8CB",
@@ -364020,31 +364229,34 @@
   {
     "hash": "004DE6096AD3CCA6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_fem_formal_03_actor_v1"
   },
   {
     "hash": "00FBC8B68D993241",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00B7946ABB1197AF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00F4EAD493387D38",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_comicbook.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "009D40155363188D",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordstates.template?/keyword_state_liquid.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00B28B642926726B",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/setpieces_activators.template?/setpiece_activator_cardreader_panel_archetype.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364055,7 +364267,8 @@
   {
     "hash": "00BCCEE86BE92DDD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v6"
   },
   {
     "hash": "00E626C5478CF76F",
@@ -364065,7 +364278,8 @@
   {
     "hash": "0037667E7C706859",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00ABFB2E97270C81",
@@ -364075,22 +364289,26 @@
   {
     "hash": "00684D6AA4EB3E6D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_entourage01_m_actor_v0"
   },
   {
     "hash": "007A9C85A98479F6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00E965C4282E3344",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0049CED39CFA5A46",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_heroa_v3"
   },
   {
     "hash": "00CD0EACA3AB01A3",
@@ -364100,146 +364318,165 @@
   {
     "hash": "00321BAE8CE6C6F9",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00450AED90A87197",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v4"
   },
   {
     "hash": "00F5024A6BBE1E52",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_fan_4x4_a"
   },
   {
     "hash": "005DB422934D0CAE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/electronics/studio_equipment.template?/microphone_table_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00CFB034DFC1C33F",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_agent47_reward_inspiredbyha_heroa_v2.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E3D33AEEF1B869",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_entourage02_m_heroa_v0"
   },
   {
     "hash": "00163B002818E302",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "004A3E09ED0BCEE7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_1x4_b"
   },
   {
     "hash": "00C9C174E231367A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/photobackground_a_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00358896D1D4A842",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_2x1_a"
   },
   {
     "hash": "0081A3E83EA5EB5B",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v3"
   },
   {
     "hash": "00AD741DEE161632",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_comicpack_03_agent47_dlc.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002FD55E342E5624",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_formal_01_male_actor_v0"
   },
   {
     "hash": "0032487A0527ACEA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_cornerin_1x4_b"
   },
   {
     "hash": "002E02581F51F0FF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_reward_shamrock.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00FB138D8C83AA03",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v3"
   },
   {
     "hash": "00A39BDF2E053B42",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_redline.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00D4DBB9C7A77D62",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_agent47_global_vampiremagician.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00A5144B865DE115",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/profession.template?/prof_shamrock_unique_target.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00CFD0621C9F977F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_civilian_editor_m_actor_v0"
   },
   {
     "hash": "003F95DBC859B373",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v4"
   },
   {
     "hash": "00BCFFE1333F5522",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "004181004C50F279",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "005DC32D46D9F46D",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v10"
   },
   {
     "hash": "00BDD1B799EF5615",
-    "path": "",
+    "path": "[assembly:/_pro/effects/templates/light/fx_fakevolumelights.template?/volumelight_glow_spot_c.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00C36830940C08A3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00ECFE55F7D15628",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "000D92B112F322B8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_heroa_v1"
   },
   {
     "hash": "00E069D6E600A81C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/accessories/table_tennis_ball_a.template?/table_tennis_ball_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364250,7 +364487,8 @@
   {
     "hash": "009CCF01F0882F8C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v8"
   },
   {
     "hash": "0045048AA3325075",
@@ -364269,28 +364507,32 @@
   },
   {
     "hash": "00FE954AAD39029F",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelresponder_core.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "003C19E5EABFF4FE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_cameracrew_01_f"
   },
   {
     "hash": "00E28A742CA52C0F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0050BEBB50A1C585",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v8"
   },
   {
     "hash": "0009A6AFEB15B348",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00F49DC3446AA0FC",
@@ -364305,22 +364547,25 @@
   {
     "hash": "004D19922C3947C8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_2m_a"
   },
   {
     "hash": "00FEBC73E363087A",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_dxtrplayfactorycontroller.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00359A8C3DF7FA40",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "007A27AA8D88BF75",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_ceiling_4x4_c"
   },
   {
     "hash": "00736D11D70D46C7",
@@ -364330,17 +364575,20 @@
   {
     "hash": "00FE8BE57E439762",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_door_2x4_d"
   },
   {
     "hash": "00E0539CF6E03351",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_roof"
   },
   {
     "hash": "00EC5312FCFFE823",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v0"
   },
   {
     "hash": "00BAD53966839FC5",
@@ -364349,48 +364597,55 @@
   },
   {
     "hash": "00B77CADC906FE02",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/electronics/cabletray_tileset_b.template?/cabletray_slope_50cm_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "008DF840469F2AAB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_shamrock_fearpong_a"
   },
   {
     "hash": "0078490B11F30532",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00C5F75E8744E466",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "0018D5FB562AA3A3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "handlerdrama_speaker"
   },
   {
     "hash": "007599452D0767A1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0089D01FBF4054E7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/charset_shamrock_agent47_dlc.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "001C87D5717F9639",
     "path": "[assembly:/_pro/scenes/missions/sheep/scene_shamrock.entity].pc_entityblueprint",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "subType": "scene"
   },
   {
     "hash": "0039ED3B543BA56C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "004CFFD8DD1F4E7D",
@@ -364399,7 +364654,7 @@
   },
   {
     "hash": "008ADD54D38EE0A4",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchannelrequester_bool.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364410,77 +364665,89 @@
   {
     "hash": "00774ED8F784BC55",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_nude_v0"
   },
   {
     "hash": "003FA9A5F41F4709",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v7"
   },
   {
     "hash": "00A73B6AB4CE9845",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v5"
   },
   {
     "hash": "00B8305019EB8427",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "geomentity01"
   },
   {
     "hash": "00A15C7D7D8495B8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_floor_4x4_a"
   },
   {
     "hash": "005C44A86B9B3409",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_guard_joe_m_actor_v1"
   },
   {
     "hash": "00BA39A231C77FAC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_rabbit_prop_d"
   },
   {
     "hash": "005FBD383274C9CB",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_demondakota12g.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0007A2B6DD93153E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_heroa_v0"
   },
   {
     "hash": "00DAA33E22D70D6C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_comicpack_01_agent47_dlc_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002A05B2D19107B4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_nude_v3"
   },
   {
     "hash": "008E1A629BB76D1E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_actor_v4"
   },
   {
     "hash": "002239E5574F69CA",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/cardboard_box_open_c.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0049446B716988EB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_fem_formal_03_actor_v0"
   },
   {
     "hash": "0052E160A7E853FC",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_dining_table"
   },
   {
     "hash": "00DF5FCA46754264",
@@ -364490,51 +364757,59 @@
   {
     "hash": "00E98847E732B5C1",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_worker_entourage02_m"
   },
   {
     "hash": "00D69F876EB7C046",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00D5F2B561A5E7F4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_heroa_v5"
   },
   {
     "hash": "001E2AB092021D04",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00C1663E66D8FFFB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_hawk_civilian_weddingguest_m_actor_v4"
   },
   {
     "hash": "00C1849ACCF214FA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_rabbit_prop_a"
   },
   {
     "hash": "006ECDC54BD39954",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_door_2x4_a"
   },
   {
     "hash": "0077CF9F2A124917",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/ld_helpers_newzealand.template?/fr_mde_dance.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00256CE34A09B1E0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_4m_a"
   },
   {
     "hash": "008DD9467F8E63DE",
-    "path": "",
+    "path": "[assembly:/_pro/design/actor/world/levels/s02_l00_sheep.template?/act_shamrock_mr_sitdeepchair_podcast.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364545,7 +364820,8 @@
   {
     "hash": "009F20B90DCBFF99",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00B22BE010EDC54F",
@@ -364555,17 +364831,20 @@
   {
     "hash": "00C92DF538CE7B5A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00ACDF7C45A95AE4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_cosmetic_kitchen_props"
   },
   {
     "hash": "007F726FA642A7CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v1"
   },
   {
     "hash": "002E1F70FE093AAC",
@@ -364575,22 +364854,25 @@
   {
     "hash": "000486EADF17D237",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00FD420994675C68",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_m_actor_v2"
   },
   {
     "hash": "005D60AEA26FAF94",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/furniture/kitchen_fitted_modern_a.template?/stool_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "002B743F4E219169",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00ED1B9CD4907D9B",
@@ -364600,12 +364882,14 @@
   {
     "hash": "006BD235DCC7192F",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00B0ADECAE7918A3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "003C3267ED1A6297",
@@ -364630,7 +364914,8 @@
   {
     "hash": "0046B1071692756C",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_wall_4x4_b"
   },
   {
     "hash": "00EF89162DE3D6DB",
@@ -364640,11 +364925,12 @@
   {
     "hash": "00235C3B5A3B22AA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "storage_shamrock_a"
   },
   {
     "hash": "007E1CD26F7F27D4",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/sheep/scenario_shamrock_ea.brick].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364654,13 +364940,14 @@
   },
   {
     "hash": "004B2600B42C2597",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_tacticalknife.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00F8E6C2E83A1824",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_int_door_4x4_d"
   },
   {
     "hash": "0051A96C932A9D0B",
@@ -364670,62 +364957,71 @@
   {
     "hash": "00506873683C09CE",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_cameracrew_01_f_actor_v0"
   },
   {
     "hash": "0061AAADDFC64A27",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_stairs_railing_1x1_a"
   },
   {
     "hash": "0034CF0752D0F3BF",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "accessoryitem_table_tennis_ball_a"
   },
   {
     "hash": "0086A795ADC1AB97",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_f_actor_v5"
   },
   {
     "hash": "00860E5D73B0A64E",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_kwineenycollectible.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0023A42E44DFEEBA",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_shamrock_unique_nda"
   },
   {
     "hash": "00AE94EFC7F891CD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_cameracrew_01_m"
   },
   {
     "hash": "00CB0E4C2CE4B1FC",
-    "path": "",
+    "path": "[assembly:/_pro/characters/templates/hero/agent47/agent47_outfits.template?/outfit_comicpack_03_agent47_dlc_heroa_v0.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00FA55F775DEADD7",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "backroom_shamrock_a"
   },
   {
     "hash": "00183BC952189755",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_civ_fem_formal_04_actor_v1"
   },
   {
     "hash": "00953313CC607083",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_satsujinto.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "0043F4AE8D8AB380",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "handlerdrama_dianainterrupt"
   },
   {
     "hash": "0095721CF7856A87",
@@ -364735,7 +365031,8 @@
   {
     "hash": "0061C0B574B080A6",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_hawk_civilian_weddingguest_m_actor_v5"
   },
   {
     "hash": "00947AB862300C56",
@@ -364750,11 +365047,12 @@
   {
     "hash": "0059BF51227203CD",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "alter_ego_cosmetic_wardrobeplants_a"
   },
   {
     "hash": "00893A1A3312CAE8",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/beachhouse_a.template?/beachhouse_interior_a_trim_1x040.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364765,26 +365063,30 @@
   {
     "hash": "0049BC02A184C0B8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "0077FDF6E141C3BB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "charset_shamrock_worker_entourage01_m"
   },
   {
     "hash": "00E7759D4D121CB8",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "tokenid_shamrock_camera_pip_timeout_request"
   },
   {
     "hash": "00C04DD682C07D63",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "setpiece_shamrock_unique_treadmill"
   },
   {
     "hash": "009E8851D877E7C5",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventtokens_props.template?/eventtoken_setpiece_shamrock_camera.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364794,7 +365096,7 @@
   },
   {
     "hash": "0044F37AD0EF527D",
-    "path": "",
+    "path": "[assembly:/_pro/design/templates/ld design assets/helpers_evergreen_selectableitems.template?/helper_evergreen_selectableitem_duckycane.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -364805,16 +365107,18 @@
   {
     "hash": "00B259B5DA8212A0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "outfit_shamrock_worker_enslaved_m_nude_v6"
   },
   {
     "hash": "000E4CABAA0E9BF5",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "conversation"
   },
   {
     "hash": "00B97469038BBC6B",
-    "path": "",
+    "path": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_miami_a.template?/lamp_ceiling_shamrock_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8
   }
 ]
