@@ -14381,27 +14381,27 @@
   },
   {
     "hash": "00A54D6F8A856091",
-    "path": "",
+    "path": "[modules:/zhm5weaponcontrolvrconfigentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00272BFBA87B4E1C",
-    "path": "",
+    "path": "[modules:/zitemplacementpreviewoverrideaspect.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E492DEF41E4B43",
-    "path": "",
+    "path": "[modules:/zvrpourflowentity.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00837C9424CF638F",
-    "path": "",
+    "path": "[modules:/zevergreenmenuentrypromptscrollaction.class].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "009A82ADE4C4CFDC",
-    "path": "",
+    "path": "[modules:/ztimerbasicentity.class].pc_entityblueprint",
     "gameFlags": 8
   }
 ]
