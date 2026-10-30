@@ -37442,7 +37442,7 @@
                 "description": ""
             },
             {
-                "pin": "1208304824",
+                "pin": "BlendFromBindPose",
                 "description": ""
             },
             {
@@ -43496,7 +43496,7 @@
                 "description": ""
             },
             {
-                "pin": "1208304824",
+                "pin": "BlendFromBindPose",
                 "description": ""
             },
             {
@@ -43692,15 +43692,15 @@
         "path": "[modules:/zratebasedspatialinterpolator.class].pc_entitytype",
         "in": [
             {
-                "pin": "1210153979",
+                "pin": "InterpolateToPosition",
                 "description": ""
             },
             {
-                "pin": "2216949768",
+                "pin": "InterpolateToRelativePosition",
                 "description": ""
             },
             {
-                "pin": "2721237517",
+                "pin": "InterpolateToSpatial",
                 "description": ""
             },
             {
@@ -43708,7 +43708,7 @@
                 "description": ""
             },
             {
-                "pin": "2593100573",
+                "pin": "InterpolateToLocalPosition",
                 "description": ""
             }
         ],
@@ -44003,7 +44003,7 @@
         "path": "[modules:/zvoxelspaceentity.class].pc_entitytype",
         "in": [
             {
-                "pin": "3801991430",
+                "pin": "Bake",
                 "description": ""
             }
         ],
