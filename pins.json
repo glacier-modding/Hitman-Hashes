@@ -822,7 +822,7 @@
                 "description": ""
             },
             {
-                "pin": "1295809280",
+                "pin": "AddPhysics",
                 "description": ""
             },
             {
@@ -838,7 +838,7 @@
                 "description": ""
             },
             {
-                "pin": "2272640076",
+                "pin": "HolsterLeft",
                 "description": ""
             },
             {
@@ -11231,7 +11231,7 @@
                 "description": "Remove keyword"
             },
             {
-                "pin": "947841036",
+                "pin": "GetKeywords",
                 "description": ""
             }
         ],
@@ -11259,7 +11259,7 @@
                 "description": "Remove keyword"
             },
             {
-                "pin": "947841036",
+                "pin": "GetKeywords",
                 "description": ""
             }
         ],
@@ -11465,11 +11465,11 @@
                 "description": ""
             },
             {
-                "pin": "3496011281",
+                "pin": "DisableDumpBody",
                 "description": ""
             },
             {
-                "pin": "2184555902",
+                "pin": "EnableDumpBody",
                 "description": ""
             }
         ],
@@ -12742,15 +12742,15 @@
                 "description": "Place the accessory item at the detach point (if the accessory is not part of actor accessory item pool)"
             },
             {
-                "pin": "16665829",
+                "pin": "GetGeomEntity",
                 "description": ""
             },
             {
-                "pin": "4097120009",
+                "pin": "SetAccessoryItem",
                 "description": ""
             },
             {
-                "pin": "3324208400",
+                "pin": "GetAccessoryItem",
                 "description": ""
             }
         ],
@@ -23026,7 +23026,7 @@
                 "description": ""
             },
             {
-                "pin": "947841036",
+                "pin": "GetKeywords",
                 "description": ""
             }
         ],
@@ -26981,11 +26981,11 @@
                 "description": "Remove keyword"
             },
             {
-                "pin": "3583192168",
+                "pin": "ClearKeywords",
                 "description": ""
             },
             {
-                "pin": "947841036",
+                "pin": "GetKeywords",
                 "description": ""
             }
         ],
@@ -29780,15 +29780,15 @@
                 "description": ""
             },
             {
-                "pin": "16665829",
+                "pin": "GetGeomEntity",
                 "description": ""
             },
             {
-                "pin": "4097120009",
+                "pin": "SetAccessoryItem",
                 "description": ""
             },
             {
-                "pin": "3324208400",
+                "pin": "GetAccessoryItem",
                 "description": ""
             }
         ],
@@ -30240,7 +30240,7 @@
                 "description": ""
             },
             {
-                "pin": "1798529480",
+                "pin": "SetPenaltyMultiplier",
                 "description": ""
             }
         ],
@@ -37438,7 +37438,7 @@
                 "description": ""
             },
             {
-                "pin": "1902686892",
+                "pin": "GetHasCloth",
                 "description": ""
             },
             {
@@ -43256,11 +43256,11 @@
                 "description": ""
             },
             {
-                "pin": "1239004304",
+                "pin": "AddChild",
                 "description": ""
             },
             {
-                "pin": "726947990",
+                "pin": "GetReference",
                 "description": ""
             }
         ],
@@ -43484,7 +43484,7 @@
                 "description": ""
             },
             {
-                "pin": "1902686892",
+                "pin": "GetHasCloth",
                 "description": ""
             },
             {
@@ -43719,7 +43719,7 @@
         "path": "[modules:/zratebasedvalueinterpolator.class].pc_entitytype",
         "in": [
             {
-                "pin": "422670997",
+                "pin": "Interpolate",
                 "description": ""
             }
         ],
@@ -43730,7 +43730,7 @@
         "path": "[modules:/zratebasedvalueinterpolator_scolorrgb.class].pc_entitytype",
         "in": [
             {
-                "pin": "422670997",
+                "pin": "Interpolate",
                 "description": ""
             }
         ],
@@ -43741,7 +43741,7 @@
         "path": "[modules:/zratebasedvalueinterpolator_svector3.class].pc_entitytype",
         "in": [
             {
-                "pin": "422670997",
+                "pin": "Interpolate",
                 "description": ""
             }
         ],
@@ -43763,11 +43763,11 @@
         "path": "[modules:/zspatialproxyentity.class].pc_entitytype",
         "in": [
             {
-                "pin": "2786785056",
+                "pin": "SetParent",
                 "description": ""
             },
             {
-                "pin": "2281062345",
+                "pin": "GetSpatial",
                 "description": ""
             },
             {
@@ -43775,7 +43775,7 @@
                 "description": ""
             },
             {
-                "pin": "1463215197",
+                "pin": "GetParent",
                 "description": ""
             }
         ],
@@ -43786,15 +43786,15 @@
         "path": "[modules:/zspatialreferenceaspect.class].pc_entitytype",
         "in": [
             {
-                "pin": "2786785056",
+                "pin": "SetParent",
                 "description": ""
             },
             {
-                "pin": "1463215197",
+                "pin": "GetParent",
                 "description": ""
             },
             {
-                "pin": "726947990",
+                "pin": "GetReference",
                 "description": ""
             }
         ],
@@ -43822,7 +43822,7 @@
         "path": "[modules:/zvrsplashoutfitselector.class].pc_entitytype",
         "in": [
             {
-                "pin": "2532562695",
+                "pin": "NextOutfit",
                 "description": ""
             }
         ],
@@ -43837,7 +43837,7 @@
                 "description": ""
             },
             {
-                "pin": "4073409076",
+                "pin": "InVariant",
                 "description": ""
             }
         ],
@@ -43854,7 +43854,7 @@
         "path": "[modules:/zevergreencustominfomessageentity.class].pc_entitytype",
         "in": [
             {
-                "pin": "1998958277",
+                "pin": "SetTextColor",
                 "description": ""
             },
             {
@@ -43866,7 +43866,7 @@
                 "description": ""
             },
             {
-                "pin": "3382267381",
+                "pin": "SetBackgroundColor",
                 "description": ""
             },
             {
@@ -43924,15 +43924,15 @@
         "path": "[modules:/zspatialcontainerentity.class].pc_entitytype",
         "in": [
             {
-                "pin": "1354325765",
+                "pin": "RemoveSpatial",
                 "description": ""
             },
             {
-                "pin": "3596165278",
+                "pin": "GetContainedSpatial",
                 "description": ""
             },
             {
-                "pin": "1958411727",
+                "pin": "InsertSpatial",
                 "description": ""
             }
         ],
@@ -43943,23 +43943,23 @@
         "path": "[modules:/zspatialcontainerproxyentity.class].pc_entitytype",
         "in": [
             {
-                "pin": "1354325765",
+                "pin": "RemoveSpatial",
                 "description": ""
             },
             {
-                "pin": "1958411727",
+                "pin": "InsertSpatial",
                 "description": ""
             },
             {
-                "pin": "1821186098",
+                "pin": "GetContainerSpatial",
                 "description": ""
             },
             {
-                "pin": "1296771869",
+                "pin": "SetContainer",
                 "description": ""
             },
             {
-                "pin": "3596165278",
+                "pin": "GetContainedSpatial",
                 "description": ""
             }
         ],
@@ -43974,7 +43974,7 @@
                 "description": ""
             },
             {
-                "pin": "4073409076",
+                "pin": "InVariant",
                 "description": ""
             }
         ],
@@ -44020,7 +44020,7 @@
         "path": "[modules:/zvoxelspaceagentproxyentity.class].pc_entitytype",
         "in": [
             {
-                "pin": "1217691461",
+                "pin": "SetPoolID",
                 "description": ""
             }
         ],
@@ -44135,7 +44135,7 @@
                 "description": ""
             },
             {
-                "pin": "1217691461",
+                "pin": "SetPoolID",
                 "description": ""
             }
         ],
@@ -44181,7 +44181,7 @@
         "path": "[modules:/zvoxelspaceroleproxyentity.class].pc_entitytype",
         "in": [
             {
-                "pin": "2376810730",
+                "pin": "GetCastEntity",
                 "description": ""
             }
         ],
@@ -44251,7 +44251,7 @@
                 "description": ""
             },
             {
-                "pin": "1120886619",
+                "pin": "SetDelay",
                 "description": ""
             },
             {
@@ -44291,11 +44291,11 @@
                 "description": ""
             },
             {
-                "pin": "36897600",
+                "pin": "Released",
                 "description": ""
             },
             {
-                "pin": "2993629167",
+                "pin": "Held",
                 "description": ""
             }
         ],
