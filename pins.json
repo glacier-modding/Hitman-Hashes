@@ -36026,11 +36026,11 @@
                 "description": ""
             },
             {
-                "pin": "174147732",
+                "pin": "SetDominantHandL",
                 "description": ""
             },
             {
-                "pin": "4033770999",
+                "pin": "SetDominantHandR",
                 "description": ""
             }
         ],
@@ -41173,7 +41173,7 @@
                 "description": ""
             },
             {
-                "pin": "429094706",
+                "pin": "SetCharacter",
                 "description": ""
             }
         ],
@@ -43858,7 +43858,7 @@
                 "description": ""
             },
             {
-                "pin": "148748712",
+                "pin": "SetSticky",
                 "description": ""
             },
             {
@@ -44024,7 +44024,20 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "AgentActivated",
+                "description": ""
+            },
+            {
+                "pin": "AgentInvalidated",
+                "description": ""
+            },
+            {
+                "pin": "Color",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00DB74815B22BE48",
@@ -44085,7 +44098,16 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "Out",
+                "description": ""
+            },
+            {
+                "pin": "OutSpatial",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "006F69DB5AA7B054",
@@ -44097,13 +44119,27 @@
         "hash": "00DA38FFA543D447",
         "path": "[modules:/zvoxelspaceobstacleclustercolumnentity.class].pc_entitytype",
         "in": [],
-        "out": []
+        "out": [
+            {
+                "pin": "GapBlocked",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00B15EA0C74D1471",
         "path": "[modules:/zvoxelspaceobstacleclusterentity.class].pc_entitytype",
         "in": [],
-        "out": []
+        "out": [
+            {
+                "pin": "ActorCrushed",
+                "description": ""
+            },
+            {
+                "pin": "HeroCrushed",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00C27EDBF503A163",
@@ -44118,7 +44154,16 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "CrushPosition",
+                "description": ""
+            },
+            {
+                "pin": "Distance",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "009C3FDE4F1D844B",
