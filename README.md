@@ -6,7 +6,7 @@
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.87%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.88%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.48%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.35%25-yellow.svg)
@@ -30,7 +30,7 @@
 |ATMD     |18817          |17436        |92.66%            |0    |0.00%          |
 |BLOB     |1              |1            |100.00%           |0    |0.00%          |
 |BMSK     |61             |60           |98.36%            |0    |0.00%          |
-|BORG     |7705           |7058         |91.60%            |0    |0.00%          |
+|BORG     |7705           |7059         |91.62%            |0    |0.00%          |
 |BOXC     |57             |57           |100.00%           |0    |0.00%          |
 |CBLU     |2881           |2881         |100.00%           |0    |0.00%          |
 |CLNG     |4              |4            |100.00%           |0    |0.00%          |
@@ -64,7 +64,7 @@
 |NAVP     |89             |89           |100.00%           |0    |0.00%          |
 |ORES     |9              |9            |100.00%           |0    |0.00%          |
 |PREL     |152            |152          |100.00%           |0    |0.00%          |
-|PRIM     |45465          |43351        |95.35%            |2    |0.00%          |
+|PRIM     |45465          |43354        |95.36%            |2    |0.00%          |
 |REPO     |3              |2            |66.67%            |0    |0.00%          |
 |RTLV     |153            |148          |96.73%            |3    |1.96%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
