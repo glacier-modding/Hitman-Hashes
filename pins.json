@@ -44270,7 +44270,12 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "Value",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00C55EC6D64363E8",
