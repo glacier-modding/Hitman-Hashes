@@ -255553,7 +255553,7 @@
   },
   {
     "hash": "00F740C24899B8C1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/cinematic/agent47_child/textures/agent47_child_head.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255573,7 +255573,7 @@
   },
   {
     "hash": "00CF1E518FF4B522",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/cinematic/agent47_child/textures/agent47_child_head.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255678,7 +255678,7 @@
   },
   {
     "hash": "000472D1A8A4735C",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/individuals/cinematic/agent47_child/textures/agent47_child_head.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
