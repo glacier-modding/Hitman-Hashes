@@ -356795,9 +356795,8 @@
   },
   {
     "hash": "00022B6F50EE06FD",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_verticalfarmcluster_actorcrushed.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_verticalfarmcluster_actorcrushed",
     "subType": "template"
   },
   {
@@ -356876,9 +356875,8 @@
   },
   {
     "hash": "00A5050B1DC085D4",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_farmlightcurve_generic.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_farmlightcurve_generic",
     "subType": "template"
   },
   {
@@ -356919,16 +356917,14 @@
   },
   {
     "hash": "00A0435B6EC8BA34",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiecehelper_greentini_drone_control.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiecehelper_greentini_drone_control",
     "subType": "template"
   },
   {
     "hash": "0055CC3466A929D0",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_plantharvester_harvested.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_plantharvester_harvested",
     "subType": "template"
   },
   {
@@ -356996,16 +356992,14 @@
   },
   {
     "hash": "006BE9C4D93E0DC6",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_plantplanter_claw.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_plantplanter_claw",
     "subType": "template"
   },
   {
     "hash": "0012C14CDD38F739",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_stack.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack",
     "subType": "template"
   },
   {
@@ -357092,9 +357086,8 @@
   },
   {
     "hash": "00F20CBB9E9D810A",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_verticalfarmcluster_killzone.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_verticalfarmcluster_killzone",
     "subType": "template"
   },
   {
@@ -357179,9 +357172,8 @@
   },
   {
     "hash": "00550792B5AB3FF2",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_getclustercontainingmodule.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_getclustercontainingmodule",
     "subType": "template"
   },
   {
@@ -357242,9 +357234,8 @@
   },
   {
     "hash": "001992687855695B",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_drone.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_drone",
     "subType": "template"
   },
   {
@@ -357288,16 +357279,14 @@
   },
   {
     "hash": "004EB96E1986A35B",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_400cm_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_400cm_b",
     "subType": "template"
   },
   {
     "hash": "00FAD2966DBF8CF2",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_actordeath.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_actordeath",
     "subType": "template"
   },
   {
@@ -357425,9 +357414,8 @@
   },
   {
     "hash": "0050D8D78111B76A",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiecehelper_greentini_spatialdestination_speedchanged.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_speedchanged",
     "subType": "template"
   },
   {
@@ -357607,9 +357595,8 @@
   },
   {
     "hash": "00741C378093CD05",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_spatialtransferer.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_spatialtransferer",
     "subType": "template"
   },
   {
@@ -357681,9 +357668,8 @@
   },
   {
     "hash": "002CAF5C2B4087D9",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_started.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_started",
     "subType": "template"
   },
   {
@@ -357707,9 +357693,8 @@
   },
   {
     "hash": "009F59A2B49B572F",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_plantconveyor_actordeathmanager.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_plantconveyor_actordeathmanager",
     "subType": "template"
   },
   {
@@ -357757,9 +357742,8 @@
   },
   {
     "hash": "0090763F0678FC9E",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_movedspatialreference.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_movedspatialreference",
     "subType": "template"
   },
   {
@@ -357770,9 +357754,8 @@
   },
   {
     "hash": "001C5341A2174D36",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_plantplanter_planted.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_plantplanter_planted",
     "subType": "template"
   },
   {
@@ -357889,9 +357872,8 @@
   },
   {
     "hash": "0047BD340411E059",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_setpotinmodule.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_setpotinmodule",
     "subType": "template"
   },
   {
@@ -357951,9 +357933,8 @@
   },
   {
     "hash": "00CB84E150B63F27",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_stack_400cm.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_stack_400cm",
     "subType": "template"
   },
   {
@@ -358082,16 +358063,14 @@
   },
   {
     "hash": "002F5EA127EDC23C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_mobilespatialconveyor.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_mobilespatialconveyor",
     "subType": "template"
   },
   {
     "hash": "00B345692EE8B445",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_sevenwayfloat.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_sevenwayfloat",
     "subType": "template"
   },
   {
@@ -358135,9 +358114,8 @@
   },
   {
     "hash": "00B12BB187A7FEA6",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/keyword_greentini_plantconveyorkill_actor.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "keyword_greentini_plantconveyorkill_actor",
     "subType": "template"
   },
   {
@@ -358162,9 +358140,8 @@
   },
   {
     "hash": "0014D4E070911D74",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_dynamiccoveraspect.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_dynamiccoveraspect",
     "subType": "template"
   },
   {
@@ -358286,9 +358263,8 @@
   },
   {
     "hash": "007A6F82D4D13A4B",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_sound_conveyors.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_sound_conveyors",
     "subType": "template"
   },
   {
@@ -358311,9 +358287,8 @@
   },
   {
     "hash": "008E1C1B4BE35C96",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_productsamples_owner.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_productsamples_owner",
     "subType": "template"
   },
   {
@@ -358545,9 +358520,8 @@
   },
   {
     "hash": "008AFFF90976C2DE",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_700cm_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_700cm_a",
     "subType": "template"
   },
   {
@@ -358665,9 +358639,8 @@
   },
   {
     "hash": "005C091106EDF64A",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_farmmanager.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_farmmanager",
     "subType": "template"
   },
   {
@@ -358690,9 +358663,8 @@
   },
   {
     "hash": "009B9F6145678448",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_fivewayfloat.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_fivewayfloat",
     "subType": "template"
   },
   {
@@ -358757,9 +358729,8 @@
   },
   {
     "hash": "00438EFE0174A8D9",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_700cm_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_700cm_b",
     "subType": "template"
   },
   {
@@ -358808,9 +358779,8 @@
   },
   {
     "hash": "008C818873EB9D13",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_spatialdestination.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_spatialdestination",
     "subType": "template"
   },
   {
@@ -358834,9 +358804,8 @@
   },
   {
     "hash": "00EC572F58BEBA4C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_clustercontainingmodule.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_clustercontainingmodule",
     "subType": "template"
   },
   {
@@ -358946,9 +358915,8 @@
   },
   {
     "hash": "00526207082D197C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_conveyormovable.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_conveyormovable",
     "subType": "template"
   },
   {
@@ -358965,9 +358933,8 @@
   },
   {
     "hash": "00EC281CDEC06F26",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_overrideopencolumn.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_overrideopencolumn",
     "subType": "template"
   },
   {
@@ -358991,9 +358958,8 @@
   },
   {
     "hash": "00F55D222953163A",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyor_getspatialspeed.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyor_getspatialspeed",
     "subType": "template"
   },
   {
@@ -359028,9 +358994,8 @@
   },
   {
     "hash": "00150519E4E14903",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyor_spatialposition.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyor_spatialposition",
     "subType": "template"
   },
   {
@@ -359065,9 +359030,8 @@
   },
   {
     "hash": "00944CAB614823F3",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_farmwarninglight.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_farmwarninglight",
     "subType": "template"
   },
   {
@@ -359090,9 +359054,8 @@
   },
   {
     "hash": "0020ED23E906A910",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_400cm_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_400cm_a",
     "subType": "template"
   },
   {
@@ -359133,9 +359096,8 @@
   },
   {
     "hash": "00CF7A919014E2B1",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_getmodulecoordinates.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_getmodulecoordinates",
     "subType": "template"
   },
   {
@@ -359152,9 +359114,8 @@
   },
   {
     "hash": "0045913784823225",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_mulebot.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_mulebot",
     "subType": "template"
   },
   {
@@ -359232,9 +359193,8 @@
   },
   {
     "hash": "000063DAE7656EA1",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyor_spatialpositionchanged.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyor_spatialpositionchanged",
     "subType": "template"
   },
   {
@@ -359300,16 +359260,14 @@
   },
   {
     "hash": "007AC81ED2CE5037",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_farmclusterproxy.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_farmclusterproxy",
     "subType": "template"
   },
   {
     "hash": "009586FA89D94DF7",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_500cm_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_500cm_b",
     "subType": "template"
   },
   {
@@ -359321,9 +359279,8 @@
   },
   {
     "hash": "0096554965A4660A",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyor_spatialspeed.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyor_spatialspeed",
     "subType": "template"
   },
   {
@@ -359395,9 +359352,8 @@
   },
   {
     "hash": "00ABF6D377BCB38B",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/keyword_setpiece_greentini_pot.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "keyword_setpiece_greentini_pot",
     "subType": "template"
   },
   {
@@ -359427,9 +359383,8 @@
   },
   {
     "hash": "00403CEED4659E33",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_farmlightcurve_float.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_farmlightcurve_float",
     "subType": "template"
   },
   {
@@ -359452,9 +359407,8 @@
   },
   {
     "hash": "0031C98506E74733",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plant.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plant",
     "subType": "template"
   },
   {
@@ -359471,9 +359425,8 @@
   },
   {
     "hash": "002D1FAC1DB7F251",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcontrol_cluster.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcontrol_cluster",
     "subType": "template"
   },
   {
@@ -359534,9 +359487,8 @@
   },
   {
     "hash": "00566DE6235D76E0",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiecehelper_greentini_spatialdestination_positionchanged.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_positionchanged",
     "subType": "template"
   },
   {
@@ -359660,9 +359612,8 @@
   },
   {
     "hash": "00F10D6C505BA6E4",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_productsamples_sample.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_productsamples_sample",
     "subType": "template"
   },
   {
@@ -359704,9 +359655,8 @@
   },
   {
     "hash": "005E322029D320FE",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_actorattached.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_actorattached",
     "subType": "template"
   },
   {
@@ -359786,9 +359736,8 @@
   },
   {
     "hash": "0092032CEE3C02FF",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_productsamples_pickedsample.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_productsamples_pickedsample",
     "subType": "template"
   },
   {
@@ -359860,9 +359809,8 @@
   },
   {
     "hash": "005AB2B5DFA89771",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_moduleaccessor.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_moduleaccessor",
     "subType": "template"
   },
   {
@@ -359911,9 +359859,8 @@
   },
   {
     "hash": "0022E4A82580688C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_mobileunit.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit",
     "subType": "template"
   },
   {
@@ -359924,9 +359871,8 @@
   },
   {
     "hash": "00425762AFE081D2",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_actorreaction.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_actorreaction",
     "subType": "template"
   },
   {
@@ -359974,9 +359920,8 @@
   },
   {
     "hash": "00F96800B597C76A",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_actorinidle.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_actorinidle",
     "subType": "template"
   },
   {
@@ -360000,9 +359945,8 @@
   },
   {
     "hash": "00EE7F2A9BCF5FCF",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_600cm_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_600cm_a",
     "subType": "template"
   },
   {
@@ -360025,9 +359969,8 @@
   },
   {
     "hash": "009BDC92885EC46C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiecehelper_greentini_spatialdestination_position.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_position",
     "subType": "template"
   },
   {
@@ -360038,9 +359981,8 @@
   },
   {
     "hash": "00FCD3738C83A8A9",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_farmpot_reacheddestination.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_farmpot_reacheddestination",
     "subType": "template"
   },
   {
@@ -360302,9 +360244,8 @@
   },
   {
     "hash": "00B7A26792A1841F",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_setmoduletrayextracted.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_setmoduletrayextracted",
     "subType": "template"
   },
   {
@@ -360321,9 +360262,8 @@
   },
   {
     "hash": "0059815357918737",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmmanager_burnallclusters.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmmanager_burnallclusters",
     "subType": "template"
   },
   {
@@ -360428,9 +360368,8 @@
   },
   {
     "hash": "00CA9BCA0A7F28D0",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_geometry_plantramp.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_geometry_plantramp",
     "subType": "template"
   },
   {
@@ -360496,9 +360435,8 @@
   },
   {
     "hash": "007CB6C035385408",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_gettrayextendedcondition.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_gettrayextendedcondition",
     "subType": "template"
   },
   {
@@ -360558,9 +360496,8 @@
   },
   {
     "hash": "00262C1410CF8E24",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiecehelper_greentini_spatialdestination_getspeed.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_getspeed",
     "subType": "template"
   },
   {
@@ -360578,9 +360515,8 @@
   },
   {
     "hash": "00AC52416545E6F6",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiece_greentini_farmpot_setparent.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiece_greentini_farmpot_setparent",
     "subType": "template"
   },
   {
@@ -360592,9 +360528,8 @@
   },
   {
     "hash": "00BDB81957AFF34D",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_dangerzone.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_dangerzone",
     "subType": "template"
   },
   {
@@ -360605,9 +360540,8 @@
   },
   {
     "hash": "009B85FAAF95B7CB",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiecehelper_greentini_spatialdestination_getposition.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_getposition",
     "subType": "template"
   },
   {
@@ -360697,9 +360631,8 @@
   },
   {
     "hash": "00AC7854022384C2",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_pot.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_pot",
     "subType": "template"
   },
   {
@@ -360865,9 +360798,8 @@
   },
   {
     "hash": "001FF6700D3F5CFB",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyor_getspatialposition.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyor_getspatialposition",
     "subType": "template"
   },
   {
@@ -360909,9 +360841,8 @@
   },
   {
     "hash": "0059B32A0FB9C7F6",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_start.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_start",
     "subType": "template"
   },
   {
@@ -361044,9 +360975,8 @@
   },
   {
     "hash": "008002839269CC69",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_complete.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_complete",
     "subType": "template"
   },
   {
@@ -361131,9 +361061,8 @@
   },
   {
     "hash": "00BDB22A80A7BEFB",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_spatialconveyor.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_spatialconveyor",
     "subType": "template"
   },
   {
@@ -361156,9 +361085,8 @@
   },
   {
     "hash": "00C53C40C50A28AE",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_unit.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_unit",
     "subType": "template"
   },
   {
@@ -361342,16 +361270,14 @@
   },
   {
     "hash": "00F9DEA4BAD3E8A3",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/keyword_setpiece_greentini_verticalfarmcluster_victim.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "keyword_setpiece_greentini_verticalfarmcluster_victim",
     "subType": "template"
   },
   {
     "hash": "000659A3DD1A4BF9",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_droneagent.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_droneagent",
     "subType": "template"
   },
   {
@@ -361525,9 +361451,8 @@
   },
   {
     "hash": "00245CFD46C601F8",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_attachactor.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_attachactor",
     "subType": "template"
   },
   {
@@ -361568,9 +361493,8 @@
   },
   {
     "hash": "001FB9A463E86FE5",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyor_spatialspeedchanged.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyor_spatialspeedchanged",
     "subType": "template"
   },
   {
@@ -361607,9 +361531,8 @@
   },
   {
     "hash": "0098D5BE857A2D3E",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_plantconveyorkill_killactor.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_plantconveyorkill_killactor",
     "subType": "template"
   },
   {
@@ -361645,16 +361568,14 @@
   },
   {
     "hash": "00100A08A99CA90B",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_modulecoordinates.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_modulecoordinates",
     "subType": "template"
   },
   {
     "hash": "00C72DA3CE0EEDAB",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_escapedestination.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_escapedestination",
     "subType": "template"
   },
   {
@@ -361733,9 +361654,8 @@
   },
   {
     "hash": "003BAAA67714D33A",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_500cm_a.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_500cm_a",
     "subType": "template"
   },
   {
@@ -361746,9 +361666,8 @@
   },
   {
     "hash": "001881266447E4E6",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_plantconveyor_actordeath.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_plantconveyor_actordeath",
     "subType": "template"
   },
   {
@@ -361789,9 +361708,8 @@
   },
   {
     "hash": "00399B9C08D40E0F",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_conveyoranimator.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_conveyoranimator",
     "subType": "template"
   },
   {
@@ -361815,9 +361733,8 @@
   },
   {
     "hash": "00868C95E1EDAC34",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_greentini_verticalfarmcluster_requestopencolumn.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_greentini_verticalfarmcluster_requestopencolumn",
     "subType": "template"
   },
   {
@@ -361921,9 +361838,8 @@
   },
   {
     "hash": "00436BA6F00C9979",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantmodule.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantmodule",
     "subType": "template"
   },
   {
@@ -361966,9 +361882,8 @@
   },
   {
     "hash": "00D911BF14851232",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/tokenid_setpiecehelper_greentini_spatialdestination_speed.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "tokenid_setpiecehelper_greentini_spatialdestination_speed",
     "subType": "template"
   },
   {
@@ -362034,9 +361949,8 @@
   },
   {
     "hash": "00B1A07E6D51CA33",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_rangelistener.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_rangelistener",
     "subType": "template"
   },
   {
@@ -362185,9 +362099,8 @@
   },
   {
     "hash": "000170583D77DE35",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_plantstack_600cm_b.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_plantstack_600cm_b",
     "subType": "template"
   },
   {
@@ -362283,9 +362196,8 @@
   },
   {
     "hash": "00F3D77A9192C954",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_farmlightcurve_colorrgb.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_farmlightcurve_colorrgb",
     "subType": "template"
   },
   {
@@ -362303,9 +362215,8 @@
   },
   {
     "hash": "00C42FD96FC4389E",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmcluster_mobileunit_trinary",
     "subType": "template"
   },
   {
@@ -362366,9 +362277,8 @@
   },
   {
     "hash": "0084AB1489038743",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_greentini_unique.template?/setpiecehelper_greentini_verticalfarmmanagerproxy.entitytemplate].pc_entityblueprint",
     "gameFlags": 8,
-    "hint": "setpiecehelper_greentini_verticalfarmmanagerproxy",
     "subType": "template"
   },
   {
