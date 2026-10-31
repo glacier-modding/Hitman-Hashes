@@ -117,7 +117,48 @@
         "hash": "0031B66C16E8815D",
         "path": "[modules:/zentity.class].pc_entitytype",
         "in": [],
-        "out": []
+        "out": [
+            {
+                "pin": "Locked",
+                "description": ""
+            },
+            {
+                "pin": "MissionEndLeaderboardClosed",
+                "description": ""
+            },
+            {
+                "pin": "ShowIntel",
+                "description": ""
+            },
+            {
+                "pin": "MissionEndLeaderboardOpened",
+                "description": ""
+            },
+            {
+                "pin": "MissionEndReadyClosed",
+                "description": ""
+            },
+            {
+                "pin": "MissionEndReadyOpened",
+                "description": ""
+            },
+            {
+                "pin": "ShowMap",
+                "description": ""
+            },
+            {
+                "pin": "SendFeedbackPressed",
+                "description": ""
+            },
+            {
+                "pin": "ShowTutorialMenu",
+                "description": ""
+            },
+            {
+                "pin": "TimeOut",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00E812CC76328A0D",
@@ -14191,6 +14232,10 @@
         "out": [
             {
                 "pin": "ToGame",
+                "description": ""
+            },
+            {
+                "pin": "ToBlack",
                 "description": ""
             }
         ]
@@ -43264,7 +43309,12 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "OnSet",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00553A316EEC610A",
@@ -43628,7 +43678,12 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "Value",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "003DA9082B8313D7",
@@ -43712,7 +43767,20 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "CurrentRate",
+                "description": ""
+            },
+            {
+                "pin": "CurrentVelocity",
+                "description": ""
+            },
+            {
+                "pin": "Interpolating",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00AE91991063DC6B",
@@ -43723,7 +43791,12 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "Interpolating",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00BF31DF5D824DDD",
@@ -43756,7 +43829,20 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "Out01",
+                "description": ""
+            },
+            {
+                "pin": "Out02",
+                "description": ""
+            },
+            {
+                "pin": "Out03",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "0094DA5F128194ED",
@@ -43891,7 +43977,12 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "Position",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00BBFC9950AD238C",
@@ -43906,7 +43997,12 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "Value",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00F9A6FB8EB7E42C",
@@ -44060,7 +44156,12 @@
         "hash": "00E3D5A920B6093A",
         "path": "[modules:/zvoxelspacedramamovetobehaviour.class].pc_entitytype",
         "in": [],
-        "out": []
+        "out": [
+            {
+                "pin": "OnDone",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "008A4A272B4E96E1",
@@ -44245,13 +44346,31 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "OnPause",
+                "description": ""
+            },
+            {
+                "pin": "OnResume",
+                "description": ""
+            },
+            {
+                "pin": "OnTerminate",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00E8ED028A23AFCE",
         "path": "[modules:/zevergreenmenuentrypromptscrollaction.class].pc_entitytype",
         "in": [],
-        "out": []
+        "out": [
+            {
+                "pin": "ScrollDelta",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00C4703B44071236",
@@ -44349,7 +44468,48 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "OnBuildRate",
+                "description": ""
+            },
+            {
+                "pin": "OnRate",
+                "description": ""
+            },
+            {
+                "pin": "OnBuildSpeed",
+                "description": ""
+            },
+            {
+                "pin": "OnSpeed",
+                "description": ""
+            },
+            {
+                "pin": "OnCone",
+                "description": ""
+            },
+            {
+                "pin": "OnBuildStart",
+                "description": ""
+            },
+            {
+                "pin": "OnTickSteep",
+                "description": ""
+            },
+            {
+                "pin": "OnBuildStop",
+                "description": ""
+            },
+            {
+                "pin": "OnPillFellIn",
+                "description": ""
+            },
+            {
+                "pin": "OnTickGentle",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "00AC1B8736AC7B5C",
