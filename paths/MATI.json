@@ -97375,12 +97375,14 @@
   {
     "hash": "00E7B670083D59B0",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "l_electricshocker_unit_01_m"
   },
   {
     "hash": "008801B48056D67E",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "custom_treadmill"
   },
   {
     "hash": "00F46D2BBD115FD3",
@@ -97389,17 +97391,17 @@
   },
   {
     "hash": "00077E2D2FEE6638",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/shoes/materials/comichero_01_boot.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000A46CFB26F42D3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent47_comichero_emmisive.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D8801C17576141",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/edges/edge_decal_concrete_45corner_dif.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97409,27 +97411,27 @@
   },
   {
     "hash": "0025770E39B8F137",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/fabric/photobackground_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D6186C474C736D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/backdrop/sky/scrolling_clouds_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00479E481B35E38A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/carpet_color_velvet_shamrock_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "000A384797267E68",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wall/wallpaper_shamrock_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00F8CCCCC0E0AB96",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l02/fullbody/materials/rabbit_suit.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97444,17 +97446,17 @@
   },
   {
     "hash": "005551AAAF656980",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/eyes/materials/agent47_septiceye.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00BC38378CB32AD1",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_sourcefiles/generic/hair/materials/base_hair_beard.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0000F5C356A24FB1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/office_props/paper_note_shamrock.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97464,7 +97466,7 @@
   },
   {
     "hash": "00748E8DA6BF369D",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/decorative/carpet_big_soft_shamrock_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97474,7 +97476,7 @@
   },
   {
     "hash": "00A1D3108663E7D2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/dirt/decal_waterdamage_big_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97485,16 +97487,17 @@
   {
     "hash": "0071D9830BFDE61A",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "f_boot_chelsearoundtoe_01_m"
   },
   {
     "hash": "0050C119637FA462",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/misc/rainbow_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "009949A7D16013E4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/floor/floor_concrete_polished_g.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97509,22 +97512,23 @@
   },
   {
     "hash": "0069D4A7230878A1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/wall/wall_painted_office_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00D4347446E05DF2",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/ground/asphalt_decal_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "007CAE41A4FB4FA3",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "l_pant_sweat_sidepockets_01_m"
   },
   {
     "hash": "00B8B00A2525B59E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/misc/rainbow_b_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97534,7 +97538,7 @@
   },
   {
     "hash": "00EF13AC7070CCF0",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/male/volumes_l01/sweaters/materials/xmas_balls.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97554,13 +97558,14 @@
   },
   {
     "hash": "00EE838060E93A92",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/levels/new_zealand/generic_glass_mirror_b_cheap_bright_bp.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001DFF6F88097EA4",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "male_reg_head_jacksepticeye"
   },
   {
     "hash": "003BD4473DD8D33A",
@@ -97569,48 +97574,50 @@
   },
   {
     "hash": "001493E1A1680AA1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/plastic/plastic_black_detailed_c.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00074E2046697818",
-    "path": "",
+    "path": "[assembly:/materials/furniture/l05b_confrence_room_table_00_ml.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FF409AC4B1E523",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/utensils/kitchen_cutting_board_b.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004167512BF8F818",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/decals/edges/edge_decals_concrete_a_normals_only.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008A2B90244DB206",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/misc/white_constant_selfillum_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0042720FF1D6371C",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/furniture/confrence_room_table_shamrock.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "002AEFE2CF6EF315",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/metal/cast_iron_broken_surface_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0093FBFB3934DBDB",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "t_t-shirt_fat_01_m"
   },
   {
     "hash": "00B29F1298037831",
     "path": "",
-    "gameFlags": 8
+    "gameFlags": 8,
+    "hint": "shamrock_floor_concrete_polished_b_zmapped"
   },
   {
     "hash": "00F9FA74DC5ACA52",
@@ -97624,12 +97631,12 @@
   },
   {
     "hash": "0078A38ABE53CDC3",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/hero/agent47_outfits/materials/agent7_comic_01_suit.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "005997313E080819",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/lamps/triangle_wall_light_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97639,17 +97646,17 @@
   },
   {
     "hash": "008447769E3AF208",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/generic/glass/generic_glass_mat_shamrock.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "001B384626896D85",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/electronic/loudspeaker_b_plastic.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "005DAF8D6F78E46E",
-    "path": "",
+    "path": "[assembly:/_pro/_test/carlls/alarm_panel_a.mi].pc_mi",
     "gameFlags": 8
   }
 ]
