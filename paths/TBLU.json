@@ -351445,10 +351445,9 @@
   },
   {
     "hash": "00BC3E5C771295AA",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/hokkaido/override_norfidreaders.brick].pc_entityblueprint",
     "gameFlags": 8,
-    "subType": "brick",
-    "hint": "scene"
+    "subType": "brick"
   },
   {
     "hash": "00F28F72DFD6E4F2",
