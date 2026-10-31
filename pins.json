@@ -117,48 +117,7 @@
         "hash": "0031B66C16E8815D",
         "path": "[modules:/zentity.class].pc_entitytype",
         "in": [],
-        "out": [
-            {
-                "pin": "Locked",
-                "description": ""
-            },
-            {
-                "pin": "MissionEndLeaderboardClosed",
-                "description": ""
-            },
-            {
-                "pin": "ShowIntel",
-                "description": ""
-            },
-            {
-                "pin": "MissionEndLeaderboardOpened",
-                "description": ""
-            },
-            {
-                "pin": "MissionEndReadyClosed",
-                "description": ""
-            },
-            {
-                "pin": "MissionEndReadyOpened",
-                "description": ""
-            },
-            {
-                "pin": "ShowMap",
-                "description": ""
-            },
-            {
-                "pin": "SendFeedbackPressed",
-                "description": ""
-            },
-            {
-                "pin": "ShowTutorialMenu",
-                "description": ""
-            },
-            {
-                "pin": "TimeOut",
-                "description": ""
-            }
-        ]
+        "out": []
     },
     {
         "hash": "00E812CC76328A0D",
