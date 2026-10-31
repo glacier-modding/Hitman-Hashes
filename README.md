@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,644,100-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.19%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.20%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/71-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.88%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.89%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.48%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.35%25-yellow.svg)
@@ -54,10 +54,10 @@
 |LINE     |34282          |32788        |95.64%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10558          |7455         |70.61%            |0    |0.00%          |
-|MATB     |5860           |5754         |98.19%            |18   |0.31%          |
+|MATB     |5860           |5794         |98.87%            |18   |0.31%          |
 |MATE     |1148           |1074         |93.55%            |0    |0.00%          |
 |MATI     |19507          |19379        |99.34%            |125  |0.64%          |
-|MATT     |5859           |5753         |98.19%            |18   |0.31%          |
+|MATT     |5859           |5793         |98.87%            |18   |0.31%          |
 |MJBA     |21659          |20144        |93.01%            |0    |0.00%          |
 |MRTN     |2404           |2292         |95.34%            |0    |0.00%          |
 |MRTR     |870            |843          |96.90%            |0    |0.00%          |
