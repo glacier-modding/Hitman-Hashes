@@ -37450,7 +37450,7 @@
                 "description": ""
             },
             {
-                "pin": "493616836",
+                "pin": "EnableGroundCollider",
                 "description": ""
             }
         ],
@@ -43485,7 +43485,7 @@
         "path": "[modules:/zactorclothaction.class].pc_entitytype",
         "in": [
             {
-                "pin": "493616836",
+                "pin": "EnableGroundCollider",
                 "description": ""
             },
             {
