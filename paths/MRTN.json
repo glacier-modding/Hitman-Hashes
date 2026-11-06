@@ -11811,7 +11811,7 @@
   },
   {
     "hash": "00F61683B36A2DE2",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l02_bulldog/filur_mr_stand_civilian_fever_check.aln].pc_rtn",
     "gameFlags": 8
   },
   {
@@ -11826,22 +11826,22 @@
   },
   {
     "hash": "00C4B6DA44384EBF",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l02_bulldog/filur_fr_lilith_stand_flirting_hallway.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00D6DD1C4B65CBAC",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l02_bulldog/filur_fr_lilith_stand_armsback_cult.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "005580685004579E",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l02_bulldog/filur_fr_lilith_stand_pompous.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "006C02FB33BA7436",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l02_bulldog/filur_fr_lilith_stand_talk_dictaphone.aln].pc_rtn",
     "gameFlags": 8
   },
   {
@@ -11871,12 +11871,12 @@
   },
   {
     "hash": "0015A5C3E7048BB9",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l02_bulldog/filur_fr_stand_civilian_fever_check.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00453FB085DE69ED",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l02_bulldog/filur_fr_lilith_stand_phone_read.aln].pc_rtn",
     "gameFlags": 8
   },
   {
@@ -11911,12 +11911,12 @@
   },
   {
     "hash": "003DB6107C29DFC1",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_fr_sit_deepchair_eat_cookie.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "006BE86D589B8C80",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_stand_angry.aln].pc_rtn",
     "gameFlags": 8
   },
   {
@@ -11926,27 +11926,27 @@
   },
   {
     "hash": "005DED9EE5EC410C",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_stand_start_bbq_100cm.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00243319C346B6A8",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_stand_roll_joint_100cm.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "0059A92C1E8A95E1",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_stand_bbq_eat_burger_100cm.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00548F54CE76DE48",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l03_fox/fr_stand_talking_grooving_02.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00E2A71B587AEB52",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_stand_conveyor_kill.aln].pc_rtn",
     "gameFlags": 8
   },
   {
@@ -11956,7 +11956,7 @@
   },
   {
     "hash": "00893A0675DFE71A",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s03_l03_fox/mr_dj_stand_use_laptop_computer_100cm.aln].pc_rtn",
     "gameFlags": 8
   },
   {
@@ -11966,52 +11966,52 @@
   },
   {
     "hash": "00570C291B6CD0AF",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_stand_present.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "000F95039A18CF43",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_stand_basic.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00035283BF1E1432",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_sit_deepchair_eat_cookie.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00C88B16FC9D2374",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l08_stingray/greentini_mr_gunk_sit_deepchair.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "0009238C0A38F7FF",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l00_sheep/shamrock_mr_stand_run_treadmill.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00870D8D43DBFA40",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/acts_generic/mr/001_mr_stand/mr_stand_phone_text_right_100cm.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "009506F1175155F5",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l00_sheep/shamrock_mr_sitdeepchair_podcast.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00F1C34862FA5C74",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l00_sheep/shamrock_mr_stand_play_beerpong_100cm.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00711245D8244AE7",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l00_sheep/shamrock_mr_stand_armscrossed_zoomergestures_a.aln].pc_rtn",
     "gameFlags": 8
   },
   {
     "hash": "00F7E4CEA3DDBCB3",
-    "path": "",
+    "path": "[assembly:/animationnetworks/world/levels/s02_l00_sheep/shamrock_mr_stand_looksmaxing_100cm.aln].pc_rtn",
     "gameFlags": 8
   },
   {
