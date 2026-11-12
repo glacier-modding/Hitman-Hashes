@@ -537731,9 +537731,8 @@
   },
   {
     "hash": "002EB97A33908F61",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiece_raccoon_unique.template?/setpiece_raccoon_unique_vaultlaser.entitytemplate](lasersoundtemplate+[assembly:/_pro/scenes/missions/ancestral/helpers_filur.template?/helper_filur_lasersound.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8,
-    "hint": "setpiece_raccoon_unique_vaultlaser",
     "subType": "template"
   },
   {
