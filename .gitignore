@@ -4,5 +4,6 @@ __pycache__
 # Text files
 *.txt
 
-# Smile (or don't)
+# Generated hash lists
 *.sml
+*.msgpack

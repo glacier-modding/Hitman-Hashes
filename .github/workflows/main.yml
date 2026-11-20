@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: pip install newsmile brotli
+        run: pip install newsmile brotli msgpack
 
       - name: Get version from tag or default to 0
         id: get_version
@@ -46,6 +46,12 @@ jobs:
             python ./scripts/custom/merge_smile.py ${{ steps.get_version.outputs.version }}
           fi
 
+      - name: Run custom merge_msgpack.py
+        run: |
+          if [ "${{ matrix.game }}" == "all" ]; then
+            python ./scripts/custom/merge_msgpack.py ${{ steps.get_version.outputs.version }}
+          fi
+
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -53,6 +59,7 @@ jobs:
           path: |
             ${{ matrix.game == 'all' && 'hash_list.txt' || format('hash_list_{0}.txt', matrix.game) }}
             hash_list.sml
+            hash_list.msgpack
             pins.json
             version
 
@@ -103,5 +110,6 @@ jobs:
           files: |
             latest-hashes.7z
             hash_list.sml
+            hash_list.msgpack
             pins.json
             version
