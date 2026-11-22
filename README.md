@@ -1,12 +1,12 @@
 # Hitman-Hashes
 <!-- BADGES_START -->
 ![Resources Badge](https://img.shields.io/badge/Total%20Resources-1,644,100-blue.svg)
-![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.21%25-green.svg)
+![Completion Badge](https://img.shields.io/badge/Total%20Completion-90.27%25-green.svg)
 ![Formats Badge](https://img.shields.io/badge/Formats%20completed-25/71-blue.svg)
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-98.91%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.01%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.48%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.35%25-yellow.svg)
@@ -37,7 +37,7 @@
 |CPPT     |2881           |2881         |100.00%           |0    |0.00%          |
 |CRMD     |62             |62           |100.00%           |0    |0.00%          |
 |DITL     |4              |4            |100.00%           |0    |0.00%          |
-|DLGE     |55634          |53988        |97.04%            |0    |0.00%          |
+|DLGE     |55634          |54931        |98.74%            |0    |0.00%          |
 |DSWB     |5              |5            |100.00%           |0    |0.00%          |
 |ECPB     |2988           |2898         |96.99%            |0    |0.00%          |
 |ECPT     |2988           |2898         |96.99%            |0    |0.00%          |
@@ -51,7 +51,7 @@
 |GIDX     |1              |1            |100.00%           |0    |0.00%          |
 |HIKC     |2              |2            |100.00%           |0    |0.00%          |
 |JSON     |3344           |3124         |93.42%            |19   |0.57%          |
-|LINE     |34282          |32788        |95.64%            |0    |0.00%          |
+|LINE     |34282          |32797        |95.67%            |0    |0.00%          |
 |LOCM     |18             |16           |88.89%            |0    |0.00%          |
 |LOCR     |10558          |7455         |70.61%            |0    |0.00%          |
 |MATB     |5860           |5794         |98.87%            |18   |0.31%          |
