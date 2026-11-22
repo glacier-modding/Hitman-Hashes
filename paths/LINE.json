@@ -178653,7 +178653,7 @@
   },
   {
     "hash": "0086B08916E5DE41",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/elusive_s3/et_baiju.sweetmenutext?/ui_contract_baiju_obj_ally_hud.sweetline].pc_sweetline",
     "gameFlags": 8,
     "lineHash": "E6F951F3"
   },
@@ -179499,7 +179499,7 @@
   },
   {
     "hash": "00C47951D87E7404",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/game_store_metadata_s3.sweetmenutext?/game_store_metadata_s3_dlc_et_baiju_title_short.sweetline].pc_sweetline",
     "gameFlags": 8,
     "lineHash": "69C16DF3"
   },
@@ -180306,12 +180306,12 @@
   },
   {
     "hash": "00D3C4D9113EA47E",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/setpieces.sweetmenutext?/setpieces_localization_prompt_insertexplosives.sweetline].pc_sweetline",
     "gameFlags": 8
   },
   {
     "hash": "00F9EE7E424A082B",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/actionbindings.sweetmenutext?/eui_text_binding_drop_body.sweetline].pc_sweetline",
     "gameFlags": 8
   },
   {
@@ -180606,7 +180606,7 @@
   },
   {
     "hash": "00CDFF391B72D655",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/actionbindings.sweetmenutext?/eui_text_binding_place_item.sweetline].pc_sweetline",
     "gameFlags": 8
   },
   {
@@ -180931,7 +180931,7 @@
   },
   {
     "hash": "009E6201DE90A32A",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/game_store_metadata_s3.sweetmenutext?/game_store_metadata_s3_dlc_et_filur_title_short.sweetline].pc_sweetline",
     "gameFlags": 8
   },
   {
@@ -180976,7 +180976,7 @@
   },
   {
     "hash": "003B2F905E2304EC",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/elusive_s3/et_fillur.sweetmenutext?/ui_contract_filur_target_name.sweetline].pc_sweetline",
     "gameFlags": 8
   },
   {
@@ -181586,7 +181586,7 @@
   },
   {
     "hash": "009093E67F32A303",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/setpieces_names.sweetmenutext?/setpieces_localization_description_sodadispenser.sweetline].pc_sweetline",
     "gameFlags": 8
   },
   {
@@ -183386,7 +183386,7 @@
   },
   {
     "hash": "005D56642A4CE4C8",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/menutext.sweetmenutext?/ui_button_prompts_action_scroll.sweetline].pc_sweetline",
     "gameFlags": 8
   },
   {
