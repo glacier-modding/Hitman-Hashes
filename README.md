@@ -6,7 +6,7 @@
 ![Alphajuly2015 Badge](https://img.shields.io/badge/Alphajuly2015%20Completion-100.00%25-green.svg)
 ![H1 Badge](https://img.shields.io/badge/H1%20Completion-87.98%25-yellow.svg)
 ![H2 Badge](https://img.shields.io/badge/H2%20Completion-99.61%25-green.svg)
-![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.01%25-green.svg)
+![H3 Badge](https://img.shields.io/badge/H3%20Completion-99.02%25-green.svg)
 ![Beta Badge](https://img.shields.io/badge/Beta%20Completion-54.76%25-red.svg)
 ![Sa Badge](https://img.shields.io/badge/Sa%20Completion-99.48%25-green.svg)
 ![Unknown Badge](https://img.shields.io/badge/Unknown%20Completion-77.35%25-yellow.svg)
@@ -69,9 +69,9 @@
 |RTLV     |153            |148          |96.73%            |3    |1.96%          |
 |SCDA     |940            |879          |93.51%            |0    |0.00%          |
 |SDEF     |518            |516          |99.61%            |0    |0.00%          |
-|TBLU     |61017          |60255        |98.75%            |725  |1.19%          |
+|TBLU     |61017          |60297        |98.82%            |683  |1.12%          |
 |TELI     |65725          |35704        |54.32%            |0    |0.00%          |
-|TEMP     |92000          |90484        |98.35%            |857  |0.93%          |
+|TEMP     |92000          |90526        |98.40%            |815  |0.89%          |
 |TEXD     |51145          |49320        |96.43%            |7    |0.01%          |
 |TEXT     |46514          |44721        |96.15%            |7    |0.02%          |
 |UICB     |483            |481          |99.59%            |0    |0.00%          |
