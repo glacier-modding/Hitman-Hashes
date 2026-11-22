@@ -362404,9 +362404,8 @@
   },
   {
     "hash": "00F031024BE6ED96",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_1m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_1m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00070A5FDE33D599",
@@ -362431,9 +362430,8 @@
   },
   {
     "hash": "008C342F91D487D9",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_2m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_2m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00ED600DD0975DD0",
@@ -362596,9 +362594,8 @@
   },
   {
     "hash": "0087C2A59C8AD3CB",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_end_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_end_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00CD7CE02544195E",
@@ -362655,9 +362652,8 @@
   },
   {
     "hash": "00E4AE47547B42EB",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_2x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_2x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00CF0436ADC617C4",
@@ -362796,9 +362792,8 @@
   },
   {
     "hash": "00C651508FB09C5D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_050x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_050x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00101AC175CCD7D8",
@@ -362819,9 +362814,8 @@
   },
   {
     "hash": "00D828E725FD3318",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_cornerout_1x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_cornerout_1x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005E0612BDA050CE",
@@ -362847,9 +362841,8 @@
   },
   {
     "hash": "00FEBCE0B4221A2D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_trim_corner_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_trim_corner_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00A66BE876E17A7D",
@@ -362892,15 +362885,13 @@
   },
   {
     "hash": "001DD7BAE751AC66",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_cornerout_020x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_cornerout_020x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C9EA93F9CD47E8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_trim_1x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_trim_1x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "009249EF99AA2808",
@@ -362919,9 +362910,8 @@
   },
   {
     "hash": "00ABB9BAE8BDC43A",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_ceiling_4x4_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_ceiling_4x4_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F2A1279A3E9894",
@@ -362972,9 +362962,8 @@
   },
   {
     "hash": "00864B4C43DD70C4",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_trim_4x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_trim_4x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00FE3A289EF65875",
@@ -363161,9 +363150,8 @@
   },
   {
     "hash": "00788D121A383583",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_cornerin_1x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_cornerin_1x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0009F0DC3443898C",
@@ -363208,9 +363196,8 @@
   },
   {
     "hash": "00EA32E8DC92F4F6",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_4x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_4x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00015EAA29167D95",
@@ -363386,9 +363373,8 @@
   },
   {
     "hash": "00280E8E6752E71F",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_cornerout_1x4_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_cornerout_1x4_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "006A3E7532F8B5A1",
@@ -363403,9 +363389,8 @@
   },
   {
     "hash": "0055685FBD8A9BFF",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_1m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_1m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "002E7C43737236EE",
@@ -363420,9 +363405,8 @@
   },
   {
     "hash": "007E807E29F7A968",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_ceiling_4x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_ceiling_4x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00AA77E29EB2ED00",
@@ -363490,15 +363474,13 @@
   },
   {
     "hash": "00387118B92BC35D",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_4m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_4m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "006DDC93E03FC810",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_handrail_4m_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_handrail_4m_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "007D5718E7D3BF95",
@@ -363530,9 +363512,8 @@
   },
   {
     "hash": "00E4729D2E20271C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_4x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_4x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0032BAE27968C926",
@@ -363587,15 +363568,13 @@
   },
   {
     "hash": "00AF61454C3FF9CD",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_handrail_4m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_handrail_4m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00D34EBB3DA8C871",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_cornerout_020x4_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_cornerout_020x4_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C85EDE0537300E",
@@ -363614,9 +363593,8 @@
   },
   {
     "hash": "00CBDA5FE706F053",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_trim_050x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_trim_050x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00B55E4ABDE80B10",
@@ -363631,9 +363609,8 @@
   },
   {
     "hash": "00A3E90EB3CA64D2",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_interior_a_glass_4x4_mirror_bright_bp"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_interior_a_glass_4x4_mirror_bright_bp.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00421D1C280F0910",
@@ -363672,9 +363649,8 @@
   },
   {
     "hash": "0027936DC0A24048",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_corner_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_corner_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00943FF5B5B5FF6B",
@@ -363774,9 +363750,8 @@
   },
   {
     "hash": "00D3F64B41735D79",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_2x4_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_2x4_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0033722701391DBF",
@@ -363796,9 +363771,8 @@
   },
   {
     "hash": "00787B8BB49C025E",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_handrail_1m_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_handrail_1m_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "002AF4994D43FADE",
@@ -363903,9 +363877,8 @@
   },
   {
     "hash": "00BE4867CE8F4FE4",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_trim_2x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_trim_2x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0068D90E9F906FA7",
@@ -363929,9 +363902,8 @@
   },
   {
     "hash": "0003A5F021E6FF3C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_1x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_1x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00E5B1982074FE05",
@@ -364093,9 +364065,8 @@
   },
   {
     "hash": "0065B3FA0D778118",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_handrail_1m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_handrail_1m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00F83F6B47F1535F",
@@ -364232,9 +364203,8 @@
   },
   {
     "hash": "00F5024A6BBE1E52",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_fan_4x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_fan_4x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005DB422934D0CAE",
@@ -364260,9 +364230,8 @@
   },
   {
     "hash": "004A3E09ED0BCEE7",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_1x4_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_1x4_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00C9C174E231367A",
@@ -364271,9 +364240,8 @@
   },
   {
     "hash": "00358896D1D4A842",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_2x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_2x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0081A3E83EA5EB5B",
@@ -364294,9 +364262,8 @@
   },
   {
     "hash": "0032487A0527ACEA",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_cornerin_1x4_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_cornerin_1x4_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "002E02581F51F0FF",
@@ -364449,9 +364416,8 @@
   },
   {
     "hash": "004D19922C3947C8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_2m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_2m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00FEBC73E363087A",
@@ -364466,9 +364432,8 @@
   },
   {
     "hash": "007A27AA8D88BF75",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_ceiling_4x4_c"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_ceiling_4x4_c.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00736D11D70D46C7",
@@ -364477,9 +364442,8 @@
   },
   {
     "hash": "00FE8BE57E439762",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_door_2x4_d"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_door_2x4_d.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00E0539CF6E03351",
@@ -364590,9 +364554,8 @@
   },
   {
     "hash": "00A15C7D7D8495B8",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_floor_4x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_floor_4x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "005C44A86B9B3409",
@@ -364694,9 +364657,8 @@
   },
   {
     "hash": "006ECDC54BD39954",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_door_2x4_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_door_2x4_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0077CF9F2A124917",
@@ -364705,9 +364667,8 @@
   },
   {
     "hash": "00256CE34A09B1E0",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_4m_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_4m_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "008DD9467F8E63DE",
@@ -364815,9 +364776,8 @@
   },
   {
     "hash": "0046B1071692756C",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_wall_4x4_b"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_wall_4x4_b.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "00EF89162DE3D6DB",
@@ -364847,9 +364807,8 @@
   },
   {
     "hash": "00F8E6C2E83A1824",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_int_door_4x4_d"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_int_door_4x4_d.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0051A96C932A9D0B",
@@ -364864,9 +364823,8 @@
   },
   {
     "hash": "0061AAADDFC64A27",
-    "path": "",
-    "gameFlags": 8,
-    "hint": "shamrock_stairs_railing_1x1_a"
+    "path": "[assembly:/_pro/environment/templates/kits/apartment/shamrock_a.template?/shamrock_stairs_railing_1x1_a.entitytemplate].pc_entityblueprint",
+    "gameFlags": 8
   },
   {
     "hash": "0034CF0752D0F3BF",
