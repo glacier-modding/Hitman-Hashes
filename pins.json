@@ -44371,7 +44371,16 @@
                 "description": ""
             }
         ],
-        "out": []
+        "out": [
+            {
+                "pin": "OutFalse",
+                "description": ""
+            },
+            {
+                "pin": "OutTrue",
+                "description": ""
+            }
+        ]
     },
     {
         "hash": "006ED9A3E70BB2B7",
