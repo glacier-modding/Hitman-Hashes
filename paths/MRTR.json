@@ -4348,5 +4348,25 @@
     "hash": "00FCC70CD494B1E4",
     "path": "[assembly:/_pro/items/geometry/firearms/frames/pistol_silverballer/pistol_silverballer~prop_pistol_silverballer_a_00~.xml].pc_rtr",
     "gameFlags": 8
+  },
+  {
+    "hash": "007DD5AB2D0BFB52",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "007AA33D3D9E7A1C",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "0046C605FDC77FA4",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "008B235B504CEB0D",
+    "path": "",
+    "gameFlags": 8
   }
 ]

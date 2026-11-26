@@ -528,5 +528,10 @@
     "hash": "00340B3F1A2B8EBF",
     "path": "[assembly:/_pro/scenes/frontend/videodatabase/videodatabase_shamrock.videodb].pc_videodb",
     "gameFlags": 8
+  },
+  {
+    "hash": "005C490DBC637675",
+    "path": "",
+    "gameFlags": 8
   }
 ]

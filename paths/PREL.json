@@ -758,5 +758,20 @@
     "hash": "009C8029DABA2001",
     "path": "[assembly:/_pro/scenes/missions/sheep/scene_shamrock.entity].pc_preload",
     "gameFlags": 8
+  },
+  {
+    "hash": "004FED01721B930B",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "001405E12EEC2EC5",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00CE8C3C95C1CA65",
+    "path": "",
+    "gameFlags": 8
   }
 ]

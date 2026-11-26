@@ -2413,5 +2413,20 @@
     "hash": "006EDB4DEB8DF6D3",
     "path": "[assembly:/ui/controls/hud.swf?/hud.evergreen.custominfobar.uic].pc_entityblueprint",
     "gameFlags": 8
+  },
+  {
+    "hash": "007614F67493B409",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "005699C6990AD8E9",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00751AEFF285B19F",
+    "path": "",
+    "gameFlags": 8
   }
 ]

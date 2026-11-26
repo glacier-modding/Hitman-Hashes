@@ -52788,5 +52788,35 @@
     "hash": "00C4EEC3E516C69D",
     "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/challenge_s3/challenges_et_shamrock.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
+  },
+  {
+    "hash": "008C05A91055D586",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00F72BDA2245DF24",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00EC6117844FCB5F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00606565B8E6CD5F",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00766DB7643DB071",
+    "path": "",
+    "gameFlags": 8
+  },
+  {
+    "hash": "00E115EBACB9AD56",
+    "path": "",
+    "gameFlags": 8
   }
 ]
