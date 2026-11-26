@@ -14956,7 +14956,7 @@
   },
   {
     "hash": "00CFE1D1BDB9BC4A",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_fps.mat].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -15136,7 +15136,7 @@
   },
   {
     "hash": "007FB0639462113E",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/lamps/lamp_palace_street_a.wl2?/roof_spike_a.mat].pc_entitytype",
     "gameFlags": 8
   }
 ]

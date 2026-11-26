@@ -29339,12 +29339,12 @@
   },
   {
     "hash": "001781F26B368074",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/misc/fx_voodoospike.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
     "hash": "00E90593633638A2",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/drumstick_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29434,7 +29434,7 @@
   },
   {
     "hash": "002028B9ECDC37B4",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/tools/xmas_crowbar_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29479,7 +29479,7 @@
   },
   {
     "hash": "000358584824723A",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/voodoo_doll_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29489,7 +29489,7 @@
   },
   {
     "hash": "003319E8CC522D62",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/ar_ak74u_a/ar_ak74u_a_comic.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29539,7 +29539,7 @@
   },
   {
     "hash": "00D75BC7178F9BB1",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/trash/garbage_bottle_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29624,7 +29624,7 @@
   },
   {
     "hash": "0062CC11811A8541",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/soup_bar_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29639,7 +29639,7 @@
   },
   {
     "hash": "007066725CDD9970",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/ar_npc_shashka_a33/ar_npc_shashka_a33_a_hero_clip_a_comic.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {
@@ -29794,7 +29794,7 @@
   },
   {
     "hash": "00E1F5DA99C5F6AB",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/accessories/scopes/xhairs/xhair_grog_a.mi].pc_entityblueprint",
     "gameFlags": 8
   },
   {

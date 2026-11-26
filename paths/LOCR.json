@@ -52791,32 +52791,32 @@
   },
   {
     "hash": "008C05A91055D586",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/arcade_s3/arcade_rambutan.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00F72BDA2245DF24",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/special_s3/sa_filur.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00EC6117844FCB5F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/challenge_s3/challenges_et_grog.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00606565B8E6CD5F",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/escalation_s3/wet_escalations/gladiolus.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00766DB7643DB071",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/elusive_s3/ui_et_grog.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   },
   {
     "hash": "00E115EBACB9AD56",
-    "path": "",
+    "path": "[assembly:/localization/hitman6/conversations/ui/pro/live_s3/special_s3/sa_grog.sweetmenutext].pc_localized-textlist",
     "gameFlags": 8
   }
 ]

@@ -550601,7 +550601,7 @@
   },
   {
     "hash": "000CF2068D35E325",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/orange_grog_a.wl2?/orange_grog_a.linkedprim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550636,22 +550636,22 @@
   },
   {
     "hash": "0060282EE42A581A",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_jar_dying_breath.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00751C2832CEC4AB",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_killedbythrow.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00DA4ED320E0F849",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_a.entitytemplate](geometry+[assembly:/_pro/items/geometry/ica/rubber_duck_a_grog.wl2?/rubber_duck_a_grog.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00EE0A797755C7D8",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchanneltransmitter_iactor.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550671,17 +550671,17 @@
   },
   {
     "hash": "003518FB94AAAFA5",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_stabbed.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "005AEF4CB7F2527B",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_dead_parrot.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00EF5B5BE7A86587",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_traps_runtimes.template?/prop_trap_food_soup_poisonable.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -550696,7 +550696,7 @@
   },
   {
     "hash": "00203236C2ADA274",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_guitar_pick_a.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -550711,12 +550711,12 @@
   },
   {
     "hash": "0010EDC5FCE4BF43",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/ar_ak74u_a/ar_ak74u_a_comic.wl2?/ar_ak74u_a_comic.linkedprim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00E83DAEBD8A3B80",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_souprecipe.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550731,7 +550731,7 @@
   },
   {
     "hash": "0007B0ABA15069EC",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_ringtreasure.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550751,7 +550751,7 @@
   },
   {
     "hash": "00B261B815C754AD",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_tooth.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550761,7 +550761,7 @@
   },
   {
     "hash": "003F88BD753FE8BA",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_rag_blood.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -550796,7 +550796,7 @@
   },
   {
     "hash": "00BBE25C057A83C9",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_rag_sweat.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -550806,7 +550806,7 @@
   },
   {
     "hash": "003B52ADC0CF7090",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoodoll_b.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550896,7 +550896,7 @@
   },
   {
     "hash": "0008870E4AE47E35",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_grog_voodoodoll.entitytemplate](itemart+[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoodoll_c.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550906,12 +550906,12 @@
   },
   {
     "hash": "00211F61E2E20434",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_grog_rumbottle_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "0025E106926025E0",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_killedbythrow.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550926,7 +550926,7 @@
   },
   {
     "hash": "002605CBECF5D22B",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_fps.prim](materials).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550941,7 +550941,7 @@
   },
   {
     "hash": "006A8FB4D8F5FAEA",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoodoll_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550966,17 +550966,17 @@
   },
   {
     "hash": "0015143ABBB80B59",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_tooth.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "00A0C959B1C66ED1",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_food_soup.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00DC49BE656A89F5",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/ar_ak47u_a.template?/ar_ak74u_a_rockstar.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -550991,12 +550991,12 @@
   },
   {
     "hash": "00411E7DAE6EB41A",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_grog_voodoodoll_c.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00AA9A15A62F3E0E",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_emeticgrenade_a_base.wl2?/vr_emeticgrenade_a_base.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551026,17 +551026,17 @@
   },
   {
     "hash": "00C55190CEE398D1",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/vr_laboratory_chloroform_a_body.wl2?/vr_laboratory_chloroform_a_body.linkedprim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A6CB90C62A90DE",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_explosives_runtimes.template?/vr_grenade_spoon_mkiii_a.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "00CD3074AC5DFA34",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpieces_grog_unique.template?/prop_gadget_lookingglass_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551066,7 +551066,7 @@
   },
   {
     "hash": "004958D263B6FA9B",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/tools/rockstar_pyro_a.wl2?/rockstar_pyro_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551101,7 +551101,7 @@
   },
   {
     "hash": "00D0A7CEE66CCB95",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_interaction_manipulatewithitem.entitytemplate](indicator+[assembly:/_pro/items/geometry/melee/kitchen_knife_b.wl2?/kitchenknife_b.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551141,7 +551141,7 @@
   },
   {
     "hash": "0028AA44E0C366F0",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/items/geometry/quest/grog_rum_bottles.wl2?/grog_bottle_rum.linkedprim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551231,7 +551231,7 @@
   },
   {
     "hash": "0023FEB7D4B63910",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/gadget/gadgets.template?/itemart_rockstar_pyro_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551241,7 +551241,7 @@
   },
   {
     "hash": "00C7EBF2746A021E",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/vr_grenade_pin_mkiii_a.wl2?/vr_grenade_pin_mkiii_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551341,7 +551341,7 @@
   },
   {
     "hash": "00A33BA0E2020781",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_soup_recipe.wl2?/grog_soup_recipe_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551351,7 +551351,7 @@
   },
   {
     "hash": "00A53B972AB53EA1",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_canvas_parrot.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551386,12 +551386,12 @@
   },
   {
     "hash": "00C1C18D02A8FC16",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/sculptures/grog_human_skeleton_pieces_dynamic.wl2?/grog_human_skeleton_hand_right.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006505E3F7C3CC4C",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_grog_voodoodoll.entitytemplate](itemart+[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoodoll_a.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551411,7 +551411,7 @@
   },
   {
     "hash": "00765252EB38402F",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_giant_diamond_ring.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551421,7 +551421,7 @@
   },
   {
     "hash": "00248ADC8A5200F5",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/rockstar_guitar_a.wl2?/rockstar_guitar_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551431,7 +551431,7 @@
   },
   {
     "hash": "00DDC65D5BAEE517",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_rings.wl2?/ring_grog_diamond.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551451,7 +551451,7 @@
   },
   {
     "hash": "00F481943A90AF4B",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_top.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551461,7 +551461,7 @@
   },
   {
     "hash": "00BA7B48DFDC278C",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_gadgets_runtimes.template?/prop_gadget_rockstar_pyro_a_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551491,7 +551491,7 @@
   },
   {
     "hash": "009B308556A66A5E",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/tools/rockstar_pick_a.wl2?/guitar_pick_a.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551516,12 +551516,12 @@
   },
   {
     "hash": "00A367594386D35D",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_prop_tool_grog_lookingglass_aiming.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00D5C47FE69C272B",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_full.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551531,12 +551531,12 @@
   },
   {
     "hash": "008F023EEF83E302",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/vr_grenade_spoon_mkiii_a.wl2?/vr_grenade_spoon_mkiii_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006897C64DA9D392",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_grog_voodoodoll_b.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551546,7 +551546,7 @@
   },
   {
     "hash": "00202AC8F51C9F6D",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/tools/coin_a.template?/itemart_guitar_pick_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551561,7 +551561,7 @@
   },
   {
     "hash": "00A5CDF4722562A9",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_spyglass_b_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551581,7 +551581,7 @@
   },
   {
     "hash": "004DDD73A3E706F1",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_dyingbreath.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551596,7 +551596,7 @@
   },
   {
     "hash": "00B2D402167528FE",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_tooth.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551606,7 +551606,7 @@
   },
   {
     "hash": "0073EAE0E3183D28",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_middle.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551621,7 +551621,7 @@
   },
   {
     "hash": "00EF2A76E6329FFC",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_skeleton_hand.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551671,7 +551671,7 @@
   },
   {
     "hash": "0064818B47910149",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_rag_tears.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551681,7 +551681,7 @@
   },
   {
     "hash": "005702E75755DE60",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_burned.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551691,7 +551691,7 @@
   },
   {
     "hash": "0033C666D45E7D6F",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_grog_voodoodoll_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551716,12 +551716,12 @@
   },
   {
     "hash": "00A0850235FE26AC",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_wig.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008BD6790B5818A0",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_cowboy_hat.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551731,7 +551731,7 @@
   },
   {
     "hash": "00C968ED06C7B7D6",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/ar_ak47u_a.template?/ar_ak74u_clip_rockstar_empty.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551746,7 +551746,7 @@
   },
   {
     "hash": "00B4C9F430655D44",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_drumstick_rockstar.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551766,7 +551766,7 @@
   },
   {
     "hash": "00DE7C0CAC3B3885",
-    "path": "",
+    "path": "[assembly:/_pro/effects/templates/smoke/fx_steam.template?/fx_voodoo_bigstab.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551791,12 +551791,12 @@
   },
   {
     "hash": "006EA89F0E15828C",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/entityeventchannelreceiver_iactor.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00E5FE3610CCC686",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/voodoo_doll_a.wl2?/voodoo_doll_a_dynamic.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551811,12 +551811,12 @@
   },
   {
     "hash": "0019DE515297FE56",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_plastic_diamond_ring.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A960EDA48100C2",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_skeletonhand.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551831,7 +551831,7 @@
   },
   {
     "hash": "00E28EDF9C35AD8E",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_grog_voodoodoll.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551851,12 +551851,12 @@
   },
   {
     "hash": "00B03E7271B0A2EE",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_napkin.wl2?/grog_napkin_sweat_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C0A3BFD23A4797",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keywordkeys.template?/keyword_key_grog_targethut_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551881,17 +551881,17 @@
   },
   {
     "hash": "002ED4937EB173DC",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoodoll.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0044BCF0C38D3BDF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/general/geometry/general_hats.wl2?/hat_bombadier_cowboy.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "007535762DADFB5E",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_treasuremapparts_b_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551911,7 +551911,7 @@
   },
   {
     "hash": "009B110961BF1BEB",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/voodoo_doll_a.wl2?/voodoo_doll_c_dynamic.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551926,7 +551926,7 @@
   },
   {
     "hash": "002CD5149825EB29",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/deatheffects.template?/deathanimstand_drowning.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -551936,7 +551936,7 @@
   },
   {
     "hash": "00168591520B6F7E",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/pirate_telescope.template?/itemart_pirate_telescope_bottom.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -551991,7 +551991,7 @@
   },
   {
     "hash": "004ADA4ECE03F49D",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_rockstar_guitar_a.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552011,7 +552011,7 @@
   },
   {
     "hash": "001F4DBE458B4924",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_rumbottle_b.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552021,7 +552021,7 @@
   },
   {
     "hash": "003926934B75E630",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_top.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552056,7 +552056,7 @@
   },
   {
     "hash": "00669C3AF4418F6F",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_voodoo_doll_pamphlet.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552081,7 +552081,7 @@
   },
   {
     "hash": "009C4AEC6BDB419C",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/flag_folded.wl2?/pirate_flag_folded_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552106,12 +552106,12 @@
   },
   {
     "hash": "00B639D39913E430",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_grog_voodoodoll_c.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "007A56B3B2C3026E",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_jar_dying_breath.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552131,42 +552131,42 @@
   },
   {
     "hash": "00B22B2D1E44E8E0",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/rockstar_guitar_a.wl2?/rockstar_guitar_a.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001985408AE25B26",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_grog_voodoodoll_a.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "006BE2F7C06256D0",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/tools/coin_a.template?/itemart_coin_firegoat_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00901153B259DD9F",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/poison/vr_emeticgrenade_a_button.wl2?/vr_emeticgrenade_a_button.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00CB557AFC7BD539",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_questitem_grog_pirate_flag.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "00F355850A4DC947",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_napkin_blood.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008D4DD25EDA84E3",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/ica/rubber_duck_a.template?/itemart_rubber_duck_grog_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C53403D352316F",
-    "path": "",
+    "path": "[assembly:/_pro/effects/templates/smoke/fx_steam.template?/fx_e_voodoodollsmoke.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552206,12 +552206,12 @@
   },
   {
     "hash": "007B607C795F9C8A",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_spyglass_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0012EB6292118B7C",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_treasuremap_c.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552251,12 +552251,12 @@
   },
   {
     "hash": "007E72B53591B99B",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_voodoo_pamphlet.wl2?/grog_voodoo_pamphlet_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00555BA0EE487FE0",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_keys_runtimes.template?/prop_key_grog_targethuta_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552286,7 +552286,7 @@
   },
   {
     "hash": "0040C107EDA9AAFD",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_rag_sweat.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552331,12 +552331,12 @@
   },
   {
     "hash": "00AEE86C118CCE29",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_treasuremap_b.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0002CC20EEE0D5F5",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_actor.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552356,7 +552356,7 @@
   },
   {
     "hash": "0001738E5C12C3B2",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_skeleton_hand.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552366,7 +552366,7 @@
   },
   {
     "hash": "0084138882BFF62D",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_voodoodoll.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552391,7 +552391,7 @@
   },
   {
     "hash": "00503CE444BB0D88",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_pacifiedbythrow.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552431,7 +552431,7 @@
   },
   {
     "hash": "00CBDC92B92988F2",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_rag_blood.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552441,7 +552441,7 @@
   },
   {
     "hash": "00D58D7D142C1048",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/firearms/ar_ak47u_a.template?/ar_ak74u_clip_rockstar_empty.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552476,7 +552476,7 @@
   },
   {
     "hash": "009FC8352FD7CB55",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_napkin.wl2?/grog_napkin_blood_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552491,7 +552491,7 @@
   },
   {
     "hash": "00F92DED4F5F3A2E",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_canvas_parrot.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552516,7 +552516,7 @@
   },
   {
     "hash": "003FD80679ACA1C8",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/poison/vr_emeticgrenade_a_base.wl2?/vr_emeticgrenade_a_base.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552526,7 +552526,7 @@
   },
   {
     "hash": "0031F8A322359A81",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/tools/coin_stacked_uv_a.wl2?/coin_stacked_uv_a.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552556,17 +552556,17 @@
   },
   {
     "hash": "00F779994916A7C1",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_rum_bottles.wl2?/grog_bottle_xxx.linkedprim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00343D1B18CDE1AD",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_treasuremap_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "009F2697EFAE8D9A",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_napkin_sweat.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552581,12 +552581,12 @@
   },
   {
     "hash": "00B2EECBA2BBC263",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_napkin_tears.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "001EE6EF26B4855C",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_plastic_diamond_ring.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552601,27 +552601,27 @@
   },
   {
     "hash": "00D5FF851DE4E6C5",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_orange_grog_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C12C4C3527F2CD",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_rockstar_guitar_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0017A912147674DB",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/melee.template?/itemart_rumbottle_a.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00317B7F50BF22F3",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/pirate_telescope.template?/itemart_pirate_telescope_middle.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0021AF7AE7FF12C8",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/vr_grenade_fuze_mkiii_a.wl2?/vr_grenade_fuze_mkiii_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552631,7 +552631,7 @@
   },
   {
     "hash": "00394E8B349D99D7",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_soup_recipe.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552641,7 +552641,7 @@
   },
   {
     "hash": "00B07318180E55D5",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_stabbed.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552661,7 +552661,7 @@
   },
   {
     "hash": "00348FB675EA6BF9",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/voodoo_doll_a.wl2?/voodoo_doll_generic_dynamic.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552671,7 +552671,7 @@
   },
   {
     "hash": "007FE969422945DC",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/pirate_telescope.template?/itemart_pirate_telescope_top.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552686,22 +552686,22 @@
   },
   {
     "hash": "00D90934D8B74CC8",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_spyglass_b.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0061A50D37969110",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/tools/coin_stacked_uv_a.wl2?/coin_stacked_uv_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0011CA828005D403",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_napkin.wl2?/grog_napkin_tears_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "006C8E0C3D1D1DDF",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/orange_grog_a.wl2?/orange_grog_a.linkedprim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552716,7 +552716,7 @@
   },
   {
     "hash": "00C4ADFED5F47185",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_spyglass_a_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552726,22 +552726,22 @@
   },
   {
     "hash": "00FFCF83E3A7DB38",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_wig.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "00CE308030E17B43",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_grog_lookingglass.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0010A141D15AC111",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_crowbar_candycane_a.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "00E3778B1D52456C",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_rag_tears.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552776,7 +552776,7 @@
   },
   {
     "hash": "00174E3ADB7A27EE",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_exploded.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552786,7 +552786,7 @@
   },
   {
     "hash": "0060D327F3CA370C",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_pirate_flag.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552841,7 +552841,7 @@
   },
   {
     "hash": "00B0F684CB8EAEFA",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/animals/parrot_macaw_a/parrot_macaw_a.wl2?/parrot_macaw_a_dead.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552851,12 +552851,12 @@
   },
   {
     "hash": "00E2A04813C7F515",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_treasuremapparts_a_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "006F5C65DB4E5099",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_grog_voodoodoll_b.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552876,7 +552876,7 @@
   },
   {
     "hash": "006EB6B0EE8290BE",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_explosive_rum_bottle_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552886,7 +552886,7 @@
   },
   {
     "hash": "0075402D6CA7F5F8",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_treasuremapparts_c_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552906,7 +552906,7 @@
   },
   {
     "hash": "00598ED4C269D136",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_bottom.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552931,12 +552931,12 @@
   },
   {
     "hash": "008B78ECA1814D64",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/melee/tools.template?/itemart_xmas_crowbar_b.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C0831701F174F3",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/tools/rockstar_pyro_a.wl2?/rockstar_pyro_a.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552951,7 +552951,7 @@
   },
   {
     "hash": "00CEFEB11776652D",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_device_ica_modular_runtimes.template?/prop_device_ica_grog_rubberduck_proximity_explosive.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -552971,7 +552971,7 @@
   },
   {
     "hash": "00B6C699E3BAFD43",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_canvas dead_parrot.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -552991,12 +552991,12 @@
   },
   {
     "hash": "0098132AC73B8E76",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_hatbombadier.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00428EFCE0101A6E",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_drowned.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553011,7 +553011,7 @@
   },
   {
     "hash": "00D61C455BB5B1C4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/lamps/lamp_palace_street_a.wl2?/roof_spike_a.prim](materials).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553026,12 +553026,12 @@
   },
   {
     "hash": "00C68947EA4B42C4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/geometry/props/paintings/paintings_grog.wl2?/painting_grog_parrot_macaw_a_canvas_rolled.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00BEAD7D7EAEF945",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_tooth.wl2?/grog_tooth_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553056,7 +553056,7 @@
   },
   {
     "hash": "00DCEF2D96F66E60",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_explosives_runtimes.template?/vr_grenade_pin_mkiii_a.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -553116,7 +553116,7 @@
   },
   {
     "hash": "00BD12CD9484C11A",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_spyglass_c.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553136,12 +553136,12 @@
   },
   {
     "hash": "00561696DDD2811A",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_orange.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00A55F7E18E779B7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/_apparel/female/accessories/geometry/fem_reg_wig.wl2?/hair_m_straightbob_wig.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553156,12 +553156,12 @@
   },
   {
     "hash": "00588ABF77EADEF8",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_pacifiedbythrow.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "002E04977D40A707",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_voodoo_doll_pamphlet.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553191,12 +553191,12 @@
   },
   {
     "hash": "001592BC85C5307F",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/tools/rockstar_pick_a.wl2?/guitar_pick_a.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "009D75A07E58021E",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoodoll_c.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553216,7 +553216,7 @@
   },
   {
     "hash": "001DCBD654D04597",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_electrocuted.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553231,7 +553231,7 @@
   },
   {
     "hash": "00E2EACBDFCBB8E7",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_getactor.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553241,7 +553241,7 @@
   },
   {
     "hash": "002DF42A4293371E",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_wig.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553256,7 +553256,7 @@
   },
   {
     "hash": "00D7501910F6F2A6",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_rings.wl2?/ring_grog_plastic.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553266,7 +553266,7 @@
   },
   {
     "hash": "00C7C0FDE868529D",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_burned.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553286,7 +553286,7 @@
   },
   {
     "hash": "001BD3F19C78ED07",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_electrocuted.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553296,7 +553296,7 @@
   },
   {
     "hash": "002D54FCB1D8E40E",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_rum_bottle.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553306,7 +553306,7 @@
   },
   {
     "hash": "00A717578FD1E6F5",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_shot.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553326,7 +553326,7 @@
   },
   {
     "hash": "00DC6A6378185398",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/vrhelpers.template?/vrhelper_interpolationindicator.entitytemplate](indicator+[assembly:/_pro/items/geometry/melee/kitchen_knife_b.wl2?/kitchenknife_b.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553336,12 +553336,12 @@
   },
   {
     "hash": "00663307FE0C93D8",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/vr_insecticidebottle_a_body.wl2?/vr_insecticidebottle_a_body.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0011264BDF756AD1",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_bottom.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553361,7 +553361,7 @@
   },
   {
     "hash": "00F15651109592A2",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_setactor.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553376,12 +553376,12 @@
   },
   {
     "hash": "00B3B503C2C3371C",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00562404FC3BAB0F",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_drowned.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553391,7 +553391,7 @@
   },
   {
     "hash": "00506AE00AD8B8D3",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_pirateflag.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553426,12 +553426,12 @@
   },
   {
     "hash": "0092D8EE06E87724",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/voodoo_doll_a.wl2?/voodoo_doll_b_dynamic.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0053192173C9CBDF",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_giant_diamond_ring.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553446,7 +553446,7 @@
   },
   {
     "hash": "00D1BD63DBB02E37",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_spiked_gunpowder.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -553481,7 +553481,7 @@
   },
   {
     "hash": "0009968FDE04C638",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_explosive_rum_bottle.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553491,7 +553491,7 @@
   },
   {
     "hash": "00B144FF2B52AA32",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_getvoodoodoll.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553521,12 +553521,12 @@
   },
   {
     "hash": "00F6D70E3A646A87",
-    "path": "",
+    "path": "[assembly:/_pro/effects/templates/misc/fx_leaves.template?/fx_e_voodoo_doll_hay.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0097A9946E8352EC",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_drumstick_rockstar.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -553536,7 +553536,7 @@
   },
   {
     "hash": "00A1441D0BFEDBA8",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/firearm_runtimes.template?/firearms_hero_assaultrifle_ak74_rockstar_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -553546,7 +553546,7 @@
   },
   {
     "hash": "00C26F1C9D3FE047",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/items/geometry/melee/vr_laboratory_chloroform_a_body.wl2?/vr_laboratory_chloroform_a_body.linkedprim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553586,7 +553586,7 @@
   },
   {
     "hash": "0079D7D8521D33C5",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_jar_of_dying_breath.wl2?/grog_jar_of_dying_breath_a.linkedprim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553601,7 +553601,7 @@
   },
   {
     "hash": "00D548E2C8E57866",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base_destruction.entitytemplate](geometry+[assembly:/_pro/items/geometry/quest/grog_rum_bottles.wl2?/grog_bottle_xxx.linkedprim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553631,7 +553631,7 @@
   },
   {
     "hash": "004FD362E445B916",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_ringfake.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553641,7 +553641,7 @@
   },
   {
     "hash": "009224AE2E0E928A",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_dead_parrot.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -553651,12 +553651,12 @@
   },
   {
     "hash": "00ADE7F43ED01CA2",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoopamphlet.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00371419DFD29653",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_spyglass_c_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -553666,12 +553666,12 @@
   },
   {
     "hash": "008A4520B4C42A02",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_spiked_gunpowder_bag.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "0009C435B07F365F",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_dead_parrot.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553746,7 +553746,7 @@
   },
   {
     "hash": "009C5C0575568F8C",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/ica/rubber_duck_a_grog.wl2?/rubber_duck_a_grog.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553771,7 +553771,7 @@
   },
   {
     "hash": "006E91CC66344ABD",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_grog_voodoodoll.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553831,7 +553831,7 @@
   },
   {
     "hash": "00CEDC61A771FC42",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/firearms/frames/ar_ak74u_a/ar_ak74u_a_comic.wl2?/ar_ak74u_clip_comic_empty.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553871,7 +553871,7 @@
   },
   {
     "hash": "003C35E9E42A1466",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_grog_voodoodoll.entitytemplate](itemart+[assembly:/_pro/items/templates/quest/grog_et.template?/itemart_voodoodoll_b.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553921,7 +553921,7 @@
   },
   {
     "hash": "00BE279E6B69057F",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/quest/grog_rum_bottles.wl2?/grog_bottle_rum.linkedprim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553946,17 +553946,17 @@
   },
   {
     "hash": "00D1500419546883",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_plate_soup.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "008ADDA16D88D796",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_exploded.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "004C5595604AF24E",
-    "path": "",
+    "path": "[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/itemhelper_grog_voodoodoll_eventtransmitter.entitytemplate](tokenid+[assembly:/_pro/design/setpieces/unique/setpiecehelpers_grog_unique.template?/tokenid_grog_voodoodoll_shot.entitytemplate].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -553981,7 +553981,7 @@
   },
   {
     "hash": "007AD593E6C85B08",
-    "path": "",
+    "path": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_questitem_grog_cowboy_hat.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -554026,7 +554026,7 @@
   },
   {
     "hash": "00E3EF6516D69657",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_ornate_hook.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -554036,7 +554036,7 @@
   },
   {
     "hash": "000EEC19CE7E919F",
-    "path": "",
+    "path": "[assembly:/_pro/items/geometry/melee/vr_laboratory_chloroform_a_cap.wl2?/vr_laboratory_chloroform_a_cap.prim].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -554061,7 +554061,7 @@
   },
   {
     "hash": "00307CFA4555B6E5",
-    "path": "",
+    "path": "[assembly:/_pro/design/logic.template?/random_vector3.entitytemplate].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -554101,7 +554101,7 @@
   },
   {
     "hash": "0098DE93AC011248",
-    "path": "",
+    "path": "[assembly:/_pro/items/templates/itemartbase.template?/itemart_base.entitytemplate](geometry+[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_middle.prim].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -554126,17 +554126,17 @@
   },
   {
     "hash": "00961B56040BBD9D",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_questitems_runtimes.template?/prop_et_questitem_grog_soup_recipe.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "00AFCE1ED3741ED6",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/prop_melee_orange_runtime.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
     "hash": "000195B7C2FF3E3B",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_tools_runtimes.template?/prop_tool_coin_firegoat_a.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {
@@ -554156,7 +554156,7 @@
   },
   {
     "hash": "00B5C59CAF3C71C1",
-    "path": "",
+    "path": "[assembly:/_pro/design/items/prop_melee_runtimes.template?/vr_chloroform_flask_cap_clip.entitytemplate].pc_entitytemplate",
     "gameFlags": 8
   },
   {

@@ -761,17 +761,17 @@
   },
   {
     "hash": "004FED01721B930B",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/rocky/scene_rambutan_level2.entity].pc_preload",
     "gameFlags": 8
   },
   {
     "hash": "001405E12EEC2EC5",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/wet/scene_wet_gladiolus.entity].pc_preload",
     "gameFlags": 8
   },
   {
     "hash": "00CE8C3C95C1CA65",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/rocky/scene_grog.entity].pc_preload",
     "gameFlags": 8
   }
 ]

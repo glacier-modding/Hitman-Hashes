@@ -139422,7 +139422,7 @@
   },
   {
     "hash": "002F8AB43F878E1C",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/item_events/item_voodoo_doll/item_voodoo_doll_throw_sweetner.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {
@@ -139437,7 +139437,7 @@
   },
   {
     "hash": "00C7BA62F01BE2D2",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/effects/sfx_unique/grog_voodoo_doll/play_grog_unique_voodoo_fire.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {
@@ -139457,7 +139457,7 @@
   },
   {
     "hash": "00C0954FCFCDF41C",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/effects/sfx_unique/grog_voodoo_doll/play_grog_unique_voodoo_electricity.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {
@@ -139472,12 +139472,12 @@
   },
   {
     "hash": "00B9DE9498248C8C",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/props_events/setpieces/traps/setpiece_trap_cannon_museum_a/play_museumcanon_fakeshot_01.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {
     "hash": "00D84B56E8C1BDC8",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/effects/sfx_fireworks/fireworks_rocketliftoff_si6076_13_01_play_01.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {
@@ -139517,7 +139517,7 @@
   },
   {
     "hash": "00E5F379FE3A1EB2",
-    "path": "",
+    "path": "[assembly:/sound/wwise/exportedwwisedata/events/effects/sfx_unique/grog_voodoo_doll/play_grog_unique_voodoo_burst.wwiseevent].pc_wwisebank",
     "gameFlags": 8
   },
   {

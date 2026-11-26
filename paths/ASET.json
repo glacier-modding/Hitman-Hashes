@@ -70716,7 +70716,7 @@
   },
   {
     "hash": "00545BD5A17C0AFB",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[assembly:/_pro/items/geometry/quest/pirate_telescope_a.wl2?/pirate_telescope_fps.mat].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70736,7 +70736,7 @@
   },
   {
     "hash": "006D07A5F7228177",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([modules:/zgeomentity.class].entitytype,[modules:/zstaticphysicsaspect.class].entitytype,[modules:/zcollisionresourceshapeaspect.class].entitytype,[assembly:/_pro/environment/geometry/props/lamps/lamp_palace_street_a.wl2?/roof_spike_a.mat].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {

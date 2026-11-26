@@ -97661,17 +97661,17 @@
   },
   {
     "hash": "008062496A977865",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/melee/rockstar_guitar_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00EA5A51B52C8E55",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/sculptures/grog_human_skeleton_pieces.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "008ABE12642CA92A",
-    "path": "",
+    "path": "[assembly:/_pro/effects/materials/misc/fx_voodoospike.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97681,7 +97681,7 @@
   },
   {
     "hash": "004B0D92EE2D548E",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/animals/parrot_macaw_a/materials/parrot_macaw_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97691,7 +97691,7 @@
   },
   {
     "hash": "00BD38D1C50F12CB",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/misc/guitar_pick_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97706,7 +97706,7 @@
   },
   {
     "hash": "005CF2A065B53199",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/ar_npc_shashka_a33/ar_npc_shashka_a33_a_hero_clip_a_comic.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97841,7 +97841,7 @@
   },
   {
     "hash": "00F7A595CC5C2CDA",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/pirate_telescope_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97921,22 +97921,22 @@
   },
   {
     "hash": "00A54FDDEDE199C0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/food/grog_jar_of_dying_breath_a_glass.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00C9E1704AB3E330",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_voodoo_pamphlet.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "00FE0666ECF68F83",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/grog/bombadier/materials/male_reg_bombadier_cowboyhat.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "0029530F3418B2E7",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/tools/distraction_coin_firegoat_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -97946,7 +97946,7 @@
   },
   {
     "hash": "00B26548969EBBE2",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_ring_plastic_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98001,7 +98001,7 @@
   },
   {
     "hash": "00164E8D5F72CE2A",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_rum_bottle_labels.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98036,7 +98036,7 @@
   },
   {
     "hash": "00F49081F427D7C5",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_ring_diamond_fake_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98056,7 +98056,7 @@
   },
   {
     "hash": "007AD63D586F8BF3",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/vr_insecticidebottle_a_liquid.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98066,12 +98066,12 @@
   },
   {
     "hash": "00A5F75E79C85B27",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_tooth_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
     "hash": "004206ECE0AEAEAE",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/paintings/painting_grog_parrot_macaw_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98096,7 +98096,7 @@
   },
   {
     "hash": "00BE7C026AF337EA",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_jar_of_dying_breath_label.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98106,7 +98106,7 @@
   },
   {
     "hash": "00FE3EE3182C7904",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_soup_recipe.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98141,7 +98141,7 @@
   },
   {
     "hash": "001CE12D9701738C",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_ring_diamond_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98176,7 +98176,7 @@
   },
   {
     "hash": "00ABAC6126C3E156",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/frames/ar_ak74u_a/ar_ak74u_a_comic.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98186,7 +98186,7 @@
   },
   {
     "hash": "0062833621382F7D",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_napkin_blood.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98196,7 +98196,7 @@
   },
   {
     "hash": "0034A7198893D0B4",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_napkin_tears.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98206,7 +98206,7 @@
   },
   {
     "hash": "009D279313065A09",
-    "path": "",
+    "path": "[assembly:/_pro/environment/materials/props/accessories/matches_great_balls_of_fire.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98221,7 +98221,7 @@
   },
   {
     "hash": "004A2902CE7FD217",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/voodoo_doll_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98286,7 +98286,7 @@
   },
   {
     "hash": "00590D32F52A6E88",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/gadget/rockstar_pyro_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98306,7 +98306,7 @@
   },
   {
     "hash": "00CC5D99DF985658",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/firearms/accessories/scopes/xhairs/xhair_grog_a.mi].pc_mi",
     "gameFlags": 8
   },
   {
@@ -98371,7 +98371,7 @@
   },
   {
     "hash": "0000D356DE81DC2C",
-    "path": "",
+    "path": "[assembly:/_pro/items/materials/quest/grog_napkin_sweat.mi].pc_mi",
     "gameFlags": 8
   },
   {

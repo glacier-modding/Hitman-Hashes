@@ -255733,7 +255733,7 @@
   },
   {
     "hash": "002D0AA7AAD7D359",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/tears_diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255743,7 +255743,7 @@
   },
   {
     "hash": "00B12729990CB974",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_ring_diamond.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255773,7 +255773,7 @@
   },
   {
     "hash": "00975D6EFE5509B5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_npc_shashka_a33_a/ar_npc_shashka_a33_hero/ar_npc_shashka_a33_a_hero_clip_a_comic.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255798,7 +255798,7 @@
   },
   {
     "hash": "00DDE2D7F5388407",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/accessories/matches_great_balls_of_fire.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255818,7 +255818,7 @@
   },
   {
     "hash": "00BFF3CBC0FADD73",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/coin_firegoat_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255853,7 +255853,7 @@
   },
   {
     "hash": "0053ADB195D60CAE",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_npc_shashka_a33_a/ar_npc_shashka_a33_hero/ar_npc_shashka_a33_a_hero_clip_a_rockstar.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255868,7 +255868,7 @@
   },
   {
     "hash": "00826EC5534832DB",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_ak74u_a/ar_ak74u_a_rockstar.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255893,12 +255893,12 @@
   },
   {
     "hash": "00D9546FA8D80128",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_npc_shashka_a33_a/ar_npc_shashka_a33_hero/ar_npc_shashka_a33_a_hero_clip_a_comic.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00DD8A344BFE7EE8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/blood_specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255928,7 +255928,7 @@
   },
   {
     "hash": "009B4CA7313BA2B7",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_npc_shashka_a33_a/ar_npc_shashka_a33_hero/ar_npc_shashka_a33_a_hero_clip_a_rockstar.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -255963,12 +255963,12 @@
   },
   {
     "hash": "004C13DFD9246ADE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/animals/parrot_macaw_a/textures/parrot_macaw_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00954221D02D4856",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_rum_bottle_labels.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256003,7 +256003,7 @@
   },
   {
     "hash": "00D28EE0A481CB58",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_tooth_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256013,7 +256013,7 @@
   },
   {
     "hash": "000B20F691114F4B",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/voodoo_doll_a.texture?/diffuse_c.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256048,7 +256048,7 @@
   },
   {
     "hash": "00A5F791645CED58",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/blood_normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256088,7 +256088,7 @@
   },
   {
     "hash": "00EE1F9E39B48571",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_soup_recipe.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256123,7 +256123,7 @@
   },
   {
     "hash": "0060534E52BFB613",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/voodoo_doll_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256168,7 +256168,7 @@
   },
   {
     "hash": "0047F54327F19AC7",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/grog/bombadier/textures/male_reg_bombadier_cowboy_hat.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256178,7 +256178,7 @@
   },
   {
     "hash": "0046B1203626A0F0",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/painting_grog_parrot_macaw_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256208,7 +256208,7 @@
   },
   {
     "hash": "004DFB32A16387B1",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_ak74u_a/ar_ak74u_a_rockstar.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256218,7 +256218,7 @@
   },
   {
     "hash": "00591300C5C1DF88",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/drumstick_a.texture?/specular_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256258,7 +256258,7 @@
   },
   {
     "hash": "009E38EE02364699",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/pirate_telescope_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256343,7 +256343,7 @@
   },
   {
     "hash": "0031C8903EFE6632",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/rockstar_guitar_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256398,7 +256398,7 @@
   },
   {
     "hash": "00C4496E2B592962",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/voodoo_doll_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256413,7 +256413,7 @@
   },
   {
     "hash": "00CAC4C6003CCABD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_npc_shashka_a33_a/ar_npc_shashka_a33_hero/ar_npc_shashka_a33_a_hero_clip_a_rockstar.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256423,12 +256423,12 @@
   },
   {
     "hash": "00E5BB809CB84E0A",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/painting_grog_parrot_macaw_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "0086A38A93D2B30C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/voodoo_doll_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256468,7 +256468,7 @@
   },
   {
     "hash": "00794D8003A78029",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/accessories/matches_great_balls_of_fire.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256488,7 +256488,7 @@
   },
   {
     "hash": "0098DC4EEDA0B9B2",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/rockstar_pyro_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256498,7 +256498,7 @@
   },
   {
     "hash": "00DF0035A6638945",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/sweat_specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256543,7 +256543,7 @@
   },
   {
     "hash": "000CFE1C90A1DEE4",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/accessories/matches_great_balls_of_fire.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256578,7 +256578,7 @@
   },
   {
     "hash": "0081F0C0D26749CF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/grog/bombadier/textures/male_reg_bombadier_cowboy_hat.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256588,7 +256588,7 @@
   },
   {
     "hash": "0083709A2C377BF8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/rockstar_pick_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256623,7 +256623,7 @@
   },
   {
     "hash": "0026247144296AA7",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/decorative/painting_grog_parrot_macaw_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256653,7 +256653,7 @@
   },
   {
     "hash": "00B1E6D195CC64AE",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/rockstar_pick_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256703,22 +256703,22 @@
   },
   {
     "hash": "0010EC22F05334B8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/drumstick_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "006726EBC8B29700",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/grog_human_skeleton_pieces.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "002DAAE0E0FB24EE",
-    "path": "",
+    "path": "[assembly:/textures/characters/detailmaps/kevlar_01.texture?/normal.tex](ascompoundnormal).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "008DA19EF09E4502",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_jar_of_dying_breath_label.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256738,7 +256738,7 @@
   },
   {
     "hash": "00D47536F9441E23",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/tears_specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256753,7 +256753,7 @@
   },
   {
     "hash": "0039836A9AC7080A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_grog_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256768,7 +256768,7 @@
   },
   {
     "hash": "004E1E58D63694BD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_tooth_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256778,7 +256778,7 @@
   },
   {
     "hash": "00419F63ADC42A2F",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_tooth_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256793,7 +256793,7 @@
   },
   {
     "hash": "0034F0EB10DE0488",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/tears_normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256818,7 +256818,7 @@
   },
   {
     "hash": "00501823885E81D5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_rum_bottle_labels.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256888,7 +256888,7 @@
   },
   {
     "hash": "003F1A78DF1AAAE3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_jar_of_dying_breath_label.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256913,17 +256913,17 @@
   },
   {
     "hash": "00BB3010659FCDD1",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/coin_firegoat_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00C4D6648D6C088C",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/rockstar_pyro_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00463423C8AD3425",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_grog_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256963,12 +256963,12 @@
   },
   {
     "hash": "0081A6BC70AA327F",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_ak74u_a/ar_ak74u_a_comic.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "00703A6BCA52B64D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/voodoo_doll_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -256983,7 +256983,7 @@
   },
   {
     "hash": "00DC2BEB1F59875E",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/rockstar_pick_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257008,7 +257008,7 @@
   },
   {
     "hash": "00ED531BAE5C0E7D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/pirate_telescope_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257018,7 +257018,7 @@
   },
   {
     "hash": "00BED8A5039E75C7",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/sweat_normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257053,7 +257053,7 @@
   },
   {
     "hash": "0005854D1DACCF10",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/grog_human_skeleton_pieces.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257093,7 +257093,7 @@
   },
   {
     "hash": "00916A59BA2828BE",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/elusivetargets/grog/bombadier/textures/male_reg_bombadier_cowboy_hat.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257103,7 +257103,7 @@
   },
   {
     "hash": "0097F23E67FCABB5",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/pirate_telescope_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257118,7 +257118,7 @@
   },
   {
     "hash": "003BA3BDBC73D516",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_ring_plastic.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257128,7 +257128,7 @@
   },
   {
     "hash": "001CCA5DB5E7A4BC",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_ak74u_a/ar_ak74u_a_comic.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257148,7 +257148,7 @@
   },
   {
     "hash": "000D4291ADE0A582",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/ica/rubber_duck_grog_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257158,7 +257158,7 @@
   },
   {
     "hash": "00D362CECD5733E3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/rockstar_pyro_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257183,7 +257183,7 @@
   },
   {
     "hash": "006C35F259E54A0D",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_ring_plastic.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257198,7 +257198,7 @@
   },
   {
     "hash": "003EA1CEBAE65D58",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/rockstar_guitar_a.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257213,7 +257213,7 @@
   },
   {
     "hash": "00DD04A69204127A",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_npc_shashka_a33_a/ar_npc_shashka_a33_hero/ar_npc_shashka_a33_a_hero_clip_a_rockstar.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257223,7 +257223,7 @@
   },
   {
     "hash": "00A2E8C9BE9A3524",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_voodoo_pamphlet.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257238,12 +257238,12 @@
   },
   {
     "hash": "00D377203EC2CFFF",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_soup_recipe.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "001D94EDBF92CCA3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/blood_diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257253,7 +257253,7 @@
   },
   {
     "hash": "00F37A7E3D6D8E53",
-    "path": "",
+    "path": "[assembly:/_pro/environment/textures/props/sculptures/grog_human_skeleton_pieces.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257303,7 +257303,7 @@
   },
   {
     "hash": "004FECE91719C5B8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_voodoo_pamphlet.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257343,7 +257343,7 @@
   },
   {
     "hash": "009F008FF1300AAD",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_ring_diamond.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257378,7 +257378,7 @@
   },
   {
     "hash": "00181DD80D069DB8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_ring_plastic.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257458,7 +257458,7 @@
   },
   {
     "hash": "004E27E61BB6D24A",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/animals/parrot_macaw_a/textures/parrot_macaw_a.texture?/normal_a.tex](asnormalmap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257483,7 +257483,7 @@
   },
   {
     "hash": "0061D02C380DC5B9",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/tools/xmas_crowbar_a.texture?/diffuse_b.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257503,7 +257503,7 @@
   },
   {
     "hash": "00C7C5F9963F73BF",
-    "path": "",
+    "path": "[assembly:/_pro/characters/assets/animals/parrot_macaw_a/textures/parrot_macaw_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257513,7 +257513,7 @@
   },
   {
     "hash": "00315E8907FCE377",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_ak74u_a/ar_ak74u_a_rockstar.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257548,12 +257548,12 @@
   },
   {
     "hash": "00A81493AF1C26B3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_ak74u_a/ar_ak74u_a_rockstar.texture?/ao_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
     "hash": "0095CEE12B2AABA3",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/quest/grog_napkins.texture?/sweat_diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257593,7 +257593,7 @@
   },
   {
     "hash": "006D1E2E624E8BDE",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/firearms/frames/ar_npc_shashka_a33_a/ar_npc_shashka_a33_hero/ar_npc_shashka_a33_a_hero_clip_a_comic.texture?/diffuse_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {
@@ -257628,7 +257628,7 @@
   },
   {
     "hash": "00C6ADC95422E0F8",
-    "path": "",
+    "path": "[assembly:/_pro/items/textures/melee/rockstar_guitar_a.texture?/specular_a.tex](ascolormap).pc_mipblock1",
     "gameFlags": 8
   },
   {

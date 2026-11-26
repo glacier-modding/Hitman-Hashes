@@ -108611,7 +108611,7 @@
   },
   {
     "hash": "005B915C33DBEE4A",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/019_weapon actions/aim/hm_stand_idle_aim_poses_camera.xmd?/aim_up_mid_down_range_spyglas.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 8
   },
   {
@@ -108681,7 +108681,7 @@
   },
   {
     "hash": "003EED5C16EE1015",
-    "path": "",
+    "path": "[assembly:/animations/hitman01/movement/019_weapon actions/aim/hm_crouch_idle_aim_poses_camera.xmd?/crouchaim_up_mid_down_range_spyglas.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 8
   },
   {
@@ -108746,7 +108746,7 @@
   },
   {
     "hash": "00EECFFB7926780B",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/woa_grog/grog_hm_lip_stab_voodoodoll.xmd?/stab_voodoo_doll.xmdtake](assembly:/geometry/characters/_export_rigs/biped~~.xml).pc_animation",
     "gameFlags": 8
   },
   {
@@ -108851,7 +108851,7 @@
   },
   {
     "hash": "00701586902E5B40",
-    "path": "",
+    "path": "[assembly:/animations/world/levels/woa_grog/grog_hm_lip_stab_voodoodoll.xmd?/stab_voodoo_doll.xmdtake](cutsequence).pc_animation",
     "gameFlags": 8
   },
   {
