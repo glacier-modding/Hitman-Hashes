@@ -226,6 +226,10 @@
             {
                 "pin": "Enable",
                 "description": ""
+            },
+            {
+                "pin": "Abort",
+                "description": ""
             }
         ],
         "out": [
@@ -4080,6 +4084,10 @@
             },
             {
                 "pin": "Retrieve",
+                "description": ""
+            },
+            {
+                "pin": "1201785013",
                 "description": ""
             }
         ],
@@ -44474,6 +44482,29 @@
         "hash": "00AC1B8736AC7B5C",
         "path": "[modules:/zworldinventoryevents.class].pc_entitytype",
         "in": [],
+        "out": []
+    },
+    {
+        "hash": "00D725FBBBA5CD7C",
+        "path": "[modules:/zdontdrawinmaincameraaspect.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "00304CD307A7A634",
+        "path": "[modules:/zformattedintelentity.class].pc_entitytype",
+        "in": [],
+        "out": []
+    },
+    {
+        "hash": "005676681AE8A617",
+        "path": "[modules:/zherohidebackattacheditems.class].pc_entitytype",
+        "in": [
+            {
+                "pin": "SetVisible",
+                "description": ""
+            }
+        ],
         "out": []
     }
 ]
