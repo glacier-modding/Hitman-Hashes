@@ -306,12 +306,12 @@
   },
   {
     "hash": "00827ECB28C867C9",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/wet/scene_wet_lambic_scene.airg].pc_airg",
     "gameFlags": 8
   },
   {
     "hash": "0010196E42876C29",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/rocky/scene_grog_scene.airg].pc_airg",
     "gameFlags": 8
   }
 ]

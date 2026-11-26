@@ -70796,7 +70796,7 @@
   },
   {
     "hash": "0001B364946EC05A",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/scenes/missions/rocky/maps/scene_grog/scene_grog.swf?/scene_grog.f0.uic].entitytype,[modules:/zuicontrollayoutlegacyaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -70846,7 +70846,7 @@
   },
   {
     "hash": "00037C0B3D43C4AD",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/scenes/missions/rocky/maps/scene_grog/scene_grog.swf?/scene_grog.f2.uic].entitytype,[modules:/zuicontrollayoutlegacyaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -71041,7 +71041,7 @@
   },
   {
     "hash": "00537D5C96D83275",
-    "path": "",
+    "path": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/scenes/missions/rocky/maps/scene_grog/scene_grog.swf?/scene_grog.f1.uic].entitytype,[modules:/zuicontrollayoutlegacyaspect.class].entitytype).pc_entitytype",
     "gameFlags": 8
   },
   {

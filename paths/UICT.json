@@ -2416,17 +2416,17 @@
   },
   {
     "hash": "00BFD642F2650BC8",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_grog/scene_grog.swf?/scene_grog.f0.uic].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "002C07A12D862292",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_grog/scene_grog.swf?/scene_grog.f1.uic].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00926EA7C6923A6B",
-    "path": "",
+    "path": "[assembly:/_pro/scenes/missions/rocky/maps/scene_grog/scene_grog.swf?/scene_grog.f2.uic].pc_entitytype",
     "gameFlags": 8
   }
 ]

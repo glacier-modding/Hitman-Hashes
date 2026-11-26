@@ -14406,12 +14406,12 @@
   },
   {
     "hash": "00D76ADCD2E3C753",
-    "path": "",
+    "path": "[modules:/zuitextgetlocalized.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00C55EC6D64363E8",
-    "path": "",
+    "path": "[modules:/zvalueint_bools.class].pc_entitytype",
     "gameFlags": 8
   },
   {
@@ -14421,22 +14421,22 @@
   },
   {
     "hash": "005676681AE8A617",
-    "path": "",
+    "path": "[modules:/zherohidebackattacheditems.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "00D725FBBBA5CD7C",
-    "path": "",
+    "path": "[modules:/zdontdrawinmaincameraaspect.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "007C3A038C2110FD",
-    "path": "",
+    "path": "[modules:/zsignalgateentity_keyword.class].pc_entitytype",
     "gameFlags": 8
   },
   {
     "hash": "009B3657FB14ED96",
-    "path": "",
+    "path": "[modules:/zsignalbranchconditionalkeywordentity.class].pc_entitytype",
     "gameFlags": 8
   }
 ]
